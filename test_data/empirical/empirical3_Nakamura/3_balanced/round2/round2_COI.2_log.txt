@@ -1,0 +1,59 @@
+--- Command used ---
+prepDyn(input_file='test_data/empirical/empirical3_Nakamura/1_noPreprocessing/', input_format='fasta', MSA=False, output_file='test_data/empirical/empirical3_Nakamura/3_balanced/round2/', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25.0, del_inv=True, internal_method='semi', internal_column_ranges='all', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=2)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 123
+No. columns: 646
+Total no. nucleotides (A/C/G/T only): 77956 bp
+Total no. gaps (-): 1478
+Total no. IUPAC N: 24
+
+--- Step 2: Trimming (invariant columns) ---
+[]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 145
+Total '-' characters in fully missing partitions: 1333
+Combined total: 1478
+
+4356_microps: partition 0 (0–51, length 52) fully missing (all '-')
+4212_cerradensis: partition 0 (0–51, length 52) fully missing (all '-')
+2642_anataliasiasi: partition 0 (0–51, length 52) fully missing (all '-')
+4365_riveroi: partition 0 (0–51, length 52) fully missing (all '-')
+4395_riveroi: partition 0 (0–51, length 52) fully missing (all '-')
+2324_dutrai: partition 0 (0–51, length 52) fully missing (all '-')
+2335_novaisi: partition 0 (0–51, length 52) fully missing (all '-')
+4035_minutus_PARNAAM_PA: partition 0 (0–51, length 52) fully missing (all '-')
+delarivai: partition 0 (0–51, length 52) fully missing (all '-')
+cf_goughi: partition 0 (0–51, length 52) fully missing (all '-')
+3000_sp1_PauRosa_AM: partition 0 (0–51, length 52) fully missing (all '-')
+2994_sp1_PauRosa_AM: partition 0 (0–51, length 52) fully missing (all '-')
+4413_haraldschultzi: partition 0 (0–51, length 52) fully missing (all '-')
+2355_nahdereri: partition 0 (0–51, length 52) fully missing (all '-')
+2468_sp: partition 0 (0–51, length 52) fully missing (all '-')
+2692_parviceps_CO: partition 0 (0–51, length 52) fully missing (all '-')
+4205_haddadi_Camacan_BA: partition 0 (0–51, length 52) fully missing (all '-')
+2983_sen_Jussari_BA: partition 0 (0–51, length 52) fully missing (all '-')
+X_truncata_GB: partition 4 (602–649, length 48) fully missing (all '-')
+2789_microcephalus_CO: partition 2 (437–509, length 73) fully missing (all '-')
+2789_microcephalus_CO: partition 3 (511–600, length 90) fully missing (all '-')
+2789_microcephalus_CO: partition 4 (602–649, length 48) fully missing (all '-')
+Sph_dorisae_GB: partition 3 (511–600, length 90) fully missing (all '-')
+Sph_dorisae_GB: partition 4 (602–649, length 48) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=2)
+Columns with '#' inserted: [52, 436, 510, 601]
+
+--- Summary after preprocessing ---
+No. sequences: 123
+No. columns: 650
+No. pound sign columns (#): 4
+Total no. nucleotides (A/C/G/T): 77956 bp
+Total no. gaps (-): 1333
+Total no. IUPAC N: 24
+Total no. missing values (?): 1478
+
+--- Run time ---
+Wall-clock time: 0.24191499 seconds
+CPU time: 0.24175400 seconds

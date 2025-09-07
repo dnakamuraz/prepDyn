@@ -1,0 +1,35 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical3_Nakamura/1_noPreprocessing/', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical3_Nakamura/2_noPartitioning/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_round=0)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 249
+No. columns: 2653
+Total no. nucleotides (A/C/G/T only): 499081 bp
+Total no. gaps (-): 160942
+Total no. IUPAC N: 528
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 2, 3]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 112595
+Total '-' characters in fully missing partitions: 0
+Combined total: 112595
+
+
+
+--- Step 4: Partitioning ---
+No partitioning method was specified.
+
+--- Summary after preprocessing ---
+No. sequences: 249
+No. columns: 2649
+No. pound sign columns (#): 0
+Total no. nucleotides (A/C/G/T): 498354 bp
+Total no. gaps (-): 48078
+Total no. IUPAC N: 528
+Total no. missing values (?): 112595
+
+--- Run time ---
+Wall-clock time: 2.17019701 seconds
+CPU time: 2.08332500 seconds

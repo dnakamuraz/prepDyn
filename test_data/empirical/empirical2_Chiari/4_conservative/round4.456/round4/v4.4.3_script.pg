@@ -1,0 +1,28 @@
+set (seed:73412305)
+
+--LOAD DATA
+read ("*.fasta")
+
+-- REPORT LOADED DATA
+report ("v4.4.3_PHYG_Chiari_crossref.csv", crossrefs, overwrite)
+report ("v4.4.3_PHYG_Chiari.data", data, overwrite)
+
+--LOAD INITIAL TREES
+read ("v4.4.1_POY_Chiari.nwk")
+
+--SEARCH SETTINGS
+set (partitioncharacter:#)
+set (criterion:parsimony)
+set (graphtype:tree)
+set (outgroup: protopterus)
+search (hours:12, thompson:2, instances:5, exponential)
+
+--REPORT RESULTS
+report ("v4.4.3_PHYG_Chiari_stats.txt", search)
+report ("v4.4.3_PHYG_Chiari_searchTrees.txt", graphs, newick, nohtulabels)
+
+select (unique)
+select (best)
+report ("v4.4.3_PHYG_Chiari_bestUnique.nwk", graphs, newick, nohtulabels)
+report ("v4.4.3_PHYG_Chiari_ia.tnt", tnt, concatenate, overwrite)
+report ("v4.4.3_PHYG_Chiari_bestConsensus.nwk", newick, reconcile, method:strict)

@@ -1,0 +1,65 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical3_Nakamura/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical3_Nakamura/4_conservative/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 115
+No. columns: 397
+Total no. nucleotides (A/C/G/T only): 45197 bp
+Total no. gaps (-): 430
+Total no. IUPAC N: 6
+
+--- Step 2: Trimming (invariant columns) ---
+[0]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 111
+Total '-' characters in fully missing partitions: 308
+Combined total: 419
+
+L_laevis_GB: partition 0 (0–9, length 10) fully missing (all '-')
+L_laevis_GB: partition 1 (11–25, length 15) fully missing (all '-')
+L_laevis_GB: partition 2 (27–33, length 7) fully missing (all '-')
+L_laevis_GB: partition 3 (35–50, length 16) fully missing (all '-')
+2878_berthalutzae_IlhaBela_SP: partition 0 (0–9, length 10) fully missing (all '-')
+2878_berthalutzae_IlhaBela_SP: partition 1 (11–25, length 15) fully missing (all '-')
+2878_berthalutzae_IlhaBela_SP: partition 2 (27–33, length 7) fully missing (all '-')
+2878_berthalutzae_IlhaBela_SP: partition 3 (35–50, length 16) fully missing (all '-')
+2659_araguaya_top: partition 0 (0–9, length 10) fully missing (all '-')
+2659_araguaya_top: partition 1 (11–25, length 15) fully missing (all '-')
+2659_araguaya_top: partition 2 (27–33, length 7) fully missing (all '-')
+2659_araguaya_top: partition 3 (35–50, length 16) fully missing (all '-')
+2481_oliverai_top: partition 28 (420–423, length 4) fully missing (all '-')
+2487_sp: partition 28 (420–423, length 4) fully missing (all '-')
+2795_jimi_Itirapina_SP: partition 0 (0–9, length 10) fully missing (all '-')
+2787_bogerti: partition 28 (420–423, length 4) fully missing (all '-')
+2981_marmo_Itapinima_AM: partition 22 (347–358, length 12) fully missing (all '-')
+2981_marmo_Itapinima_AM: partition 23 (360–368, length 9) fully missing (all '-')
+2981_marmo_Itapinima_AM: partition 24 (370–383, length 14) fully missing (all '-')
+2981_marmo_Itapinima_AM: partition 25 (385–392, length 8) fully missing (all '-')
+2981_marmo_Itapinima_AM: partition 26 (394–401, length 8) fully missing (all '-')
+2981_marmo_Itapinima_AM: partition 27 (403–418, length 16) fully missing (all '-')
+2981_marmo_Itapinima_AM: partition 28 (420–423, length 4) fully missing (all '-')
+2626_haddadi_Aurelino_BA: partition 22 (347–358, length 12) fully missing (all '-')
+2626_haddadi_Aurelino_BA: partition 23 (360–368, length 9) fully missing (all '-')
+2626_haddadi_Aurelino_BA: partition 24 (370–383, length 14) fully missing (all '-')
+2626_haddadi_Aurelino_BA: partition 25 (385–392, length 8) fully missing (all '-')
+2626_haddadi_Aurelino_BA: partition 26 (394–401, length 8) fully missing (all '-')
+2626_haddadi_Aurelino_BA: partition 27 (403–418, length 16) fully missing (all '-')
+2626_haddadi_Aurelino_BA: partition 28 (420–423, length 4) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=6)
+Columns with '#' inserted: [10, 26, 34, 51, 73, 80, 105, 115, 125, 138, 172, 194, 204, 268, 278, 286, 301, 311, 318, 326, 335, 346, 359, 369, 384, 393, 402, 419]
+
+--- Summary after preprocessing ---
+No. sequences: 115
+No. columns: 424
+No. pound sign columns (#): 28
+Total no. nucleotides (A/C/G/T): 45093 bp
+Total no. gaps (-): 308
+Total no. IUPAC N: 6
+Total no. missing values (?): 419
+
+--- Run time ---
+Wall-clock time: 0.13796091 seconds
+CPU time: 0.13545600 seconds

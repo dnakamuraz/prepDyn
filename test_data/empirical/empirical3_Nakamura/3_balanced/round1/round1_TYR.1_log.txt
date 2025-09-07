@@ -1,0 +1,112 @@
+--- Command used ---
+prepDyn(input_file='test_data/empirical/empirical3_Nakamura/1_noPreprocessing/', input_format='fasta', MSA=False, output_file='test_data/empirical/empirical3_Nakamura/3_balanced/round1/', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25.0, del_inv=True, internal_method='semi', internal_column_ranges='all', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=1)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 86
+No. columns: 533
+Total no. nucleotides (A/C/G/T only): 45377 bp
+Total no. gaps (-): 368
+Total no. IUPAC N: 2
+
+--- Step 2: Trimming (invariant columns) ---
+[532]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 87
+Total '-' characters in fully missing partitions: 275
+Combined total: 362
+
+Sph_dorisae_GB: partition 0 (0–0, length 1) fully missing (all '-')
+Sph_lacteus_GB: partition 0 (0–0, length 1) fully missing (all '-')
+Sci_fuscovarius_GB: partition 0 (0–0, length 1) fully missing (all '-')
+L_laevis_GB: partition 0 (0–0, length 1) fully missing (all '-')
+4372_haraldschultzi: partition 0 (0–0, length 1) fully missing (all '-')
+1839_ruschii: partition 0 (0–0, length 1) fully missing (all '-')
+1838_meridianus: partition 0 (0–0, length 1) fully missing (all '-')
+4086_berthalutzae_top: partition 0 (0–0, length 1) fully missing (all '-')
+2878_berthalutzae_IlhaBela_SP: partition 0 (0–0, length 1) fully missing (all '-')
+2878_berthalutzae_IlhaBela_SP: partition 2 (434–533, length 100) fully missing (all '-')
+2481_oliverai_top: partition 0 (0–0, length 1) fully missing (all '-')
+2468_sp: partition 0 (0–0, length 1) fully missing (all '-')
+2174_decipiens: partition 0 (0–0, length 1) fully missing (all '-')
+4209_X_truncata: partition 0 (0–0, length 1) fully missing (all '-')
+2335_novaisi: partition 0 (0–0, length 1) fully missing (all '-')
+2324_dutrai: partition 0 (0–0, length 1) fully missing (all '-')
+seniculus_GB: partition 0 (0–0, length 1) fully missing (all '-')
+2343_soaresi_Ubajara_CE: partition 0 (0–0, length 1) fully missing (all '-')
+2474_soa_Campo_Alegre_AL: partition 0 (0–0, length 1) fully missing (all '-')
+4002_soa_Minacu_GO: partition 0 (0–0, length 1) fully missing (all '-')
+2415_mel_Jauru_MT: partition 0 (0–0, length 1) fully missing (all '-')
+2396_mel_Jauru_MT: partition 0 (0–0, length 1) fully missing (all '-')
+2871_marmo_Juruti_PA: partition 0 (0–0, length 1) fully missing (all '-')
+2981_marmo_Itapinima_AM: partition 0 (0–0, length 1) fully missing (all '-')
+4018_koechlini_AC: partition 0 (0–0, length 1) fully missing (all '-')
+4094_bokermanni_col: partition 0 (0–0, length 1) fully missing (all '-')
+1638_yaracuyanus: partition 0 (0–0, length 1) fully missing (all '-')
+parviceps_GB: partition 0 (0–0, length 1) fully missing (all '-')
+2355_nahdereri: partition 0 (0–0, length 1) fully missing (all '-')
+1835_nahdereri: partition 0 (0–0, length 1) fully missing (all '-')
+2026_microps_Iporanga_SP: partition 0 (0–0, length 1) fully missing (all '-')
+2169_sp_gr_parviceps: partition 0 (0–0, length 1) fully missing (all '-')
+2100_cf_giesleri_Tapirai_SP: partition 0 (0–0, length 1) fully missing (all '-')
+giesleri_GB: partition 0 (0–0, length 1) fully missing (all '-')
+labialis_GB: partition 0 (0–0, length 1) fully missing (all '-')
+4092_columbianus: partition 0 (0–0, length 1) fully missing (all '-')
+2787_bogerti: partition 0 (0–0, length 1) fully missing (all '-')
+carnifex_GB: partition 0 (0–0, length 1) fully missing (all '-')
+2793_nor: partition 0 (0–0, length 1) fully missing (all '-')
+2687_nor: partition 0 (0–0, length 1) fully missing (all '-')
+2687_nor: partition 2 (434–533, length 100) fully missing (all '-')
+anceps_GB: partition 0 (0–0, length 1) fully missing (all '-')
+miyatai_GB: partition 0 (0–0, length 1) fully missing (all '-')
+4388_schubarti: partition 0 (0–0, length 1) fully missing (all '-')
+4014_sarayacuensis_AC: partition 0 (0–0, length 1) fully missing (all '-')
+triangulum_GB: partition 0 (0–0, length 1) fully missing (all '-')
+ebraccatus_GB: partition 0 (0–0, length 1) fully missing (all '-')
+1804_reicheli_par: partition 0 (0–0, length 1) fully missing (all '-')
+bipunctatus_GB: partition 0 (0–0, length 1) fully missing (all '-')
+1633_xapuriensis: partition 0 (0–0, length 1) fully missing (all '-')
+4035_minutus_PARNAAM_PA: partition 0 (0–0, length 1) fully missing (all '-')
+minuta_GB_11: partition 0 (0–0, length 1) fully missing (all '-')
+4093_minutus_col: partition 0 (0–0, length 1) fully missing (all '-')
+4096_stingi_top: partition 0 (0–0, length 1) fully missing (all '-')
+2909_rhodopeplus: partition 0 (0–0, length 1) fully missing (all '-')
+2960_joannae_CrzSul_AC: partition 0 (0–0, length 1) fully missing (all '-')
+2647_meridianus_top: partition 0 (0–0, length 1) fully missing (all '-')
+berthalutzae_GB: partition 0 (0–0, length 1) fully missing (all '-')
+4098_minusculus_col: partition 0 (0–0, length 1) fully missing (all '-')
+4091_minusculus_col: partition 0 (0–0, length 1) fully missing (all '-')
+2864_branneri_Aurelino_BA: partition 0 (0–0, length 1) fully missing (all '-')
+4395_riveroi: partition 0 (0–0, length 1) fully missing (all '-')
+4100_cruzi_Anapolis_GO: partition 0 (0–0, length 1) fully missing (all '-')
+2643_cachimbo: partition 0 (0–0, length 1) fully missing (all '-')
+4403_minusculus_RR: partition 0 (0–0, length 1) fully missing (all '-')
+2925_sanborni_Itape_SP: partition 0 (0–0, length 1) fully missing (all '-')
+2988_jimi_top: partition 0 (0–0, length 1) fully missing (all '-')
+sanborni_GB: partition 0 (0–0, length 1) fully missing (all '-')
+4212_cerradensis: partition 0 (0–0, length 1) fully missing (all '-')
+2659_araguaya_top: partition 0 (0–0, length 1) fully missing (all '-')
+2044_anataliasiasi: partition 0 (0–0, length 1) fully missing (all '-')
+4003_rubicundulus_top: partition 0 (0–0, length 1) fully missing (all '-')
+2794_elianeae_Aricozal_MT: partition 0 (0–0, length 1) fully missing (all '-')
+1822_elianeae_itap_SP: partition 0 (0–0, length 1) fully missing (all '-')
+4428_I_langsdorffii: partition 0 (0–0, length 1) fully missing (all '-')
+I_langsdorffii_GB: partition 0 (0–0, length 1) fully missing (all '-')
+P_luteolous_GB: partition 0 (0–0, length 1) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=1)
+Columns with '#' inserted: [1, 433]
+
+--- Summary after preprocessing ---
+No. sequences: 86
+No. columns: 534
+No. pound sign columns (#): 2
+Total no. nucleotides (A/C/G/T): 45297 bp
+Total no. gaps (-): 275
+Total no. IUPAC N: 2
+Total no. missing values (?): 362
+
+--- Run time ---
+Wall-clock time: 0.14303899 seconds
+CPU time: 0.14189600 seconds

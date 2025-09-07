@@ -1,0 +1,25 @@
+set (log:"v3.5.1_POY_Chiari.log")
+version ()
+
+read ("*.fasta")
+
+set (root:"protopterus")
+
+report ("v3.5.1_POY_Chiari.data",data, cross_references)
+
+search (max_time:0:12:0)
+
+report ("v3.5.1_POY_Chiari_SearchTrees.txt", trees:(total))
+
+transform (all,(static_approx)) (*POY5*)
+
+select ()
+
+report ("v3.5.1_POY_Chiari.pdf", graphtrees)
+report ("v3.5.1_POY_Chiari.cons.pdf", graphconsensus)
+report ("v3.5.1_POY_Chiari.txt", searchstats)
+report ("v3.5.1_POY_Chiari.txt", trees:(total))
+report ("v3.5.1_POY_Chiari.nwk", trees:(branches:min,newick))
+report ("v3.5.1_POY_Chiari.ss", phastwinclad)
+
+quit()

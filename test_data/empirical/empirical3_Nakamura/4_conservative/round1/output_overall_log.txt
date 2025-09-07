@@ -1,0 +1,8 @@
+--- Overall prepDyn Execution Summary ---
+Command used:
+prepDyn(input_file='../test_data/empirical/empirical3_Nakamura/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical3_Nakamura/4_conservative/round1/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=1)
+
+Total Wall-clock time: 3.83586621 seconds
+Total CPU time: 3.64853200 seconds
+
+Note: Individual gene/alignment logs provide detailed information.

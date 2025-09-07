@@ -93,7 +93,7 @@ python src/prepDyn.py \
     --GB_input test_data/tutorial/ex1.1/ex1.1_input.csv \
     --output_file test_data/tutorial/ex1.1/ex1.1 \
     --del_inv T \
-    --orphan_method semi \
+    --orphan_method integer \
     --orphan_threshold 10 \
     --partitioning_method None \
     --log T 
@@ -112,21 +112,7 @@ python src/prepDyn.py \
 
 This process can continue until tree costs reported by POY/PhyG remain stationary (e.g. *--partitioning_round 2* inserts pound signs in the 1- and 2-largest block(s) of contiguous invariants). Other methods of partitioning are also available and the user should explore whether they can reduce tree costs.
 
-### Example 2: GB2MSA + prepDyn
-
-Suppose you want to download sequences and preprocess them using different commands. Given a CSV file called *input.csv*, the following command will download the sequences and align them with MAFFT. In addition, files containing the names of the terminals (useful for control of taxon sampling in POY/PhyG) and the run time will be reported. 
-
-```
-AAAA
-```
-
-Now, you can run **prepDyn**:
-
-```
-AAAA
-```
-
-### Example 3: Multiple alignments
+### Example 2: Multiple alignments
 
 Suppose you have a phylogenomic dataset with hundreds of gene alignmens in the directory *./data/*. Phylogenomic datasets are usually unavailable in GenBank, but are available in repositories like Dryad and Zenodo. You can preprocess all unaligned gene alignments in FASTA format using a single command:
 
@@ -137,7 +123,7 @@ python src/prepDyn.py \
     --output_file test_data/tutorial/ex3.1/out \
     --MSA T \
     --del_inv T \
-    --orphan_method semi --orphan_threshold 10 \
+    --orphan_method integer --orphan_threshold 10 \
     --internal_method semi --internal_threshold 15 \
     --partitioning_method max
 ```
@@ -151,12 +137,12 @@ python src/prepDyn.py \
     --output_file test_data/tutorial/ex3.2/ \
     --MSA F \
     --del_inv T \
-    --orphan_method semi --orphan_threshold 10 \
+    --orphan_method integer --orphan_threshold 10 \
     --internal_method semi --internal_threshold 15 \
     --log T
 ```
 
-### Example 4: Appending new sequences
+### Example 3: Appending new sequences
 
  MAFFT is unable to align sequences if pound signs or question marks are present. This is a problem when we try to align new sequences to a prevously preprocessed profile alignment. To avoid manual alignment by eye, addSeq.py allows aligning new sequences to profile alignments. Gaps, missing data, and pound signs are not modified for the sequences present in the profile alignment. Gaps, missing data, and pound signs are only inserted in the new sequences.
 
@@ -185,20 +171,6 @@ python src/addSeq.py \
 ```
 
 Warning: The input *--new_seqs* cannot be longer than the input profile *--alignment*.
-
-### Example 5: Ancient DNA
-
-Suppose you have a dataset with ancient DNA sequences from the sample *Dendropsophus_tritaeniatus_MZUSP73973*. The IUPAC Ns present in sequences are ambiguous positions resulting from low coverage death in DNA read mapping. It is unknown if this positions actually correspond to nucleotides N or to indels (-). As such, a conservative solution is replacing the IUPAC Ns of ancient DNA sequences with question marks:
-
-```
-AAAAAAAA
-```
-
-Only the ancient DNA sequences had IUPAC Ns replaced with '?' using the command above. If the user desires to replace Ns with '?' in all sequences (both ancient and modern DNA), the value *all* should be specified in the parameter *-n2q*.
-
-```
-AAAAAAAA
-```
 
 ## Cite
 
