@@ -1,0 +1,17 @@
+log v6.4_TNT.log
+mxram 2048;
+taxname +90;
+nstates nogaps;
+proc v1.3_PHYG_Nakamura_ia.tnt;
+outgroup Phyllodytes_luteolous_M;
+hold 10000;
+xmult= level 10 chklevel 5 consense 5;
+best;
+tsave *v6.4_TNT_bestTrees.out;
+taxname=;
+save;
+tsave /;
+export - v6.4_TNT_bestTreess.nwk
+nelsen; nelsen*; tchoose{strict}; export = v6.4_TNT_strictConsensus.nwk 
+log /;
+quit;

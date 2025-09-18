@@ -1,0 +1,58 @@
+#!/usr/bin/sh
+
+# ACE
+
+###########
+# PBS VAR #
+###########
+
+#PBS -V
+#PBS -N v3.6.3_PhyG_prepDyn
+#PBS -e v3.6.3_PhyG_prepDyn.e
+#PBS -o v3.6.3_PhyG_prepDyn.o
+#PBS -r n
+#PBS -q workq
+##PBS -l <free|pack|scatter|vscatter>
+#PBS -l place=scatter
+##PBS -l select=<1-12>:ncpus=<1-64>:mpiprocs=<1-64>:mem=<gb>:host=<no1-no12>
+#PBS -l select=1:ncpus=64:mpiprocs=64
+##PBS -l select=1:ncpus=1:mpiprocs=1
+#PBS -l walltime=1000:00:00
+# FABRIC=<shm|sock|ssm|rdma|rdssm>
+FABRIC=rdma
+NODES=$[ `uniq ${PBS_NODEFILE} | wc -l` ]
+cd ${PBS_O_WORKDIR}
+
+###########
+# MODULES #
+###########
+
+#module load mpich/3.3.2
+#module load poy/5.1.1
+module load phyg/1.3
+module list
+
+###########
+# MY LOGS #
+###########
+
+START_TIME=`date +%s`
+qstat -f ${PBS_JOBID} > ${PBS_JOBNAME}_${PBS_JOBID}.job
+printf "This job ran on ${NODES} nodes.\n"
+
+###########
+# COMMAND #
+###########
+
+phyg v3.6.3_script.pg
+
+#mpirun -np 576 poy -e v3.6.2_script.poy
+#mpirun -np 1 poy -e hylodidae_MOL.4.IP.poy
+
+###########
+# THE END #
+###########
+
+END_TIME=`date +%s`
+ELAPSED_TIME=$(( ${END_TIME} - ${START_TIME} ))
+printf "This job took ${ELAPSED_TIME} seconds to run.\n"

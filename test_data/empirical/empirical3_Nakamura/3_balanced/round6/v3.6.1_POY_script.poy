@@ -1,0 +1,29 @@
+set (log:"v3.6.1_POY_Nakamura.log")
+version ()
+rename (terminals, "Dendropsophus_synonym_list.txt")
+
+read ("dendropsophus124.ss")
+read ("*.fasta")
+
+select ("terminals.txt")
+
+set (root:"Phyllodytes_luteolous_M")
+
+report ("v3.6.1_POY_Nakamura.data",data, cross_references)
+
+search (max_time:0:12:0)
+
+report ("v3.6.1_POY_Nakamura_SearchTrees.txt", trees:(total))
+
+transform (all,(static_approx)) (*POY5*)
+
+select ()
+
+report ("v3.6.1_POY_Nakamura.pdf", graphtrees)
+report ("v3.6.1_POY_Nakamura.cons.pdf", graphconsensus)
+report ("v3.6.1_POY_Nakamura.stats.txt", searchstats)
+report ("v3.6.1_POY_Nakamura.trees.txt", trees:(total))
+report ("v3.6.1_POY_Nakamura.trees.nwk", trees:(branches:min,newick))
+report ("v3.6.1_POY_Nakamura.ss", phastwinclad)
+
+quit()
