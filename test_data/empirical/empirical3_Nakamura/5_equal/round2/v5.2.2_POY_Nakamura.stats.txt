@@ -1,0 +1,18 @@
+Search Stats:
+                                                 
+# of Builds + TBR  6275
+# of Fuse          36681
+# of Ratchets      3173
+                                 
+Tree length        Number of hits
+13692.             137
+13694.             2
+13697.             2
+13699.             4
+13701.             2
+13702.             2
+13721.             2
+13722.             1
+13794.             1
+13832.             1
+

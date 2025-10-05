@@ -1,0 +1,1134 @@
+<operation name="random_seed">
+<features>
+    <feature name="process" value="0" />
+    <feature name="value" value="1757849903" />
+</features>
+<results>
+</results>
+</operation>
+<?xml version="1.0"?><!-- -*- mode: xml; mode: auto-revert; -*- -->
+<sadman version="1.0">
+<operation name="POY">
+<features>
+    <feature name="module-version.Main" value="$Revision$" />
+    <feature name="module-version.Scripting" value="$Revision$" />
+    <feature name="module-version.Support" value="$Revision$" />
+    <feature name="module-version.PoyFormaters" value="$Revision$" />
+    <feature name="module-version.PoyCommand" value="$Revision$" />
+    <feature name="module-version.MlTestStat" value="$Revision$" />
+    <feature name="module-version.HelpIndex" value="$Revision$" />
+    <feature name="module-version.Diagnosis" value="$Revision$" />
+    <feature name="module-version.CharTransform" value="$Revision$" />
+    <feature name="module-version.ModelSelection" value="$Revision$" />
+    <feature name="module-version.Build" value="$Revision$" />
+    <feature name="module-version.TreeSearch" value="$Revision$" />
+    <feature name="module-version.Tabus" value="$Revision$" />
+    <feature name="module-version.UnionTree" value="$Revision$" />
+    <feature name="module-version.SparceMatrix" value="$Revision$" />
+    <feature name="module-version.SearchInformation" value="$Revision$" />
+    <feature name="module-version.Sadman" value="$Revision$" />
+    <feature name="module-version.Queues" value="$Revision$" />
+    <feature name="module-version.Sampler" value="$Revision$" />
+    <feature name="module-version.Mst" value="$Revision$" />
+    <feature name="module-version.GraphicsPs" value="$Revision$" />
+    <feature name="module-version.GraphTree" value="$Revision" />
+    <feature name="module-version.Arguments" value="$Revision$" />
+    <feature name="module-version.Analyzer" value="$Revision$" />
+    <feature name="module-version.AllDirChar" value="$Revision$" />
+    <feature name="module-version.ImpliedAlignment" value="$Revision$" />
+    <feature name="module-version.Chartree" value="$Revision$" />
+    <feature name="module-version.Ptree" value="$Revision$" />
+    <feature name="module-version.Edge" value="$Revision$" />
+    <feature name="module-version.AsciiTree" value="$Revision" />
+    <feature name="module-version.AllDirNode" value="$Revision$" />
+    <feature name="module-version.Node" value="$Revision$" />
+    <feature name="module-version.NodeSig" value="$Revision$" />
+    <feature name="module-version.NonaddCS.nonadd32_v" value="$Revision$" />
+    <feature name="module-version.NonaddCS.nonadd16_v" value="$Revision$" />
+    <feature name="module-version.KolmoCS" value="$Revision$" />
+    <feature name="module-version.Fixed_states" value="$Revision$" />
+    <feature name="module-version.SankCS" value="$Revision$" />
+    <feature name="module-version.DynamicCS" value="$Revision$" />
+    <feature name="module-version.MlDynamicCS" value="$Revision$" />
+    <feature name="module-version.SeqCS" value="$Revision$" />
+    <feature name="module-version.MlStaticCS" value="$Revision$" />
+    <feature name="module-version.GenomeCS" value="$Revision$" />
+    <feature name="module-version.Genome" value="$Revision$" />
+    <feature name="module-version.GenomeAli" value="$Revision$" />
+    <feature name="module-version.ChromCS" value="$Revision$" />
+    <feature name="module-version.Chrom" value="$Revision$" />
+    <feature name="module-version.ChromAli" value="$Revision$" />
+    <feature name="module-version.Breakinv Character" value="$Revision$" />
+    <feature name="module-version.BreakinvCS" value="$Revision$" />
+    <feature name="module-version.Breakinv" value="$Revision$" />
+    <feature name="module-version.BreakinvAli" value="$Revision$" />
+    <feature name="module-version.AnnchromCS" value="$Revision$" />
+    <feature name="module-version.Annchrom" value="$Revision$" />
+    <feature name="module-version.AnnchromAli" value="$Revision$" />
+    <feature name="module-version.AliMap" value="$Revision$" />
+    <feature name="module-version.Block" value="$Revision$" />
+    <feature name="module-version.Subseq" value="$Revision$" />
+    <feature name="module-version.Seed" value="$Revision$" />
+    <feature name="module-version.SufTree" value="$Revision$" />
+    <feature name="module-version.SufNode" value="$Revision$" />
+    <feature name="module-version.IncList" value="$Revision$" />
+    <feature name="module-version.ChromPam" value="$Revision$" />
+    <feature name="module-version.AddCS" value="$Revision$" />
+    <feature name="module-version.NonaddCS.nonadd8_v" value="$Revision$" />
+    <feature name="module-version.Phylip" value="$Revision: 1$" />
+    <feature name="module-version.Tree" value="$Revision$" />
+    <feature name="module-version.GenAli" value="$Revision$" />
+    <feature name="module-version.UtlGrappa" value="$Revision$" />
+    <feature name="module-version.FloatSequence" value="$Revision$" />
+    <feature name="module-version.MlModel" value="$Revision$" />
+    <feature name="module-version.Block_mauve" value="$Revision$" />
+    <feature name="module-version.Block_mauve" value="$Revision$" />
+    <feature name="module-version.Block_mauve" value="$Revision$" />
+    <feature name="module-version.Sequence" value="$Revision$" />
+    <feature name="module-version.Matrix" value="$Revision$" />
+    <feature name="module-version.FingerPrint" value="$Revision$" />
+    <feature name="module-version.Primes" value="$Revision$" />
+    <feature name="module-version.Block_mauve" value="$Revision$" />
+    <feature name="module-version.BinaryTree" value="$Revision$" />
+    <feature name="module-version.Array_ops" value="$Revision$" />
+    <feature name="module-version.Alphabet" value="$Revision$" />
+    <feature name="module-version.Xml" value="$Revision$" />
+    <feature name="module-version.Cost_matrix" value="$Revision$" />
+    <feature name="module-version.Utl" value="$Revision$" />
+    <feature name="module-version.Methods" value="$Revision$" />
+    <feature name="module-version.Sexpr" value="$Revision$" />
+    <feature name="module-version.Numerical" value="$Revision$" />
+    <feature name="module-version.Status_flat" value="$Revision$" />
+    <feature name="module-version.StatusCommon" value="$Revision$" />
+    <feature name="module-version.PoyFile" value="$Revision$" />
+    <feature name="module-version.All_sets" value="$Revision$" />
+    <feature name="module-version.SadmanOutput" value="$Revision$" />
+    <feature name="os-type" value="Unix" />
+    <feature name="compile.ocamlc" value="3.12.1" />
+    <feature name="compile.ocamlopt" value="3.12.1" />
+    <feature name="hostname" value="no1" />
+    <feature name="timestamp" value="2025-09-14 11:38:23" />
+</features>
+<operation name="build">
+<features>
+    <feature name="number of trees" value="1" />
+    <feature name="type" value="randomized wagner" />
+    <feature name="number of trees to keep" value="1" />
+</features>
+<results>
+    <result name="search-time" value="134.093976021" />
+    <result name="trees-considered" value="1" />
+    <result name="tree_0_cost" value="13934." />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="3158.40986633" />
+    <result name="trees-considered" value="464012" />
+    <result name="tree_0_cost" value="13693." />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="All edges are joined" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="1535.99462891" />
+    <result name="trees-considered" value="250593" />
+    <result name="tree_0_cost" value="13693." />
+</results>
+</operation>
+<operation name="perturbation">
+<features>
+    <feature name="type" value="ratchet" />
+    <feature name="probability" value="0.25" />
+    <feature name="severity" value="2" />
+</features>
+<results>
+    <result name="reweighted" value="1799" />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="skipping" value="false" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="22.1479492188" />
+    <result name="trees-considered" value="374471" />
+    <result name="tree_0_cost" value="17043." />
+</results>
+</operation>
+<operation name="perturbation">
+<features>
+    <feature name="type" value="ratchet" />
+    <feature name="probability" value="0.25" />
+    <feature name="severity" value="2" />
+</features>
+<results>
+    <result name="reweighted" value="1771" />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="skipping" value="false" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="22.1596679688" />
+    <result name="trees-considered" value="393464" />
+    <result name="tree_0_cost" value="17292." />
+</results>
+</operation>
+<operation name="perturbation">
+<features>
+    <feature name="type" value="ratchet" />
+    <feature name="probability" value="0.25" />
+    <feature name="severity" value="2" />
+</features>
+<results>
+    <result name="reweighted" value="1731" />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="skipping" value="false" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="22.9838867188" />
+    <result name="trees-considered" value="413999" />
+    <result name="tree_0_cost" value="16868." />
+</results>
+</operation>
+<operation name="perturbation">
+<features>
+    <feature name="type" value="ratchet" />
+    <feature name="probability" value="0.25" />
+    <feature name="severity" value="2" />
+</features>
+<results>
+    <result name="reweighted" value="1850" />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="skipping" value="false" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="12.0043945312" />
+    <result name="trees-considered" value="220016" />
+    <result name="tree_0_cost" value="17171." />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="877.017089844" />
+    <result name="trees-considered" value="143091" />
+    <result name="tree_0_cost" value="13691." />
+</results>
+</operation>
+<operation name="build">
+<features>
+    <feature name="number of trees" value="1" />
+    <feature name="type" value="randomized wagner" />
+    <feature name="number of trees to keep" value="1" />
+</features>
+<results>
+    <result name="search-time" value="162.455566406" />
+    <result name="trees-considered" value="1" />
+    <result name="tree_0_cost" value="13881." />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="2835.36816406" />
+    <result name="trees-considered" value="403335" />
+    <result name="tree_0_cost" value="13725." />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="All edges are joined" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="1421.08007812" />
+    <result name="trees-considered" value="221465" />
+    <result name="tree_0_cost" value="13701." />
+</results>
+</operation>
+<operation name="build">
+<features>
+    <feature name="number of trees" value="1" />
+    <feature name="type" value="randomized wagner" />
+    <feature name="number of trees to keep" value="1" />
+</features>
+<results>
+    <result name="search-time" value="144.340820312" />
+    <result name="trees-considered" value="1" />
+    <result name="tree_0_cost" value="13960." />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="3400.43652344" />
+    <result name="trees-considered" value="494363" />
+    <result name="tree_0_cost" value="13694." />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="All edges are joined" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="1700.19921875" />
+    <result name="trees-considered" value="257367" />
+    <result name="tree_0_cost" value="13694." />
+</results>
+</operation>
+<operation name="build">
+<features>
+    <feature name="number of trees" value="1" />
+    <feature name="type" value="randomized wagner" />
+    <feature name="number of trees to keep" value="1" />
+</features>
+<results>
+    <result name="search-time" value="172.474609375" />
+    <result name="trees-considered" value="1" />
+    <result name="tree_0_cost" value="13937." />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="2393.4296875" />
+    <result name="trees-considered" value="314904" />
+    <result name="tree_0_cost" value="13708." />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tbu.join" value="Programmatically provided constraint" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="552.06640625" />
+    <result name="trees-considered" value="78928" />
+    <result name="tree_0_cost" value="13700." />
+</results>
+</operation>
+<operation name="build">
+<features>
+    <feature name="number of trees" value="1" />
+    <feature name="type" value="randomized wagner" />
+    <feature name="number of trees to keep" value="1" />
+</features>
+<results>
+    <result name="search-time" value="179.021484375" />
+    <result name="trees-considered" value="1" />
+    <result name="tree_0_cost" value="13873." />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="3511.63476562" />
+    <result name="trees-considered" value="489364" />
+    <result name="tree_0_cost" value="13709." />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tbu.join" value="Programmatically provided constraint" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="427.322265625" />
+    <result name="trees-considered" value="55607" />
+    <result name="tree_0_cost" value="13697." />
+</results>
+</operation>
+<operation name="perturbation">
+<features>
+    <feature name="type" value="ratchet" />
+    <feature name="probability" value="0.25" />
+    <feature name="severity" value="2" />
+</features>
+<results>
+    <result name="reweighted" value="1763" />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="skipping" value="false" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="48.177734375" />
+    <result name="trees-considered" value="400834" />
+    <result name="tree_0_cost" value="17027." />
+</results>
+</operation>
+<operation name="perturbation">
+<features>
+    <feature name="type" value="ratchet" />
+    <feature name="probability" value="0.25" />
+    <feature name="severity" value="2" />
+</features>
+<results>
+    <result name="reweighted" value="1828" />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="skipping" value="false" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="24.580078125" />
+    <result name="trees-considered" value="213940" />
+    <result name="tree_0_cost" value="16960." />
+</results>
+</operation>
+<operation name="perturbation">
+<features>
+    <feature name="type" value="ratchet" />
+    <feature name="probability" value="0.25" />
+    <feature name="severity" value="2" />
+</features>
+<results>
+    <result name="reweighted" value="1881" />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="skipping" value="false" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="50.052734375" />
+    <result name="trees-considered" value="367130" />
+    <result name="tree_0_cost" value="17226." />
+</results>
+</operation>
+<operation name="perturbation">
+<features>
+    <feature name="type" value="ratchet" />
+    <feature name="probability" value="0.25" />
+    <feature name="severity" value="2" />
+</features>
+<results>
+    <result name="reweighted" value="1748" />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="skipping" value="false" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="39.017578125" />
+    <result name="trees-considered" value="209142" />
+    <result name="tree_0_cost" value="16844." />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="1001.25195312" />
+    <result name="trees-considered" value="137985" />
+    <result name="tree_0_cost" value="13696." />
+</results>
+</operation>
+<operation name="build">
+<features>
+    <feature name="number of trees" value="1" />
+    <feature name="type" value="randomized wagner" />
+    <feature name="number of trees to keep" value="1" />
+</features>
+<results>
+    <result name="search-time" value="236.7734375" />
+    <result name="trees-considered" value="1" />
+    <result name="tree_0_cost" value="13851." />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="3507.41992188" />
+    <result name="trees-considered" value="475095" />
+    <result name="tree_0_cost" value="13710." />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tbu.join" value="Programmatically provided constraint" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="1467.75976562" />
+    <result name="trees-considered" value="213920" />
+    <result name="tree_0_cost" value="13690." />
+</results>
+</operation>
+<operation name="perturbation">
+<features>
+    <feature name="type" value="ratchet" />
+    <feature name="probability" value="0.25" />
+    <feature name="severity" value="2" />
+</features>
+<results>
+    <result name="reweighted" value="1830" />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="skipping" value="false" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="19.623046875" />
+    <result name="trees-considered" value="389089" />
+    <result name="tree_0_cost" value="17392." />
+</results>
+</operation>
+<operation name="perturbation">
+<features>
+    <feature name="type" value="ratchet" />
+    <feature name="probability" value="0.25" />
+    <feature name="severity" value="2" />
+</features>
+<results>
+    <result name="reweighted" value="1816" />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="skipping" value="false" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="19.533203125" />
+    <result name="trees-considered" value="395486" />
+    <result name="tree_0_cost" value="17357." />
+</results>
+</operation>
+<operation name="perturbation">
+<features>
+    <feature name="type" value="ratchet" />
+    <feature name="probability" value="0.25" />
+    <feature name="severity" value="2" />
+</features>
+<results>
+    <result name="reweighted" value="1812" />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="skipping" value="false" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="17.83984375" />
+    <result name="trees-considered" value="368253" />
+    <result name="tree_0_cost" value="17233." />
+</results>
+</operation>
+<operation name="perturbation">
+<features>
+    <feature name="type" value="ratchet" />
+    <feature name="probability" value="0.25" />
+    <feature name="severity" value="2" />
+</features>
+<results>
+    <result name="reweighted" value="1816" />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="skipping" value="false" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="18.466796875" />
+    <result name="trees-considered" value="390314" />
+    <result name="tree_0_cost" value="17393." />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="1092.09960938" />
+    <result name="trees-considered" value="161978" />
+    <result name="tree_0_cost" value="13693." />
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="1051.02148438" />
+    <result name="trees-considered" value="154379" />
+    <result name="tree_0_cost" value="13693." />
+</results>
+</operation>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="randomized" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="1032.07617188" />
+    <result name="trees-considered" value="152352" />
+    <result name="tree_0_cost" value="13693." />
+</results>
+</operation>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="958.23046875" />
+    <result name="trees-considered" value="136230" />
+    <result name="tree_0_cost" value="13690." />
+</results>
+</operation>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="954.0234375" />
+    <result name="trees-considered" value="138452" />
+    <result name="tree_0_cost" value="13690." />
+</results>
+</operation>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="1037." />
+    <result name="trees-considered" value="154763" />
+    <result name="tree_0_cost" value="13690." />
+</results>
+</operation>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="9" />
+</features>
+<results>
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="alternate-spr-tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="1706.8203125" />
+    <result name="trees-considered" value="168605" />
+    <result name="tree_0_cost" value="13689." />
+</results>
+</operation>
+<operation name="build">
+<features>
+    <feature name="number of trees" value="1" />
+    <feature name="type" value="randomized wagner" />
+    <feature name="number of trees to keep" value="1" />
+</features>
+<results>
+    <result name="search-time" value="203.6171875" />
+    <result name="trees-considered" value="1" />
+    <result name="tree_0_cost" value="13824." />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="2949.39453125" />
+    <result name="trees-considered" value="378857" />
+    <result name="tree_0_cost" value="13692." />
+</results>
+</operation>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tbu.join" value="Programmatically provided constraint" />
+    <feature name="tabu.break" value="sorted edges by distance with early stop" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="283.86328125" />
+    <result name="trees-considered" value="36350" />
+    <result name="tree_0_cost" value="13692." />
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="8" />
+</features>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="8" />
+</features>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="8" />
+</features>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="randomized" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="929.34375" />
+    <result name="trees-considered" value="138432" />
+    <result name="tree_0_cost" value="13690." />
+</results>
+</operation>
+<results>
+</results>
+</operation>
+<operation name="tree-fusing">
+<features>
+    <feature name="iterations" value="1" />
+    <feature name="max_trees" value="8" />
+</features>
+<operation name="search">
+<features>
+    <feature name="tabu.reroot" value="Breath first search" />
+    <feature name="tabu.join" value="Union of children states prunes the tree" />
+    <feature name="tabu.break" value="randomized" />
+    <feature name="trajectory" value="best-first" />
+    <feature name="origin-cost" value="none" />
+    <feature name="type" value="tbr" />
+    <feature name="all directions" value="true" />
+    <feature name="type" value="first best" />
+</features>
+<results>
+    <result name="search-time" value="200.36328125" />
+    <result name="trees-considered" value="30795" />
+    <result name="tree_0_cost" value="13691." />
+</results>
+</operation>
+<results>
+</results>
+</operation>
+<results>
+    <result name="exit-code" value="0" />
+    <result name="execution-time" value="43002.566445" />
+</results>
+</operation>
+</sadman>

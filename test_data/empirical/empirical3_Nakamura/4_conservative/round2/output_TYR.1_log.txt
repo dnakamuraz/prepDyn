@@ -2,40 +2,35 @@
 prepDyn(input_file='../test_data/empirical/empirical3_Nakamura/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical3_Nakamura/4_conservative/round2/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=2)
 
 --- Step 1: Summary before preprocessing ---
-No. sequences: 86
+No. sequences: 31
 No. columns: 533
-Total no. nucleotides (A/C/G/T only): 45377 bp
-Total no. gaps (-): 368
+Total no. nucleotides (A/C/G/T only): 16430 bp
+Total no. gaps (-): 72
 Total no. IUPAC N: 2
 
 --- Step 2: Trimming (invariant columns) ---
 [532]
 
 --- Step 3: Missing data identification (gaps replaced with '?') ---
-Total '?' characters: 172
-Total '-' characters in fully missing partitions: 190
-Combined total: 362
+Total '?' characters: 70
+Total '-' characters in fully missing partitions: 0
+Combined total: 70
 
-2878_berthalutzae_IlhaBela_SP: partition 9 (446–466, length 21) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 10 (468–491, length 24) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 11 (493–542, length 50) fully missing (all '-')
-2687_nor: partition 9 (446–466, length 21) fully missing (all '-')
-2687_nor: partition 10 (468–491, length 24) fully missing (all '-')
-2687_nor: partition 11 (493–542, length 50) fully missing (all '-')
+
 
 --- Step 4: Partitioning ---
 Method used: conservative (partitioning_round=2)
-Columns with '#' inserted: [62, 69, 91, 110, 146, 256, 323, 435, 445, 467, 492]
+Columns with '#' inserted: [65, 225]
 
 --- Summary after preprocessing ---
-No. sequences: 86
-No. columns: 543
-No. pound sign columns (#): 11
-Total no. nucleotides (A/C/G/T): 45297 bp
-Total no. gaps (-): 190
+No. sequences: 31
+No. columns: 534
+No. pound sign columns (#): 2
+Total no. nucleotides (A/C/G/T): 16401 bp
+Total no. gaps (-): 0
 Total no. IUPAC N: 2
-Total no. missing values (?): 362
+Total no. missing values (?): 70
 
 --- Run time ---
-Wall-clock time: 0.15652609 seconds
-CPU time: 0.14163600 seconds
+Wall-clock time: 0.05121613 seconds
+CPU time: 0.05056100 seconds

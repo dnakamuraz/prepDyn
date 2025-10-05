@@ -2,121 +2,37 @@
 prepDyn(input_file='../test_data/empirical/empirical3_Nakamura/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical3_Nakamura/4_conservative/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=6)
 
 --- Step 1: Summary before preprocessing ---
-No. sequences: 86
+No. sequences: 31
 No. columns: 533
-Total no. nucleotides (A/C/G/T only): 45377 bp
-Total no. gaps (-): 368
+Total no. nucleotides (A/C/G/T only): 16430 bp
+Total no. gaps (-): 72
 Total no. IUPAC N: 2
 
 --- Step 2: Trimming (invariant columns) ---
 [532]
 
 --- Step 3: Missing data identification (gaps replaced with '?') ---
-Total '?' characters: 79
-Total '-' characters in fully missing partitions: 283
-Combined total: 362
+Total '?' characters: 32
+Total '-' characters in fully missing partitions: 38
+Combined total: 70
 
-2878_berthalutzae_IlhaBela_SP: partition 116 (548–552, length 5) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 117 (554–557, length 4) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 118 (559–561, length 3) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 119 (563–565, length 3) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 120 (567–572, length 6) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 121 (574–578, length 5) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 122 (580–584, length 5) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 123 (586–587, length 2) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 124 (589–591, length 3) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 125 (593–596, length 4) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 126 (598–599, length 2) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 127 (601–603, length 3) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 128 (605–609, length 5) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 129 (611–614, length 4) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 130 (616–618, length 3) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 131 (620–623, length 4) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 132 (625–626, length 2) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 133 (628–630, length 3) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 134 (632–638, length 7) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 135 (640–641, length 2) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 136 (643–645, length 3) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 137 (647–649, length 3) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 138 (651–654, length 4) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 139 (656–657, length 2) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 140 (659–661, length 3) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 141 (663–665, length 3) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 142 (667–669, length 3) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 143 (671–673, length 3) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 144 (675–675, length 1) fully missing (all '-')
-2468_sp: partition 132 (625–626, length 2) fully missing (all '-')
-2468_sp: partition 133 (628–630, length 3) fully missing (all '-')
-2468_sp: partition 134 (632–638, length 7) fully missing (all '-')
-2468_sp: partition 135 (640–641, length 2) fully missing (all '-')
-2468_sp: partition 136 (643–645, length 3) fully missing (all '-')
-2468_sp: partition 137 (647–649, length 3) fully missing (all '-')
-2468_sp: partition 138 (651–654, length 4) fully missing (all '-')
-2468_sp: partition 139 (656–657, length 2) fully missing (all '-')
-2468_sp: partition 140 (659–661, length 3) fully missing (all '-')
-2468_sp: partition 141 (663–665, length 3) fully missing (all '-')
-2468_sp: partition 142 (667–669, length 3) fully missing (all '-')
-2468_sp: partition 143 (671–673, length 3) fully missing (all '-')
-2468_sp: partition 144 (675–675, length 1) fully missing (all '-')
-2343_soaresi_Ubajara_CE: partition 144 (675–675, length 1) fully missing (all '-')
-2871_marmo_Juruti_PA: partition 143 (671–673, length 3) fully missing (all '-')
-2871_marmo_Juruti_PA: partition 144 (675–675, length 1) fully missing (all '-')
-2687_nor: partition 116 (548–552, length 5) fully missing (all '-')
-2687_nor: partition 117 (554–557, length 4) fully missing (all '-')
-2687_nor: partition 118 (559–561, length 3) fully missing (all '-')
-2687_nor: partition 119 (563–565, length 3) fully missing (all '-')
-2687_nor: partition 120 (567–572, length 6) fully missing (all '-')
-2687_nor: partition 121 (574–578, length 5) fully missing (all '-')
-2687_nor: partition 122 (580–584, length 5) fully missing (all '-')
-2687_nor: partition 123 (586–587, length 2) fully missing (all '-')
-2687_nor: partition 124 (589–591, length 3) fully missing (all '-')
-2687_nor: partition 125 (593–596, length 4) fully missing (all '-')
-2687_nor: partition 126 (598–599, length 2) fully missing (all '-')
-2687_nor: partition 127 (601–603, length 3) fully missing (all '-')
-2687_nor: partition 128 (605–609, length 5) fully missing (all '-')
-2687_nor: partition 129 (611–614, length 4) fully missing (all '-')
-2687_nor: partition 130 (616–618, length 3) fully missing (all '-')
-2687_nor: partition 131 (620–623, length 4) fully missing (all '-')
-2687_nor: partition 132 (625–626, length 2) fully missing (all '-')
-2687_nor: partition 133 (628–630, length 3) fully missing (all '-')
-2687_nor: partition 134 (632–638, length 7) fully missing (all '-')
-2687_nor: partition 135 (640–641, length 2) fully missing (all '-')
-2687_nor: partition 136 (643–645, length 3) fully missing (all '-')
-2687_nor: partition 137 (647–649, length 3) fully missing (all '-')
-2687_nor: partition 138 (651–654, length 4) fully missing (all '-')
-2687_nor: partition 139 (656–657, length 2) fully missing (all '-')
-2687_nor: partition 140 (659–661, length 3) fully missing (all '-')
-2687_nor: partition 141 (663–665, length 3) fully missing (all '-')
-2687_nor: partition 142 (667–669, length 3) fully missing (all '-')
-2687_nor: partition 143 (671–673, length 3) fully missing (all '-')
-2687_nor: partition 144 (675–675, length 1) fully missing (all '-')
-2643_cachimbo: partition 132 (625–626, length 2) fully missing (all '-')
-2643_cachimbo: partition 133 (628–630, length 3) fully missing (all '-')
-2643_cachimbo: partition 134 (632–638, length 7) fully missing (all '-')
-2643_cachimbo: partition 135 (640–641, length 2) fully missing (all '-')
-2643_cachimbo: partition 136 (643–645, length 3) fully missing (all '-')
-2643_cachimbo: partition 137 (647–649, length 3) fully missing (all '-')
-2643_cachimbo: partition 138 (651–654, length 4) fully missing (all '-')
-2643_cachimbo: partition 139 (656–657, length 2) fully missing (all '-')
-2643_cachimbo: partition 140 (659–661, length 3) fully missing (all '-')
-2643_cachimbo: partition 141 (663–665, length 3) fully missing (all '-')
-2643_cachimbo: partition 142 (667–669, length 3) fully missing (all '-')
-2643_cachimbo: partition 143 (671–673, length 3) fully missing (all '-')
-2643_cachimbo: partition 144 (675–675, length 1) fully missing (all '-')
+D_cachimbo_1: partition 25 (519–523, length 5) fully missing (all '-')
+D_cachimbo_1: partition 26 (525–544, length 20) fully missing (all '-')
+D_cachimbo_1: partition 27 (546–558, length 13) fully missing (all '-')
 
 --- Step 4: Partitioning ---
 Method used: conservative (partitioning_round=6)
-Columns with '#' inserted: [3, 16, 20, 27, 35, 38, 43, 47, 50, 54, 59, 62, 66, 71, 76, 83, 91, 95, 99, 103, 109, 114, 118, 122, 126, 132, 137, 141, 145, 153, 156, 163, 168, 175, 184, 188, 195, 199, 206, 212, 217, 222, 226, 230, 233, 237, 241, 249, 253, 257, 263, 267, 271, 275, 279, 283, 287, 291, 295, 299, 303, 308, 313, 318, 322, 327, 330, 337, 341, 345, 349, 353, 357, 361, 365, 369, 376, 381, 387, 391, 397, 402, 406, 410, 414, 418, 422, 430, 433, 438, 442, 445, 452, 455, 458, 461, 465, 469, 474, 477, 482, 485, 489, 493, 498, 501, 505, 509, 512, 517, 522, 529, 533, 536, 542, 547, 553, 558, 562, 566, 573, 579, 585, 588, 592, 597, 600, 604, 610, 615, 619, 624, 627, 631, 639, 642, 646, 650, 655, 658, 662, 666, 670, 674]
+Columns with '#' inserted: [65, 79, 93, 110, 118, 141, 148, 231, 244, 259, 270, 310, 316, 324, 331, 377, 384, 400, 407, 447, 457, 467, 481, 505, 518, 524, 545]
 
 --- Summary after preprocessing ---
-No. sequences: 86
-No. columns: 676
-No. pound sign columns (#): 144
-Total no. nucleotides (A/C/G/T): 45297 bp
-Total no. gaps (-): 283
+No. sequences: 31
+No. columns: 559
+No. pound sign columns (#): 27
+Total no. nucleotides (A/C/G/T): 16401 bp
+Total no. gaps (-): 38
 Total no. IUPAC N: 2
-Total no. missing values (?): 362
+Total no. missing values (?): 70
 
 --- Run time ---
-Wall-clock time: 0.17349982 seconds
-CPU time: 0.16429300 seconds
+Wall-clock time: 0.05057216 seconds
+CPU time: 0.05000100 seconds

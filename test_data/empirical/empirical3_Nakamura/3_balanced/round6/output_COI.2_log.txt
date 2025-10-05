@@ -2,86 +2,54 @@
 prepDyn(input_file='../test_data/empirical/empirical3_Nakamura/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical3_Nakamura/3_balanced/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=6)
 
 --- Step 1: Summary before preprocessing ---
-No. sequences: 123
+No. sequences: 42
 No. columns: 646
-Total no. nucleotides (A/C/G/T only): 77956 bp
-Total no. gaps (-): 1478
-Total no. IUPAC N: 24
+Total no. nucleotides (A/C/G/T only): 26636 bp
+Total no. gaps (-): 475
+Total no. IUPAC N: 21
 
 --- Step 2: Trimming (invariant columns) ---
 []
 
 --- Step 3: Missing data identification (gaps replaced with '?') ---
-Total '?' characters: 39
-Total '-' characters in fully missing partitions: 1439
-Combined total: 1478
+Total '?' characters: 0
+Total '-' characters in fully missing partitions: 475
+Combined total: 475
 
-4356_microps: partition 0 (0–51, length 52) fully missing (all '-')
-4212_cerradensis: partition 0 (0–51, length 52) fully missing (all '-')
-2642_anataliasiasi: partition 0 (0–51, length 52) fully missing (all '-')
-4365_riveroi: partition 0 (0–51, length 52) fully missing (all '-')
-4068_nanus: partition 5 (618–626, length 9) fully missing (all '-')
-4068_nanus: partition 6 (628–638, length 11) fully missing (all '-')
-4068_nanus: partition 7 (640–649, length 10) fully missing (all '-')
-4068_nanus: partition 8 (651–653, length 3) fully missing (all '-')
-2647_meridianus_top: partition 6 (628–638, length 11) fully missing (all '-')
-2647_meridianus_top: partition 7 (640–649, length 10) fully missing (all '-')
-2647_meridianus_top: partition 8 (651–653, length 3) fully missing (all '-')
-4395_riveroi: partition 0 (0–51, length 52) fully missing (all '-')
-2324_dutrai: partition 0 (0–51, length 52) fully missing (all '-')
-2335_novaisi: partition 0 (0–51, length 52) fully missing (all '-')
-4035_minutus_PARNAAM_PA: partition 0 (0–51, length 52) fully missing (all '-')
-delarivai: partition 0 (0–51, length 52) fully missing (all '-')
-delarivai: partition 8 (651–653, length 3) fully missing (all '-')
-cf_goughi: partition 0 (0–51, length 52) fully missing (all '-')
-cf_goughi: partition 8 (651–653, length 3) fully missing (all '-')
-4014_sarayacuensis_AC: partition 7 (640–649, length 10) fully missing (all '-')
-4014_sarayacuensis_AC: partition 8 (651–653, length 3) fully missing (all '-')
-3000_sp1_PauRosa_AM: partition 0 (0–51, length 52) fully missing (all '-')
-2994_sp1_PauRosa_AM: partition 0 (0–51, length 52) fully missing (all '-')
-4413_haraldschultzi: partition 0 (0–51, length 52) fully missing (all '-')
-2355_nahdereri: partition 0 (0–51, length 52) fully missing (all '-')
-2468_sp: partition 0 (0–51, length 52) fully missing (all '-')
-2692_parviceps_CO: partition 0 (0–51, length 52) fully missing (all '-')
-4205_haddadi_Camacan_BA: partition 0 (0–51, length 52) fully missing (all '-')
-4205_haddadi_Camacan_BA: partition 6 (628–638, length 11) fully missing (all '-')
-4205_haddadi_Camacan_BA: partition 7 (640–649, length 10) fully missing (all '-')
-4205_haddadi_Camacan_BA: partition 8 (651–653, length 3) fully missing (all '-')
-2983_sen_Jussari_BA: partition 0 (0–51, length 52) fully missing (all '-')
-X_truncata_GB: partition 4 (602–616, length 15) fully missing (all '-')
-X_truncata_GB: partition 5 (618–626, length 9) fully missing (all '-')
-X_truncata_GB: partition 6 (628–638, length 11) fully missing (all '-')
-X_truncata_GB: partition 7 (640–649, length 10) fully missing (all '-')
-X_truncata_GB: partition 8 (651–653, length 3) fully missing (all '-')
-2789_microcephalus_CO: partition 2 (437–509, length 73) fully missing (all '-')
-2789_microcephalus_CO: partition 3 (511–600, length 90) fully missing (all '-')
-2789_microcephalus_CO: partition 4 (602–616, length 15) fully missing (all '-')
-2789_microcephalus_CO: partition 5 (618–626, length 9) fully missing (all '-')
-2789_microcephalus_CO: partition 6 (628–638, length 11) fully missing (all '-')
-2789_microcephalus_CO: partition 7 (640–649, length 10) fully missing (all '-')
-2789_microcephalus_CO: partition 8 (651–653, length 3) fully missing (all '-')
-Sph_lacteus_GB: partition 8 (651–653, length 3) fully missing (all '-')
-Sph_dorisae_GB: partition 3 (511–600, length 90) fully missing (all '-')
-Sph_dorisae_GB: partition 4 (602–616, length 15) fully missing (all '-')
-Sph_dorisae_GB: partition 5 (618–626, length 9) fully missing (all '-')
-Sph_dorisae_GB: partition 6 (628–638, length 11) fully missing (all '-')
-Sph_dorisae_GB: partition 7 (640–649, length 10) fully missing (all '-')
-Sph_dorisae_GB: partition 8 (651–653, length 3) fully missing (all '-')
-P_luteolous_GB: partition 8 (651–653, length 3) fully missing (all '-')
+D_anataliasiasi_1: partition 0 (0–51, length 52) fully missing (all '-')
+D_anataliasiasi_1: partition 5 (650–650, length 1) fully missing (all '-')
+D_araguaya_I_1: partition 5 (650–650, length 1) fully missing (all '-')
+D_araguaya_I_2: partition 5 (650–650, length 1) fully missing (all '-')
+D_cerradensis_1: partition 0 (0–51, length 52) fully missing (all '-')
+D_leali_1: partition 5 (650–650, length 1) fully missing (all '-')
+D_microcephalus_1: partition 2 (437–614, length 178) fully missing (all '-')
+D_microcephalus_1: partition 3 (616–639, length 24) fully missing (all '-')
+D_microcephalus_1: partition 4 (641–648, length 8) fully missing (all '-')
+D_microcephalus_1: partition 5 (650–650, length 1) fully missing (all '-')
+D_nanus_1: partition 3 (616–639, length 24) fully missing (all '-')
+D_nanus_1: partition 4 (641–648, length 8) fully missing (all '-')
+D_nanus_1: partition 5 (650–650, length 1) fully missing (all '-')
+D_parviceps_1: partition 0 (0–51, length 52) fully missing (all '-')
+D_parviceps_1: partition 5 (650–650, length 1) fully missing (all '-')
+D_riveroi_M: partition 0 (0–51, length 52) fully missing (all '-')
+Phyllodytes_luteolous_M: partition 4 (641–648, length 8) fully missing (all '-')
+Phyllodytes_luteolous_M: partition 5 (650–650, length 1) fully missing (all '-')
+Sphaenorhynchus_lacteus_M: partition 4 (641–648, length 8) fully missing (all '-')
+Sphaenorhynchus_lacteus_M: partition 5 (650–650, length 1) fully missing (all '-')
 
 --- Step 4: Partitioning ---
 Method used: balanced (partitioning_round=6)
-Columns with '#' inserted: [52, 436, 510, 601, 617, 627, 639, 650]
+Columns with '#' inserted: [52, 436, 615, 640, 649]
 
 --- Summary after preprocessing ---
-No. sequences: 123
-No. columns: 654
-No. pound sign columns (#): 8
-Total no. nucleotides (A/C/G/T): 77956 bp
-Total no. gaps (-): 1439
-Total no. IUPAC N: 24
-Total no. missing values (?): 1478
+No. sequences: 42
+No. columns: 651
+No. pound sign columns (#): 5
+Total no. nucleotides (A/C/G/T): 26636 bp
+Total no. gaps (-): 475
+Total no. IUPAC N: 21
+Total no. missing values (?): 475
 
 --- Run time ---
-Wall-clock time: 0.29108620 seconds
-CPU time: 0.27233100 seconds
+Wall-clock time: 0.09897900 seconds
+CPU time: 0.09518700 seconds

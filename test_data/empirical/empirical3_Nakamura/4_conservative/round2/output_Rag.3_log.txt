@@ -2,37 +2,36 @@
 prepDyn(input_file='../test_data/empirical/empirical3_Nakamura/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical3_Nakamura/4_conservative/round2/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=2)
 
 --- Step 1: Summary before preprocessing ---
-No. sequences: 101
+No. sequences: 39
 No. columns: 427
-Total no. nucleotides (A/C/G/T only): 42681 bp
-Total no. gaps (-): 290
-Total no. IUPAC N: 5
+Total no. nucleotides (A/C/G/T only): 16319 bp
+Total no. gaps (-): 280
+Total no. IUPAC N: 4
 
 --- Step 2: Trimming (invariant columns) ---
 [0, 425, 426]
 
 --- Step 3: Missing data identification (gaps replaced with '?') ---
-Total '?' characters: 182
-Total '-' characters in fully missing partitions: 75
-Combined total: 257
+Total '?' characters: 235
+Total '-' characters in fully missing partitions: 18
+Combined total: 253
 
-2692_parviceps_CO: partition 0 (0–24, length 25) fully missing (all '-')
-4085_minutus_Maromba_RJ: partition 0 (0–24, length 25) fully missing (all '-')
-2572_branneri_Aurelino_BA: partition 0 (0–24, length 25) fully missing (all '-')
+D_anataliasiasi_1: partition 7 (422–430, length 9) fully missing (all '-')
+D_cachimbo_1: partition 7 (422–430, length 9) fully missing (all '-')
 
 --- Step 4: Partitioning ---
 Method used: conservative (partitioning_round=2)
-Columns with '#' inserted: [25, 80, 87, 115, 191, 210, 223, 245, 321, 352, 392, 417]
+Columns with '#' inserted: [82, 206, 241, 287, 348, 379, 421]
 
 --- Summary after preprocessing ---
-No. sequences: 101
-No. columns: 436
-No. pound sign columns (#): 12
-Total no. nucleotides (A/C/G/T): 42410 bp
-Total no. gaps (-): 76
-Total no. IUPAC N: 5
-Total no. missing values (?): 257
+No. sequences: 39
+No. columns: 431
+No. pound sign columns (#): 7
+Total no. nucleotides (A/C/G/T): 16228 bp
+Total no. gaps (-): 19
+Total no. IUPAC N: 4
+Total no. missing values (?): 253
 
 --- Run time ---
-Wall-clock time: 0.14610386 seconds
-CPU time: 0.14225100 seconds
+Wall-clock time: 0.05078816 seconds
+CPU time: 0.04909700 seconds

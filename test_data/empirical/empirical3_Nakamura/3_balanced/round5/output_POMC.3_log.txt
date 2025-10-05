@@ -2,58 +2,34 @@
 prepDyn(input_file='../test_data/empirical/empirical3_Nakamura/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical3_Nakamura/3_balanced/round5/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=5)
 
 --- Step 1: Summary before preprocessing ---
-No. sequences: 64
+No. sequences: 24
 No. columns: 444
-Total no. nucleotides (A/C/G/T only): 27716 bp
-Total no. gaps (-): 607
-Total no. IUPAC N: 49
+Total no. nucleotides (A/C/G/T only): 10383 bp
+Total no. gaps (-): 257
+Total no. IUPAC N: 0
 
 --- Step 2: Trimming (invariant columns) ---
-[0, 1]
+[0, 1, 435, 436, 437, 438, 439, 440, 441, 442, 443]
 
 --- Step 3: Missing data identification (gaps replaced with '?') ---
-Total '?' characters: 2
-Total '-' characters in fully missing partitions: 380
-Combined total: 382
+Total '?' characters: 170
+Total '-' characters in fully missing partitions: 0
+Combined total: 170
 
-4195_P_minutus: partition 0 (0–3, length 4) fully missing (all '-')
-4195_P_minutus: partition 1 (5–18, length 14) fully missing (all '-')
-4195_P_minutus: partition 2 (20–26, length 7) fully missing (all '-')
-4195_P_minutus: partition 3 (28–78, length 51) fully missing (all '-')
-2626_haddadi_Aurelino_BA: partition 0 (0–3, length 4) fully missing (all '-')
-2962_cf_tintinnabulum: partition 0 (0–3, length 4) fully missing (all '-')
-2962_cf_tintinnabulum: partition 1 (5–18, length 14) fully missing (all '-')
-2962_cf_tintinnabulum: partition 2 (20–26, length 7) fully missing (all '-')
-2962_cf_tintinnabulum: partition 3 (28–78, length 51) fully missing (all '-')
-2962_cf_tintinnabulum: partition 4 (80–104, length 25) fully missing (all '-')
-4100_cruzi_Anapolis_GO: partition 0 (0–3, length 4) fully missing (all '-')
-4100_cruzi_Anapolis_GO: partition 1 (5–18, length 14) fully missing (all '-')
-4632: partition 0 (0–3, length 4) fully missing (all '-')
-4088_meridianus_top: partition 0 (0–3, length 4) fully missing (all '-')
-4088_meridianus_top: partition 1 (5–18, length 14) fully missing (all '-')
-4088_meridianus_top: partition 2 (20–26, length 7) fully missing (all '-')
-4088_meridianus_top: partition 3 (28–78, length 51) fully missing (all '-')
-labialis_GB: partition 0 (0–3, length 4) fully missing (all '-')
-labialis_GB: partition 1 (5–18, length 14) fully missing (all '-')
-labialis_GB: partition 2 (20–26, length 7) fully missing (all '-')
-labialis_GB: partition 3 (28–78, length 51) fully missing (all '-')
-labialis_CG_GB: partition 0 (0–3, length 4) fully missing (all '-')
-labialis_CG_GB: partition 1 (5–18, length 14) fully missing (all '-')
-labialis_CG_GB: partition 2 (20–26, length 7) fully missing (all '-')
+
 
 --- Step 4: Partitioning ---
-Method used: balanced (partitioning_round=5)
-Columns with '#' inserted: [4, 19, 27, 79, 105]
+WARNING: 'balanced' partitioning with partitioning_round=5 was skipped for this alignment. This typically happens when the alignment has fewer blocks of missing data ('?') than required. The process will continue without partitioning this file.
 
 --- Summary after preprocessing ---
-No. sequences: 64
-No. columns: 447
-No. pound sign columns (#): 5
-Total no. nucleotides (A/C/G/T): 27606 bp
-Total no. gaps (-): 587
-Total no. IUPAC N: 49
-Total no. missing values (?): 382
+No. sequences: 24
+No. columns: 433
+No. pound sign columns (#): 0
+Total no. nucleotides (A/C/G/T): 10125 bp
+Total no. gaps (-): 81
+Total no. IUPAC N: 0
+Total no. missing values (?): 170
 
 --- Run time ---
-Wall-clock time: 0.10196209 seconds
-CPU time: 0.09763600 seconds
+Wall-clock time: 0.03555298 seconds
+CPU time: 0.03428800 seconds

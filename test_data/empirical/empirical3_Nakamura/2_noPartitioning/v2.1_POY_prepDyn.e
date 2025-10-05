@@ -1,0 +1,26160 @@
+Information : Welcome to POY 5.1.1 (5.1.1)
+Compiled on Thu Aug 6 16:57:13 -03 2020 with parallel on, interface flat,
+likelihood off, and concorde off.
+Copyright (C) 2011, 2012, 2013, 2014 Andres Varon, Nicholas Lucaroni, Lin
+Hong, Ward Wheeler, and the American Museum of Natural History.
+POY 5.1.1 comes with ABSOLUTELY NO WARRANTY; This is free software, and you
+are welcome to redistribute it under the GNU General Public License Version
+2, June 1991.
+
+
+Information : Running in parallel with 512 processes
+Information : Setting random seed value to 1757401084
+Information : 
+Information : 
+Information : 
+Information : For help, type help().
+              
+              Enjoy!
+Information : Running file v2.1_POY_script.poy
+              
+Information : Selected 0 of 0 terminals
+Information : The file Dendropsophus_synonym_list.txt contains 308 synonyms.
+Warning : I'm ignoring the self-synonym D_acreanus to D_acreanus.
+Warning : I'm ignoring the self-synonym D_dutrai to D_dutrai.
+Warning : I'm ignoring the self-synonym D_elegans to D_elegans.
+Information : Selected 0 of 0 terminals
+Information : Reading file dendropsophus124.ss of type hennig86/Nona
+
+Error : syntax error
+Error : Unrecognized command between characters 37075 and 40059
+Information : The file dendropsophus124.ss defines 201 static homology
+              characters, 0 unaligned sequences, and 0 trees, containing 46
+              taxa.
+Status : Loading Characters : 0 of 46 -- Storing the character specifications
+Status : Loading Characters : 1 of 46 -- Storing the character specifications
+Status : Loading Characters : 2 of 46 -- Storing the character specifications
+Status : Loading Characters : 3 of 46 -- Storing the character specifications
+Status : Loading Characters : 4 of 46 -- Storing the character specifications
+Status : Loading Characters : 5 of 46 -- Storing the character specifications
+Status : Loading Characters : 6 of 46 -- Storing the character specifications
+Status : Loading Characters : 7 of 46 -- Storing the character specifications
+Status : Loading Characters : 8 of 46 -- Storing the character specifications
+Status : Loading Characters : 9 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 46 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 46 -- Storing the character specifications
+Status : Loading Characters Finished
+Information : Vectorized:44 of 44 characters.
+Information : Reading file output_COI.2_preprocessed.fasta of type input
+              sequences
+
+Information : The file output_COI.2_preprocessed.fasta contains sequences of
+              123 taxa, each sequence holding 1 fragment.
+
+Information : Reading file output_Cytb.1_preprocessed.fasta of type input
+              sequences
+
+Information : The file output_Cytb.1_preprocessed.fasta contains sequences of
+              161 taxa, each sequence holding 1 fragment.
+
+Information : Reading file output_H1.3_preprocessed.fasta of type input
+              sequences
+
+Information : The file output_H1.3_preprocessed.fasta contains sequences of
+              249 taxa, each sequence holding 1 fragment.
+
+Information : Reading file output_POMC.3_preprocessed.fasta of type input
+              sequences
+
+Information : The file output_POMC.3_preprocessed.fasta contains sequences of
+              64 taxa, each sequence holding 1 fragment.
+
+Information : Reading file output_Rag.3_preprocessed.fasta of type input
+              sequences
+
+Information : The file output_Rag.3_preprocessed.fasta contains sequences of
+              101 taxa, each sequence holding 1 fragment.
+
+Information : Reading file output_Rhod.3_preprocessed.fasta of type input
+              sequences
+
+Information : The file output_Rhod.3_preprocessed.fasta contains sequences of
+              110 taxa, each sequence holding 1 fragment.
+
+Information : Reading file output_SIA.2_preprocessed.fasta of type input
+              sequences
+
+Information : The file output_SIA.2_preprocessed.fasta contains sequences of
+              115 taxa, each sequence holding 1 fragment.
+
+Information : Reading file output_TYR.1_preprocessed.fasta of type input
+              sequences
+
+Information : The file output_TYR.1_preprocessed.fasta contains sequences of
+              86 taxa, each sequence holding 1 fragment.
+
+Information : Vectorized:44 of 44 characters.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Warning : Taxa *Xenohyla_truncata_2, *Xenohyla_eugenioi_2,
+          *Sphaenorhynchus_dorisae*, *Scinax_littoralis*,
+          *Scinax_fuscovarius*, *Scarthyla_goinorum_2*, *Lysapus_laevis_2*,
+          *Itapotihyla_langsdorffi_2, *D_yaracuyanus, *D_xapuriensis_2,
+          *D_xapuriensis, *D_werneri_2, *D_virolinensis*,
+          *D_triangulum_2_Tab, *D_timbeba_2, *D_timbeba_1*, *D_subocularis,
+          *D_studerae_2, *D_stingi_3, *D_stingi_2, *D_stingi_1,
+          *D_sp.ARB_2011, *D_soaresi_3*, *D_soaresi_2, *D_soaresi_1,
+          *D_shiwiarum_3, *D_shiwiarum_2, *D_seniculus_3, *D_seniculus_2*,
+          *D_seniculus_1, *D_schubarti_2, *D_schubarti_1, *D_sartori_2,
+          *D_sarayacuensis_2, *D_sarayacuensis_1, *D_salli_2, *D_salli_1,
+          *D_ruschii_2, *D_rossalleni_2, *D_rossalleni_1, *D_rhodopeplus_2,
+          *D_reicheli_2, *D_pseudomeridianus_2, *D_praestans,
+          *D_pauiniensis_1, *D_parviceps_2*, *D_padreluna, *D_ozzyi_2,
+          *D_ozzyi_1, *D_oliveirai_2, *D_oliveirai_1*, *D_novaisi_3,
+          *D_novaisi_2, *D_novaisi_1*, *D_norandinus_2, *D_norandinus_1,
+          *D_nanus_2, *D_nahdereri_2*, *D_nahdereri_1, *D_miyatai,
+          *D_minutus_III_1, *D_minutus_II, *D_microps_2*, *D_microps_1,
+          *D_microcephalus_2, *D_meridianus_2, *D_meridianus_1*,
+          *D_melanargyreus_4, *D_melanargyreus_3, *D_melanargyreus_2,
+          *D_melanargyreus_1, *D_marmoratus_3, *D_marmoratus_2,
+          *D_manonegra_2, *D_manonegra_1, *D_luteoocelatus, *D_luddeckei_2,
+          *D_luddeckei_1, *D_leucophyllatus_2_Tab, *D_leucophyllatus_1,
+          *D_leali_2, *D_labialis_2, *D_koechlini, *D_haraldschultzi_2*,
+          *D_haraldschultzi_1, *D_haddadi_3, *D_haddadi_2*, *D_haddadi_1,
+          *D_gryllatus_hDNA, *D_giesleri_3, *D_giesleri_2, *D_giesleri_1,
+          *D_gaucheri_2, *D_garagoensis_2, *D_garagoensis_1, *D_frosti,
+          *D_elegans_I_2, *D_elegans_II_2, *D_elegans_II_1, *D_ebraccatus_2,
+          *D_ebraccatus_1, *D_dutrai, *D_delarivai, *D_decipiens_V_2,
+          *D_decipiens_V_1, *D_decipiens_VI_2, *D_decipiens_VI_1,
+          *D_decipiens_VIII, *D_decipiens_VII, *D_decipiens_IV_2,
+          *D_decipiens_IV_1, *D_decipiens_III_2, *D_decipiens_III_1,
+          *D_decipiens_II, *D_columbianus_2*, *D_cf_goughi, *D_carnifex*,
+          *D_brevifrons_2, *D_brevifrons_1, *D_bokermanni_2, *D_bokermanni_1,
+          *D_bogerti_2, *D_bogerti_1, *D_bipunctatus_2, *D_bifurcus,
+          *D_berthalutzae_GB, *D_berthalutzae_2*, *D_berthalutzae_1,
+          *D_aperomeus, *D_anceps_3*, *D_anceps_2, *D_anceps_1,
+          *D_aff_minutus, *D_acreanus, *4085_minutus_Maromba_RJ are included
+          in terminals files but is not loaded in data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information : Selected Terminals:
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information : 
+Information : Total included: 115
+Information : Total excluded: 136
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information : Vectorized:44 of 44 characters.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information : Selected 115 of 251 terminals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Status : RAS + TBR : 0 
+Status : RAS + TBR : 0 Searching on tree number 1
+Status : Wagner : 2 of 115 -- Wagner tree with cost 56.
+Status : Wagner : 3 of 115 -- Wagner tree with cost 524.
+Status : Wagner : 4 of 115 -- Wagner tree with cost 790.
+Status : Wagner : 5 of 115 -- Wagner tree with cost 808.
+Status : Wagner : 6 of 115 -- Wagner tree with cost 852.
+Status : Wagner : 7 of 115 -- Wagner tree with cost 871.
+Status : Wagner : 8 of 115 -- Wagner tree with cost 871.
+Status : Wagner : 9 of 115 -- Wagner tree with cost 1084.
+Status : Wagner : 10 of 115 -- Wagner tree with cost 1523.
+Status : Wagner : 11 of 115 -- Wagner tree with cost 1525.
+Status : Wagner : 12 of 115 -- Wagner tree with cost 1536.
+Status : Wagner : 13 of 115 -- Wagner tree with cost 1537.
+Status : Wagner : 14 of 115 -- Wagner tree with cost 1790.
+Status : Wagner : 15 of 115 -- Wagner tree with cost 1951.
+Status : Wagner : 16 of 115 -- Wagner tree with cost 1958.
+Status : Wagner : 17 of 115 -- Wagner tree with cost 1981.
+Status : Wagner : 18 of 115 -- Wagner tree with cost 1985.
+Status : Wagner : 19 of 115 -- Wagner tree with cost 2322.
+Status : Wagner : 20 of 115 -- Wagner tree with cost 2506.
+Status : Wagner : 21 of 115 -- Wagner tree with cost 2508.
+Status : Wagner : 22 of 115 -- Wagner tree with cost 2512.
+Status : Wagner : 23 of 115 -- Wagner tree with cost 2738.
+Status : Wagner : 24 of 115 -- Wagner tree with cost 2906.
+Status : Wagner : 25 of 115 -- Wagner tree with cost 3032.
+Status : Wagner : 26 of 115 -- Wagner tree with cost 3055.
+Status : Wagner : 27 of 115 -- Wagner tree with cost 3055.
+Status : Wagner : 28 of 115 -- Wagner tree with cost 3222.
+Status : Wagner : 29 of 115 -- Wagner tree with cost 3471.
+Status : Wagner : 30 of 115 -- Wagner tree with cost 3480.
+Status : Wagner : 31 of 115 -- Wagner tree with cost 3633.
+Status : Wagner : 32 of 115 -- Wagner tree with cost 4071.
+Status : Wagner : 33 of 115 -- Wagner tree with cost 4071.
+Status : Wagner : 34 of 115 -- Wagner tree with cost 4313.
+Status : Wagner : 35 of 115 -- Wagner tree with cost 4490.
+Status : Wagner : 36 of 115 -- Wagner tree with cost 4551.
+Status : Wagner : 37 of 115 -- Wagner tree with cost 4661.
+Status : Wagner : 38 of 115 -- Wagner tree with cost 4855.
+Status : Wagner : 39 of 115 -- Wagner tree with cost 5054.
+Status : Wagner : 40 of 115 -- Wagner tree with cost 5198.
+Status : Wagner : 41 of 115 -- Wagner tree with cost 5387.
+Status : Wagner : 42 of 115 -- Wagner tree with cost 5399.
+Status : Wagner : 43 of 115 -- Wagner tree with cost 5989.
+Status : Wagner : 44 of 115 -- Wagner tree with cost 6126.
+Status : Wagner : 45 of 115 -- Wagner tree with cost 6486.
+Status : Wagner : 46 of 115 -- Wagner tree with cost 6486.
+Status : Wagner : 47 of 115 -- Wagner tree with cost 6629.
+Status : Wagner : 48 of 115 -- Wagner tree with cost 6745.
+Status : Wagner : 49 of 115 -- Wagner tree with cost 6771.
+Status : Wagner : 50 of 115 -- Wagner tree with cost 6772.
+Status : Wagner : 51 of 115 -- Wagner tree with cost 7147.
+Status : Wagner : 52 of 115 -- Wagner tree with cost 7147.
+Status : Wagner : 53 of 115 -- Wagner tree with cost 7214.
+Status : Wagner : 54 of 115 -- Wagner tree with cost 7285.
+Status : Wagner : 55 of 115 -- Wagner tree with cost 7735.
+Status : Wagner : 56 of 115 -- Wagner tree with cost 7757.
+Status : Wagner : 57 of 115 -- Wagner tree with cost 7761.
+Status : Wagner : 58 of 115 -- Wagner tree with cost 8106.
+Status : Wagner : 59 of 115 -- Wagner tree with cost 8112.
+Status : Wagner : 60 of 115 -- Wagner tree with cost 8272.
+Status : Wagner : 61 of 115 -- Wagner tree with cost 8277.
+Status : Wagner : 62 of 115 -- Wagner tree with cost 8375.
+Status : Wagner : 63 of 115 -- Wagner tree with cost 8384.
+Status : Wagner : 64 of 115 -- Wagner tree with cost 8384.
+Status : Wagner : 65 of 115 -- Wagner tree with cost 8385.
+Status : Wagner : 66 of 115 -- Wagner tree with cost 8385.
+Status : Wagner : 67 of 115 -- Wagner tree with cost 8388.
+Status : Wagner : 68 of 115 -- Wagner tree with cost 8674.
+Status : Wagner : 69 of 115 -- Wagner tree with cost 8675.
+Status : Wagner : 70 of 115 -- Wagner tree with cost 8676.
+Status : Wagner : 71 of 115 -- Wagner tree with cost 8933.
+Status : Wagner : 72 of 115 -- Wagner tree with cost 9381.
+Status : Wagner : 73 of 115 -- Wagner tree with cost 9498.
+Status : Wagner : 74 of 115 -- Wagner tree with cost 9505.
+Status : Wagner : 75 of 115 -- Wagner tree with cost 9507.
+Status : Wagner : 76 of 115 -- Wagner tree with cost 9778.
+Status : Wagner : 77 of 115 -- Wagner tree with cost 10231.
+Status : Wagner : 78 of 115 -- Wagner tree with cost 10318.
+Status : Wagner : 79 of 115 -- Wagner tree with cost 10410.
+Status : Wagner : 80 of 115 -- Wagner tree with cost 10412.
+Status : Wagner : 81 of 115 -- Wagner tree with cost 10414.
+Status : Wagner : 82 of 115 -- Wagner tree with cost 10414.
+Status : Wagner : 83 of 115 -- Wagner tree with cost 10414.
+Status : Wagner : 84 of 115 -- Wagner tree with cost 10417.
+Status : Wagner : 85 of 115 -- Wagner tree with cost 10626.
+Status : Wagner : 86 of 115 -- Wagner tree with cost 11058.
+Status : Wagner : 87 of 115 -- Wagner tree with cost 11059.
+Status : Wagner : 88 of 115 -- Wagner tree with cost 11059.
+Status : Wagner : 89 of 115 -- Wagner tree with cost 11066.
+Status : Wagner : 90 of 115 -- Wagner tree with cost 11067.
+Status : Wagner : 91 of 115 -- Wagner tree with cost 11074.
+Status : Wagner : 92 of 115 -- Wagner tree with cost 11076.
+Status : Wagner : 93 of 115 -- Wagner tree with cost 11077.
+Status : Wagner : 94 of 115 -- Wagner tree with cost 11410.
+Status : Wagner : 95 of 115 -- Wagner tree with cost 11412.
+Status : Wagner : 96 of 115 -- Wagner tree with cost 11499.
+Status : Wagner : 97 of 115 -- Wagner tree with cost 11770.
+Status : Wagner : 98 of 115 -- Wagner tree with cost 11771.
+Status : Wagner : 99 of 115 -- Wagner tree with cost 11953.
+Status : Wagner : 100 of 115 -- Wagner tree with cost 11955.
+Status : Wagner : 101 of 115 -- Wagner tree with cost 11955.
+Status : Wagner : 102 of 115 -- Wagner tree with cost 12174.
+Status : Wagner : 103 of 115 -- Wagner tree with cost 12174.
+Status : Wagner : 104 of 115 -- Wagner tree with cost 12734.
+Status : Wagner : 105 of 115 -- Wagner tree with cost 12957.
+Status : Wagner : 106 of 115 -- Wagner tree with cost 12959.
+Status : Wagner : 107 of 115 -- Wagner tree with cost 12966.
+Status : Wagner : 108 of 115 -- Wagner tree with cost 12976.
+Status : Wagner : 109 of 115 -- Wagner tree with cost 12977.
+Status : Wagner : 110 of 115 -- Wagner tree with cost 13126.
+Status : Wagner : 111 of 115 -- Wagner tree with cost 13265.
+Status : Wagner : 112 of 115 -- Wagner tree with cost 13266.
+Status : Wagner : 113 of 115 -- Wagner tree with cost 13295.
+Status : Wagner : 114 of 115 -- Wagner tree with cost 13545.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 13789 13789.
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   16 seconds
+Status : TBR : 13787 13787.
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   32 seconds
+Information : 
+                Timer:
+                   40 seconds
+Information : 
+                Timer:
+                   46 seconds
+Information : 
+                Timer:
+                   57 seconds
+Information : 
+                Timer:
+                   65 seconds
+Status : TBR : 13781 13781.
+Information : 
+                Timer:
+                   66 seconds
+Information : 
+                Timer:
+                   78 seconds
+Information : 
+                Timer:
+                   85 seconds
+Status : TBR : 13774 13774.
+Information : 
+                Timer:
+                   88 seconds
+Information : 
+                Timer:
+                   100 seconds
+Information : 
+                Timer:
+                   108 seconds
+Information : 
+                Timer:
+                   115 seconds
+Information : 
+                Timer:
+                   123 seconds
+Information : 
+                Timer:
+                   130 seconds
+Information : 
+                Timer:
+                   138 seconds
+Information : 
+                Timer:
+                   166 seconds
+Status : TBR : 13773 13773.
+Information : 
+                Timer:
+                   168 seconds
+Information : 
+                Timer:
+                   178 seconds
+Information : 
+                Timer:
+                   201 seconds
+Information : 
+                Timer:
+                   207 seconds
+Information : 
+                Timer:
+                   215 seconds
+Information : 
+                Timer:
+                   256 seconds
+Information : 
+                Timer:
+                   301 seconds
+Information : 
+                Timer:
+                   308 seconds
+Information : 
+                Timer:
+                   313 seconds
+Information : 
+                Timer:
+                   320 seconds
+Information : 
+                Timer:
+                   372 seconds
+Information : 
+                Timer:
+                   388 seconds
+Information : 
+                Timer:
+                   394 seconds
+Information : 
+                Timer:
+                   430 seconds
+Information : 
+                Timer:
+                   440 seconds
+Information : 
+                Timer:
+                   487 seconds
+Information : 
+                Timer:
+                   492 seconds
+Information : 
+                Timer:
+                   498 seconds
+Information : 
+                Timer:
+                   531 seconds
+Information : 
+                Timer:
+                   541 seconds
+Information : 
+                Timer:
+                   546 seconds
+Status : TBR : 13754 13754.
+Information : 
+                Timer:
+                   548 seconds
+Status : TBR : 13753 13753.
+Information : 
+                Timer:
+                   560 seconds
+Information : 
+                Timer:
+                   623 seconds
+Information : 
+                Timer:
+                   629 seconds
+Information : 
+                Timer:
+                   634 seconds
+Information : 
+                Timer:
+                   651 seconds
+Information : 
+                Timer:
+                   656 seconds
+Information : 
+                Timer:
+                   671 seconds
+Information : 
+                Timer:
+                   679 seconds
+Information : 
+                Timer:
+                   693 seconds
+Information : 
+                Timer:
+                   705 seconds
+Information : 
+                Timer:
+                   720 seconds
+Status : TBR : 13741 13741.
+Information : 
+                Timer:
+                   723 seconds
+Information : 
+                Timer:
+                   740 seconds
+Information : 
+                Timer:
+                   745 seconds
+Information : 
+                Timer:
+                   752 seconds
+Information : 
+                Timer:
+                   768 seconds
+Status : TBR : 13737 13737.
+Information : 
+                Timer:
+                   771 seconds
+Information : 
+                Timer:
+                   786 seconds
+Information : 
+                Timer:
+                   792 seconds
+Information : 
+                Timer:
+                   795 seconds
+Information : 
+                Timer:
+                   864 seconds
+Information : 
+                Timer:
+                   870 seconds
+Information : 
+                Timer:
+                   930 seconds
+Information : 
+                Timer:
+                   954 seconds
+Information : 
+                Timer:
+                   1019 seconds
+Information : 
+                Timer:
+                   1026 seconds
+Information : 
+                Timer:
+                   1088 seconds
+Information : 
+                Timer:
+                   1094 seconds
+Information : 
+                Timer:
+                   1116 seconds
+Information : 
+                Timer:
+                   1122 seconds
+Information : 
+                Timer:
+                   1129 seconds
+Information : 
+                Timer:
+                   1147 seconds
+Information : 
+                Timer:
+                   1153 seconds
+Information : 
+                Timer:
+                   1174 seconds
+Information : 
+                Timer:
+                   1202 seconds
+Information : 
+                Timer:
+                   1207 seconds
+Information : 
+                Timer:
+                   1211 seconds
+Status : TBR : 13735 13735.
+Information : 
+                Timer:
+                   1213 seconds
+Information : 
+                Timer:
+                   1222 seconds
+Information : 
+                Timer:
+                   1227 seconds
+Information : 
+                Timer:
+                   1239 seconds
+Information : 
+                Timer:
+                   1249 seconds
+Information : 
+                Timer:
+                   1250 seconds
+Information : 
+                Timer:
+                   1283 seconds
+Information : 
+                Timer:
+                   1288 seconds
+Information : 
+                Timer:
+                   1295 seconds
+Information : 
+                Timer:
+                   1301 seconds
+Information : 
+                Timer:
+                   1306 seconds
+Information : 
+                Timer:
+                   1311 seconds
+Information : 
+                Timer:
+                   1321 seconds
+Information : 
+                Timer:
+                   1323 seconds
+Information : 
+                Timer:
+                   1324 seconds
+Information : 
+                Timer:
+                   1329 seconds
+Information : 
+                Timer:
+                   1334 seconds
+Information : 
+                Timer:
+                   1340 seconds
+Status : TBR : 13730 13730.
+Information : 
+                Timer:
+                   1341 seconds
+Information : 
+                Timer:
+                   1350 seconds
+Information : 
+                Timer:
+                   1368 seconds
+Information : 
+                Timer:
+                   1373 seconds
+Information : 
+                Timer:
+                   1441 seconds
+Information : 
+                Timer:
+                   1446 seconds
+Information : 
+                Timer:
+                   1452 seconds
+Information : 
+                Timer:
+                   1458 seconds
+Information : 
+                Timer:
+                   1463 seconds
+Information : 
+                Timer:
+                   1474 seconds
+Information : 
+                Timer:
+                   1478 seconds
+Information : 
+                Timer:
+                   1483 seconds
+Information : 
+                Timer:
+                   1488 seconds
+Information : 
+                Timer:
+                   1523 seconds
+Information : 
+                Timer:
+                   1526 seconds
+Information : 
+                Timer:
+                   1531 seconds
+Information : 
+                Timer:
+                   1539 seconds
+Information : 
+                Timer:
+                   1544 seconds
+Status : TBR : 13725 13725.
+Information : 
+                Timer:
+                   1546 seconds
+Information : 
+                Timer:
+                   1551 seconds
+Information : 
+                Timer:
+                   1559 seconds
+Information : 
+                Timer:
+                   1562 seconds
+Information : 
+                Timer:
+                   1569 seconds
+Information : 
+                Timer:
+                   1571 seconds
+Information : 
+                Timer:
+                   1574 seconds
+Information : 
+                Timer:
+                   1576 seconds
+Information : 
+                Timer:
+                   1579 seconds
+Information : 
+                Timer:
+                   1581 seconds
+Information : 
+                Timer:
+                   1584 seconds
+Information : 
+                Timer:
+                   1587 seconds
+Information : 
+                Timer:
+                   1590 seconds
+Information : 
+                Timer:
+                   1592 seconds
+Information : 
+                Timer:
+                   1594 seconds
+Information : 
+                Timer:
+                   1596 seconds
+Information : 
+                Timer:
+                   1597 seconds
+Information : 
+                Timer:
+                   1599 seconds
+Information : 
+                Timer:
+                   1600 seconds
+Information : 
+                Timer:
+                   1601 seconds
+Information : 
+                Timer:
+                   1603 seconds
+Status : TBR : 13724 13724.
+Information : 
+                Timer:
+                   1605 seconds
+Information : 
+                Timer:
+                   1606 seconds
+Information : 
+                Timer:
+                   1608 seconds
+Information : 
+                Timer:
+                   1609 seconds
+Information : 
+                Timer:
+                   1611 seconds
+Information : 
+                Timer:
+                   1613 seconds
+Information : 
+                Timer:
+                   1644 seconds
+Information : 
+                Timer:
+                   1649 seconds
+Information : 
+                Timer:
+                   1651 seconds
+Information : 
+                Timer:
+                   1652 seconds
+Information : 
+                Timer:
+                   1653 seconds
+Information : 
+                Timer:
+                   1654 seconds
+Information : 
+                Timer:
+                   1655 seconds
+Information : 
+                Timer:
+                   1656 seconds
+Information : 
+                Timer:
+                   1657 seconds
+Status : TBR : 13722 13722.
+Information : 
+                Timer:
+                   1659 seconds
+Information : 
+                Timer:
+                   1665 seconds
+Information : 
+                Timer:
+                   1667 seconds
+Information : 
+                Timer:
+                   1669 seconds
+Information : 
+                Timer:
+                   1670 seconds
+Information : 
+                Timer:
+                   1672 seconds
+Information : 
+                Timer:
+                   1673 seconds
+Information : 
+                Timer:
+                   1675 seconds
+Status : TBR : 13719 13719.
+Information : 
+                Timer:
+                   1678 seconds
+Information : 
+                Timer:
+                   1684 seconds
+Information : 
+                Timer:
+                   1703 seconds
+Information : 
+                Timer:
+                   1705 seconds
+Information : 
+                Timer:
+                   1706 seconds
+Information : 
+                Timer:
+                   1709 seconds
+Information : 
+                Timer:
+                   1711 seconds
+Information : 
+                Timer:
+                   1714 seconds
+Information : 
+                Timer:
+                   1716 seconds
+Information : 
+                Timer:
+                   1717 seconds
+Information : 
+                Timer:
+                   1719 seconds
+Information : 
+                Timer:
+                   1720 seconds
+Information : 
+                Timer:
+                   1721 seconds
+Information : 
+                Timer:
+                   1723 seconds
+Information : 
+                Timer:
+                   1725 seconds
+Information : 
+                Timer:
+                   1727 seconds
+Information : 
+                Timer:
+                   1729 seconds
+Information : 
+                Timer:
+                   1730 seconds
+Information : 
+                Timer:
+                   1731 seconds
+Information : 
+                Timer:
+                   1732 seconds
+Information : 
+                Timer:
+                   1733 seconds
+Information : 
+                Timer:
+                   1735 seconds
+Information : 
+                Timer:
+                   1736 seconds
+Information : 
+                Timer:
+                   1737 seconds
+Information : 
+                Timer:
+                   1738 seconds
+Information : 
+                Timer:
+                   1740 seconds
+Information : 
+                Timer:
+                   1741 seconds
+Information : 
+                Timer:
+                   1761 seconds
+Information : 
+                Timer:
+                   1764 seconds
+Information : 
+                Timer:
+                   1766 seconds
+Information : 
+                Timer:
+                   1767 seconds
+Information : 
+                Timer:
+                   1769 seconds
+Information : 
+                Timer:
+                   1770 seconds
+Information : 
+                Timer:
+                   1771 seconds
+Information : 
+                Timer:
+                   1772 seconds
+Information : 
+                Timer:
+                   1777 seconds
+Information : 
+                Timer:
+                   1778 seconds
+Information : 
+                Timer:
+                   1779 seconds
+Information : 
+                Timer:
+                   1780 seconds
+Information : 
+                Timer:
+                   1787 seconds
+Information : 
+                Timer:
+                   1789 seconds
+Information : 
+                Timer:
+                   1792 seconds
+Information : 
+                Timer:
+                   1793 seconds
+Information : 
+                Timer:
+                   1795 seconds
+Information : 
+                Timer:
+                   1796 seconds
+Information : 
+                Timer:
+                   1797 seconds
+Information : 
+                Timer:
+                   1798 seconds
+Information : 
+                Timer:
+                   1800 seconds
+Information : 
+                Timer:
+                   1803 seconds
+Information : 
+                Timer:
+                   1805 seconds
+Information : 
+                Timer:
+                   1806 seconds
+Information : 
+                Timer:
+                   1808 seconds
+Information : 
+                Timer:
+                   1809 seconds
+Information : 
+                Timer:
+                   1810 seconds
+Information : 
+                Timer:
+                   1811 seconds
+Information : 
+                Timer:
+                   1812 seconds
+Information : 
+                Timer:
+                   1813 seconds
+Information : 
+                Timer:
+                   1820 seconds
+Information : 
+                Timer:
+                   1826 seconds
+Information : 
+                Timer:
+                   1838 seconds
+Information : 
+                Timer:
+                   1845 seconds
+Information : 
+                Timer:
+                   1851 seconds
+Information : 
+                Timer:
+                   1857 seconds
+Information : 
+                Timer:
+                   1866 seconds
+Information : 
+                Timer:
+                   1872 seconds
+Information : 
+                Timer:
+                   1875 seconds
+Information : 
+                Timer:
+                   1881 seconds
+Information : 
+                Timer:
+                   1887 seconds
+Information : 
+                Timer:
+                   1895 seconds
+Information : 
+                Timer:
+                   1902 seconds
+Information : 
+                Timer:
+                   1908 seconds
+Information : 
+                Timer:
+                   1915 seconds
+Information : 
+                Timer:
+                   1920 seconds
+Information : 
+                Timer:
+                   1926 seconds
+Information : 
+                Timer:
+                   1933 seconds
+Information : 
+                Timer:
+                   1961 seconds
+Information : 
+                Timer:
+                   1967 seconds
+Information : 
+                Timer:
+                   1972 seconds
+Information : 
+                Timer:
+                   1993 seconds
+Information : 
+                Timer:
+                   2000 seconds
+Information : 
+                Timer:
+                   2006 seconds
+Information : 
+                Timer:
+                   2043 seconds
+Information : 
+                Timer:
+                   2086 seconds
+Information : 
+                Timer:
+                   2092 seconds
+Information : 
+                Timer:
+                   2097 seconds
+Information : 
+                Timer:
+                   2103 seconds
+Information : 
+                Timer:
+                   2153 seconds
+Information : 
+                Timer:
+                   2169 seconds
+Information : 
+                Timer:
+                   2175 seconds
+Information : 
+                Timer:
+                   2210 seconds
+Information : 
+                Timer:
+                   2221 seconds
+Information : 
+                Timer:
+                   2265 seconds
+Information : 
+                Timer:
+                   2271 seconds
+Information : 
+                Timer:
+                   2277 seconds
+Information : 
+                Timer:
+                   2308 seconds
+Information : 
+                Timer:
+                   2317 seconds
+Information : 
+                Timer:
+                   2323 seconds
+Information : 
+                Timer:
+                   2324 seconds
+Information : 
+                Timer:
+                   2325 seconds
+Information : 
+                Timer:
+                   2383 seconds
+Information : 
+                Timer:
+                   2388 seconds
+Information : 
+                Timer:
+                   2394 seconds
+Information : 
+                Timer:
+                   2409 seconds
+Information : 
+                Timer:
+                   2416 seconds
+Information : 
+                Timer:
+                   2430 seconds
+Information : 
+                Timer:
+                   2437 seconds
+Information : 
+                Timer:
+                   2452 seconds
+Information : 
+                Timer:
+                   2463 seconds
+Information : 
+                Timer:
+                   2477 seconds
+Information : 
+                Timer:
+                   2482 seconds
+Information : 
+                Timer:
+                   2495 seconds
+Information : 
+                Timer:
+                   2501 seconds
+Information : 
+                Timer:
+                   2506 seconds
+Information : 
+                Timer:
+                   2521 seconds
+Information : 
+                Timer:
+                   2531 seconds
+Information : 
+                Timer:
+                   2541 seconds
+Information : 
+                Timer:
+                   2547 seconds
+Information : 
+                Timer:
+                   2551 seconds
+Information : 
+                Timer:
+                   2617 seconds
+Information : 
+                Timer:
+                   2622 seconds
+Information : 
+                Timer:
+                   2681 seconds
+Information : 
+                Timer:
+                   2717 seconds
+Information : 
+                Timer:
+                   2782 seconds
+Information : 
+                Timer:
+                   2786 seconds
+Information : 
+                Timer:
+                   2847 seconds
+Information : 
+                Timer:
+                   2852 seconds
+Information : 
+                Timer:
+                   2866 seconds
+Information : 
+                Timer:
+                   2872 seconds
+Information : 
+                Timer:
+                   2879 seconds
+Information : 
+                Timer:
+                   2897 seconds
+Information : 
+                Timer:
+                   2902 seconds
+Information : 
+                Timer:
+                   2922 seconds
+Information : 
+                Timer:
+                   2926 seconds
+Information : 
+                Timer:
+                   2932 seconds
+Information : 
+                Timer:
+                   2936 seconds
+Information : 
+                Timer:
+                   2959 seconds
+Information : 
+                Timer:
+                   2964 seconds
+Information : 
+                Timer:
+                   2968 seconds
+Information : 
+                Timer:
+                   2978 seconds
+Information : 
+                Timer:
+                   2987 seconds
+Information : 
+                Timer:
+                   2988 seconds
+Information : 
+                Timer:
+                   3018 seconds
+Information : 
+                Timer:
+                   3022 seconds
+Information : 
+                Timer:
+                   3030 seconds
+Information : 
+                Timer:
+                   3035 seconds
+Information : 
+                Timer:
+                   3039 seconds
+Information : 
+                Timer:
+                   3045 seconds
+Information : 
+                Timer:
+                   3055 seconds
+Information : 
+                Timer:
+                   3057 seconds
+Information : 
+                Timer:
+                   3058 seconds
+Information : 
+                Timer:
+                   3063 seconds
+Information : 
+                Timer:
+                   3068 seconds
+Information : 
+                Timer:
+                   3074 seconds
+Information : 
+                Timer:
+                   3141 seconds
+Information : 
+                Timer:
+                   3146 seconds
+Information : 
+                Timer:
+                   3152 seconds
+Information : 
+                Timer:
+                   3156 seconds
+Information : 
+                Timer:
+                   3224 seconds
+Information : 
+                Timer:
+                   3229 seconds
+Information : 
+                Timer:
+                   3248 seconds
+Information : 
+                Timer:
+                   3254 seconds
+Information : 
+                Timer:
+                   3259 seconds
+Information : 
+                Timer:
+                   3306 seconds
+Information : 
+                Timer:
+                   3310 seconds
+Information : 
+                Timer:
+                   3315 seconds
+Information : 
+                Timer:
+                   3319 seconds
+Information : 
+                Timer:
+                   3350 seconds
+Information : 
+                Timer:
+                   3354 seconds
+Information : 
+                Timer:
+                   3359 seconds
+Information : 
+                Timer:
+                   3365 seconds
+Information : 
+                Timer:
+                   3370 seconds
+Information : 
+                Timer:
+                   3380 seconds
+Information : 
+                Timer:
+                   3382 seconds
+Information : 
+                Timer:
+                   3387 seconds
+Information : 
+                Timer:
+                   3390 seconds
+Information : 
+                Timer:
+                   3393 seconds
+Information : 
+                Timer:
+                   3395 seconds
+Information : 
+                Timer:
+                   3398 seconds
+Information : 
+                Timer:
+                   3401 seconds
+Information : 
+                Timer:
+                   3403 seconds
+Information : 
+                Timer:
+                   3405 seconds
+Information : 
+                Timer:
+                   3408 seconds
+Information : 
+                Timer:
+                   3410 seconds
+Information : 
+                Timer:
+                   3413 seconds
+Information : 
+                Timer:
+                   3415 seconds
+Information : 
+                Timer:
+                   3417 seconds
+Information : 
+                Timer:
+                   3419 seconds
+Information : 
+                Timer:
+                   3420 seconds
+Information : 
+                Timer:
+                   3422 seconds
+Information : 
+                Timer:
+                   3423 seconds
+Information : 
+                Timer:
+                   3424 seconds
+Information : 
+                Timer:
+                   3426 seconds
+Information : 
+                Timer:
+                   3429 seconds
+Information : 
+                Timer:
+                   3430 seconds
+Information : 
+                Timer:
+                   3431 seconds
+Information : 
+                Timer:
+                   3432 seconds
+Information : 
+                Timer:
+                   3433 seconds
+Information : 
+                Timer:
+                   3461 seconds
+Information : 
+                Timer:
+                   3464 seconds
+Information : 
+                Timer:
+                   3466 seconds
+Information : 
+                Timer:
+                   3467 seconds
+Information : 
+                Timer:
+                   3468 seconds
+Information : 
+                Timer:
+                   3469 seconds
+Information : 
+                Timer:
+                   3470 seconds
+Information : 
+                Timer:
+                   3471 seconds
+Information : 
+                Timer:
+                   3472 seconds
+Information : 
+                Timer:
+                   3483 seconds
+Information : 
+                Timer:
+                   3486 seconds
+Information : 
+                Timer:
+                   3488 seconds
+Information : 
+                Timer:
+                   3489 seconds
+Information : 
+                Timer:
+                   3490 seconds
+Information : 
+                Timer:
+                   3491 seconds
+Information : 
+                Timer:
+                   3492 seconds
+Information : 
+                Timer:
+                   3493 seconds
+Information : 
+                Timer:
+                   3497 seconds
+Status : TBR Finished
+Status : TBR : 13700 13700.
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   14 seconds
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   26 seconds
+Information : 
+                Timer:
+                   33 seconds
+Information : 
+                Timer:
+                   39 seconds
+Information : 
+                Timer:
+                   49 seconds
+Information : 
+                Timer:
+                   55 seconds
+Information : 
+                Timer:
+                   62 seconds
+Information : 
+                Timer:
+                   68 seconds
+Information : 
+                Timer:
+                   74 seconds
+Information : 
+                Timer:
+                   80 seconds
+Information : 
+                Timer:
+                   86 seconds
+Information : 
+                Timer:
+                   93 seconds
+Information : 
+                Timer:
+                   99 seconds
+Information : 
+                Timer:
+                   105 seconds
+Information : 
+                Timer:
+                   134 seconds
+Information : 
+                Timer:
+                   140 seconds
+Information : 
+                Timer:
+                   152 seconds
+Information : 
+                Timer:
+                   158 seconds
+Information : 
+                Timer:
+                   163 seconds
+Information : 
+                Timer:
+                   194 seconds
+Information : 
+                Timer:
+                   229 seconds
+Information : 
+                Timer:
+                   235 seconds
+Information : 
+                Timer:
+                   271 seconds
+Information : 
+                Timer:
+                   277 seconds
+Information : 
+                Timer:
+                   300 seconds
+Information : 
+                Timer:
+                   307 seconds
+Information : 
+                Timer:
+                   312 seconds
+Information : 
+                Timer:
+                   318 seconds
+Information : 
+                Timer:
+                   335 seconds
+Information : 
+                Timer:
+                   390 seconds
+Information : 
+                Timer:
+                   396 seconds
+Information : 
+                Timer:
+                   407 seconds
+Information : 
+                Timer:
+                   413 seconds
+Information : 
+                Timer:
+                   420 seconds
+Information : 
+                Timer:
+                   467 seconds
+Information : 
+                Timer:
+                   472 seconds
+Information : 
+                Timer:
+                   478 seconds
+Information : 
+                Timer:
+                   487 seconds
+Information : 
+                Timer:
+                   497 seconds
+Information : 
+                Timer:
+                   550 seconds
+Information : 
+                Timer:
+                   611 seconds
+Information : 
+                Timer:
+                   616 seconds
+Information : 
+                Timer:
+                   622 seconds
+Information : 
+                Timer:
+                   640 seconds
+Information : 
+                Timer:
+                   655 seconds
+Information : 
+                Timer:
+                   662 seconds
+Information : 
+                Timer:
+                   673 seconds
+Information : 
+                Timer:
+                   690 seconds
+Information : 
+                Timer:
+                   696 seconds
+Information : 
+                Timer:
+                   701 seconds
+Information : 
+                Timer:
+                   707 seconds
+Information : 
+                Timer:
+                   721 seconds
+Information : 
+                Timer:
+                   737 seconds
+Information : 
+                Timer:
+                   801 seconds
+Information : 
+                Timer:
+                   871 seconds
+Information : 
+                Timer:
+                   886 seconds
+Information : 
+                Timer:
+                   892 seconds
+Information : 
+                Timer:
+                   900 seconds
+Information : 
+                Timer:
+                   912 seconds
+Information : 
+                Timer:
+                   917 seconds
+Information : 
+                Timer:
+                   934 seconds
+Information : 
+                Timer:
+                   1004 seconds
+Information : 
+                Timer:
+                   1016 seconds
+Information : 
+                Timer:
+                   1022 seconds
+Information : 
+                Timer:
+                   1044 seconds
+Information : 
+                Timer:
+                   1050 seconds
+Information : 
+                Timer:
+                   1066 seconds
+Information : 
+                Timer:
+                   1158 seconds
+Information : 
+                Timer:
+                   1165 seconds
+Information : 
+                Timer:
+                   1173 seconds
+Information : 
+                Timer:
+                   1180 seconds
+Information : 
+                Timer:
+                   1187 seconds
+Information : 
+                Timer:
+                   1228 seconds
+Information : 
+                Timer:
+                   1284 seconds
+Information : 
+                Timer:
+                   1295 seconds
+Information : 
+                Timer:
+                   1324 seconds
+Information : 
+                Timer:
+                   1329 seconds
+Information : 
+                Timer:
+                   1335 seconds
+Information : 
+                Timer:
+                   1344 seconds
+Information : 
+                Timer:
+                   1375 seconds
+Information : 
+                Timer:
+                   1384 seconds
+Information : 
+                Timer:
+                   1410 seconds
+Information : 
+                Timer:
+                   1424 seconds
+Information : 
+                Timer:
+                   1466 seconds
+Information : 
+                Timer:
+                   1472 seconds
+Information : 
+                Timer:
+                   1479 seconds
+Information : 
+                Timer:
+                   1484 seconds
+Information : 
+                Timer:
+                   1490 seconds
+Information : 
+                Timer:
+                   1496 seconds
+Information : 
+                Timer:
+                   1502 seconds
+Information : 
+                Timer:
+                   1508 seconds
+Information : 
+                Timer:
+                   1529 seconds
+Information : 
+                Timer:
+                   1535 seconds
+Information : 
+                Timer:
+                   1543 seconds
+Information : 
+                Timer:
+                   1549 seconds
+Information : 
+                Timer:
+                   1555 seconds
+Information : 
+                Timer:
+                   1561 seconds
+Information : 
+                Timer:
+                   1633 seconds
+Information : 
+                Timer:
+                   1640 seconds
+Information : 
+                Timer:
+                   1714 seconds
+Information : 
+                Timer:
+                   1721 seconds
+Status : TBR Finished
+Status : Automated Search :
+         0 Best tree: 13700.; Time left: 10 h, 26 m, 10 s; Hits: 1
+Information : Vectorized:44 of 44 characters.
+Status : Transforming : 1 of 1 --  transformations applied
+Status : Transforming : 0 of 209 --  characters transformed
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Warning : Data contains characters that do not support static approx. I will
+          skip over these and do the best that I can.
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Information : Vectorized:44 of 44 characters.
+Status : Transforming : 1 of 1 --  transformations applied
+Status : Transforming : 15224 of 209 --  characters transformed
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Perturb Iteration : 1 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Information : Vectorized:44 of 44 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 17425 17425.
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   10 seconds
+Status : TBR : 17424 17424.
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   12 seconds
+Information : 
+                Timer:
+                   13 seconds
+Information : 
+                Timer:
+                   16 seconds
+Status : TBR : 17423 17423.
+Status : TBR : 17422 17422.
+Information : 
+                Timer:
+                   17 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   19 seconds
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   21 seconds
+Information : 
+                Timer:
+                   23 seconds
+Information : 
+                Timer:
+                   24 seconds
+Information : 
+                Timer:
+                   25 seconds
+Information : 
+                Timer:
+                   26 seconds
+Information : 
+                Timer:
+                   27 seconds
+Information : 
+                Timer:
+                   29 seconds
+Information : 
+                Timer:
+                   30 seconds
+Information : 
+                Timer:
+                   31 seconds
+Information : 
+                Timer:
+                   33 seconds
+Information : 
+                Timer:
+                   34 seconds
+Information : 
+                Timer:
+                   35 seconds
+Information : 
+                Timer:
+                   36 seconds
+Information : 
+                Timer:
+                   39 seconds
+Information : 
+                Timer:
+                   40 seconds
+Status : TBR Finished
+Information : Vectorized:44 of 44 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 2 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Information : Vectorized:44 of 44 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 17373 17373.
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR : 17368 17368.
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Information : 
+                Timer:
+                   5 seconds
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   12 seconds
+Information : 
+                Timer:
+                   13 seconds
+Information : 
+                Timer:
+                   15 seconds
+Information : 
+                Timer:
+                   16 seconds
+Information : 
+                Timer:
+                   17 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   19 seconds
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   23 seconds
+Information : 
+                Timer:
+                   24 seconds
+Information : 
+                Timer:
+                   25 seconds
+Information : 
+                Timer:
+                   26 seconds
+Information : 
+                Timer:
+                   28 seconds
+Status : TBR Finished
+Information : Vectorized:44 of 44 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 3 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Information : Vectorized:44 of 44 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 17173 17173.
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Information : 
+                Timer:
+                   5 seconds
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   12 seconds
+Information : 
+                Timer:
+                   14 seconds
+Information : 
+                Timer:
+                   16 seconds
+Status : TBR : 17172 17172.
+Status : TBR : 17171 17171.
+Status : TBR : 17170 17170.
+Information : 
+                Timer:
+                   17 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   19 seconds
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   22 seconds
+Information : 
+                Timer:
+                   24 seconds
+Information : 
+                Timer:
+                   25 seconds
+Information : 
+                Timer:
+                   26 seconds
+Information : 
+                Timer:
+                   27 seconds
+Information : 
+                Timer:
+                   28 seconds
+Information : 
+                Timer:
+                   29 seconds
+Status : TBR : 17169 17169.
+Information : 
+                Timer:
+                   30 seconds
+Information : 
+                Timer:
+                   31 seconds
+Information : 
+                Timer:
+                   33 seconds
+Information : 
+                Timer:
+                   34 seconds
+Information : 
+                Timer:
+                   35 seconds
+Information : 
+                Timer:
+                   38 seconds
+Information : 
+                Timer:
+                   39 seconds
+Information : 
+                Timer:
+                   40 seconds
+Information : 
+                Timer:
+                   41 seconds
+Information : 
+                Timer:
+                   42 seconds
+Information : 
+                Timer:
+                   45 seconds
+Information : 
+                Timer:
+                   47 seconds
+Information : 
+                Timer:
+                   48 seconds
+Information : 
+                Timer:
+                   49 seconds
+Information : 
+                Timer:
+                   50 seconds
+Information : 
+                Timer:
+                   51 seconds
+Information : 
+                Timer:
+                   52 seconds
+Status : TBR Finished
+Information : Vectorized:44 of 44 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 4 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Information : Vectorized:44 of 44 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 16956 16956.
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   4 seconds
+Information : 
+                Timer:
+                   5 seconds
+Status : TBR : 16953 16953.
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   12 seconds
+Information : 
+                Timer:
+                   15 seconds
+Information : 
+                Timer:
+                   17 seconds
+Information : 
+                Timer:
+                   19 seconds
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   21 seconds
+Information : 
+                Timer:
+                   22 seconds
+Information : 
+                Timer:
+                   25 seconds
+Information : 
+                Timer:
+                   26 seconds
+Information : 
+                Timer:
+                   27 seconds
+Information : 
+                Timer:
+                   28 seconds
+Information : 
+                Timer:
+                   29 seconds
+Status : TBR Finished
+Information : Vectorized:44 of 44 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration Finished
+Information : Vectorized:44 of 44 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : TBR : 13700 13700.
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   26 seconds
+Information : 
+                Timer:
+                   34 seconds
+Information : 
+                Timer:
+                   41 seconds
+Information : 
+                Timer:
+                   47 seconds
+Information : 
+                Timer:
+                   57 seconds
+Information : 
+                Timer:
+                   64 seconds
+Information : 
+                Timer:
+                   71 seconds
+Information : 
+                Timer:
+                   76 seconds
+Information : 
+                Timer:
+                   82 seconds
+Information : 
+                Timer:
+                   89 seconds
+Information : 
+                Timer:
+                   95 seconds
+Information : 
+                Timer:
+                   102 seconds
+Information : 
+                Timer:
+                   108 seconds
+Information : 
+                Timer:
+                   114 seconds
+Information : 
+                Timer:
+                   142 seconds
+Information : 
+                Timer:
+                   148 seconds
+Information : 
+                Timer:
+                   160 seconds
+Information : 
+                Timer:
+                   165 seconds
+Information : 
+                Timer:
+                   197 seconds
+Information : 
+                Timer:
+                   204 seconds
+Information : 
+                Timer:
+                   240 seconds
+Information : 
+                Timer:
+                   247 seconds
+Information : 
+                Timer:
+                   284 seconds
+Information : 
+                Timer:
+                   290 seconds
+Information : 
+                Timer:
+                   312 seconds
+Information : 
+                Timer:
+                   318 seconds
+Information : 
+                Timer:
+                   325 seconds
+Information : 
+                Timer:
+                   331 seconds
+Information : 
+                Timer:
+                   347 seconds
+Information : 
+                Timer:
+                   396 seconds
+Information : 
+                Timer:
+                   402 seconds
+Information : 
+                Timer:
+                   412 seconds
+Information : 
+                Timer:
+                   418 seconds
+Information : 
+                Timer:
+                   424 seconds
+Information : 
+                Timer:
+                   470 seconds
+Information : 
+                Timer:
+                   476 seconds
+Information : 
+                Timer:
+                   482 seconds
+Information : 
+                Timer:
+                   490 seconds
+Information : 
+                Timer:
+                   500 seconds
+Information : 
+                Timer:
+                   542 seconds
+Information : 
+                Timer:
+                   547 seconds
+Information : 
+                Timer:
+                   608 seconds
+Information : 
+                Timer:
+                   615 seconds
+Information : 
+                Timer:
+                   634 seconds
+Information : 
+                Timer:
+                   649 seconds
+Information : 
+                Timer:
+                   657 seconds
+Information : 
+                Timer:
+                   667 seconds
+Information : 
+                Timer:
+                   684 seconds
+Information : 
+                Timer:
+                   690 seconds
+Information : 
+                Timer:
+                   696 seconds
+Information : 
+                Timer:
+                   711 seconds
+Information : 
+                Timer:
+                   715 seconds
+Information : 
+                Timer:
+                   731 seconds
+Information : 
+                Timer:
+                   746 seconds
+Information : 
+                Timer:
+                   815 seconds
+Information : 
+                Timer:
+                   820 seconds
+Information : 
+                Timer:
+                   884 seconds
+Information : 
+                Timer:
+                   896 seconds
+Information : 
+                Timer:
+                   912 seconds
+Information : 
+                Timer:
+                   919 seconds
+Information : 
+                Timer:
+                   925 seconds
+Information : 
+                Timer:
+                   937 seconds
+Information : 
+                Timer:
+                   943 seconds
+Information : 
+                Timer:
+                   964 seconds
+Information : 
+                Timer:
+                   971 seconds
+Information : 
+                Timer:
+                   981 seconds
+Information : 
+                Timer:
+                   1009 seconds
+Information : 
+                Timer:
+                   1076 seconds
+Information : 
+                Timer:
+                   1081 seconds
+Information : 
+                Timer:
+                   1085 seconds
+Information : 
+                Timer:
+                   1091 seconds
+Information : 
+                Timer:
+                   1093 seconds
+Information : 
+                Timer:
+                   1130 seconds
+Information : 
+                Timer:
+                   1185 seconds
+Information : 
+                Timer:
+                   1196 seconds
+Information : 
+                Timer:
+                   1202 seconds
+Information : 
+                Timer:
+                   1226 seconds
+Information : 
+                Timer:
+                   1230 seconds
+Information : 
+                Timer:
+                   1238 seconds
+Information : 
+                Timer:
+                   1257 seconds
+Information : 
+                Timer:
+                   1264 seconds
+Information : 
+                Timer:
+                   1275 seconds
+Information : 
+                Timer:
+                   1303 seconds
+Information : 
+                Timer:
+                   1308 seconds
+Information : 
+                Timer:
+                   1311 seconds
+Information : 
+                Timer:
+                   1317 seconds
+Information : 
+                Timer:
+                   1322 seconds
+Information : 
+                Timer:
+                   1325 seconds
+Information : 
+                Timer:
+                   1330 seconds
+Information : 
+                Timer:
+                   1335 seconds
+Information : 
+                Timer:
+                   1347 seconds
+Information : 
+                Timer:
+                   1352 seconds
+Information : 
+                Timer:
+                   1358 seconds
+Information : 
+                Timer:
+                   1434 seconds
+Information : 
+                Timer:
+                   1511 seconds
+Information : 
+                Timer:
+                   1514 seconds
+Information : 
+                Timer:
+                   1518 seconds
+Information : 
+                Timer:
+                   1522 seconds
+Information : 
+                Timer:
+                   1527 seconds
+Information : 
+                Timer:
+                   1533 seconds
+Information : 
+                Timer:
+                   1538 seconds
+Information : 
+                Timer:
+                   1593 seconds
+Information : 
+                Timer:
+                   1599 seconds
+Information : 
+                Timer:
+                   1611 seconds
+Information : 
+                Timer:
+                   1619 seconds
+Information : 
+                Timer:
+                   1623 seconds
+Information : 
+                Timer:
+                   1628 seconds
+Information : 
+                Timer:
+                   1633 seconds
+Information : 
+                Timer:
+                   1638 seconds
+Information : 
+                Timer:
+                   1646 seconds
+Information : 
+                Timer:
+                   1649 seconds
+Information : 
+                Timer:
+                   1653 seconds
+Information : 
+                Timer:
+                   1656 seconds
+Information : 
+                Timer:
+                   1658 seconds
+Information : 
+                Timer:
+                   1663 seconds
+Information : 
+                Timer:
+                   1665 seconds
+Information : 
+                Timer:
+                   1669 seconds
+Information : 
+                Timer:
+                   1672 seconds
+Information : 
+                Timer:
+                   1675 seconds
+Information : 
+                Timer:
+                   1677 seconds
+Information : 
+                Timer:
+                   1680 seconds
+Information : 
+                Timer:
+                   1682 seconds
+Information : 
+                Timer:
+                   1684 seconds
+Information : 
+                Timer:
+                   1686 seconds
+Information : 
+                Timer:
+                   1688 seconds
+Information : 
+                Timer:
+                   1689 seconds
+Information : 
+                Timer:
+                   1690 seconds
+Information : 
+                Timer:
+                   1691 seconds
+Information : 
+                Timer:
+                   1692 seconds
+Information : 
+                Timer:
+                   1693 seconds
+Information : 
+                Timer:
+                   1694 seconds
+Information : 
+                Timer:
+                   1695 seconds
+Information : 
+                Timer:
+                   1696 seconds
+Information : 
+                Timer:
+                   1697 seconds
+Information : 
+                Timer:
+                   1698 seconds
+Information : 
+                Timer:
+                   1699 seconds
+Information : 
+                Timer:
+                   1700 seconds
+Information : 
+                Timer:
+                   1701 seconds
+Information : 
+                Timer:
+                   1702 seconds
+Information : 
+                Timer:
+                   1703 seconds
+Information : 
+                Timer:
+                   1704 seconds
+Information : 
+                Timer:
+                   1705 seconds
+Information : 
+                Timer:
+                   1706 seconds
+Information : 
+                Timer:
+                   1707 seconds
+Information : 
+                Timer:
+                   1708 seconds
+Information : 
+                Timer:
+                   1709 seconds
+Information : 
+                Timer:
+                   1710 seconds
+Information : 
+                Timer:
+                   1711 seconds
+Information : 
+                Timer:
+                   1712 seconds
+Information : 
+                Timer:
+                   1713 seconds
+Information : 
+                Timer:
+                   1718 seconds
+Information : 
+                Timer:
+                   1719 seconds
+Information : 
+                Timer:
+                   1720 seconds
+Information : 
+                Timer:
+                   1721 seconds
+Information : 
+                Timer:
+                   1722 seconds
+Information : 
+                Timer:
+                   1723 seconds
+Information : 
+                Timer:
+                   1724 seconds
+Status : TBR Finished
+Status : Automated Search :
+         0 Best tree: 13700.; Time left: 9 h, 52 m, 18 s; Hits: 2
+Status : RAS + TBR : 0 Searching on tree number 2
+Status : Wagner : 2 of 115 -- Wagner tree with cost 36.
+Status : Wagner : 3 of 115 -- Wagner tree with cost 57.
+Status : Wagner : 4 of 115 -- Wagner tree with cost 421.
+Status : Wagner : 5 of 115 -- Wagner tree with cost 615.
+Status : Wagner : 6 of 115 -- Wagner tree with cost 829.
+Status : Wagner : 7 of 115 -- Wagner tree with cost 830.
+Status : Wagner : 8 of 115 -- Wagner tree with cost 995.
+Status : Wagner : 9 of 115 -- Wagner tree with cost 997.
+Status : Wagner : 10 of 115 -- Wagner tree with cost 1020.
+Status : Wagner : 11 of 115 -- Wagner tree with cost 1025.
+Status : Wagner : 12 of 115 -- Wagner tree with cost 1025.
+Status : Wagner : 13 of 115 -- Wagner tree with cost 1027.
+Status : Wagner : 14 of 115 -- Wagner tree with cost 1320.
+Status : Wagner : 15 of 115 -- Wagner tree with cost 1948.
+Status : Wagner : 16 of 115 -- Wagner tree with cost 1955.
+Status : Wagner : 17 of 115 -- Wagner tree with cost 1958.
+Status : Wagner : 18 of 115 -- Wagner tree with cost 2595.
+Status : Wagner : 19 of 115 -- Wagner tree with cost 2598.
+Status : Wagner : 20 of 115 -- Wagner tree with cost 3019.
+Status : Wagner : 21 of 115 -- Wagner tree with cost 3473.
+Status : Wagner : 22 of 115 -- Wagner tree with cost 3475.
+Status : Wagner : 23 of 115 -- Wagner tree with cost 3476.
+Status : Wagner : 24 of 115 -- Wagner tree with cost 3712.
+Status : Wagner : 25 of 115 -- Wagner tree with cost 4012.
+Status : Wagner : 26 of 115 -- Wagner tree with cost 4116.
+Status : Wagner : 27 of 115 -- Wagner tree with cost 4430.
+Status : Wagner : 28 of 115 -- Wagner tree with cost 4430.
+Status : Wagner : 29 of 115 -- Wagner tree with cost 4435.
+Status : Wagner : 30 of 115 -- Wagner tree with cost 4581.
+Status : Wagner : 31 of 115 -- Wagner tree with cost 4582.
+Status : Wagner : 32 of 115 -- Wagner tree with cost 4602.
+Status : Wagner : 33 of 115 -- Wagner tree with cost 4979.
+Status : Wagner : 34 of 115 -- Wagner tree with cost 5049.
+Status : Wagner : 35 of 115 -- Wagner tree with cost 5054.
+Status : Wagner : 36 of 115 -- Wagner tree with cost 5242.
+Status : Wagner : 37 of 115 -- Wagner tree with cost 5243.
+Status : Wagner : 38 of 115 -- Wagner tree with cost 5284.
+Status : Wagner : 39 of 115 -- Wagner tree with cost 5687.
+Status : Wagner : 40 of 115 -- Wagner tree with cost 5821.
+Status : Wagner : 41 of 115 -- Wagner tree with cost 5822.
+Status : Wagner : 42 of 115 -- Wagner tree with cost 6258.
+Status : Wagner : 43 of 115 -- Wagner tree with cost 6393.
+Status : Wagner : 44 of 115 -- Wagner tree with cost 6399.
+Status : Wagner : 45 of 115 -- Wagner tree with cost 6429.
+Status : Wagner : 46 of 115 -- Wagner tree with cost 6434.
+Status : Wagner : 47 of 115 -- Wagner tree with cost 6594.
+Status : Wagner : 48 of 115 -- Wagner tree with cost 6598.
+Status : Wagner : 49 of 115 -- Wagner tree with cost 6742.
+Status : Wagner : 50 of 115 -- Wagner tree with cost 6744.
+Status : Wagner : 51 of 115 -- Wagner tree with cost 6745.
+Status : Wagner : 52 of 115 -- Wagner tree with cost 6745.
+Status : Wagner : 53 of 115 -- Wagner tree with cost 6755.
+Status : Wagner : 54 of 115 -- Wagner tree with cost 6764.
+Status : Wagner : 55 of 115 -- Wagner tree with cost 6939.
+Status : Wagner : 56 of 115 -- Wagner tree with cost 7189.
+Status : Wagner : 57 of 115 -- Wagner tree with cost 7272.
+Status : Wagner : 58 of 115 -- Wagner tree with cost 7276.
+Status : Wagner : 59 of 115 -- Wagner tree with cost 7282.
+Status : Wagner : 60 of 115 -- Wagner tree with cost 7283.
+Status : Wagner : 61 of 115 -- Wagner tree with cost 7285.
+Status : Wagner : 62 of 115 -- Wagner tree with cost 7601.
+Status : Wagner : 63 of 115 -- Wagner tree with cost 7602.
+Status : Wagner : 64 of 115 -- Wagner tree with cost 7605.
+Status : Wagner : 65 of 115 -- Wagner tree with cost 7606.
+Status : Wagner : 66 of 115 -- Wagner tree with cost 7606.
+Status : Wagner : 67 of 115 -- Wagner tree with cost 7723.
+Status : Wagner : 68 of 115 -- Wagner tree with cost 7724.
+Status : Wagner : 69 of 115 -- Wagner tree with cost 7736.
+Status : Wagner : 70 of 115 -- Wagner tree with cost 8003.
+Status : Wagner : 71 of 115 -- Wagner tree with cost 8124.
+Status : Wagner : 72 of 115 -- Wagner tree with cost 8252.
+Status : Wagner : 73 of 115 -- Wagner tree with cost 8607.
+Status : Wagner : 74 of 115 -- Wagner tree with cost 8739.
+Status : Wagner : 75 of 115 -- Wagner tree with cost 8803.
+Status : Wagner : 76 of 115 -- Wagner tree with cost 8808.
+Status : Wagner : 77 of 115 -- Wagner tree with cost 8928.
+Status : Wagner : 78 of 115 -- Wagner tree with cost 8933.
+Status : Wagner : 79 of 115 -- Wagner tree with cost 9371.
+Status : Wagner : 80 of 115 -- Wagner tree with cost 9676.
+Status : Wagner : 81 of 115 -- Wagner tree with cost 9708.
+Status : Wagner : 82 of 115 -- Wagner tree with cost 10039.
+Status : Wagner : 83 of 115 -- Wagner tree with cost 10040.
+Status : Wagner : 84 of 115 -- Wagner tree with cost 10112.
+Status : Wagner : 85 of 115 -- Wagner tree with cost 10322.
+Status : Wagner : 86 of 115 -- Wagner tree with cost 10328.
+Status : Wagner : 87 of 115 -- Wagner tree with cost 10499.
+Status : Wagner : 88 of 115 -- Wagner tree with cost 10501.
+Status : Wagner : 89 of 115 -- Wagner tree with cost 10501.
+Status : Wagner : 90 of 115 -- Wagner tree with cost 10815.
+Status : Wagner : 91 of 115 -- Wagner tree with cost 10820.
+Status : Wagner : 92 of 115 -- Wagner tree with cost 10920.
+Status : Wagner : 93 of 115 -- Wagner tree with cost 11367.
+Status : Wagner : 94 of 115 -- Wagner tree with cost 11606.
+Status : Wagner : 95 of 115 -- Wagner tree with cost 11694.
+Status : Wagner : 96 of 115 -- Wagner tree with cost 11696.
+Status : Wagner : 97 of 115 -- Wagner tree with cost 11702.
+Status : Wagner : 98 of 115 -- Wagner tree with cost 11756.
+Status : Wagner : 99 of 115 -- Wagner tree with cost 11756.
+Status : Wagner : 100 of 115 -- Wagner tree with cost 11758.
+Status : Wagner : 101 of 115 -- Wagner tree with cost 12041.
+Status : Wagner : 102 of 115 -- Wagner tree with cost 12245.
+Status : Wagner : 103 of 115 -- Wagner tree with cost 12245.
+Status : Wagner : 104 of 115 -- Wagner tree with cost 12423.
+Status : Wagner : 105 of 115 -- Wagner tree with cost 12699.
+Status : Wagner : 106 of 115 -- Wagner tree with cost 12778.
+Status : Wagner : 107 of 115 -- Wagner tree with cost 12793.
+Status : Wagner : 108 of 115 -- Wagner tree with cost 12829.
+Status : Wagner : 109 of 115 -- Wagner tree with cost 12889.
+Status : Wagner : 110 of 115 -- Wagner tree with cost 13086.
+Status : Wagner : 111 of 115 -- Wagner tree with cost 13609.
+Status : Wagner : 112 of 115 -- Wagner tree with cost 13615.
+Status : Wagner : 113 of 115 -- Wagner tree with cost 13622.
+Status : Wagner : 114 of 115 -- Wagner tree with cost 13622.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 13832 13832.
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   19 seconds
+Information : 
+                Timer:
+                   28 seconds
+Information : 
+                Timer:
+                   34 seconds
+Information : 
+                Timer:
+                   42 seconds
+Information : 
+                Timer:
+                   48 seconds
+Information : 
+                Timer:
+                   58 seconds
+Status : TBR : 13826 13826.
+Information : 
+                Timer:
+                   61 seconds
+Information : 
+                Timer:
+                   72 seconds
+Information : 
+                Timer:
+                   80 seconds
+Information : 
+                Timer:
+                   87 seconds
+Information : 
+                Timer:
+                   93 seconds
+Information : 
+                Timer:
+                   122 seconds
+Information : 
+                Timer:
+                   129 seconds
+Information : 
+                Timer:
+                   137 seconds
+Information : 
+                Timer:
+                   144 seconds
+Information : 
+                Timer:
+                   151 seconds
+Status : TBR : 13823 13823.
+Information : 
+                Timer:
+                   154 seconds
+Information : 
+                Timer:
+                   165 seconds
+Information : 
+                Timer:
+                   171 seconds
+Status : TBR : 13820 13820.
+Information : 
+                Timer:
+                   174 seconds
+Information : 
+                Timer:
+                   185 seconds
+Information : 
+                Timer:
+                   196 seconds
+Information : 
+                Timer:
+                   230 seconds
+Status : TBR : 13819 13819.
+Information : 
+                Timer:
+                   232 seconds
+Information : 
+                Timer:
+                   243 seconds
+Information : 
+                Timer:
+                   265 seconds
+Information : 
+                Timer:
+                   272 seconds
+Information : 
+                Timer:
+                   280 seconds
+Information : 
+                Timer:
+                   289 seconds
+Status : TBR : 13814 13814.
+Information : 
+                Timer:
+                   307 seconds
+Information : 
+                Timer:
+                   317 seconds
+Information : 
+                Timer:
+                   328 seconds
+Information : 
+                Timer:
+                   336 seconds
+Information : 
+                Timer:
+                   342 seconds
+Information : 
+                Timer:
+                   350 seconds
+Information : 
+                Timer:
+                   415 seconds
+Information : 
+                Timer:
+                   421 seconds
+Information : 
+                Timer:
+                   437 seconds
+Information : 
+                Timer:
+                   448 seconds
+Information : 
+                Timer:
+                   455 seconds
+Information : 
+                Timer:
+                   490 seconds
+Information : 
+                Timer:
+                   496 seconds
+Information : 
+                Timer:
+                   502 seconds
+Information : 
+                Timer:
+                   508 seconds
+Information : 
+                Timer:
+                   515 seconds
+Status : TBR : 13812 13812.
+Information : 
+                Timer:
+                   517 seconds
+Information : 
+                Timer:
+                   593 seconds
+Information : 
+                Timer:
+                   605 seconds
+Information : 
+                Timer:
+                   620 seconds
+Information : 
+                Timer:
+                   629 seconds
+Status : TBR : 13807 13807.
+Information : 
+                Timer:
+                   634 seconds
+Status : TBR : 13802 13802.
+Information : 
+                Timer:
+                   641 seconds
+Information : 
+                Timer:
+                   661 seconds
+Status : TBR : 13801 13801.
+Information : 
+                Timer:
+                   662 seconds
+Information : 
+                Timer:
+                   673 seconds
+Information : 
+                Timer:
+                   680 seconds
+Information : 
+                Timer:
+                   687 seconds
+Status : TBR : 13800 13800.
+Information : 
+                Timer:
+                   690 seconds
+Information : 
+                Timer:
+                   703 seconds
+Status : TBR : 13797 13797.
+Information : 
+                Timer:
+                   704 seconds
+Information : 
+                Timer:
+                   715 seconds
+Information : 
+                Timer:
+                   722 seconds
+Information : 
+                Timer:
+                   735 seconds
+Information : 
+                Timer:
+                   742 seconds
+Information : 
+                Timer:
+                   750 seconds
+Information : 
+                Timer:
+                   756 seconds
+Information : 
+                Timer:
+                   777 seconds
+Information : 
+                Timer:
+                   783 seconds
+Status : TBR : 13795 13795.
+Information : 
+                Timer:
+                   784 seconds
+Information : 
+                Timer:
+                   796 seconds
+Information : 
+                Timer:
+                   801 seconds
+Status : TBR : 13789 13789.
+Information : 
+                Timer:
+                   802 seconds
+Information : 
+                Timer:
+                   812 seconds
+Information : 
+                Timer:
+                   819 seconds
+Information : 
+                Timer:
+                   826 seconds
+Information : 
+                Timer:
+                   857 seconds
+Information : 
+                Timer:
+                   870 seconds
+Information : 
+                Timer:
+                   871 seconds
+Information : 
+                Timer:
+                   878 seconds
+Information : 
+                Timer:
+                   879 seconds
+Information : 
+                Timer:
+                   885 seconds
+Information : 
+                Timer:
+                   894 seconds
+Information : 
+                Timer:
+                   912 seconds
+Information : 
+                Timer:
+                   918 seconds
+Information : 
+                Timer:
+                   926 seconds
+Information : 
+                Timer:
+                   931 seconds
+Information : 
+                Timer:
+                   936 seconds
+Information : 
+                Timer:
+                   942 seconds
+Information : 
+                Timer:
+                   948 seconds
+Information : 
+                Timer:
+                   954 seconds
+Information : 
+                Timer:
+                   958 seconds
+Information : 
+                Timer:
+                   1040 seconds
+Information : 
+                Timer:
+                   1047 seconds
+Information : 
+                Timer:
+                   1054 seconds
+Information : 
+                Timer:
+                   1059 seconds
+Information : 
+                Timer:
+                   1110 seconds
+Information : 
+                Timer:
+                   1121 seconds
+Information : 
+                Timer:
+                   1126 seconds
+Information : 
+                Timer:
+                   1145 seconds
+Information : 
+                Timer:
+                   1152 seconds
+Status : TBR : 13788 13788.
+Information : 
+                Timer:
+                   1154 seconds
+Information : 
+                Timer:
+                   1165 seconds
+Information : 
+                Timer:
+                   1172 seconds
+Information : 
+                Timer:
+                   1179 seconds
+Information : 
+                Timer:
+                   1183 seconds
+Information : 
+                Timer:
+                   1202 seconds
+Information : 
+                Timer:
+                   1208 seconds
+Information : 
+                Timer:
+                   1213 seconds
+Information : 
+                Timer:
+                   1218 seconds
+Status : TBR : 13784 13784.
+Information : 
+                Timer:
+                   1219 seconds
+Information : 
+                Timer:
+                   1229 seconds
+Information : 
+                Timer:
+                   1233 seconds
+Information : 
+                Timer:
+                   1313 seconds
+Information : 
+                Timer:
+                   1317 seconds
+Information : 
+                Timer:
+                   1321 seconds
+Information : 
+                Timer:
+                   1324 seconds
+Information : 
+                Timer:
+                   1327 seconds
+Information : 
+                Timer:
+                   1330 seconds
+Information : 
+                Timer:
+                   1332 seconds
+Information : 
+                Timer:
+                   1337 seconds
+Information : 
+                Timer:
+                   1340 seconds
+Information : 
+                Timer:
+                   1346 seconds
+Information : 
+                Timer:
+                   1348 seconds
+Information : 
+                Timer:
+                   1352 seconds
+Information : 
+                Timer:
+                   1357 seconds
+Information : 
+                Timer:
+                   1360 seconds
+Information : 
+                Timer:
+                   1362 seconds
+Information : 
+                Timer:
+                   1364 seconds
+Information : 
+                Timer:
+                   1367 seconds
+Information : 
+                Timer:
+                   1370 seconds
+Information : 
+                Timer:
+                   1372 seconds
+Status : TBR : 13779 13779.
+Information : 
+                Timer:
+                   1373 seconds
+Information : 
+                Timer:
+                   1374 seconds
+Information : 
+                Timer:
+                   1385 seconds
+Information : 
+                Timer:
+                   1454 seconds
+Information : 
+                Timer:
+                   1496 seconds
+Information : 
+                Timer:
+                   1497 seconds
+Information : 
+                Timer:
+                   1498 seconds
+Information : 
+                Timer:
+                   1500 seconds
+Information : 
+                Timer:
+                   1501 seconds
+Status : TBR : 13776 13776.
+Information : 
+                Timer:
+                   1504 seconds
+Information : 
+                Timer:
+                   1508 seconds
+Information : 
+                Timer:
+                   1510 seconds
+Information : 
+                Timer:
+                   1519 seconds
+Status : TBR : 13775 13775.
+Information : 
+                Timer:
+                   1521 seconds
+Information : 
+                Timer:
+                   1522 seconds
+Information : 
+                Timer:
+                   1609 seconds
+Information : 
+                Timer:
+                   1610 seconds
+Information : 
+                Timer:
+                   1612 seconds
+Information : 
+                Timer:
+                   1666 seconds
+Information : 
+                Timer:
+                   1669 seconds
+Information : 
+                Timer:
+                   1670 seconds
+Information : 
+                Timer:
+                   1671 seconds
+Information : 
+                Timer:
+                   1672 seconds
+Information : 
+                Timer:
+                   1673 seconds
+Information : 
+                Timer:
+                   1674 seconds
+Information : 
+                Timer:
+                   1675 seconds
+Information : 
+                Timer:
+                   1677 seconds
+Information : 
+                Timer:
+                   1679 seconds
+Status : TBR : 13771 13771.
+Information : 
+                Timer:
+                   1681 seconds
+Status : TBR : 13770 13770.
+Information : 
+                Timer:
+                   1685 seconds
+Information : 
+                Timer:
+                   1686 seconds
+Information : 
+                Timer:
+                   1687 seconds
+Information : 
+                Timer:
+                   1744 seconds
+Status : TBR : 13766 13766.
+Information : 
+                Timer:
+                   1747 seconds
+Information : 
+                Timer:
+                   1749 seconds
+Information : 
+                Timer:
+                   1753 seconds
+Information : 
+                Timer:
+                   1755 seconds
+Information : 
+                Timer:
+                   1757 seconds
+Information : 
+                Timer:
+                   1761 seconds
+Information : 
+                Timer:
+                   1763 seconds
+Information : 
+                Timer:
+                   1765 seconds
+Information : 
+                Timer:
+                   1766 seconds
+Information : 
+                Timer:
+                   1767 seconds
+Information : 
+                Timer:
+                   1768 seconds
+Information : 
+                Timer:
+                   1769 seconds
+Information : 
+                Timer:
+                   1771 seconds
+Information : 
+                Timer:
+                   1772 seconds
+Information : 
+                Timer:
+                   1773 seconds
+Information : 
+                Timer:
+                   1776 seconds
+Information : 
+                Timer:
+                   1781 seconds
+Information : 
+                Timer:
+                   1783 seconds
+Information : 
+                Timer:
+                   1788 seconds
+Information : 
+                Timer:
+                   1791 seconds
+Information : 
+                Timer:
+                   1793 seconds
+Information : 
+                Timer:
+                   1795 seconds
+Information : 
+                Timer:
+                   1797 seconds
+Information : 
+                Timer:
+                   1798 seconds
+Status : TBR : 13761 13761.
+Information : 
+                Timer:
+                   1808 seconds
+Status : TBR : 13755 13755.
+Information : 
+                Timer:
+                   1820 seconds
+Information : 
+                Timer:
+                   1822 seconds
+Information : 
+                Timer:
+                   1827 seconds
+Information : 
+                Timer:
+                   1828 seconds
+Information : 
+                Timer:
+                   1829 seconds
+Information : 
+                Timer:
+                   1830 seconds
+Information : 
+                Timer:
+                   1832 seconds
+Information : 
+                Timer:
+                   1833 seconds
+Information : 
+                Timer:
+                   1834 seconds
+Information : 
+                Timer:
+                   1835 seconds
+Information : 
+                Timer:
+                   1836 seconds
+Information : 
+                Timer:
+                   1838 seconds
+Information : 
+                Timer:
+                   1841 seconds
+Information : 
+                Timer:
+                   1842 seconds
+Information : 
+                Timer:
+                   1844 seconds
+Information : 
+                Timer:
+                   1846 seconds
+Information : 
+                Timer:
+                   1851 seconds
+Information : 
+                Timer:
+                   1855 seconds
+Information : 
+                Timer:
+                   1857 seconds
+Information : 
+                Timer:
+                   1859 seconds
+Information : 
+                Timer:
+                   1861 seconds
+Information : 
+                Timer:
+                   1863 seconds
+Information : 
+                Timer:
+                   1864 seconds
+Information : 
+                Timer:
+                   1865 seconds
+Status : TBR : 13738 13738.
+Information : 
+                Timer:
+                   1868 seconds
+Information : 
+                Timer:
+                   1869 seconds
+Information : 
+                Timer:
+                   1873 seconds
+Information : 
+                Timer:
+                   1874 seconds
+Information : 
+                Timer:
+                   1884 seconds
+Information : 
+                Timer:
+                   1889 seconds
+Information : 
+                Timer:
+                   1896 seconds
+Information : 
+                Timer:
+                   1903 seconds
+Information : 
+                Timer:
+                   1944 seconds
+Information : 
+                Timer:
+                   1950 seconds
+Information : 
+                Timer:
+                   1960 seconds
+Information : 
+                Timer:
+                   1963 seconds
+Information : 
+                Timer:
+                   1969 seconds
+Information : 
+                Timer:
+                   1976 seconds
+Information : 
+                Timer:
+                   1983 seconds
+Information : 
+                Timer:
+                   1989 seconds
+Information : 
+                Timer:
+                   2017 seconds
+Information : 
+                Timer:
+                   2023 seconds
+Information : 
+                Timer:
+                   2029 seconds
+Information : 
+                Timer:
+                   2035 seconds
+Information : 
+                Timer:
+                   2042 seconds
+Information : 
+                Timer:
+                   2088 seconds
+Information : 
+                Timer:
+                   2094 seconds
+Information : 
+                Timer:
+                   2100 seconds
+Status : TBR : 13737 13737.
+Information : 
+                Timer:
+                   2104 seconds
+Information : 
+                Timer:
+                   2114 seconds
+Information : 
+                Timer:
+                   2121 seconds
+Information : 
+                Timer:
+                   2158 seconds
+Information : 
+                Timer:
+                   2166 seconds
+Status : TBR : 13735 13735.
+Information : 
+                Timer:
+                   2177 seconds
+Information : 
+                Timer:
+                   2204 seconds
+Information : 
+                Timer:
+                   2212 seconds
+Information : 
+                Timer:
+                   2218 seconds
+Information : 
+                Timer:
+                   2234 seconds
+Status : TBR : 13734 13734.
+Information : 
+                Timer:
+                   2235 seconds
+Information : 
+                Timer:
+                   2245 seconds
+Information : 
+                Timer:
+                   2297 seconds
+Information : 
+                Timer:
+                   2305 seconds
+Information : 
+                Timer:
+                   2311 seconds
+Information : 
+                Timer:
+                   2317 seconds
+Information : 
+                Timer:
+                   2327 seconds
+Information : 
+                Timer:
+                   2333 seconds
+Information : 
+                Timer:
+                   2351 seconds
+Information : 
+                Timer:
+                   2362 seconds
+Information : 
+                Timer:
+                   2368 seconds
+Information : 
+                Timer:
+                   2377 seconds
+Information : 
+                Timer:
+                   2383 seconds
+Information : 
+                Timer:
+                   2389 seconds
+Information : 
+                Timer:
+                   2395 seconds
+Information : 
+                Timer:
+                   2401 seconds
+Information : 
+                Timer:
+                   2469 seconds
+Information : 
+                Timer:
+                   2527 seconds
+Information : 
+                Timer:
+                   2542 seconds
+Information : 
+                Timer:
+                   2558 seconds
+Information : 
+                Timer:
+                   2573 seconds
+Information : 
+                Timer:
+                   2584 seconds
+Information : 
+                Timer:
+                   2591 seconds
+Information : 
+                Timer:
+                   2605 seconds
+Status : TBR : 13733 13733.
+Information : 
+                Timer:
+                   2608 seconds
+Information : 
+                Timer:
+                   2617 seconds
+Information : 
+                Timer:
+                   2622 seconds
+Information : 
+                Timer:
+                   2628 seconds
+Information : 
+                Timer:
+                   2639 seconds
+Information : 
+                Timer:
+                   2646 seconds
+Information : 
+                Timer:
+                   2714 seconds
+Information : 
+                Timer:
+                   2719 seconds
+Information : 
+                Timer:
+                   2725 seconds
+Information : 
+                Timer:
+                   2736 seconds
+Information : 
+                Timer:
+                   2742 seconds
+Information : 
+                Timer:
+                   2748 seconds
+Information : 
+                Timer:
+                   2752 seconds
+Information : 
+                Timer:
+                   2764 seconds
+Status : TBR : 13729 13729.
+Information : 
+                Timer:
+                   2765 seconds
+Information : 
+                Timer:
+                   2768 seconds
+Information : 
+                Timer:
+                   2779 seconds
+Information : 
+                Timer:
+                   2782 seconds
+Information : 
+                Timer:
+                   2788 seconds
+Status : TBR : 13728 13728.
+Information : 
+                Timer:
+                   2790 seconds
+Information : 
+                Timer:
+                   2799 seconds
+Information : 
+                Timer:
+                   2805 seconds
+Information : 
+                Timer:
+                   2808 seconds
+Information : 
+                Timer:
+                   2818 seconds
+Information : 
+                Timer:
+                   2819 seconds
+Information : 
+                Timer:
+                   2824 seconds
+Information : 
+                Timer:
+                   2825 seconds
+Information : 
+                Timer:
+                   2830 seconds
+Information : 
+                Timer:
+                   2840 seconds
+Information : 
+                Timer:
+                   2872 seconds
+Information : 
+                Timer:
+                   2877 seconds
+Information : 
+                Timer:
+                   2885 seconds
+Information : 
+                Timer:
+                   2890 seconds
+Information : 
+                Timer:
+                   2895 seconds
+Information : 
+                Timer:
+                   2900 seconds
+Information : 
+                Timer:
+                   2906 seconds
+Information : 
+                Timer:
+                   2911 seconds
+Information : 
+                Timer:
+                   2915 seconds
+Information : 
+                Timer:
+                   2981 seconds
+Information : 
+                Timer:
+                   2987 seconds
+Information : 
+                Timer:
+                   2992 seconds
+Information : 
+                Timer:
+                   2997 seconds
+Information : 
+                Timer:
+                   3014 seconds
+Information : 
+                Timer:
+                   3022 seconds
+Information : 
+                Timer:
+                   3027 seconds
+Information : 
+                Timer:
+                   3051 seconds
+Information : 
+                Timer:
+                   3057 seconds
+Information : 
+                Timer:
+                   3061 seconds
+Information : 
+                Timer:
+                   3068 seconds
+Information : 
+                Timer:
+                   3073 seconds
+Information : 
+                Timer:
+                   3079 seconds
+Information : 
+                Timer:
+                   3083 seconds
+Information : 
+                Timer:
+                   3089 seconds
+Status : TBR : 13726 13726.
+Information : 
+                Timer:
+                   3097 seconds
+Information : 
+                Timer:
+                   3104 seconds
+Information : 
+                Timer:
+                   3109 seconds
+Information : 
+                Timer:
+                   3126 seconds
+Information : 
+                Timer:
+                   3128 seconds
+Information : 
+                Timer:
+                   3136 seconds
+Information : 
+                Timer:
+                   3200 seconds
+Information : 
+                Timer:
+                   3203 seconds
+Information : 
+                Timer:
+                   3206 seconds
+Information : 
+                Timer:
+                   3208 seconds
+Information : 
+                Timer:
+                   3210 seconds
+Information : 
+                Timer:
+                   3213 seconds
+Information : 
+                Timer:
+                   3215 seconds
+Information : 
+                Timer:
+                   3218 seconds
+Information : 
+                Timer:
+                   3220 seconds
+Information : 
+                Timer:
+                   3224 seconds
+Information : 
+                Timer:
+                   3225 seconds
+Information : 
+                Timer:
+                   3228 seconds
+Information : 
+                Timer:
+                   3230 seconds
+Information : 
+                Timer:
+                   3232 seconds
+Information : 
+                Timer:
+                   3233 seconds
+Information : 
+                Timer:
+                   3235 seconds
+Information : 
+                Timer:
+                   3237 seconds
+Information : 
+                Timer:
+                   3238 seconds
+Information : 
+                Timer:
+                   3239 seconds
+Information : 
+                Timer:
+                   3259 seconds
+Information : 
+                Timer:
+                   3260 seconds
+Information : 
+                Timer:
+                   3265 seconds
+Information : 
+                Timer:
+                   3271 seconds
+Information : 
+                Timer:
+                   3297 seconds
+Information : 
+                Timer:
+                   3299 seconds
+Information : 
+                Timer:
+                   3355 seconds
+Information : 
+                Timer:
+                   3356 seconds
+Information : 
+                Timer:
+                   3357 seconds
+Information : 
+                Timer:
+                   3358 seconds
+Information : 
+                Timer:
+                   3359 seconds
+Information : 
+                Timer:
+                   3361 seconds
+Information : 
+                Timer:
+                   3365 seconds
+Information : 
+                Timer:
+                   3438 seconds
+Information : 
+                Timer:
+                   3439 seconds
+Information : 
+                Timer:
+                   3465 seconds
+Information : 
+                Timer:
+                   3467 seconds
+Information : 
+                Timer:
+                   3468 seconds
+Information : 
+                Timer:
+                   3469 seconds
+Information : 
+                Timer:
+                   3470 seconds
+Information : 
+                Timer:
+                   3471 seconds
+Information : 
+                Timer:
+                   3472 seconds
+Information : 
+                Timer:
+                   3473 seconds
+Information : 
+                Timer:
+                   3474 seconds
+Information : 
+                Timer:
+                   3475 seconds
+Information : 
+                Timer:
+                   3476 seconds
+Information : 
+                Timer:
+                   3481 seconds
+Information : 
+                Timer:
+                   3487 seconds
+Status : TBR : 13721 13721.
+Information : 
+                Timer:
+                   3494 seconds
+Status : TBR : 13719 13719.
+Information : 
+                Timer:
+                   3501 seconds
+Information : 
+                Timer:
+                   3503 seconds
+Information : 
+                Timer:
+                   3506 seconds
+Information : 
+                Timer:
+                   3507 seconds
+Information : 
+                Timer:
+                   3510 seconds
+Information : 
+                Timer:
+                   3512 seconds
+Information : 
+                Timer:
+                   3513 seconds
+Information : 
+                Timer:
+                   3515 seconds
+Information : 
+                Timer:
+                   3516 seconds
+Information : 
+                Timer:
+                   3517 seconds
+Information : 
+                Timer:
+                   3518 seconds
+Information : 
+                Timer:
+                   3520 seconds
+Information : 
+                Timer:
+                   3521 seconds
+Information : 
+                Timer:
+                   3522 seconds
+Information : 
+                Timer:
+                   3523 seconds
+Information : 
+                Timer:
+                   3525 seconds
+Information : 
+                Timer:
+                   3547 seconds
+Information : 
+                Timer:
+                   3549 seconds
+Information : 
+                Timer:
+                   3558 seconds
+Information : 
+                Timer:
+                   3561 seconds
+Information : 
+                Timer:
+                   3562 seconds
+Information : 
+                Timer:
+                   3564 seconds
+Information : 
+                Timer:
+                   3567 seconds
+Information : 
+                Timer:
+                   3571 seconds
+Information : 
+                Timer:
+                   3572 seconds
+Information : 
+                Timer:
+                   3583 seconds
+Information : 
+                Timer:
+                   3585 seconds
+Information : 
+                Timer:
+                   3589 seconds
+Information : 
+                Timer:
+                   3590 seconds
+Information : 
+                Timer:
+                   3591 seconds
+Information : 
+                Timer:
+                   3592 seconds
+Information : 
+                Timer:
+                   3595 seconds
+Information : 
+                Timer:
+                   3596 seconds
+Information : 
+                Timer:
+                   3597 seconds
+Information : 
+                Timer:
+                   3598 seconds
+Information : 
+                Timer:
+                   3604 seconds
+Information : 
+                Timer:
+                   3609 seconds
+Information : 
+                Timer:
+                   3611 seconds
+Information : 
+                Timer:
+                   3615 seconds
+Information : 
+                Timer:
+                   3619 seconds
+Information : 
+                Timer:
+                   3621 seconds
+Information : 
+                Timer:
+                   3623 seconds
+Information : 
+                Timer:
+                   3624 seconds
+Information : 
+                Timer:
+                   3627 seconds
+Information : 
+                Timer:
+                   3629 seconds
+Information : 
+                Timer:
+                   3630 seconds
+Information : 
+                Timer:
+                   3634 seconds
+Information : 
+                Timer:
+                   3635 seconds
+Information : 
+                Timer:
+                   3642 seconds
+Information : 
+                Timer:
+                   3648 seconds
+Information : 
+                Timer:
+                   3654 seconds
+Information : 
+                Timer:
+                   3660 seconds
+Information : 
+                Timer:
+                   3712 seconds
+Information : 
+                Timer:
+                   3718 seconds
+Information : 
+                Timer:
+                   3729 seconds
+Information : 
+                Timer:
+                   3731 seconds
+Information : 
+                Timer:
+                   3738 seconds
+Information : 
+                Timer:
+                   3745 seconds
+Information : 
+                Timer:
+                   3752 seconds
+Information : 
+                Timer:
+                   3759 seconds
+Information : 
+                Timer:
+                   3789 seconds
+Information : 
+                Timer:
+                   3795 seconds
+Information : 
+                Timer:
+                   3801 seconds
+Information : 
+                Timer:
+                   3808 seconds
+Information : 
+                Timer:
+                   3814 seconds
+Information : 
+                Timer:
+                   3821 seconds
+Information : 
+                Timer:
+                   3827 seconds
+Information : 
+                Timer:
+                   3833 seconds
+Information : 
+                Timer:
+                   3840 seconds
+Information : 
+                Timer:
+                   3892 seconds
+Information : 
+                Timer:
+                   3898 seconds
+Information : 
+                Timer:
+                   3933 seconds
+Information : 
+                Timer:
+                   3939 seconds
+Information : 
+                Timer:
+                   3980 seconds
+Information : 
+                Timer:
+                   4003 seconds
+Information : 
+                Timer:
+                   4009 seconds
+Information : 
+                Timer:
+                   4015 seconds
+Information : 
+                Timer:
+                   4030 seconds
+Information : 
+                Timer:
+                   4044 seconds
+Information : 
+                Timer:
+                   4050 seconds
+Information : 
+                Timer:
+                   4061 seconds
+Information : 
+                Timer:
+                   4068 seconds
+Information : 
+                Timer:
+                   4074 seconds
+Information : 
+                Timer:
+                   4079 seconds
+Information : 
+                Timer:
+                   4089 seconds
+Information : 
+                Timer:
+                   4095 seconds
+Information : 
+                Timer:
+                   4111 seconds
+Information : 
+                Timer:
+                   4122 seconds
+Information : 
+                Timer:
+                   4128 seconds
+Information : 
+                Timer:
+                   4137 seconds
+Information : 
+                Timer:
+                   4143 seconds
+Information : 
+                Timer:
+                   4149 seconds
+Information : 
+                Timer:
+                   4155 seconds
+Information : 
+                Timer:
+                   4161 seconds
+Information : 
+                Timer:
+                   4237 seconds
+Information : 
+                Timer:
+                   4303 seconds
+Information : 
+                Timer:
+                   4319 seconds
+Information : 
+                Timer:
+                   4334 seconds
+Information : 
+                Timer:
+                   4348 seconds
+Information : 
+                Timer:
+                   4359 seconds
+Information : 
+                Timer:
+                   4366 seconds
+Information : 
+                Timer:
+                   4380 seconds
+Information : 
+                Timer:
+                   4383 seconds
+Information : 
+                Timer:
+                   4389 seconds
+Information : 
+                Timer:
+                   4394 seconds
+Information : 
+                Timer:
+                   4400 seconds
+Information : 
+                Timer:
+                   4410 seconds
+Information : 
+                Timer:
+                   4417 seconds
+Information : 
+                Timer:
+                   4487 seconds
+Information : 
+                Timer:
+                   4492 seconds
+Information : 
+                Timer:
+                   4498 seconds
+Information : 
+                Timer:
+                   4509 seconds
+Information : 
+                Timer:
+                   4515 seconds
+Information : 
+                Timer:
+                   4520 seconds
+Information : 
+                Timer:
+                   4524 seconds
+Information : 
+                Timer:
+                   4533 seconds
+Information : 
+                Timer:
+                   4603 seconds
+Information : 
+                Timer:
+                   4604 seconds
+Information : 
+                Timer:
+                   4611 seconds
+Information : 
+                Timer:
+                   4614 seconds
+Information : 
+                Timer:
+                   4620 seconds
+Information : 
+                Timer:
+                   4621 seconds
+Information : 
+                Timer:
+                   4626 seconds
+Information : 
+                Timer:
+                   4632 seconds
+Information : 
+                Timer:
+                   4634 seconds
+Information : 
+                Timer:
+                   4644 seconds
+Information : 
+                Timer:
+                   4645 seconds
+Information : 
+                Timer:
+                   4650 seconds
+Information : 
+                Timer:
+                   4651 seconds
+Information : 
+                Timer:
+                   4656 seconds
+Information : 
+                Timer:
+                   4664 seconds
+Information : 
+                Timer:
+                   4693 seconds
+Information : 
+                Timer:
+                   4699 seconds
+Information : 
+                Timer:
+                   4706 seconds
+Information : 
+                Timer:
+                   4711 seconds
+Information : 
+                Timer:
+                   4715 seconds
+Information : 
+                Timer:
+                   4721 seconds
+Information : 
+                Timer:
+                   4726 seconds
+Information : 
+                Timer:
+                   4731 seconds
+Information : 
+                Timer:
+                   4735 seconds
+Information : 
+                Timer:
+                   4799 seconds
+Information : 
+                Timer:
+                   4806 seconds
+Information : 
+                Timer:
+                   4811 seconds
+Information : 
+                Timer:
+                   4815 seconds
+Information : 
+                Timer:
+                   4831 seconds
+Information : 
+                Timer:
+                   4840 seconds
+Information : 
+                Timer:
+                   4844 seconds
+Information : 
+                Timer:
+                   4869 seconds
+Information : 
+                Timer:
+                   4875 seconds
+Information : 
+                Timer:
+                   4878 seconds
+Information : 
+                Timer:
+                   4886 seconds
+Information : 
+                Timer:
+                   4892 seconds
+Information : 
+                Timer:
+                   4897 seconds
+Information : 
+                Timer:
+                   4901 seconds
+Information : 
+                Timer:
+                   4907 seconds
+Information : 
+                Timer:
+                   4924 seconds
+Information : 
+                Timer:
+                   4928 seconds
+Information : 
+                Timer:
+                   4933 seconds
+Information : 
+                Timer:
+                   4948 seconds
+Information : 
+                Timer:
+                   4950 seconds
+Information : 
+                Timer:
+                   4954 seconds
+Information : 
+                Timer:
+                   5015 seconds
+Information : 
+                Timer:
+                   5018 seconds
+Information : 
+                Timer:
+                   5021 seconds
+Information : 
+                Timer:
+                   5023 seconds
+Information : 
+                Timer:
+                   5025 seconds
+Information : 
+                Timer:
+                   5028 seconds
+Information : 
+                Timer:
+                   5029 seconds
+Information : 
+                Timer:
+                   5033 seconds
+Information : 
+                Timer:
+                   5034 seconds
+Information : 
+                Timer:
+                   5038 seconds
+Information : 
+                Timer:
+                   5040 seconds
+Information : 
+                Timer:
+                   5042 seconds
+Information : 
+                Timer:
+                   5044 seconds
+Information : 
+                Timer:
+                   5046 seconds
+Information : 
+                Timer:
+                   5047 seconds
+Information : 
+                Timer:
+                   5048 seconds
+Information : 
+                Timer:
+                   5049 seconds
+Information : 
+                Timer:
+                   5050 seconds
+Information : 
+                Timer:
+                   5069 seconds
+Information : 
+                Timer:
+                   5074 seconds
+Information : 
+                Timer:
+                   5080 seconds
+Information : 
+                Timer:
+                   5106 seconds
+Information : 
+                Timer:
+                   5107 seconds
+Information : 
+                Timer:
+                   5108 seconds
+Information : 
+                Timer:
+                   5180 seconds
+Information : 
+                Timer:
+                   5181 seconds
+Information : 
+                Timer:
+                   5182 seconds
+Information : 
+                Timer:
+                   5183 seconds
+Information : 
+                Timer:
+                   5185 seconds
+Information : 
+                Timer:
+                   5189 seconds
+Information : 
+                Timer:
+                   5245 seconds
+Information : 
+                Timer:
+                   5246 seconds
+Information : 
+                Timer:
+                   5273 seconds
+Information : 
+                Timer:
+                   5274 seconds
+Information : 
+                Timer:
+                   5275 seconds
+Information : 
+                Timer:
+                   5276 seconds
+Information : 
+                Timer:
+                   5277 seconds
+Information : 
+                Timer:
+                   5278 seconds
+Information : 
+                Timer:
+                   5279 seconds
+Information : 
+                Timer:
+                   5280 seconds
+Information : 
+                Timer:
+                   5281 seconds
+Information : 
+                Timer:
+                   5282 seconds
+Information : 
+                Timer:
+                   5283 seconds
+Information : 
+                Timer:
+                   5288 seconds
+Information : 
+                Timer:
+                   5294 seconds
+Information : 
+                Timer:
+                   5300 seconds
+Information : 
+                Timer:
+                   5337 seconds
+Status : TBR Finished
+Status : TBR : 13696 13696.
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   14 seconds
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   26 seconds
+Information : 
+                Timer:
+                   32 seconds
+Information : 
+                Timer:
+                   38 seconds
+Information : 
+                Timer:
+                   65 seconds
+Information : 
+                Timer:
+                   72 seconds
+Information : 
+                Timer:
+                   78 seconds
+Information : 
+                Timer:
+                   85 seconds
+Information : 
+                Timer:
+                   91 seconds
+Information : 
+                Timer:
+                   97 seconds
+Information : 
+                Timer:
+                   104 seconds
+Information : 
+                Timer:
+                   110 seconds
+Information : 
+                Timer:
+                   116 seconds
+Information : 
+                Timer:
+                   123 seconds
+Information : 
+                Timer:
+                   129 seconds
+Information : 
+                Timer:
+                   156 seconds
+Information : 
+                Timer:
+                   188 seconds
+Information : 
+                Timer:
+                   194 seconds
+Information : 
+                Timer:
+                   200 seconds
+Information : 
+                Timer:
+                   206 seconds
+Information : 
+                Timer:
+                   212 seconds
+Information : 
+                Timer:
+                   221 seconds
+Information : 
+                Timer:
+                   227 seconds
+Information : 
+                Timer:
+                   248 seconds
+Information : 
+                Timer:
+                   253 seconds
+Information : 
+                Timer:
+                   261 seconds
+Information : 
+                Timer:
+                   266 seconds
+Information : 
+                Timer:
+                   283 seconds
+Information : 
+                Timer:
+                   306 seconds
+Information : 
+                Timer:
+                   361 seconds
+Information : 
+                Timer:
+                   398 seconds
+Information : 
+                Timer:
+                   404 seconds
+Information : 
+                Timer:
+                   410 seconds
+Information : 
+                Timer:
+                   416 seconds
+Information : 
+                Timer:
+                   427 seconds
+Information : 
+                Timer:
+                   484 seconds
+Information : 
+                Timer:
+                   490 seconds
+Information : 
+                Timer:
+                   496 seconds
+Information : 
+                Timer:
+                   512 seconds
+Information : 
+                Timer:
+                   521 seconds
+Information : 
+                Timer:
+                   527 seconds
+Status : TBR : 13694 13694.
+Information : 
+                Timer:
+                   549 seconds
+Information : 
+                Timer:
+                   555 seconds
+Information : 
+                Timer:
+                   619 seconds
+Information : 
+                Timer:
+                   635 seconds
+Information : 
+                Timer:
+                   652 seconds
+Information : 
+                Timer:
+                   660 seconds
+Information : 
+                Timer:
+                   674 seconds
+Information : 
+                Timer:
+                   686 seconds
+Information : 
+                Timer:
+                   703 seconds
+Information : 
+                Timer:
+                   709 seconds
+Information : 
+                Timer:
+                   715 seconds
+Information : 
+                Timer:
+                   721 seconds
+Status : TBR : 13693 13693.
+Information : 
+                Timer:
+                   746 seconds
+Information : 
+                Timer:
+                   752 seconds
+Information : 
+                Timer:
+                   767 seconds
+Information : 
+                Timer:
+                   832 seconds
+Information : 
+                Timer:
+                   848 seconds
+Information : 
+                Timer:
+                   856 seconds
+Information : 
+                Timer:
+                   868 seconds
+Information : 
+                Timer:
+                   874 seconds
+Information : 
+                Timer:
+                   894 seconds
+Information : 
+                Timer:
+                   910 seconds
+Information : 
+                Timer:
+                   938 seconds
+Information : 
+                Timer:
+                   944 seconds
+Information : 
+                Timer:
+                   950 seconds
+Information : 
+                Timer:
+                   956 seconds
+Information : 
+                Timer:
+                   961 seconds
+Information : 
+                Timer:
+                   1028 seconds
+Information : 
+                Timer:
+                   1078 seconds
+Information : 
+                Timer:
+                   1084 seconds
+Information : 
+                Timer:
+                   1148 seconds
+Information : 
+                Timer:
+                   1155 seconds
+Information : 
+                Timer:
+                   1167 seconds
+Information : 
+                Timer:
+                   1174 seconds
+Information : 
+                Timer:
+                   1206 seconds
+Information : 
+                Timer:
+                   1212 seconds
+Information : 
+                Timer:
+                   1222 seconds
+Information : 
+                Timer:
+                   1249 seconds
+Information : 
+                Timer:
+                   1292 seconds
+Information : 
+                Timer:
+                   1298 seconds
+Information : 
+                Timer:
+                   1306 seconds
+Information : 
+                Timer:
+                   1312 seconds
+Information : 
+                Timer:
+                   1326 seconds
+Information : 
+                Timer:
+                   1333 seconds
+Information : 
+                Timer:
+                   1339 seconds
+Information : 
+                Timer:
+                   1345 seconds
+Information : 
+                Timer:
+                   1351 seconds
+Information : 
+                Timer:
+                   1356 seconds
+Information : 
+                Timer:
+                   1390 seconds
+Information : 
+                Timer:
+                   1395 seconds
+Information : 
+                Timer:
+                   1403 seconds
+Information : 
+                Timer:
+                   1473 seconds
+Information : 
+                Timer:
+                   1479 seconds
+Information : 
+                Timer:
+                   1517 seconds
+Information : 
+                Timer:
+                   1523 seconds
+Information : 
+                Timer:
+                   1592 seconds
+Information : 
+                Timer:
+                   1598 seconds
+Information : 
+                Timer:
+                   1606 seconds
+Information : 
+                Timer:
+                   1616 seconds
+Information : 
+                Timer:
+                   1622 seconds
+Information : 
+                Timer:
+                   1627 seconds
+Information : 
+                Timer:
+                   1638 seconds
+Information : 
+                Timer:
+                   1652 seconds
+Information : 
+                Timer:
+                   1658 seconds
+Information : 
+                Timer:
+                   1663 seconds
+Information : 
+                Timer:
+                   1669 seconds
+Information : 
+                Timer:
+                   1675 seconds
+Information : 
+                Timer:
+                   1682 seconds
+Information : 
+                Timer:
+                   1688 seconds
+Information : 
+                Timer:
+                   1694 seconds
+Information : 
+                Timer:
+                   1702 seconds
+Information : 
+                Timer:
+                   1721 seconds
+Information : 
+                Timer:
+                   1733 seconds
+Information : 
+                Timer:
+                   1742 seconds
+Information : 
+                Timer:
+                   1748 seconds
+Information : 
+                Timer:
+                   1754 seconds
+Information : 
+                Timer:
+                   1759 seconds
+Information : 
+                Timer:
+                   1765 seconds
+Information : 
+                Timer:
+                   1775 seconds
+Information : 
+                Timer:
+                   1780 seconds
+Information : 
+                Timer:
+                   1786 seconds
+Information : 
+                Timer:
+                   1792 seconds
+Information : 
+                Timer:
+                   1801 seconds
+Information : 
+                Timer:
+                   1807 seconds
+Information : 
+                Timer:
+                   1814 seconds
+Information : 
+                Timer:
+                   1820 seconds
+Information : 
+                Timer:
+                   1825 seconds
+Information : 
+                Timer:
+                   1839 seconds
+Information : 
+                Timer:
+                   1845 seconds
+Information : 
+                Timer:
+                   1851 seconds
+Information : 
+                Timer:
+                   1856 seconds
+Information : 
+                Timer:
+                   1862 seconds
+Information : 
+                Timer:
+                   1872 seconds
+Information : 
+                Timer:
+                   1880 seconds
+Information : 
+                Timer:
+                   1885 seconds
+Information : 
+                Timer:
+                   1891 seconds
+Status : TBR : 13692 13692.
+Information : 
+                Timer:
+                   1906 seconds
+Information : 
+                Timer:
+                   1912 seconds
+Information : 
+                Timer:
+                   1917 seconds
+Information : 
+                Timer:
+                   1923 seconds
+Information : 
+                Timer:
+                   1929 seconds
+Information : 
+                Timer:
+                   1934 seconds
+Information : 
+                Timer:
+                   1969 seconds
+Information : 
+                Timer:
+                   1975 seconds
+Information : 
+                Timer:
+                   1981 seconds
+Information : 
+                Timer:
+                   1987 seconds
+Information : 
+                Timer:
+                   1993 seconds
+Information : 
+                Timer:
+                   1999 seconds
+Information : 
+                Timer:
+                   2005 seconds
+Information : 
+                Timer:
+                   2011 seconds
+Information : 
+                Timer:
+                   2017 seconds
+Information : 
+                Timer:
+                   2022 seconds
+Status : TBR : 13691 13691.
+Information : 
+                Timer:
+                   2038 seconds
+Information : 
+                Timer:
+                   2044 seconds
+Information : 
+                Timer:
+                   2049 seconds
+Status : TBR : 13690 13690.
+Information : 
+                Timer:
+                   2070 seconds
+Information : 
+                Timer:
+                   2079 seconds
+Information : 
+                Timer:
+                   2087 seconds
+Information : 
+                Timer:
+                   2094 seconds
+Information : 
+                Timer:
+                   2099 seconds
+Information : 
+                Timer:
+                   2105 seconds
+Information : 
+                Timer:
+                   2114 seconds
+Information : 
+                Timer:
+                   2123 seconds
+Information : 
+                Timer:
+                   2132 seconds
+Information : 
+                Timer:
+                   2138 seconds
+Information : 
+                Timer:
+                   2144 seconds
+Information : 
+                Timer:
+                   2153 seconds
+Information : 
+                Timer:
+                   2162 seconds
+Information : 
+                Timer:
+                   2187 seconds
+Information : 
+                Timer:
+                   2196 seconds
+Information : 
+                Timer:
+                   2205 seconds
+Information : 
+                Timer:
+                   2214 seconds
+Information : 
+                Timer:
+                   2223 seconds
+Information : 
+                Timer:
+                   2232 seconds
+Information : 
+                Timer:
+                   2242 seconds
+Information : 
+                Timer:
+                   2251 seconds
+Information : 
+                Timer:
+                   2260 seconds
+Information : 
+                Timer:
+                   2270 seconds
+Information : 
+                Timer:
+                   2279 seconds
+Information : 
+                Timer:
+                   2288 seconds
+Information : 
+                Timer:
+                   2297 seconds
+Information : 
+                Timer:
+                   2306 seconds
+Information : 
+                Timer:
+                   2316 seconds
+Information : 
+                Timer:
+                   2325 seconds
+Information : 
+                Timer:
+                   2335 seconds
+Information : 
+                Timer:
+                   2340 seconds
+Information : 
+                Timer:
+                   2350 seconds
+Information : 
+                Timer:
+                   2356 seconds
+Information : 
+                Timer:
+                   2424 seconds
+Information : 
+                Timer:
+                   2478 seconds
+Information : 
+                Timer:
+                   2522 seconds
+Information : 
+                Timer:
+                   2532 seconds
+Information : 
+                Timer:
+                   2541 seconds
+Information : 
+                Timer:
+                   2551 seconds
+Information : 
+                Timer:
+                   2561 seconds
+Information : 
+                Timer:
+                   2571 seconds
+Information : 
+                Timer:
+                   2580 seconds
+Information : 
+                Timer:
+                   2590 seconds
+Information : 
+                Timer:
+                   2596 seconds
+Information : 
+                Timer:
+                   2606 seconds
+Information : 
+                Timer:
+                   2615 seconds
+Information : 
+                Timer:
+                   2625 seconds
+Information : 
+                Timer:
+                   2662 seconds
+Status : TBR Finished
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 7 h, 32 m, 35 s; Hits: 1
+Status : RAS + TBR : 0 Searching on tree number 3
+Status : Wagner : 2 of 115 -- Wagner tree with cost 2.
+Status : Wagner : 3 of 115 -- Wagner tree with cost 40.
+Status : Wagner : 4 of 115 -- Wagner tree with cost 68.
+Status : Wagner : 5 of 115 -- Wagner tree with cost 408.
+Status : Wagner : 6 of 115 -- Wagner tree with cost 687.
+Status : Wagner : 7 of 115 -- Wagner tree with cost 1041.
+Status : Wagner : 8 of 115 -- Wagner tree with cost 1106.
+Status : Wagner : 9 of 115 -- Wagner tree with cost 1347.
+Status : Wagner : 10 of 115 -- Wagner tree with cost 1369.
+Status : Wagner : 11 of 115 -- Wagner tree with cost 1386.
+Status : Wagner : 12 of 115 -- Wagner tree with cost 1616.
+Status : Wagner : 13 of 115 -- Wagner tree with cost 1910.
+Status : Wagner : 14 of 115 -- Wagner tree with cost 1917.
+Status : Wagner : 15 of 115 -- Wagner tree with cost 2191.
+Status : Wagner : 16 of 115 -- Wagner tree with cost 2206.
+Status : Wagner : 17 of 115 -- Wagner tree with cost 2724.
+Status : Wagner : 18 of 115 -- Wagner tree with cost 2727.
+Status : Wagner : 19 of 115 -- Wagner tree with cost 3103.
+Status : Wagner : 20 of 115 -- Wagner tree with cost 3104.
+Status : Wagner : 21 of 115 -- Wagner tree with cost 3230.
+Status : Wagner : 22 of 115 -- Wagner tree with cost 3617.
+Status : Wagner : 23 of 115 -- Wagner tree with cost 3795.
+Status : Wagner : 24 of 115 -- Wagner tree with cost 3797.
+Status : Wagner : 25 of 115 -- Wagner tree with cost 3959.
+Status : Wagner : 26 of 115 -- Wagner tree with cost 4144.
+Status : Wagner : 27 of 115 -- Wagner tree with cost 4147.
+Status : Wagner : 28 of 115 -- Wagner tree with cost 4349.
+Status : Wagner : 29 of 115 -- Wagner tree with cost 4350.
+Status : Wagner : 30 of 115 -- Wagner tree with cost 4358.
+Status : Wagner : 31 of 115 -- Wagner tree with cost 4362.
+Status : Wagner : 32 of 115 -- Wagner tree with cost 4533.
+Status : Wagner : 33 of 115 -- Wagner tree with cost 5135.
+Status : Wagner : 34 of 115 -- Wagner tree with cost 5354.
+Status : Wagner : 35 of 115 -- Wagner tree with cost 5354.
+Status : Wagner : 36 of 115 -- Wagner tree with cost 5363.
+Status : Wagner : 37 of 115 -- Wagner tree with cost 5382.
+Status : Wagner : 38 of 115 -- Wagner tree with cost 5838.
+Status : Wagner : 39 of 115 -- Wagner tree with cost 5910.
+Status : Wagner : 40 of 115 -- Wagner tree with cost 6069.
+Status : Wagner : 41 of 115 -- Wagner tree with cost 6206.
+Status : Wagner : 42 of 115 -- Wagner tree with cost 6206.
+Status : Wagner : 43 of 115 -- Wagner tree with cost 6211.
+Status : Wagner : 44 of 115 -- Wagner tree with cost 6213.
+Status : Wagner : 45 of 115 -- Wagner tree with cost 6411.
+Status : Wagner : 46 of 115 -- Wagner tree with cost 6454.
+Status : Wagner : 47 of 115 -- Wagner tree with cost 6828.
+Status : Wagner : 48 of 115 -- Wagner tree with cost 6829.
+Status : Wagner : 49 of 115 -- Wagner tree with cost 7410.
+Status : Wagner : 50 of 115 -- Wagner tree with cost 7616.
+Status : Wagner : 51 of 115 -- Wagner tree with cost 7616.
+Status : Wagner : 52 of 115 -- Wagner tree with cost 8062.
+Status : Wagner : 53 of 115 -- Wagner tree with cost 8302.
+Status : Wagner : 54 of 115 -- Wagner tree with cost 8479.
+Status : Wagner : 55 of 115 -- Wagner tree with cost 8567.
+Status : Wagner : 56 of 115 -- Wagner tree with cost 8741.
+Status : Wagner : 57 of 115 -- Wagner tree with cost 8899.
+Status : Wagner : 58 of 115 -- Wagner tree with cost 8973.
+Status : Wagner : 59 of 115 -- Wagner tree with cost 9065.
+Status : Wagner : 60 of 115 -- Wagner tree with cost 9066.
+Status : Wagner : 61 of 115 -- Wagner tree with cost 9233.
+Status : Wagner : 62 of 115 -- Wagner tree with cost 9240.
+Status : Wagner : 63 of 115 -- Wagner tree with cost 9360.
+Status : Wagner : 64 of 115 -- Wagner tree with cost 9697.
+Status : Wagner : 65 of 115 -- Wagner tree with cost 9699.
+Status : Wagner : 66 of 115 -- Wagner tree with cost 9710.
+Status : Wagner : 67 of 115 -- Wagner tree with cost 9710.
+Status : Wagner : 68 of 115 -- Wagner tree with cost 9712.
+Status : Wagner : 69 of 115 -- Wagner tree with cost 9740.
+Status : Wagner : 70 of 115 -- Wagner tree with cost 9887.
+Status : Wagner : 71 of 115 -- Wagner tree with cost 9894.
+Status : Wagner : 72 of 115 -- Wagner tree with cost 9895.
+Status : Wagner : 73 of 115 -- Wagner tree with cost 9898.
+Status : Wagner : 74 of 115 -- Wagner tree with cost 9914.
+Status : Wagner : 75 of 115 -- Wagner tree with cost 10015.
+Status : Wagner : 76 of 115 -- Wagner tree with cost 10016.
+Status : Wagner : 77 of 115 -- Wagner tree with cost 10018.
+Status : Wagner : 78 of 115 -- Wagner tree with cost 10024.
+Status : Wagner : 79 of 115 -- Wagner tree with cost 10025.
+Status : Wagner : 80 of 115 -- Wagner tree with cost 10138.
+Status : Wagner : 81 of 115 -- Wagner tree with cost 10138.
+Status : Wagner : 82 of 115 -- Wagner tree with cost 10312.
+Status : Wagner : 83 of 115 -- Wagner tree with cost 10531.
+Status : Wagner : 84 of 115 -- Wagner tree with cost 10853.
+Status : Wagner : 85 of 115 -- Wagner tree with cost 10863.
+Status : Wagner : 86 of 115 -- Wagner tree with cost 10863.
+Status : Wagner : 87 of 115 -- Wagner tree with cost 10868.
+Status : Wagner : 88 of 115 -- Wagner tree with cost 10869.
+Status : Wagner : 89 of 115 -- Wagner tree with cost 11094.
+Status : Wagner : 90 of 115 -- Wagner tree with cost 11096.
+Status : Wagner : 91 of 115 -- Wagner tree with cost 11215.
+Status : Wagner : 92 of 115 -- Wagner tree with cost 11216.
+Status : Wagner : 93 of 115 -- Wagner tree with cost 11234.
+Status : Wagner : 94 of 115 -- Wagner tree with cost 11234.
+Status : Wagner : 95 of 115 -- Wagner tree with cost 11499.
+Status : Wagner : 96 of 115 -- Wagner tree with cost 11536.
+Status : Wagner : 97 of 115 -- Wagner tree with cost 11538.
+Status : Wagner : 98 of 115 -- Wagner tree with cost 11540.
+Status : Wagner : 99 of 115 -- Wagner tree with cost 11541.
+Status : Wagner : 100 of 115 -- Wagner tree with cost 11853.
+Status : Wagner : 101 of 115 -- Wagner tree with cost 11980.
+Status : Wagner : 102 of 115 -- Wagner tree with cost 12232.
+Status : Wagner : 103 of 115 -- Wagner tree with cost 12565.
+Status : Wagner : 104 of 115 -- Wagner tree with cost 12566.
+Status : Wagner : 105 of 115 -- Wagner tree with cost 13115.
+Status : Wagner : 106 of 115 -- Wagner tree with cost 13116.
+Status : Wagner : 107 of 115 -- Wagner tree with cost 13121.
+Status : Wagner : 108 of 115 -- Wagner tree with cost 13383.
+Status : Wagner : 109 of 115 -- Wagner tree with cost 13719.
+Status : Wagner : 110 of 115 -- Wagner tree with cost 13760.
+Status : Wagner : 111 of 115 -- Wagner tree with cost 13890.
+Status : Wagner : 112 of 115 -- Wagner tree with cost 13891.
+Status : Wagner : 113 of 115 -- Wagner tree with cost 13914.
+Status : Wagner : 114 of 115 -- Wagner tree with cost 13916.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 13900 13900.
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   26 seconds
+Information : 
+                Timer:
+                   34 seconds
+Information : 
+                Timer:
+                   42 seconds
+Status : TBR : 13892 13892.
+Information : 
+                Timer:
+                   46 seconds
+Information : 
+                Timer:
+                   62 seconds
+Information : 
+                Timer:
+                   70 seconds
+Status : TBR : 13886 13886.
+Information : 
+                Timer:
+                   73 seconds
+Information : 
+                Timer:
+                   84 seconds
+Information : 
+                Timer:
+                   93 seconds
+Information : 
+                Timer:
+                   100 seconds
+Information : 
+                Timer:
+                   108 seconds
+Information : 
+                Timer:
+                   115 seconds
+Information : 
+                Timer:
+                   122 seconds
+Information : 
+                Timer:
+                   130 seconds
+Status : TBR : 13880 13880.
+Information : 
+                Timer:
+                   132 seconds
+Information : 
+                Timer:
+                   143 seconds
+Information : 
+                Timer:
+                   151 seconds
+Information : 
+                Timer:
+                   163 seconds
+Information : 
+                Timer:
+                   170 seconds
+Information : 
+                Timer:
+                   192 seconds
+Information : 
+                Timer:
+                   198 seconds
+Information : 
+                Timer:
+                   205 seconds
+Information : 
+                Timer:
+                   212 seconds
+Status : TBR : 13874 13874.
+Information : 
+                Timer:
+                   214 seconds
+Information : 
+                Timer:
+                   234 seconds
+Information : 
+                Timer:
+                   240 seconds
+Information : 
+                Timer:
+                   277 seconds
+Information : 
+                Timer:
+                   310 seconds
+Information : 
+                Timer:
+                   318 seconds
+Information : 
+                Timer:
+                   325 seconds
+Information : 
+                Timer:
+                   336 seconds
+Status : TBR : 13869 13869.
+Information : 
+                Timer:
+                   338 seconds
+Status : TBR : 13859 13859.
+Information : 
+                Timer:
+                   341 seconds
+Information : 
+                Timer:
+                   357 seconds
+Status : TBR : 13854 13854.
+Information : 
+                Timer:
+                   362 seconds
+Information : 
+                Timer:
+                   372 seconds
+Information : 
+                Timer:
+                   419 seconds
+Information : 
+                Timer:
+                   426 seconds
+Information : 
+                Timer:
+                   433 seconds
+Information : 
+                Timer:
+                   444 seconds
+Information : 
+                Timer:
+                   453 seconds
+Status : TBR : 13850 13850.
+Information : 
+                Timer:
+                   456 seconds
+Status : TBR : 13838 13838.
+Information : 
+                Timer:
+                   459 seconds
+Information : 
+                Timer:
+                   463 seconds
+Status : TBR : 13836 13836.
+Information : 
+                Timer:
+                   467 seconds
+Information : 
+                Timer:
+                   495 seconds
+Information : 
+                Timer:
+                   525 seconds
+Information : 
+                Timer:
+                   539 seconds
+Information : 
+                Timer:
+                   555 seconds
+Information : 
+                Timer:
+                   569 seconds
+Status : TBR : 13831 13831.
+Information : 
+                Timer:
+                   572 seconds
+Information : 
+                Timer:
+                   585 seconds
+Information : 
+                Timer:
+                   594 seconds
+Information : 
+                Timer:
+                   601 seconds
+Status : TBR : 13824 13824.
+Information : 
+                Timer:
+                   605 seconds
+Information : 
+                Timer:
+                   616 seconds
+Information : 
+                Timer:
+                   621 seconds
+Information : 
+                Timer:
+                   628 seconds
+Information : 
+                Timer:
+                   633 seconds
+Status : TBR : 13823 13823.
+Information : 
+                Timer:
+                   638 seconds
+Information : 
+                Timer:
+                   643 seconds
+Information : 
+                Timer:
+                   651 seconds
+Information : 
+                Timer:
+                   656 seconds
+Status : TBR : 13799 13799.
+Information : 
+                Timer:
+                   659 seconds
+Information : 
+                Timer:
+                   670 seconds
+Information : 
+                Timer:
+                   687 seconds
+Status : TBR : 13794 13794.
+Information : 
+                Timer:
+                   698 seconds
+Information : 
+                Timer:
+                   726 seconds
+Status : TBR : 13791 13791.
+Information : 
+                Timer:
+                   728 seconds
+Information : 
+                Timer:
+                   771 seconds
+Information : 
+                Timer:
+                   776 seconds
+Information : 
+                Timer:
+                   790 seconds
+Information : 
+                Timer:
+                   801 seconds
+Information : 
+                Timer:
+                   809 seconds
+Information : 
+                Timer:
+                   816 seconds
+Status : TBR : 13778 13778.
+Information : 
+                Timer:
+                   817 seconds
+Information : 
+                Timer:
+                   830 seconds
+Information : 
+                Timer:
+                   837 seconds
+Information : 
+                Timer:
+                   838 seconds
+Information : 
+                Timer:
+                   843 seconds
+Status : TBR : 13777 13777.
+Information : 
+                Timer:
+                   846 seconds
+Information : 
+                Timer:
+                   861 seconds
+Information : 
+                Timer:
+                   863 seconds
+Information : 
+                Timer:
+                   873 seconds
+Information : 
+                Timer:
+                   879 seconds
+Information : 
+                Timer:
+                   885 seconds
+Information : 
+                Timer:
+                   892 seconds
+Information : 
+                Timer:
+                   897 seconds
+Information : 
+                Timer:
+                   902 seconds
+Information : 
+                Timer:
+                   908 seconds
+Information : 
+                Timer:
+                   913 seconds
+Information : 
+                Timer:
+                   917 seconds
+Information : 
+                Timer:
+                   958 seconds
+Information : 
+                Timer:
+                   964 seconds
+Information : 
+                Timer:
+                   972 seconds
+Information : 
+                Timer:
+                   976 seconds
+Information : 
+                Timer:
+                   980 seconds
+Information : 
+                Timer:
+                   981 seconds
+Information : 
+                Timer:
+                   987 seconds
+Information : 
+                Timer:
+                   994 seconds
+Status : TBR : 13775 13775.
+Information : 
+                Timer:
+                   999 seconds
+Information : 
+                Timer:
+                   1008 seconds
+Information : 
+                Timer:
+                   1012 seconds
+Information : 
+                Timer:
+                   1020 seconds
+Information : 
+                Timer:
+                   1025 seconds
+Status : TBR : 13767 13767.
+Information : 
+                Timer:
+                   1028 seconds
+Information : 
+                Timer:
+                   1034 seconds
+Information : 
+                Timer:
+                   1038 seconds
+Information : 
+                Timer:
+                   1042 seconds
+Information : 
+                Timer:
+                   1048 seconds
+Information : 
+                Timer:
+                   1056 seconds
+Information : 
+                Timer:
+                   1059 seconds
+Status : TBR : 13765 13765.
+Information : 
+                Timer:
+                   1061 seconds
+Information : 
+                Timer:
+                   1072 seconds
+Information : 
+                Timer:
+                   1077 seconds
+Information : 
+                Timer:
+                   1080 seconds
+Information : 
+                Timer:
+                   1082 seconds
+Status : TBR : 13763 13763.
+Information : 
+                Timer:
+                   1085 seconds
+Information : 
+                Timer:
+                   1091 seconds
+Information : 
+                Timer:
+                   1094 seconds
+Information : 
+                Timer:
+                   1098 seconds
+Information : 
+                Timer:
+                   1102 seconds
+Information : 
+                Timer:
+                   1104 seconds
+Information : 
+                Timer:
+                   1107 seconds
+Information : 
+                Timer:
+                   1109 seconds
+Information : 
+                Timer:
+                   1112 seconds
+Information : 
+                Timer:
+                   1115 seconds
+Information : 
+                Timer:
+                   1116 seconds
+Information : 
+                Timer:
+                   1145 seconds
+Information : 
+                Timer:
+                   1147 seconds
+Information : 
+                Timer:
+                   1149 seconds
+Information : 
+                Timer:
+                   1152 seconds
+Information : 
+                Timer:
+                   1155 seconds
+Information : 
+                Timer:
+                   1159 seconds
+Information : 
+                Timer:
+                   1169 seconds
+Information : 
+                Timer:
+                   1170 seconds
+Information : 
+                Timer:
+                   1171 seconds
+Information : 
+                Timer:
+                   1238 seconds
+Status : TBR : 13762 13762.
+Information : 
+                Timer:
+                   1239 seconds
+Information : 
+                Timer:
+                   1241 seconds
+Information : 
+                Timer:
+                   1244 seconds
+Information : 
+                Timer:
+                   1265 seconds
+Information : 
+                Timer:
+                   1266 seconds
+Information : 
+                Timer:
+                   1267 seconds
+Information : 
+                Timer:
+                   1268 seconds
+Information : 
+                Timer:
+                   1270 seconds
+Information : 
+                Timer:
+                   1271 seconds
+Information : 
+                Timer:
+                   1322 seconds
+Information : 
+                Timer:
+                   1323 seconds
+Information : 
+                Timer:
+                   1324 seconds
+Information : 
+                Timer:
+                   1325 seconds
+Information : 
+                Timer:
+                   1326 seconds
+Information : 
+                Timer:
+                   1327 seconds
+Information : 
+                Timer:
+                   1329 seconds
+Information : 
+                Timer:
+                   1336 seconds
+Information : 
+                Timer:
+                   1342 seconds
+Information : 
+                Timer:
+                   1343 seconds
+Information : 
+                Timer:
+                   1344 seconds
+Information : 
+                Timer:
+                   1345 seconds
+Information : 
+                Timer:
+                   1346 seconds
+Information : 
+                Timer:
+                   1347 seconds
+Information : 
+                Timer:
+                   1348 seconds
+Information : 
+                Timer:
+                   1351 seconds
+Status : TBR : 13761 13761.
+Information : 
+                Timer:
+                   1353 seconds
+Information : 
+                Timer:
+                   1357 seconds
+Information : 
+                Timer:
+                   1359 seconds
+Information : 
+                Timer:
+                   1435 seconds
+Information : 
+                Timer:
+                   1444 seconds
+Information : 
+                Timer:
+                   1464 seconds
+Information : 
+                Timer:
+                   1466 seconds
+Information : 
+                Timer:
+                   1468 seconds
+Information : 
+                Timer:
+                   1469 seconds
+Information : 
+                Timer:
+                   1471 seconds
+Information : 
+                Timer:
+                   1472 seconds
+Information : 
+                Timer:
+                   1474 seconds
+Information : 
+                Timer:
+                   1475 seconds
+Information : 
+                Timer:
+                   1476 seconds
+Status : TBR : 13755 13755.
+Information : 
+                Timer:
+                   1478 seconds
+Status : TBR : 13754 13754.
+Information : 
+                Timer:
+                   1480 seconds
+Status : TBR : 13753 13753.
+Information : 
+                Timer:
+                   1484 seconds
+Information : 
+                Timer:
+                   1488 seconds
+Information : 
+                Timer:
+                   1513 seconds
+Information : 
+                Timer:
+                   1518 seconds
+Information : 
+                Timer:
+                   1536 seconds
+Information : 
+                Timer:
+                   1537 seconds
+Information : 
+                Timer:
+                   1551 seconds
+Information : 
+                Timer:
+                   1552 seconds
+Information : 
+                Timer:
+                   1554 seconds
+Information : 
+                Timer:
+                   1556 seconds
+Information : 
+                Timer:
+                   1557 seconds
+Information : 
+                Timer:
+                   1558 seconds
+Information : 
+                Timer:
+                   1560 seconds
+Information : 
+                Timer:
+                   1561 seconds
+Information : 
+                Timer:
+                   1564 seconds
+Status : TBR : 13752 13752.
+Information : 
+                Timer:
+                   1567 seconds
+Information : 
+                Timer:
+                   1570 seconds
+Status : TBR : 13748 13748.
+Information : 
+                Timer:
+                   1573 seconds
+Status : TBR : 13747 13747.
+Information : 
+                Timer:
+                   1577 seconds
+Information : 
+                Timer:
+                   1600 seconds
+Information : 
+                Timer:
+                   1602 seconds
+Information : 
+                Timer:
+                   1604 seconds
+Information : 
+                Timer:
+                   1611 seconds
+Information : 
+                Timer:
+                   1612 seconds
+Information : 
+                Timer:
+                   1628 seconds
+Information : 
+                Timer:
+                   1630 seconds
+Information : 
+                Timer:
+                   1632 seconds
+Information : 
+                Timer:
+                   1633 seconds
+Information : 
+                Timer:
+                   1638 seconds
+Information : 
+                Timer:
+                   1641 seconds
+Information : 
+                Timer:
+                   1642 seconds
+Information : 
+                Timer:
+                   1664 seconds
+Information : 
+                Timer:
+                   1665 seconds
+Information : 
+                Timer:
+                   1667 seconds
+Information : 
+                Timer:
+                   1669 seconds
+Information : 
+                Timer:
+                   1671 seconds
+Information : 
+                Timer:
+                   1672 seconds
+Status : TBR : 13742 13742.
+Information : 
+                Timer:
+                   1680 seconds
+Information : 
+                Timer:
+                   1684 seconds
+Status : TBR : 13740 13740.
+Information : 
+                Timer:
+                   1688 seconds
+Information : 
+                Timer:
+                   1697 seconds
+Status : TBR : 13730 13730.
+Information : 
+                Timer:
+                   1704 seconds
+Information : 
+                Timer:
+                   1706 seconds
+Information : 
+                Timer:
+                   1708 seconds
+Information : 
+                Timer:
+                   1722 seconds
+Information : 
+                Timer:
+                   1728 seconds
+Information : 
+                Timer:
+                   1735 seconds
+Information : 
+                Timer:
+                   1742 seconds
+Information : 
+                Timer:
+                   1749 seconds
+Information : 
+                Timer:
+                   1755 seconds
+Information : 
+                Timer:
+                   1765 seconds
+Information : 
+                Timer:
+                   1771 seconds
+Information : 
+                Timer:
+                   1772 seconds
+Information : 
+                Timer:
+                   1779 seconds
+Information : 
+                Timer:
+                   1786 seconds
+Information : 
+                Timer:
+                   1792 seconds
+Information : 
+                Timer:
+                   1798 seconds
+Information : 
+                Timer:
+                   1805 seconds
+Information : 
+                Timer:
+                   1811 seconds
+Information : 
+                Timer:
+                   1817 seconds
+Information : 
+                Timer:
+                   1881 seconds
+Information : 
+                Timer:
+                   1887 seconds
+Information : 
+                Timer:
+                   1893 seconds
+Information : 
+                Timer:
+                   1905 seconds
+Information : 
+                Timer:
+                   1911 seconds
+Information : 
+                Timer:
+                   1933 seconds
+Information : 
+                Timer:
+                   1939 seconds
+Information : 
+                Timer:
+                   1945 seconds
+Information : 
+                Timer:
+                   1952 seconds
+Information : 
+                Timer:
+                   1959 seconds
+Information : 
+                Timer:
+                   1976 seconds
+Information : 
+                Timer:
+                   1982 seconds
+Information : 
+                Timer:
+                   2018 seconds
+Information : 
+                Timer:
+                   2050 seconds
+Information : 
+                Timer:
+                   2055 seconds
+Information : 
+                Timer:
+                   2121 seconds
+Information : 
+                Timer:
+                   2132 seconds
+Information : 
+                Timer:
+                   2175 seconds
+Information : 
+                Timer:
+                   2181 seconds
+Information : 
+                Timer:
+                   2187 seconds
+Information : 
+                Timer:
+                   2198 seconds
+Information : 
+                Timer:
+                   2204 seconds
+Information : 
+                Timer:
+                   2248 seconds
+Information : 
+                Timer:
+                   2254 seconds
+Information : 
+                Timer:
+                   2259 seconds
+Information : 
+                Timer:
+                   2269 seconds
+Information : 
+                Timer:
+                   2277 seconds
+Information : 
+                Timer:
+                   2283 seconds
+Information : 
+                Timer:
+                   2298 seconds
+Information : 
+                Timer:
+                   2350 seconds
+Information : 
+                Timer:
+                   2355 seconds
+Status : TBR : 13723 13723.
+Information : 
+                Timer:
+                   2360 seconds
+Information : 
+                Timer:
+                   2393 seconds
+Information : 
+                Timer:
+                   2401 seconds
+Status : TBR : 13715 13715.
+Information : 
+                Timer:
+                   2409 seconds
+Information : 
+                Timer:
+                   2414 seconds
+Information : 
+                Timer:
+                   2416 seconds
+Information : 
+                Timer:
+                   2419 seconds
+Information : 
+                Timer:
+                   2428 seconds
+Information : 
+                Timer:
+                   2432 seconds
+Information : 
+                Timer:
+                   2439 seconds
+Information : 
+                Timer:
+                   2446 seconds
+Information : 
+                Timer:
+                   2450 seconds
+Information : 
+                Timer:
+                   2455 seconds
+Information : 
+                Timer:
+                   2460 seconds
+Information : 
+                Timer:
+                   2526 seconds
+Information : 
+                Timer:
+                   2529 seconds
+Information : 
+                Timer:
+                   2535 seconds
+Information : 
+                Timer:
+                   2540 seconds
+Information : 
+                Timer:
+                   2569 seconds
+Information : 
+                Timer:
+                   2575 seconds
+Information : 
+                Timer:
+                   2614 seconds
+Information : 
+                Timer:
+                   2636 seconds
+Information : 
+                Timer:
+                   2660 seconds
+Information : 
+                Timer:
+                   2676 seconds
+Information : 
+                Timer:
+                   2717 seconds
+Status : TBR : 13714 13714.
+Information : 
+                Timer:
+                   2720 seconds
+Information : 
+                Timer:
+                   2737 seconds
+Information : 
+                Timer:
+                   2748 seconds
+Information : 
+                Timer:
+                   2756 seconds
+Information : 
+                Timer:
+                   2762 seconds
+Information : 
+                Timer:
+                   2801 seconds
+Information : 
+                Timer:
+                   2814 seconds
+Information : 
+                Timer:
+                   2820 seconds
+Information : 
+                Timer:
+                   2821 seconds
+Information : 
+                Timer:
+                   2825 seconds
+Information : 
+                Timer:
+                   2827 seconds
+Information : 
+                Timer:
+                   2837 seconds
+Information : 
+                Timer:
+                   2839 seconds
+Information : 
+                Timer:
+                   2847 seconds
+Information : 
+                Timer:
+                   2852 seconds
+Information : 
+                Timer:
+                   2857 seconds
+Information : 
+                Timer:
+                   2864 seconds
+Information : 
+                Timer:
+                   2868 seconds
+Information : 
+                Timer:
+                   2874 seconds
+Information : 
+                Timer:
+                   2879 seconds
+Information : 
+                Timer:
+                   2884 seconds
+Information : 
+                Timer:
+                   2888 seconds
+Information : 
+                Timer:
+                   2889 seconds
+Information : 
+                Timer:
+                   2894 seconds
+Information : 
+                Timer:
+                   2902 seconds
+Information : 
+                Timer:
+                   2906 seconds
+Information : 
+                Timer:
+                   2910 seconds
+Information : 
+                Timer:
+                   2911 seconds
+Information : 
+                Timer:
+                   2917 seconds
+Information : 
+                Timer:
+                   2924 seconds
+Information : 
+                Timer:
+                   2927 seconds
+Information : 
+                Timer:
+                   2932 seconds
+Information : 
+                Timer:
+                   2936 seconds
+Information : 
+                Timer:
+                   2942 seconds
+Information : 
+                Timer:
+                   2948 seconds
+Information : 
+                Timer:
+                   2953 seconds
+Information : 
+                Timer:
+                   2956 seconds
+Information : 
+                Timer:
+                   2957 seconds
+Information : 
+                Timer:
+                   2960 seconds
+Information : 
+                Timer:
+                   2965 seconds
+Information : 
+                Timer:
+                   2978 seconds
+Information : 
+                Timer:
+                   2980 seconds
+Information : 
+                Timer:
+                   3025 seconds
+Information : 
+                Timer:
+                   3031 seconds
+Information : 
+                Timer:
+                   3033 seconds
+Information : 
+                Timer:
+                   3034 seconds
+Information : 
+                Timer:
+                   3035 seconds
+Information : 
+                Timer:
+                   3039 seconds
+Information : 
+                Timer:
+                   3046 seconds
+Information : 
+                Timer:
+                   3048 seconds
+Information : 
+                Timer:
+                   3051 seconds
+Information : 
+                Timer:
+                   3053 seconds
+Information : 
+                Timer:
+                   3054 seconds
+Information : 
+                Timer:
+                   3055 seconds
+Information : 
+                Timer:
+                   3056 seconds
+Information : 
+                Timer:
+                   3057 seconds
+Information : 
+                Timer:
+                   3059 seconds
+Information : 
+                Timer:
+                   3061 seconds
+Information : 
+                Timer:
+                   3063 seconds
+Information : 
+                Timer:
+                   3064 seconds
+Information : 
+                Timer:
+                   3065 seconds
+Information : 
+                Timer:
+                   3067 seconds
+Information : 
+                Timer:
+                   3076 seconds
+Information : 
+                Timer:
+                   3077 seconds
+Information : 
+                Timer:
+                   3078 seconds
+Information : 
+                Timer:
+                   3138 seconds
+Information : 
+                Timer:
+                   3139 seconds
+Information : 
+                Timer:
+                   3140 seconds
+Information : 
+                Timer:
+                   3141 seconds
+Information : 
+                Timer:
+                   3208 seconds
+Information : 
+                Timer:
+                   3209 seconds
+Information : 
+                Timer:
+                   3210 seconds
+Information : 
+                Timer:
+                   3211 seconds
+Information : 
+                Timer:
+                   3212 seconds
+Information : 
+                Timer:
+                   3237 seconds
+Information : 
+                Timer:
+                   3238 seconds
+Information : 
+                Timer:
+                   3239 seconds
+Information : 
+                Timer:
+                   3240 seconds
+Information : 
+                Timer:
+                   3241 seconds
+Information : 
+                Timer:
+                   3243 seconds
+Information : 
+                Timer:
+                   3248 seconds
+Information : 
+                Timer:
+                   3249 seconds
+Information : 
+                Timer:
+                   3250 seconds
+Information : 
+                Timer:
+                   3257 seconds
+Information : 
+                Timer:
+                   3258 seconds
+Information : 
+                Timer:
+                   3260 seconds
+Information : 
+                Timer:
+                   3275 seconds
+Information : 
+                Timer:
+                   3276 seconds
+Information : 
+                Timer:
+                   3277 seconds
+Information : 
+                Timer:
+                   3294 seconds
+Information : 
+                Timer:
+                   3301 seconds
+Information : 
+                Timer:
+                   3330 seconds
+Information : 
+                Timer:
+                   3331 seconds
+Information : 
+                Timer:
+                   3332 seconds
+Information : 
+                Timer:
+                   3333 seconds
+Information : 
+                Timer:
+                   3334 seconds
+Information : 
+                Timer:
+                   3335 seconds
+Information : 
+                Timer:
+                   3336 seconds
+Information : 
+                Timer:
+                   3337 seconds
+Information : 
+                Timer:
+                   3339 seconds
+Information : 
+                Timer:
+                   3340 seconds
+Information : 
+                Timer:
+                   3341 seconds
+Information : 
+                Timer:
+                   3343 seconds
+Information : 
+                Timer:
+                   3357 seconds
+Information : 
+                Timer:
+                   3359 seconds
+Information : 
+                Timer:
+                   3384 seconds
+Information : 
+                Timer:
+                   3398 seconds
+Information : 
+                Timer:
+                   3399 seconds
+Information : 
+                Timer:
+                   3400 seconds
+Information : 
+                Timer:
+                   3402 seconds
+Information : 
+                Timer:
+                   3403 seconds
+Information : 
+                Timer:
+                   3404 seconds
+Information : 
+                Timer:
+                   3405 seconds
+Information : 
+                Timer:
+                   3406 seconds
+Information : 
+                Timer:
+                   3422 seconds
+Information : 
+                Timer:
+                   3423 seconds
+Information : 
+                Timer:
+                   3455 seconds
+Information : 
+                Timer:
+                   3472 seconds
+Information : 
+                Timer:
+                   3473 seconds
+Information : 
+                Timer:
+                   3474 seconds
+Information : 
+                Timer:
+                   3483 seconds
+Information : 
+                Timer:
+                   3484 seconds
+Information : 
+                Timer:
+                   3501 seconds
+Information : 
+                Timer:
+                   3504 seconds
+Information : 
+                Timer:
+                   3505 seconds
+Information : 
+                Timer:
+                   3506 seconds
+Information : 
+                Timer:
+                   3507 seconds
+Information : 
+                Timer:
+                   3511 seconds
+Information : 
+                Timer:
+                   3513 seconds
+Information : 
+                Timer:
+                   3514 seconds
+Information : 
+                Timer:
+                   3532 seconds
+Information : 
+                Timer:
+                   3533 seconds
+Information : 
+                Timer:
+                   3534 seconds
+Information : 
+                Timer:
+                   3535 seconds
+Information : 
+                Timer:
+                   3536 seconds
+Information : 
+                Timer:
+                   3537 seconds
+Information : 
+                Timer:
+                   3598 seconds
+Information : 
+                Timer:
+                   3599 seconds
+Information : 
+                Timer:
+                   3604 seconds
+Information : 
+                Timer:
+                   3608 seconds
+Information : 
+                Timer:
+                   3674 seconds
+Information : 
+                Timer:
+                   3675 seconds
+Information : 
+                Timer:
+                   3677 seconds
+Information : 
+                Timer:
+                   3683 seconds
+Information : 
+                Timer:
+                   3689 seconds
+Information : 
+                Timer:
+                   3696 seconds
+Information : 
+                Timer:
+                   3702 seconds
+Information : 
+                Timer:
+                   3709 seconds
+Information : 
+                Timer:
+                   3715 seconds
+Information : 
+                Timer:
+                   3725 seconds
+Information : 
+                Timer:
+                   3732 seconds
+Information : 
+                Timer:
+                   3733 seconds
+Information : 
+                Timer:
+                   3740 seconds
+Information : 
+                Timer:
+                   3747 seconds
+Information : 
+                Timer:
+                   3754 seconds
+Information : 
+                Timer:
+                   3761 seconds
+Information : 
+                Timer:
+                   3768 seconds
+Information : 
+                Timer:
+                   3774 seconds
+Information : 
+                Timer:
+                   3781 seconds
+Information : 
+                Timer:
+                   3842 seconds
+Information : 
+                Timer:
+                   3849 seconds
+Information : 
+                Timer:
+                   3855 seconds
+Information : 
+                Timer:
+                   3868 seconds
+Information : 
+                Timer:
+                   3874 seconds
+Information : 
+                Timer:
+                   3899 seconds
+Information : 
+                Timer:
+                   3905 seconds
+Information : 
+                Timer:
+                   3912 seconds
+Information : 
+                Timer:
+                   3919 seconds
+Information : 
+                Timer:
+                   3925 seconds
+Information : 
+                Timer:
+                   3942 seconds
+Information : 
+                Timer:
+                   3949 seconds
+Information : 
+                Timer:
+                   3988 seconds
+Information : 
+                Timer:
+                   4024 seconds
+Information : 
+                Timer:
+                   4030 seconds
+Information : 
+                Timer:
+                   4103 seconds
+Information : 
+                Timer:
+                   4114 seconds
+Information : 
+                Timer:
+                   4163 seconds
+Information : 
+                Timer:
+                   4169 seconds
+Information : 
+                Timer:
+                   4175 seconds
+Information : 
+                Timer:
+                   4187 seconds
+Information : 
+                Timer:
+                   4193 seconds
+Information : 
+                Timer:
+                   4242 seconds
+Information : 
+                Timer:
+                   4248 seconds
+Information : 
+                Timer:
+                   4254 seconds
+Information : 
+                Timer:
+                   4265 seconds
+Information : 
+                Timer:
+                   4274 seconds
+Information : 
+                Timer:
+                   4280 seconds
+Information : 
+                Timer:
+                   4296 seconds
+Information : 
+                Timer:
+                   4348 seconds
+Information : 
+                Timer:
+                   4351 seconds
+Information : 
+                Timer:
+                   4365 seconds
+Information : 
+                Timer:
+                   4393 seconds
+Information : 
+                Timer:
+                   4401 seconds
+Information : 
+                Timer:
+                   4413 seconds
+Information : 
+                Timer:
+                   4415 seconds
+Information : 
+                Timer:
+                   4417 seconds
+Information : 
+                Timer:
+                   4423 seconds
+Information : 
+                Timer:
+                   4426 seconds
+Information : 
+                Timer:
+                   4432 seconds
+Information : 
+                Timer:
+                   4438 seconds
+Information : 
+                Timer:
+                   4442 seconds
+Information : 
+                Timer:
+                   4446 seconds
+Information : 
+                Timer:
+                   4451 seconds
+Information : 
+                Timer:
+                   4515 seconds
+Information : 
+                Timer:
+                   4518 seconds
+Information : 
+                Timer:
+                   4523 seconds
+Information : 
+                Timer:
+                   4529 seconds
+Information : 
+                Timer:
+                   4555 seconds
+Information : 
+                Timer:
+                   4561 seconds
+Information : 
+                Timer:
+                   4599 seconds
+Information : 
+                Timer:
+                   4619 seconds
+Information : 
+                Timer:
+                   4643 seconds
+Information : 
+                Timer:
+                   4659 seconds
+Information : 
+                Timer:
+                   4698 seconds
+Information : 
+                Timer:
+                   4699 seconds
+Status : TBR Finished
+Status : TBR : 13698 13698.
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   15 seconds
+Information : 
+                Timer:
+                   21 seconds
+Information : 
+                Timer:
+                   28 seconds
+Information : 
+                Timer:
+                   34 seconds
+Information : 
+                Timer:
+                   40 seconds
+Information : 
+                Timer:
+                   51 seconds
+Information : 
+                Timer:
+                   58 seconds
+Information : 
+                Timer:
+                   64 seconds
+Information : 
+                Timer:
+                   71 seconds
+Information : 
+                Timer:
+                   77 seconds
+Information : 
+                Timer:
+                   83 seconds
+Information : 
+                Timer:
+                   89 seconds
+Information : 
+                Timer:
+                   96 seconds
+Information : 
+                Timer:
+                   102 seconds
+Information : 
+                Timer:
+                   109 seconds
+Information : 
+                Timer:
+                   138 seconds
+Information : 
+                Timer:
+                   143 seconds
+Information : 
+                Timer:
+                   155 seconds
+Information : 
+                Timer:
+                   161 seconds
+Information : 
+                Timer:
+                   193 seconds
+Information : 
+                Timer:
+                   200 seconds
+Information : 
+                Timer:
+                   235 seconds
+Information : 
+                Timer:
+                   241 seconds
+Information : 
+                Timer:
+                   281 seconds
+Information : 
+                Timer:
+                   304 seconds
+Information : 
+                Timer:
+                   310 seconds
+Information : 
+                Timer:
+                   316 seconds
+Information : 
+                Timer:
+                   323 seconds
+Information : 
+                Timer:
+                   329 seconds
+Information : 
+                Timer:
+                   346 seconds
+Information : 
+                Timer:
+                   351 seconds
+Information : 
+                Timer:
+                   408 seconds
+Information : 
+                Timer:
+                   414 seconds
+Information : 
+                Timer:
+                   425 seconds
+Information : 
+                Timer:
+                   431 seconds
+Information : 
+                Timer:
+                   477 seconds
+Information : 
+                Timer:
+                   483 seconds
+Information : 
+                Timer:
+                   489 seconds
+Information : 
+                Timer:
+                   499 seconds
+Information : 
+                Timer:
+                   508 seconds
+Information : 
+                Timer:
+                   559 seconds
+Information : 
+                Timer:
+                   622 seconds
+Information : 
+                Timer:
+                   628 seconds
+Information : 
+                Timer:
+                   634 seconds
+Information : 
+                Timer:
+                   653 seconds
+Information : 
+                Timer:
+                   671 seconds
+Information : 
+                Timer:
+                   686 seconds
+Information : 
+                Timer:
+                   695 seconds
+Information : 
+                Timer:
+                   707 seconds
+Information : 
+                Timer:
+                   722 seconds
+Information : 
+                Timer:
+                   756 seconds
+Information : 
+                Timer:
+                   762 seconds
+Information : 
+                Timer:
+                   834 seconds
+Information : 
+                Timer:
+                   901 seconds
+Information : 
+                Timer:
+                   907 seconds
+Information : 
+                Timer:
+                   923 seconds
+Information : 
+                Timer:
+                   929 seconds
+Information : 
+                Timer:
+                   935 seconds
+Information : 
+                Timer:
+                   941 seconds
+Information : 
+                Timer:
+                   958 seconds
+Information : 
+                Timer:
+                   975 seconds
+Information : 
+                Timer:
+                   983 seconds
+Information : 
+                Timer:
+                   995 seconds
+Information : 
+                Timer:
+                   1001 seconds
+Information : 
+                Timer:
+                   1022 seconds
+Information : 
+                Timer:
+                   1028 seconds
+Information : 
+                Timer:
+                   1034 seconds
+Information : 
+                Timer:
+                   1055 seconds
+Information : 
+                Timer:
+                   1124 seconds
+Information : 
+                Timer:
+                   1139 seconds
+Information : 
+                Timer:
+                   1151 seconds
+Information : 
+                Timer:
+                   1157 seconds
+Information : 
+                Timer:
+                   1183 seconds
+Information : 
+                Timer:
+                   1221 seconds
+Information : 
+                Timer:
+                   1228 seconds
+Information : 
+                Timer:
+                   1234 seconds
+Information : 
+                Timer:
+                   1281 seconds
+Information : 
+                Timer:
+                   1293 seconds
+Information : 
+                Timer:
+                   1321 seconds
+Information : 
+                Timer:
+                   1327 seconds
+Information : 
+                Timer:
+                   1333 seconds
+Information : 
+                Timer:
+                   1343 seconds
+Information : 
+                Timer:
+                   1370 seconds
+Information : 
+                Timer:
+                   1378 seconds
+Information : 
+                Timer:
+                   1395 seconds
+Information : 
+                Timer:
+                   1401 seconds
+Information : 
+                Timer:
+                   1408 seconds
+Information : 
+                Timer:
+                   1415 seconds
+Information : 
+                Timer:
+                   1444 seconds
+Information : 
+                Timer:
+                   1451 seconds
+Information : 
+                Timer:
+                   1457 seconds
+Information : 
+                Timer:
+                   1463 seconds
+Information : 
+                Timer:
+                   1469 seconds
+Information : 
+                Timer:
+                   1474 seconds
+Information : 
+                Timer:
+                   1480 seconds
+Information : 
+                Timer:
+                   1555 seconds
+Information : 
+                Timer:
+                   1567 seconds
+Information : 
+                Timer:
+                   1573 seconds
+Information : 
+                Timer:
+                   1579 seconds
+Information : 
+                Timer:
+                   1585 seconds
+Information : 
+                Timer:
+                   1593 seconds
+Information : 
+                Timer:
+                   1602 seconds
+Information : 
+                Timer:
+                   1609 seconds
+Information : 
+                Timer:
+                   1614 seconds
+Information : 
+                Timer:
+                   1629 seconds
+Information : 
+                Timer:
+                   1642 seconds
+Information : 
+                Timer:
+                   1705 seconds
+Information : 
+                Timer:
+                   1711 seconds
+Information : 
+                Timer:
+                   1717 seconds
+Information : 
+                Timer:
+                   1724 seconds
+Information : 
+                Timer:
+                   1730 seconds
+Information : 
+                Timer:
+                   1736 seconds
+Information : 
+                Timer:
+                   1744 seconds
+Information : 
+                Timer:
+                   1750 seconds
+Information : 
+                Timer:
+                   1755 seconds
+Information : 
+                Timer:
+                   1761 seconds
+Information : 
+                Timer:
+                   1769 seconds
+Information : 
+                Timer:
+                   1782 seconds
+Information : 
+                Timer:
+                   1788 seconds
+Information : 
+                Timer:
+                   1794 seconds
+Information : 
+                Timer:
+                   1800 seconds
+Information : 
+                Timer:
+                   1809 seconds
+Information : 
+                Timer:
+                   1815 seconds
+Information : 
+                Timer:
+                   1821 seconds
+Information : 
+                Timer:
+                   1827 seconds
+Information : 
+                Timer:
+                   1833 seconds
+Information : 
+                Timer:
+                   1843 seconds
+Information : 
+                Timer:
+                   1848 seconds
+Information : 
+                Timer:
+                   1854 seconds
+Information : 
+                Timer:
+                   1869 seconds
+Information : 
+                Timer:
+                   1874 seconds
+Information : 
+                Timer:
+                   1880 seconds
+Information : 
+                Timer:
+                   1886 seconds
+Information : 
+                Timer:
+                   1894 seconds
+Information : 
+                Timer:
+                   1902 seconds
+Information : 
+                Timer:
+                   1908 seconds
+Information : 
+                Timer:
+                   1918 seconds
+Information : 
+                Timer:
+                   1924 seconds
+Information : 
+                Timer:
+                   1930 seconds
+Information : 
+                Timer:
+                   1938 seconds
+Information : 
+                Timer:
+                   1944 seconds
+Information : 
+                Timer:
+                   1950 seconds
+Information : 
+                Timer:
+                   1956 seconds
+Information : 
+                Timer:
+                   1961 seconds
+Information : 
+                Timer:
+                   2030 seconds
+Information : 
+                Timer:
+                   2036 seconds
+Information : 
+                Timer:
+                   2045 seconds
+Information : 
+                Timer:
+                   2051 seconds
+Information : 
+                Timer:
+                   2057 seconds
+Information : 
+                Timer:
+                   2062 seconds
+Information : 
+                Timer:
+                   2068 seconds
+Information : 
+                Timer:
+                   2128 seconds
+Information : 
+                Timer:
+                   2134 seconds
+Information : 
+                Timer:
+                   2139 seconds
+Information : 
+                Timer:
+                   2145 seconds
+Information : 
+                Timer:
+                   2151 seconds
+Information : 
+                Timer:
+                   2157 seconds
+Information : 
+                Timer:
+                   2162 seconds
+Information : 
+                Timer:
+                   2168 seconds
+Information : 
+                Timer:
+                   2178 seconds
+Information : 
+                Timer:
+                   2183 seconds
+Information : 
+                Timer:
+                   2193 seconds
+Information : 
+                Timer:
+                   2199 seconds
+Information : 
+                Timer:
+                   2208 seconds
+Information : 
+                Timer:
+                   2218 seconds
+Information : 
+                Timer:
+                   2227 seconds
+Information : 
+                Timer:
+                   2233 seconds
+Information : 
+                Timer:
+                   2239 seconds
+Information : 
+                Timer:
+                   2248 seconds
+Information : 
+                Timer:
+                   2258 seconds
+Information : 
+                Timer:
+                   2267 seconds
+Information : 
+                Timer:
+                   2276 seconds
+Information : 
+                Timer:
+                   2286 seconds
+Information : 
+                Timer:
+                   2295 seconds
+Information : 
+                Timer:
+                   2304 seconds
+Information : 
+                Timer:
+                   2314 seconds
+Information : 
+                Timer:
+                   2324 seconds
+Information : 
+                Timer:
+                   2333 seconds
+Information : 
+                Timer:
+                   2343 seconds
+Information : 
+                Timer:
+                   2352 seconds
+Status : TBR Finished
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 5 h, 28 m, 32 s; Hits: 1
+Status : RAS + TBR : 0 Searching on tree number 4
+Status : Wagner : 2 of 115 -- Wagner tree with cost 25.
+Status : Wagner : 3 of 115 -- Wagner tree with cost 214.
+Status : Wagner : 4 of 115 -- Wagner tree with cost 530.
+Status : Wagner : 5 of 115 -- Wagner tree with cost 903.
+Status : Wagner : 6 of 115 -- Wagner tree with cost 1057.
+Status : Wagner : 7 of 115 -- Wagner tree with cost 1248.
+Status : Wagner : 8 of 115 -- Wagner tree with cost 1411.
+Status : Wagner : 9 of 115 -- Wagner tree with cost 1428.
+Status : Wagner : 10 of 115 -- Wagner tree with cost 1440.
+Status : Wagner : 11 of 115 -- Wagner tree with cost 1443.
+Status : Wagner : 12 of 115 -- Wagner tree with cost 1863.
+Status : Wagner : 13 of 115 -- Wagner tree with cost 2139.
+Status : Wagner : 14 of 115 -- Wagner tree with cost 2403.
+Status : Wagner : 15 of 115 -- Wagner tree with cost 2424.
+Status : Wagner : 16 of 115 -- Wagner tree with cost 2718.
+Status : Wagner : 17 of 115 -- Wagner tree with cost 2735.
+Status : Wagner : 18 of 115 -- Wagner tree with cost 2888.
+Status : Wagner : 19 of 115 -- Wagner tree with cost 3030.
+Status : Wagner : 20 of 115 -- Wagner tree with cost 3203.
+Status : Wagner : 21 of 115 -- Wagner tree with cost 3237.
+Status : Wagner : 22 of 115 -- Wagner tree with cost 3237.
+Status : Wagner : 23 of 115 -- Wagner tree with cost 3326.
+Status : Wagner : 24 of 115 -- Wagner tree with cost 3328.
+Status : Wagner : 25 of 115 -- Wagner tree with cost 3340.
+Status : Wagner : 26 of 115 -- Wagner tree with cost 3346.
+Status : Wagner : 27 of 115 -- Wagner tree with cost 3576.
+Status : Wagner : 28 of 115 -- Wagner tree with cost 3776.
+Status : Wagner : 29 of 115 -- Wagner tree with cost 3778.
+Status : Wagner : 30 of 115 -- Wagner tree with cost 3793.
+Status : Wagner : 31 of 115 -- Wagner tree with cost 3794.
+Status : Wagner : 32 of 115 -- Wagner tree with cost 3913.
+Status : Wagner : 33 of 115 -- Wagner tree with cost 4212.
+Status : Wagner : 34 of 115 -- Wagner tree with cost 4218.
+Status : Wagner : 35 of 115 -- Wagner tree with cost 4491.
+Status : Wagner : 36 of 115 -- Wagner tree with cost 4737.
+Status : Wagner : 37 of 115 -- Wagner tree with cost 4789.
+Status : Wagner : 38 of 115 -- Wagner tree with cost 4791.
+Status : Wagner : 39 of 115 -- Wagner tree with cost 4960.
+Status : Wagner : 40 of 115 -- Wagner tree with cost 5071.
+Status : Wagner : 41 of 115 -- Wagner tree with cost 5077.
+Status : Wagner : 42 of 115 -- Wagner tree with cost 5352.
+Status : Wagner : 43 of 115 -- Wagner tree with cost 5658.
+Status : Wagner : 44 of 115 -- Wagner tree with cost 5658.
+Status : Wagner : 45 of 115 -- Wagner tree with cost 5813.
+Status : Wagner : 46 of 115 -- Wagner tree with cost 5814.
+Status : Wagner : 47 of 115 -- Wagner tree with cost 5814.
+Status : Wagner : 48 of 115 -- Wagner tree with cost 5817.
+Status : Wagner : 49 of 115 -- Wagner tree with cost 5820.
+Status : Wagner : 50 of 115 -- Wagner tree with cost 6264.
+Status : Wagner : 51 of 115 -- Wagner tree with cost 6525.
+Status : Wagner : 52 of 115 -- Wagner tree with cost 6915.
+Status : Wagner : 53 of 115 -- Wagner tree with cost 6918.
+Status : Wagner : 54 of 115 -- Wagner tree with cost 7189.
+Status : Wagner : 55 of 115 -- Wagner tree with cost 7190.
+Status : Wagner : 56 of 115 -- Wagner tree with cost 7552.
+Status : Wagner : 57 of 115 -- Wagner tree with cost 7594.
+Status : Wagner : 58 of 115 -- Wagner tree with cost 7595.
+Status : Wagner : 59 of 115 -- Wagner tree with cost 7604.
+Status : Wagner : 60 of 115 -- Wagner tree with cost 7613.
+Status : Wagner : 61 of 115 -- Wagner tree with cost 7783.
+Status : Wagner : 62 of 115 -- Wagner tree with cost 8105.
+Status : Wagner : 63 of 115 -- Wagner tree with cost 8195.
+Status : Wagner : 64 of 115 -- Wagner tree with cost 8196.
+Status : Wagner : 65 of 115 -- Wagner tree with cost 8204.
+Status : Wagner : 66 of 115 -- Wagner tree with cost 8564.
+Status : Wagner : 67 of 115 -- Wagner tree with cost 8692.
+Status : Wagner : 68 of 115 -- Wagner tree with cost 8945.
+Status : Wagner : 69 of 115 -- Wagner tree with cost 9578.
+Status : Wagner : 70 of 115 -- Wagner tree with cost 9618.
+Status : Wagner : 71 of 115 -- Wagner tree with cost 9618.
+Status : Wagner : 72 of 115 -- Wagner tree with cost 9956.
+Status : Wagner : 73 of 115 -- Wagner tree with cost 10219.
+Status : Wagner : 74 of 115 -- Wagner tree with cost 10219.
+Status : Wagner : 75 of 115 -- Wagner tree with cost 10220.
+Status : Wagner : 76 of 115 -- Wagner tree with cost 10222.
+Status : Wagner : 77 of 115 -- Wagner tree with cost 10226.
+Status : Wagner : 78 of 115 -- Wagner tree with cost 10228.
+Status : Wagner : 79 of 115 -- Wagner tree with cost 10246.
+Status : Wagner : 80 of 115 -- Wagner tree with cost 10501.
+Status : Wagner : 81 of 115 -- Wagner tree with cost 10501.
+Status : Wagner : 82 of 115 -- Wagner tree with cost 11021.
+Status : Wagner : 83 of 115 -- Wagner tree with cost 11104.
+Status : Wagner : 84 of 115 -- Wagner tree with cost 11168.
+Status : Wagner : 85 of 115 -- Wagner tree with cost 11168.
+Status : Wagner : 86 of 115 -- Wagner tree with cost 11169.
+Status : Wagner : 87 of 115 -- Wagner tree with cost 11185.
+Status : Wagner : 88 of 115 -- Wagner tree with cost 11213.
+Status : Wagner : 89 of 115 -- Wagner tree with cost 11215.
+Status : Wagner : 90 of 115 -- Wagner tree with cost 11251.
+Status : Wagner : 91 of 115 -- Wagner tree with cost 11401.
+Status : Wagner : 92 of 115 -- Wagner tree with cost 11406.
+Status : Wagner : 93 of 115 -- Wagner tree with cost 11928.
+Status : Wagner : 94 of 115 -- Wagner tree with cost 11929.
+Status : Wagner : 95 of 115 -- Wagner tree with cost 11930.
+Status : Wagner : 96 of 115 -- Wagner tree with cost 12068.
+Status : Wagner : 97 of 115 -- Wagner tree with cost 12069.
+Status : Wagner : 98 of 115 -- Wagner tree with cost 12405.
+Status : Wagner : 99 of 115 -- Wagner tree with cost 12466.
+Status : Wagner : 100 of 115 -- Wagner tree with cost 12650.
+Status : Wagner : 101 of 115 -- Wagner tree with cost 12651.
+Status : Wagner : 102 of 115 -- Wagner tree with cost 12652.
+Status : Wagner : 103 of 115 -- Wagner tree with cost 12777.
+Status : Wagner : 104 of 115 -- Wagner tree with cost 13113.
+Status : Wagner : 105 of 115 -- Wagner tree with cost 13118.
+Status : Wagner : 106 of 115 -- Wagner tree with cost 13119.
+Status : Wagner : 107 of 115 -- Wagner tree with cost 13119.
+Status : Wagner : 108 of 115 -- Wagner tree with cost 13125.
+Status : Wagner : 109 of 115 -- Wagner tree with cost 13132.
+Status : Wagner : 110 of 115 -- Wagner tree with cost 13564.
+Status : Wagner : 111 of 115 -- Wagner tree with cost 13567.
+Status : Wagner : 112 of 115 -- Wagner tree with cost 13569.
+Status : Wagner : 113 of 115 -- Wagner tree with cost 13574.
+Status : Wagner : 114 of 115 -- Wagner tree with cost 13703.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 13799 13799.
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   26 seconds
+Information : 
+                Timer:
+                   33 seconds
+Information : 
+                Timer:
+                   41 seconds
+Information : 
+                Timer:
+                   48 seconds
+Information : 
+                Timer:
+                   58 seconds
+Information : 
+                Timer:
+                   64 seconds
+Information : 
+                Timer:
+                   71 seconds
+Information : 
+                Timer:
+                   78 seconds
+Information : 
+                Timer:
+                   85 seconds
+Information : 
+                Timer:
+                   92 seconds
+Information : 
+                Timer:
+                   98 seconds
+Information : 
+                Timer:
+                   106 seconds
+Information : 
+                Timer:
+                   111 seconds
+Information : 
+                Timer:
+                   117 seconds
+Information : 
+                Timer:
+                   145 seconds
+Information : 
+                Timer:
+                   157 seconds
+Information : 
+                Timer:
+                   165 seconds
+Information : 
+                Timer:
+                   172 seconds
+Information : 
+                Timer:
+                   205 seconds
+Information : 
+                Timer:
+                   228 seconds
+Information : 
+                Timer:
+                   234 seconds
+Information : 
+                Timer:
+                   240 seconds
+Status : TBR : 13789 13789.
+Information : 
+                Timer:
+                   245 seconds
+Information : 
+                Timer:
+                   259 seconds
+Information : 
+                Timer:
+                   297 seconds
+Information : 
+                Timer:
+                   304 seconds
+Information : 
+                Timer:
+                   318 seconds
+Status : TBR : 13783 13783.
+Information : 
+                Timer:
+                   325 seconds
+Information : 
+                Timer:
+                   378 seconds
+Information : 
+                Timer:
+                   386 seconds
+Information : 
+                Timer:
+                   433 seconds
+Information : 
+                Timer:
+                   440 seconds
+Information : 
+                Timer:
+                   451 seconds
+Information : 
+                Timer:
+                   458 seconds
+Information : 
+                Timer:
+                   465 seconds
+Information : 
+                Timer:
+                   474 seconds
+Information : 
+                Timer:
+                   538 seconds
+Information : 
+                Timer:
+                   544 seconds
+Information : 
+                Timer:
+                   551 seconds
+Information : 
+                Timer:
+                   558 seconds
+Status : TBR : 13781 13781.
+Information : 
+                Timer:
+                   563 seconds
+Information : 
+                Timer:
+                   574 seconds
+Information : 
+                Timer:
+                   579 seconds
+Information : 
+                Timer:
+                   592 seconds
+Information : 
+                Timer:
+                   607 seconds
+Information : 
+                Timer:
+                   611 seconds
+Status : TBR : 13780 13780.
+Information : 
+                Timer:
+                   613 seconds
+Status : TBR : 13779 13779.
+Information : 
+                Timer:
+                   615 seconds
+Information : 
+                Timer:
+                   640 seconds
+Information : 
+                Timer:
+                   641 seconds
+Information : 
+                Timer:
+                   709 seconds
+Information : 
+                Timer:
+                   722 seconds
+Information : 
+                Timer:
+                   728 seconds
+Information : 
+                Timer:
+                   735 seconds
+Information : 
+                Timer:
+                   741 seconds
+Information : 
+                Timer:
+                   757 seconds
+Information : 
+                Timer:
+                   766 seconds
+Information : 
+                Timer:
+                   772 seconds
+Information : 
+                Timer:
+                   780 seconds
+Status : TBR : 13769 13769.
+Information : 
+                Timer:
+                   781 seconds
+Information : 
+                Timer:
+                   792 seconds
+Information : 
+                Timer:
+                   807 seconds
+Information : 
+                Timer:
+                   812 seconds
+Information : 
+                Timer:
+                   823 seconds
+Information : 
+                Timer:
+                   829 seconds
+Information : 
+                Timer:
+                   834 seconds
+Information : 
+                Timer:
+                   840 seconds
+Information : 
+                Timer:
+                   856 seconds
+Status : TBR : 13749 13749.
+Information : 
+                Timer:
+                   858 seconds
+Information : 
+                Timer:
+                   869 seconds
+Information : 
+                Timer:
+                   875 seconds
+Information : 
+                Timer:
+                   879 seconds
+Information : 
+                Timer:
+                   896 seconds
+Information : 
+                Timer:
+                   902 seconds
+Information : 
+                Timer:
+                   908 seconds
+Information : 
+                Timer:
+                   931 seconds
+Information : 
+                Timer:
+                   944 seconds
+Information : 
+                Timer:
+                   987 seconds
+Information : 
+                Timer:
+                   1051 seconds
+Status : TBR : 13748 13748.
+Information : 
+                Timer:
+                   1052 seconds
+Information : 
+                Timer:
+                   1064 seconds
+Information : 
+                Timer:
+                   1068 seconds
+Information : 
+                Timer:
+                   1074 seconds
+Information : 
+                Timer:
+                   1097 seconds
+Information : 
+                Timer:
+                   1102 seconds
+Information : 
+                Timer:
+                   1108 seconds
+Status : TBR : 13746 13746.
+Information : 
+                Timer:
+                   1116 seconds
+Information : 
+                Timer:
+                   1122 seconds
+Information : 
+                Timer:
+                   1131 seconds
+Information : 
+                Timer:
+                   1135 seconds
+Information : 
+                Timer:
+                   1140 seconds
+Information : 
+                Timer:
+                   1145 seconds
+Information : 
+                Timer:
+                   1151 seconds
+Information : 
+                Timer:
+                   1162 seconds
+Information : 
+                Timer:
+                   1166 seconds
+Status : TBR : 13745 13745.
+Information : 
+                Timer:
+                   1168 seconds
+Status : TBR : 13744 13744.
+Information : 
+                Timer:
+                   1176 seconds
+Information : 
+                Timer:
+                   1184 seconds
+Information : 
+                Timer:
+                   1198 seconds
+Information : 
+                Timer:
+                   1205 seconds
+Information : 
+                Timer:
+                   1209 seconds
+Information : 
+                Timer:
+                   1226 seconds
+Information : 
+                Timer:
+                   1231 seconds
+Information : 
+                Timer:
+                   1273 seconds
+Information : 
+                Timer:
+                   1280 seconds
+Status : TBR : 13737 13737.
+Information : 
+                Timer:
+                   1283 seconds
+Information : 
+                Timer:
+                   1298 seconds
+Information : 
+                Timer:
+                   1300 seconds
+Information : 
+                Timer:
+                   1306 seconds
+Information : 
+                Timer:
+                   1311 seconds
+Information : 
+                Timer:
+                   1316 seconds
+Information : 
+                Timer:
+                   1323 seconds
+Information : 
+                Timer:
+                   1357 seconds
+Information : 
+                Timer:
+                   1361 seconds
+Information : 
+                Timer:
+                   1364 seconds
+Information : 
+                Timer:
+                   1368 seconds
+Information : 
+                Timer:
+                   1373 seconds
+Information : 
+                Timer:
+                   1377 seconds
+Information : 
+                Timer:
+                   1382 seconds
+Information : 
+                Timer:
+                   1384 seconds
+Information : 
+                Timer:
+                   1385 seconds
+Information : 
+                Timer:
+                   1391 seconds
+Information : 
+                Timer:
+                   1393 seconds
+Information : 
+                Timer:
+                   1396 seconds
+Information : 
+                Timer:
+                   1401 seconds
+Information : 
+                Timer:
+                   1404 seconds
+Information : 
+                Timer:
+                   1407 seconds
+Information : 
+                Timer:
+                   1409 seconds
+Information : 
+                Timer:
+                   1410 seconds
+Information : 
+                Timer:
+                   1411 seconds
+Information : 
+                Timer:
+                   1412 seconds
+Information : 
+                Timer:
+                   1413 seconds
+Information : 
+                Timer:
+                   1415 seconds
+Information : 
+                Timer:
+                   1416 seconds
+Information : 
+                Timer:
+                   1417 seconds
+Information : 
+                Timer:
+                   1418 seconds
+Information : 
+                Timer:
+                   1419 seconds
+Information : 
+                Timer:
+                   1420 seconds
+Information : 
+                Timer:
+                   1477 seconds
+Information : 
+                Timer:
+                   1478 seconds
+Information : 
+                Timer:
+                   1479 seconds
+Information : 
+                Timer:
+                   1481 seconds
+Information : 
+                Timer:
+                   1482 seconds
+Information : 
+                Timer:
+                   1502 seconds
+Information : 
+                Timer:
+                   1503 seconds
+Information : 
+                Timer:
+                   1505 seconds
+Information : 
+                Timer:
+                   1506 seconds
+Information : 
+                Timer:
+                   1507 seconds
+Information : 
+                Timer:
+                   1508 seconds
+Information : 
+                Timer:
+                   1509 seconds
+Information : 
+                Timer:
+                   1510 seconds
+Information : 
+                Timer:
+                   1511 seconds
+Information : 
+                Timer:
+                   1517 seconds
+Information : 
+                Timer:
+                   1518 seconds
+Information : 
+                Timer:
+                   1519 seconds
+Information : 
+                Timer:
+                   1520 seconds
+Information : 
+                Timer:
+                   1521 seconds
+Information : 
+                Timer:
+                   1522 seconds
+Information : 
+                Timer:
+                   1525 seconds
+Information : 
+                Timer:
+                   1527 seconds
+Information : 
+                Timer:
+                   1528 seconds
+Information : 
+                Timer:
+                   1529 seconds
+Information : 
+                Timer:
+                   1531 seconds
+Information : 
+                Timer:
+                   1532 seconds
+Information : 
+                Timer:
+                   1533 seconds
+Information : 
+                Timer:
+                   1534 seconds
+Information : 
+                Timer:
+                   1535 seconds
+Information : 
+                Timer:
+                   1537 seconds
+Information : 
+                Timer:
+                   1538 seconds
+Information : 
+                Timer:
+                   1540 seconds
+Information : 
+                Timer:
+                   1541 seconds
+Information : 
+                Timer:
+                   1542 seconds
+Information : 
+                Timer:
+                   1543 seconds
+Information : 
+                Timer:
+                   1544 seconds
+Information : 
+                Timer:
+                   1545 seconds
+Information : 
+                Timer:
+                   1546 seconds
+Information : 
+                Timer:
+                   1547 seconds
+Information : 
+                Timer:
+                   1548 seconds
+Information : 
+                Timer:
+                   1554 seconds
+Information : 
+                Timer:
+                   1557 seconds
+Information : 
+                Timer:
+                   1559 seconds
+Information : 
+                Timer:
+                   1561 seconds
+Information : 
+                Timer:
+                   1562 seconds
+Information : 
+                Timer:
+                   1564 seconds
+Information : 
+                Timer:
+                   1565 seconds
+Information : 
+                Timer:
+                   1566 seconds
+Status : TBR : 13729 13729.
+Information : 
+                Timer:
+                   1567 seconds
+Information : 
+                Timer:
+                   1568 seconds
+Information : 
+                Timer:
+                   1569 seconds
+Information : 
+                Timer:
+                   1571 seconds
+Information : 
+                Timer:
+                   1572 seconds
+Information : 
+                Timer:
+                   1573 seconds
+Information : 
+                Timer:
+                   1574 seconds
+Information : 
+                Timer:
+                   1576 seconds
+Information : 
+                Timer:
+                   1577 seconds
+Information : 
+                Timer:
+                   1578 seconds
+Information : 
+                Timer:
+                   1583 seconds
+Information : 
+                Timer:
+                   1585 seconds
+Information : 
+                Timer:
+                   1587 seconds
+Information : 
+                Timer:
+                   1589 seconds
+Information : 
+                Timer:
+                   1591 seconds
+Information : 
+                Timer:
+                   1592 seconds
+Information : 
+                Timer:
+                   1593 seconds
+Information : 
+                Timer:
+                   1597 seconds
+Information : 
+                Timer:
+                   1600 seconds
+Information : 
+                Timer:
+                   1602 seconds
+Information : 
+                Timer:
+                   1603 seconds
+Information : 
+                Timer:
+                   1605 seconds
+Information : 
+                Timer:
+                   1613 seconds
+Information : 
+                Timer:
+                   1614 seconds
+Information : 
+                Timer:
+                   1621 seconds
+Information : 
+                Timer:
+                   1627 seconds
+Information : 
+                Timer:
+                   1634 seconds
+Information : 
+                Timer:
+                   1640 seconds
+Information : 
+                Timer:
+                   1646 seconds
+Information : 
+                Timer:
+                   1653 seconds
+Information : 
+                Timer:
+                   1662 seconds
+Information : 
+                Timer:
+                   1669 seconds
+Information : 
+                Timer:
+                   1676 seconds
+Information : 
+                Timer:
+                   1682 seconds
+Information : 
+                Timer:
+                   1689 seconds
+Information : 
+                Timer:
+                   1695 seconds
+Information : 
+                Timer:
+                   1702 seconds
+Information : 
+                Timer:
+                   1709 seconds
+Information : 
+                Timer:
+                   1714 seconds
+Information : 
+                Timer:
+                   1720 seconds
+Information : 
+                Timer:
+                   1748 seconds
+Information : 
+                Timer:
+                   1760 seconds
+Information : 
+                Timer:
+                   1766 seconds
+Information : 
+                Timer:
+                   1772 seconds
+Information : 
+                Timer:
+                   1807 seconds
+Status : TBR : 13724 13724.
+Information : 
+                Timer:
+                   1818 seconds
+Information : 
+                Timer:
+                   1826 seconds
+Information : 
+                Timer:
+                   1834 seconds
+Information : 
+                Timer:
+                   1851 seconds
+Information : 
+                Timer:
+                   1862 seconds
+Status : TBR : 13723 13723.
+Information : 
+                Timer:
+                   1873 seconds
+Information : 
+                Timer:
+                   1883 seconds
+Information : 
+                Timer:
+                   1890 seconds
+Information : 
+                Timer:
+                   1902 seconds
+Information : 
+                Timer:
+                   1954 seconds
+Information : 
+                Timer:
+                   1960 seconds
+Information : 
+                Timer:
+                   1974 seconds
+Information : 
+                Timer:
+                   1982 seconds
+Information : 
+                Timer:
+                   1993 seconds
+Information : 
+                Timer:
+                   1999 seconds
+Information : 
+                Timer:
+                   2005 seconds
+Information : 
+                Timer:
+                   2013 seconds
+Information : 
+                Timer:
+                   2076 seconds
+Information : 
+                Timer:
+                   2083 seconds
+Information : 
+                Timer:
+                   2089 seconds
+Status : TBR : 13715 13715.
+Information : 
+                Timer:
+                   2090 seconds
+Status : TBR : 13708 13708.
+Information : 
+                Timer:
+                   2091 seconds
+Information : 
+                Timer:
+                   2106 seconds
+Information : 
+                Timer:
+                   2111 seconds
+Information : 
+                Timer:
+                   2118 seconds
+Information : 
+                Timer:
+                   2133 seconds
+Information : 
+                Timer:
+                   2137 seconds
+Information : 
+                Timer:
+                   2211 seconds
+Information : 
+                Timer:
+                   2219 seconds
+Information : 
+                Timer:
+                   2247 seconds
+Information : 
+                Timer:
+                   2250 seconds
+Information : 
+                Timer:
+                   2316 seconds
+Information : 
+                Timer:
+                   2328 seconds
+Information : 
+                Timer:
+                   2334 seconds
+Information : 
+                Timer:
+                   2340 seconds
+Information : 
+                Timer:
+                   2346 seconds
+Information : 
+                Timer:
+                   2361 seconds
+Information : 
+                Timer:
+                   2369 seconds
+Information : 
+                Timer:
+                   2375 seconds
+Information : 
+                Timer:
+                   2382 seconds
+Information : 
+                Timer:
+                   2393 seconds
+Information : 
+                Timer:
+                   2399 seconds
+Information : 
+                Timer:
+                   2413 seconds
+Information : 
+                Timer:
+                   2418 seconds
+Information : 
+                Timer:
+                   2428 seconds
+Information : 
+                Timer:
+                   2433 seconds
+Information : 
+                Timer:
+                   2438 seconds
+Information : 
+                Timer:
+                   2470 seconds
+Information : 
+                Timer:
+                   2489 seconds
+Information : 
+                Timer:
+                   2503 seconds
+Information : 
+                Timer:
+                   2509 seconds
+Information : 
+                Timer:
+                   2514 seconds
+Information : 
+                Timer:
+                   2516 seconds
+Information : 
+                Timer:
+                   2532 seconds
+Information : 
+                Timer:
+                   2538 seconds
+Information : 
+                Timer:
+                   2544 seconds
+Information : 
+                Timer:
+                   2567 seconds
+Information : 
+                Timer:
+                   2581 seconds
+Information : 
+                Timer:
+                   2626 seconds
+Information : 
+                Timer:
+                   2690 seconds
+Information : 
+                Timer:
+                   2698 seconds
+Status : TBR : 13707 13707.
+Information : 
+                Timer:
+                   2705 seconds
+Information : 
+                Timer:
+                   2710 seconds
+Information : 
+                Timer:
+                   2716 seconds
+Information : 
+                Timer:
+                   2744 seconds
+Information : 
+                Timer:
+                   2748 seconds
+Information : 
+                Timer:
+                   2754 seconds
+Information : 
+                Timer:
+                   2761 seconds
+Information : 
+                Timer:
+                   2766 seconds
+Information : 
+                Timer:
+                   2774 seconds
+Information : 
+                Timer:
+                   2778 seconds
+Information : 
+                Timer:
+                   2782 seconds
+Information : 
+                Timer:
+                   2788 seconds
+Information : 
+                Timer:
+                   2794 seconds
+Information : 
+                Timer:
+                   2803 seconds
+Information : 
+                Timer:
+                   2807 seconds
+Information : 
+                Timer:
+                   2827 seconds
+Information : 
+                Timer:
+                   2832 seconds
+Information : 
+                Timer:
+                   2844 seconds
+Information : 
+                Timer:
+                   2851 seconds
+Information : 
+                Timer:
+                   2854 seconds
+Information : 
+                Timer:
+                   2870 seconds
+Information : 
+                Timer:
+                   2876 seconds
+Information : 
+                Timer:
+                   2903 seconds
+Information : 
+                Timer:
+                   2909 seconds
+Information : 
+                Timer:
+                   2981 seconds
+Information : 
+                Timer:
+                   2992 seconds
+Information : 
+                Timer:
+                   2993 seconds
+Information : 
+                Timer:
+                   2999 seconds
+Information : 
+                Timer:
+                   3004 seconds
+Information : 
+                Timer:
+                   3009 seconds
+Information : 
+                Timer:
+                   3017 seconds
+Information : 
+                Timer:
+                   3051 seconds
+Information : 
+                Timer:
+                   3055 seconds
+Information : 
+                Timer:
+                   3057 seconds
+Information : 
+                Timer:
+                   3060 seconds
+Information : 
+                Timer:
+                   3062 seconds
+Information : 
+                Timer:
+                   3066 seconds
+Information : 
+                Timer:
+                   3070 seconds
+Information : 
+                Timer:
+                   3071 seconds
+Information : 
+                Timer:
+                   3073 seconds
+Information : 
+                Timer:
+                   3078 seconds
+Information : 
+                Timer:
+                   3081 seconds
+Information : 
+                Timer:
+                   3083 seconds
+Information : 
+                Timer:
+                   3085 seconds
+Information : 
+                Timer:
+                   3088 seconds
+Information : 
+                Timer:
+                   3091 seconds
+Information : 
+                Timer:
+                   3092 seconds
+Information : 
+                Timer:
+                   3094 seconds
+Information : 
+                Timer:
+                   3095 seconds
+Information : 
+                Timer:
+                   3096 seconds
+Information : 
+                Timer:
+                   3097 seconds
+Information : 
+                Timer:
+                   3099 seconds
+Information : 
+                Timer:
+                   3100 seconds
+Information : 
+                Timer:
+                   3101 seconds
+Information : 
+                Timer:
+                   3102 seconds
+Information : 
+                Timer:
+                   3104 seconds
+Information : 
+                Timer:
+                   3152 seconds
+Information : 
+                Timer:
+                   3153 seconds
+Information : 
+                Timer:
+                   3154 seconds
+Information : 
+                Timer:
+                   3155 seconds
+Information : 
+                Timer:
+                   3156 seconds
+Information : 
+                Timer:
+                   3158 seconds
+Information : 
+                Timer:
+                   3159 seconds
+Status : TBR : 13706 13706.
+Information : 
+                Timer:
+                   3160 seconds
+Information : 
+                Timer:
+                   3161 seconds
+Information : 
+                Timer:
+                   3163 seconds
+Information : 
+                Timer:
+                   3165 seconds
+Information : 
+                Timer:
+                   3166 seconds
+Information : 
+                Timer:
+                   3167 seconds
+Information : 
+                Timer:
+                   3202 seconds
+Information : 
+                Timer:
+                   3203 seconds
+Information : 
+                Timer:
+                   3204 seconds
+Information : 
+                Timer:
+                   3205 seconds
+Information : 
+                Timer:
+                   3206 seconds
+Information : 
+                Timer:
+                   3207 seconds
+Information : 
+                Timer:
+                   3208 seconds
+Information : 
+                Timer:
+                   3209 seconds
+Information : 
+                Timer:
+                   3210 seconds
+Information : 
+                Timer:
+                   3211 seconds
+Information : 
+                Timer:
+                   3212 seconds
+Information : 
+                Timer:
+                   3230 seconds
+Information : 
+                Timer:
+                   3231 seconds
+Information : 
+                Timer:
+                   3232 seconds
+Information : 
+                Timer:
+                   3233 seconds
+Information : 
+                Timer:
+                   3234 seconds
+Information : 
+                Timer:
+                   3235 seconds
+Information : 
+                Timer:
+                   3236 seconds
+Information : 
+                Timer:
+                   3238 seconds
+Information : 
+                Timer:
+                   3240 seconds
+Information : 
+                Timer:
+                   3241 seconds
+Information : 
+                Timer:
+                   3242 seconds
+Information : 
+                Timer:
+                   3243 seconds
+Information : 
+                Timer:
+                   3244 seconds
+Information : 
+                Timer:
+                   3245 seconds
+Information : 
+                Timer:
+                   3246 seconds
+Information : 
+                Timer:
+                   3247 seconds
+Information : 
+                Timer:
+                   3248 seconds
+Information : 
+                Timer:
+                   3256 seconds
+Information : 
+                Timer:
+                   3260 seconds
+Information : 
+                Timer:
+                   3262 seconds
+Information : 
+                Timer:
+                   3263 seconds
+Information : 
+                Timer:
+                   3265 seconds
+Information : 
+                Timer:
+                   3267 seconds
+Information : 
+                Timer:
+                   3268 seconds
+Information : 
+                Timer:
+                   3269 seconds
+Information : 
+                Timer:
+                   3272 seconds
+Information : 
+                Timer:
+                   3343 seconds
+Information : 
+                Timer:
+                   3344 seconds
+Information : 
+                Timer:
+                   3345 seconds
+Information : 
+                Timer:
+                   3346 seconds
+Information : 
+                Timer:
+                   3347 seconds
+Information : 
+                Timer:
+                   3348 seconds
+Information : 
+                Timer:
+                   3351 seconds
+Information : 
+                Timer:
+                   3352 seconds
+Information : 
+                Timer:
+                   3354 seconds
+Information : 
+                Timer:
+                   3355 seconds
+Information : 
+                Timer:
+                   3357 seconds
+Information : 
+                Timer:
+                   3358 seconds
+Information : 
+                Timer:
+                   3359 seconds
+Information : 
+                Timer:
+                   3363 seconds
+Information : 
+                Timer:
+                   3366 seconds
+Information : 
+                Timer:
+                   3367 seconds
+Information : 
+                Timer:
+                   3369 seconds
+Information : 
+                Timer:
+                   3371 seconds
+Information : 
+                Timer:
+                   3377 seconds
+Information : 
+                Timer:
+                   3384 seconds
+Information : 
+                Timer:
+                   3390 seconds
+Information : 
+                Timer:
+                   3397 seconds
+Information : 
+                Timer:
+                   3403 seconds
+Information : 
+                Timer:
+                   3409 seconds
+Information : 
+                Timer:
+                   3416 seconds
+Information : 
+                Timer:
+                   3422 seconds
+Information : 
+                Timer:
+                   3432 seconds
+Information : 
+                Timer:
+                   3456 seconds
+Information : 
+                Timer:
+                   3461 seconds
+Information : 
+                Timer:
+                   3468 seconds
+Information : 
+                Timer:
+                   3475 seconds
+Information : 
+                Timer:
+                   3480 seconds
+Information : 
+                Timer:
+                   3487 seconds
+Information : 
+                Timer:
+                   3504 seconds
+Information : 
+                Timer:
+                   3510 seconds
+Information : 
+                Timer:
+                   3516 seconds
+Information : 
+                Timer:
+                   3544 seconds
+Information : 
+                Timer:
+                   3583 seconds
+Information : 
+                Timer:
+                   3589 seconds
+Information : 
+                Timer:
+                   3595 seconds
+Information : 
+                Timer:
+                   3631 seconds
+Information : 
+                Timer:
+                   3639 seconds
+Information : 
+                Timer:
+                   3645 seconds
+Information : 
+                Timer:
+                   3652 seconds
+Information : 
+                Timer:
+                   3668 seconds
+Information : 
+                Timer:
+                   3675 seconds
+Information : 
+                Timer:
+                   3721 seconds
+Information : 
+                Timer:
+                   3728 seconds
+Information : 
+                Timer:
+                   3735 seconds
+Information : 
+                Timer:
+                   3746 seconds
+Information : 
+                Timer:
+                   3799 seconds
+Information : 
+                Timer:
+                   3847 seconds
+Information : 
+                Timer:
+                   3859 seconds
+Information : 
+                Timer:
+                   3865 seconds
+Information : 
+                Timer:
+                   3876 seconds
+Information : 
+                Timer:
+                   3882 seconds
+Information : 
+                Timer:
+                   3888 seconds
+Information : 
+                Timer:
+                   3896 seconds
+Information : 
+                Timer:
+                   3956 seconds
+Information : 
+                Timer:
+                   3962 seconds
+Information : 
+                Timer:
+                   3968 seconds
+Information : 
+                Timer:
+                   3974 seconds
+Information : 
+                Timer:
+                   3984 seconds
+Information : 
+                Timer:
+                   3990 seconds
+Information : 
+                Timer:
+                   3994 seconds
+Information : 
+                Timer:
+                   3999 seconds
+Information : 
+                Timer:
+                   4015 seconds
+Information : 
+                Timer:
+                   4018 seconds
+Information : 
+                Timer:
+                   4088 seconds
+Information : 
+                Timer:
+                   4096 seconds
+Information : 
+                Timer:
+                   4121 seconds
+Information : 
+                Timer:
+                   4124 seconds
+Information : 
+                Timer:
+                   4190 seconds
+Information : 
+                Timer:
+                   4201 seconds
+Information : 
+                Timer:
+                   4208 seconds
+Information : 
+                Timer:
+                   4213 seconds
+Information : 
+                Timer:
+                   4219 seconds
+Information : 
+                Timer:
+                   4235 seconds
+Information : 
+                Timer:
+                   4242 seconds
+Information : 
+                Timer:
+                   4248 seconds
+Information : 
+                Timer:
+                   4256 seconds
+Information : 
+                Timer:
+                   4266 seconds
+Information : 
+                Timer:
+                   4272 seconds
+Information : 
+                Timer:
+                   4286 seconds
+Information : 
+                Timer:
+                   4291 seconds
+Information : 
+                Timer:
+                   4301 seconds
+Information : 
+                Timer:
+                   4307 seconds
+Information : 
+                Timer:
+                   4313 seconds
+Information : 
+                Timer:
+                   4347 seconds
+Information : 
+                Timer:
+                   4351 seconds
+Information : 
+                Timer:
+                   4366 seconds
+Information : 
+                Timer:
+                   4372 seconds
+Information : 
+                Timer:
+                   4378 seconds
+Information : 
+                Timer:
+                   4379 seconds
+Information : 
+                Timer:
+                   4395 seconds
+Information : 
+                Timer:
+                   4402 seconds
+Information : 
+                Timer:
+                   4408 seconds
+Information : 
+                Timer:
+                   4431 seconds
+Information : 
+                Timer:
+                   4443 seconds
+Information : 
+                Timer:
+                   4489 seconds
+Information : 
+                Timer:
+                   4553 seconds
+Information : 
+                Timer:
+                   4563 seconds
+Information : 
+                Timer:
+                   4566 seconds
+Information : 
+                Timer:
+                   4569 seconds
+Information : 
+                Timer:
+                   4574 seconds
+Information : 
+                Timer:
+                   4601 seconds
+Information : 
+                Timer:
+                   4606 seconds
+Information : 
+                Timer:
+                   4611 seconds
+Information : 
+                Timer:
+                   4620 seconds
+Information : 
+                Timer:
+                   4624 seconds
+Information : 
+                Timer:
+                   4632 seconds
+Information : 
+                Timer:
+                   4635 seconds
+Information : 
+                Timer:
+                   4640 seconds
+Information : 
+                Timer:
+                   4646 seconds
+Information : 
+                Timer:
+                   4652 seconds
+Information : 
+                Timer:
+                   4661 seconds
+Information : 
+                Timer:
+                   4665 seconds
+Information : 
+                Timer:
+                   4685 seconds
+Information : 
+                Timer:
+                   4689 seconds
+Information : 
+                Timer:
+                   4693 seconds
+Information : 
+                Timer:
+                   4695 seconds
+Information : 
+                Timer:
+                   4699 seconds
+Information : 
+                Timer:
+                   4712 seconds
+Information : 
+                Timer:
+                   4718 seconds
+Information : 
+                Timer:
+                   4743 seconds
+Information : 
+                Timer:
+                   4749 seconds
+Information : 
+                Timer:
+                   4752 seconds
+Information : 
+                Timer:
+                   4763 seconds
+Information : 
+                Timer:
+                   4769 seconds
+Information : 
+                Timer:
+                   4775 seconds
+Information : 
+                Timer:
+                   4780 seconds
+Information : 
+                Timer:
+                   4787 seconds
+Information : 
+                Timer:
+                   4816 seconds
+Information : 
+                Timer:
+                   4820 seconds
+Information : 
+                Timer:
+                   4822 seconds
+Information : 
+                Timer:
+                   4825 seconds
+Information : 
+                Timer:
+                   4827 seconds
+Information : 
+                Timer:
+                   4831 seconds
+Information : 
+                Timer:
+                   4835 seconds
+Information : 
+                Timer:
+                   4836 seconds
+Information : 
+                Timer:
+                   4838 seconds
+Information : 
+                Timer:
+                   4843 seconds
+Information : 
+                Timer:
+                   4845 seconds
+Information : 
+                Timer:
+                   4848 seconds
+Information : 
+                Timer:
+                   4850 seconds
+Information : 
+                Timer:
+                   4853 seconds
+Information : 
+                Timer:
+                   4855 seconds
+Information : 
+                Timer:
+                   4857 seconds
+Information : 
+                Timer:
+                   4858 seconds
+Information : 
+                Timer:
+                   4859 seconds
+Information : 
+                Timer:
+                   4860 seconds
+Information : 
+                Timer:
+                   4861 seconds
+Information : 
+                Timer:
+                   4863 seconds
+Information : 
+                Timer:
+                   4864 seconds
+Information : 
+                Timer:
+                   4865 seconds
+Information : 
+                Timer:
+                   4866 seconds
+Information : 
+                Timer:
+                   4868 seconds
+Information : 
+                Timer:
+                   4925 seconds
+Information : 
+                Timer:
+                   4927 seconds
+Information : 
+                Timer:
+                   4928 seconds
+Information : 
+                Timer:
+                   4929 seconds
+Information : 
+                Timer:
+                   4931 seconds
+Information : 
+                Timer:
+                   4932 seconds
+Information : 
+                Timer:
+                   5003 seconds
+Status : TBR Finished
+Status : TBR : 13697 13697.
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR : 13696 13696.
+Information : 
+                Timer:
+                   14 seconds
+Information : 
+                Timer:
+                   15 seconds
+Information : 
+                Timer:
+                   16 seconds
+Information : 
+                Timer:
+                   17 seconds
+Information : 
+                Timer:
+                   37 seconds
+Information : 
+                Timer:
+                   38 seconds
+Status : TBR : 13695 13695.
+Information : 
+                Timer:
+                   50 seconds
+Information : 
+                Timer:
+                   51 seconds
+Information : 
+                Timer:
+                   52 seconds
+Information : 
+                Timer:
+                   59 seconds
+Information : 
+                Timer:
+                   79 seconds
+Information : 
+                Timer:
+                   104 seconds
+Information : 
+                Timer:
+                   107 seconds
+Information : 
+                Timer:
+                   113 seconds
+Information : 
+                Timer:
+                   116 seconds
+Information : 
+                Timer:
+                   121 seconds
+Information : 
+                Timer:
+                   123 seconds
+Information : 
+                Timer:
+                   131 seconds
+Information : 
+                Timer:
+                   227 seconds
+Information : 
+                Timer:
+                   233 seconds
+Information : 
+                Timer:
+                   242 seconds
+Information : 
+                Timer:
+                   254 seconds
+Information : 
+                Timer:
+                   267 seconds
+Information : 
+                Timer:
+                   272 seconds
+Information : 
+                Timer:
+                   281 seconds
+Information : 
+                Timer:
+                   285 seconds
+Information : 
+                Timer:
+                   293 seconds
+Information : 
+                Timer:
+                   297 seconds
+Information : 
+                Timer:
+                   301 seconds
+Information : 
+                Timer:
+                   308 seconds
+Information : 
+                Timer:
+                   320 seconds
+Information : 
+                Timer:
+                   323 seconds
+Information : 
+                Timer:
+                   337 seconds
+Information : 
+                Timer:
+                   341 seconds
+Information : 
+                Timer:
+                   353 seconds
+Information : 
+                Timer:
+                   357 seconds
+Information : 
+                Timer:
+                   358 seconds
+Information : 
+                Timer:
+                   361 seconds
+Information : 
+                Timer:
+                   362 seconds
+Information : 
+                Timer:
+                   365 seconds
+Information : 
+                Timer:
+                   366 seconds
+Information : 
+                Timer:
+                   367 seconds
+Information : 
+                Timer:
+                   373 seconds
+Information : 
+                Timer:
+                   376 seconds
+Information : 
+                Timer:
+                   377 seconds
+Information : 
+                Timer:
+                   381 seconds
+Information : 
+                Timer:
+                   385 seconds
+Information : 
+                Timer:
+                   389 seconds
+Information : 
+                Timer:
+                   390 seconds
+Information : 
+                Timer:
+                   391 seconds
+Information : 
+                Timer:
+                   392 seconds
+Information : 
+                Timer:
+                   393 seconds
+Information : 
+                Timer:
+                   394 seconds
+Information : 
+                Timer:
+                   395 seconds
+Information : 
+                Timer:
+                   396 seconds
+Information : 
+                Timer:
+                   397 seconds
+Information : 
+                Timer:
+                   398 seconds
+Information : 
+                Timer:
+                   399 seconds
+Information : 
+                Timer:
+                   400 seconds
+Information : 
+                Timer:
+                   401 seconds
+Information : 
+                Timer:
+                   402 seconds
+Information : 
+                Timer:
+                   403 seconds
+Information : 
+                Timer:
+                   404 seconds
+Information : 
+                Timer:
+                   405 seconds
+Information : 
+                Timer:
+                   406 seconds
+Information : 
+                Timer:
+                   407 seconds
+Information : 
+                Timer:
+                   427 seconds
+Information : 
+                Timer:
+                   439 seconds
+Information : 
+                Timer:
+                   440 seconds
+Status : TBR Finished
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 3 h, 51 m, 47 s; Hits: 1
+Status : RAS + TBR Finished
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 3 h, 51 m, 47 s; Hits: 1
+Status : Fusing Trees : 0 Generation 1
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status : Tree Fusing :
+         1 of 1
+         -- tree #2 [13700.000000] -> tree #2 [13698.000000]: tree with cost 13700.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #2 [13700.000000] -> tree #2 [13698.000000]: tree with cost 13700.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #2 [13700.000000] -> tree #2 [13698.000000]: tree with cost 13700.
+Status : Tree Fusing Finished
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 3 h, 51 m, 11 s; Hits: 1
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 3 h, 51 m, 11 s; Hits: 1
+Status : Fusing Trees : 0 Generation 2
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status : Tree Fusing :
+         1 of 1
+         -- tree #5 [13690.000000] -> tree #1 [13700.000000]: tree with cost 13690.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #5 [13690.000000] -> tree #1 [13700.000000]: tree with cost 13690.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #5 [13690.000000] -> tree #1 [13700.000000]: tree with cost 13690.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #5 [13690.000000] -> tree #1 [13700.000000]: tree with cost 13690.
+Status : TBR : 13690 13690.
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   25 seconds
+Information : 
+                Timer:
+                   33 seconds
+Information : 
+                Timer:
+                   41 seconds
+Information : 
+                Timer:
+                   47 seconds
+Information : 
+                Timer:
+                   58 seconds
+Information : 
+                Timer:
+                   65 seconds
+Information : 
+                Timer:
+                   73 seconds
+Information : 
+                Timer:
+                   78 seconds
+Information : 
+                Timer:
+                   84 seconds
+Information : 
+                Timer:
+                   91 seconds
+Information : 
+                Timer:
+                   97 seconds
+Information : 
+                Timer:
+                   104 seconds
+Information : 
+                Timer:
+                   111 seconds
+Information : 
+                Timer:
+                   118 seconds
+Information : 
+                Timer:
+                   124 seconds
+Information : 
+                Timer:
+                   152 seconds
+Information : 
+                Timer:
+                   159 seconds
+Information : 
+                Timer:
+                   191 seconds
+Information : 
+                Timer:
+                   197 seconds
+Information : 
+                Timer:
+                   204 seconds
+Information : 
+                Timer:
+                   211 seconds
+Information : 
+                Timer:
+                   221 seconds
+Information : 
+                Timer:
+                   226 seconds
+Information : 
+                Timer:
+                   250 seconds
+Information : 
+                Timer:
+                   257 seconds
+Information : 
+                Timer:
+                   263 seconds
+Information : 
+                Timer:
+                   270 seconds
+Information : 
+                Timer:
+                   287 seconds
+Information : 
+                Timer:
+                   292 seconds
+Information : 
+                Timer:
+                   342 seconds
+Information : 
+                Timer:
+                   349 seconds
+Information : 
+                Timer:
+                   385 seconds
+Information : 
+                Timer:
+                   396 seconds
+Information : 
+                Timer:
+                   403 seconds
+Information : 
+                Timer:
+                   409 seconds
+Information : 
+                Timer:
+                   457 seconds
+Information : 
+                Timer:
+                   463 seconds
+Information : 
+                Timer:
+                   478 seconds
+Information : 
+                Timer:
+                   487 seconds
+Information : 
+                Timer:
+                   493 seconds
+Information : 
+                Timer:
+                   499 seconds
+Information : 
+                Timer:
+                   505 seconds
+Information : 
+                Timer:
+                   568 seconds
+Information : 
+                Timer:
+                   582 seconds
+Information : 
+                Timer:
+                   600 seconds
+Information : 
+                Timer:
+                   632 seconds
+Information : 
+                Timer:
+                   640 seconds
+Information : 
+                Timer:
+                   656 seconds
+Information : 
+                Timer:
+                   667 seconds
+Information : 
+                Timer:
+                   673 seconds
+Information : 
+                Timer:
+                   679 seconds
+Information : 
+                Timer:
+                   692 seconds
+Information : 
+                Timer:
+                   699 seconds
+Information : 
+                Timer:
+                   714 seconds
+Information : 
+                Timer:
+                   718 seconds
+Information : 
+                Timer:
+                   787 seconds
+Information : 
+                Timer:
+                   793 seconds
+Information : 
+                Timer:
+                   804 seconds
+Information : 
+                Timer:
+                   868 seconds
+Information : 
+                Timer:
+                   875 seconds
+Information : 
+                Timer:
+                   886 seconds
+Information : 
+                Timer:
+                   954 seconds
+Information : 
+                Timer:
+                   960 seconds
+Information : 
+                Timer:
+                   976 seconds
+Information : 
+                Timer:
+                   996 seconds
+Information : 
+                Timer:
+                   1005 seconds
+Information : 
+                Timer:
+                   1011 seconds
+Information : 
+                Timer:
+                   1036 seconds
+Information : 
+                Timer:
+                   1100 seconds
+Information : 
+                Timer:
+                   1106 seconds
+Information : 
+                Timer:
+                   1111 seconds
+Information : 
+                Timer:
+                   1116 seconds
+Information : 
+                Timer:
+                   1153 seconds
+Information : 
+                Timer:
+                   1155 seconds
+Information : 
+                Timer:
+                   1199 seconds
+Information : 
+                Timer:
+                   1210 seconds
+Information : 
+                Timer:
+                   1216 seconds
+Information : 
+                Timer:
+                   1222 seconds
+Information : 
+                Timer:
+                   1246 seconds
+Information : 
+                Timer:
+                   1251 seconds
+Information : 
+                Timer:
+                   1261 seconds
+Information : 
+                Timer:
+                   1271 seconds
+Information : 
+                Timer:
+                   1294 seconds
+Information : 
+                Timer:
+                   1298 seconds
+Information : 
+                Timer:
+                   1306 seconds
+Information : 
+                Timer:
+                   1311 seconds
+Information : 
+                Timer:
+                   1316 seconds
+Information : 
+                Timer:
+                   1321 seconds
+Information : 
+                Timer:
+                   1327 seconds
+Information : 
+                Timer:
+                   1332 seconds
+Information : 
+                Timer:
+                   1335 seconds
+Information : 
+                Timer:
+                   1356 seconds
+Information : 
+                Timer:
+                   1361 seconds
+Information : 
+                Timer:
+                   1366 seconds
+Information : 
+                Timer:
+                   1434 seconds
+Information : 
+                Timer:
+                   1438 seconds
+Information : 
+                Timer:
+                   1442 seconds
+Information : 
+                Timer:
+                   1447 seconds
+Information : 
+                Timer:
+                   1451 seconds
+Information : 
+                Timer:
+                   1456 seconds
+Information : 
+                Timer:
+                   1461 seconds
+Information : 
+                Timer:
+                   1518 seconds
+Information : 
+                Timer:
+                   1524 seconds
+Information : 
+                Timer:
+                   1532 seconds
+Information : 
+                Timer:
+                   1539 seconds
+Information : 
+                Timer:
+                   1543 seconds
+Information : 
+                Timer:
+                   1547 seconds
+Information : 
+                Timer:
+                   1551 seconds
+Information : 
+                Timer:
+                   1555 seconds
+Information : 
+                Timer:
+                   1560 seconds
+Information : 
+                Timer:
+                   1564 seconds
+Information : 
+                Timer:
+                   1567 seconds
+Information : 
+                Timer:
+                   1570 seconds
+Information : 
+                Timer:
+                   1574 seconds
+Information : 
+                Timer:
+                   1576 seconds
+Information : 
+                Timer:
+                   1580 seconds
+Information : 
+                Timer:
+                   1584 seconds
+Information : 
+                Timer:
+                   1586 seconds
+Information : 
+                Timer:
+                   1589 seconds
+Information : 
+                Timer:
+                   1591 seconds
+Information : 
+                Timer:
+                   1593 seconds
+Information : 
+                Timer:
+                   1595 seconds
+Information : 
+                Timer:
+                   1598 seconds
+Information : 
+                Timer:
+                   1602 seconds
+Information : 
+                Timer:
+                   1605 seconds
+Information : 
+                Timer:
+                   1606 seconds
+Information : 
+                Timer:
+                   1607 seconds
+Information : 
+                Timer:
+                   1608 seconds
+Information : 
+                Timer:
+                   1609 seconds
+Information : 
+                Timer:
+                   1610 seconds
+Information : 
+                Timer:
+                   1611 seconds
+Information : 
+                Timer:
+                   1612 seconds
+Information : 
+                Timer:
+                   1614 seconds
+Information : 
+                Timer:
+                   1616 seconds
+Information : 
+                Timer:
+                   1617 seconds
+Information : 
+                Timer:
+                   1618 seconds
+Information : 
+                Timer:
+                   1619 seconds
+Information : 
+                Timer:
+                   1620 seconds
+Information : 
+                Timer:
+                   1621 seconds
+Information : 
+                Timer:
+                   1622 seconds
+Information : 
+                Timer:
+                   1623 seconds
+Information : 
+                Timer:
+                   1624 seconds
+Information : 
+                Timer:
+                   1625 seconds
+Information : 
+                Timer:
+                   1626 seconds
+Information : 
+                Timer:
+                   1627 seconds
+Information : 
+                Timer:
+                   1628 seconds
+Information : 
+                Timer:
+                   1629 seconds
+Information : 
+                Timer:
+                   1630 seconds
+Information : 
+                Timer:
+                   1631 seconds
+Information : 
+                Timer:
+                   1632 seconds
+Information : 
+                Timer:
+                   1633 seconds
+Information : 
+                Timer:
+                   1638 seconds
+Information : 
+                Timer:
+                   1639 seconds
+Information : 
+                Timer:
+                   1640 seconds
+Information : 
+                Timer:
+                   1641 seconds
+Information : 
+                Timer:
+                   1642 seconds
+Information : 
+                Timer:
+                   1643 seconds
+Information : 
+                Timer:
+                   1644 seconds
+Status : TBR Finished
+Status : Tree Fusing Finished
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 3 h, 22 m, 59 s; Hits: 2
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 3 h, 22 m, 59 s; Hits: 2
+Status : Fusing Trees : 0 Generation 3
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status : Tree Fusing :
+         1 of 1
+         -- tree #5 [13690.000000] -> tree #1 [13700.000000]: tree with cost 13690.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #5 [13690.000000] -> tree #1 [13700.000000]: tree with cost 13690.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #5 [13690.000000] -> tree #1 [13700.000000]: tree with cost 13690.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #5 [13690.000000] -> tree #1 [13700.000000]: tree with cost 13690.
+Status : Tree Fusing Finished
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 3 h, 22 m, 12 s; Hits: 3
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 3 h, 22 m, 12 s; Hits: 3
+Status : Fusing Trees : 0 Generation 4
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status : Tree Fusing :
+         1 of 1
+         -- tree #2 [13695.000000] -> tree #4 [13690.000000]: tree with cost 13695.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #2 [13695.000000] -> tree #4 [13690.000000]: tree with cost 13695.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #2 [13695.000000] -> tree #4 [13690.000000]: tree with cost 13695.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #2 [13695.000000] -> tree #4 [13690.000000]: tree with cost 13695.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #2 [13695.000000] -> tree #4 [13690.000000]: tree with cost 13695.
+Status : Tree Fusing Finished
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 3 h, 21 m, 14 s; Hits: 3
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 3 h, 21 m, 14 s; Hits: 3
+Status : Fusing Trees : 0 Generation 5
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status : Tree Fusing :
+         1 of 1
+         -- tree #1 [13698.000000] -> tree #1 [13695.000000]: tree with cost 13698.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #1 [13698.000000] -> tree #1 [13695.000000]: tree with cost 13698.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #1 [13698.000000] -> tree #1 [13695.000000]: tree with cost 13698.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #1 [13698.000000] -> tree #1 [13695.000000]: tree with cost 13698.
+Status : Tree Fusing Finished
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 3 h, 20 m, 27 s; Hits: 3
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 3 h, 20 m, 27 s; Hits: 3
+Status : Fusing Trees : 0 Generation 6
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status : Tree Fusing :
+         1 of 1
+         -- tree #5 [13690.000000] -> tree #1 [13698.000000]: tree with cost 13690.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #5 [13690.000000] -> tree #1 [13698.000000]: tree with cost 13690.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #5 [13690.000000] -> tree #1 [13698.000000]: tree with cost 13690.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #5 [13690.000000] -> tree #1 [13698.000000]: tree with cost 13690.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #5 [13690.000000] -> tree #1 [13698.000000]: tree with cost 13690.
+Status : TBR : 13690 13690.
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   14 seconds
+Information : 
+                Timer:
+                   60 seconds
+Information : 
+                Timer:
+                   62 seconds
+Information : 
+                Timer:
+                   69 seconds
+Information : 
+                Timer:
+                   70 seconds
+Information : 
+                Timer:
+                   134 seconds
+Information : 
+                Timer:
+                   152 seconds
+Information : 
+                Timer:
+                   153 seconds
+Information : 
+                Timer:
+                   154 seconds
+Information : 
+                Timer:
+                   162 seconds
+Information : 
+                Timer:
+                   163 seconds
+Information : 
+                Timer:
+                   171 seconds
+Information : 
+                Timer:
+                   172 seconds
+Information : 
+                Timer:
+                   178 seconds
+Information : 
+                Timer:
+                   180 seconds
+Information : 
+                Timer:
+                   186 seconds
+Information : 
+                Timer:
+                   192 seconds
+Information : 
+                Timer:
+                   193 seconds
+Information : 
+                Timer:
+                   200 seconds
+Information : 
+                Timer:
+                   201 seconds
+Information : 
+                Timer:
+                   221 seconds
+Information : 
+                Timer:
+                   232 seconds
+Information : 
+                Timer:
+                   242 seconds
+Information : 
+                Timer:
+                   243 seconds
+Information : 
+                Timer:
+                   245 seconds
+Information : 
+                Timer:
+                   250 seconds
+Information : 
+                Timer:
+                   251 seconds
+Information : 
+                Timer:
+                   322 seconds
+Information : 
+                Timer:
+                   327 seconds
+Information : 
+                Timer:
+                   332 seconds
+Information : 
+                Timer:
+                   348 seconds
+Information : 
+                Timer:
+                   353 seconds
+Information : 
+                Timer:
+                   358 seconds
+Information : 
+                Timer:
+                   359 seconds
+Information : 
+                Timer:
+                   383 seconds
+Information : 
+                Timer:
+                   400 seconds
+Information : 
+                Timer:
+                   401 seconds
+Information : 
+                Timer:
+                   402 seconds
+Information : 
+                Timer:
+                   408 seconds
+Information : 
+                Timer:
+                   410 seconds
+Information : 
+                Timer:
+                   412 seconds
+Information : 
+                Timer:
+                   413 seconds
+Information : 
+                Timer:
+                   418 seconds
+Information : 
+                Timer:
+                   422 seconds
+Information : 
+                Timer:
+                   429 seconds
+Information : 
+                Timer:
+                   430 seconds
+Information : 
+                Timer:
+                   435 seconds
+Information : 
+                Timer:
+                   441 seconds
+Information : 
+                Timer:
+                   447 seconds
+Information : 
+                Timer:
+                   451 seconds
+Information : 
+                Timer:
+                   452 seconds
+Information : 
+                Timer:
+                   458 seconds
+Information : 
+                Timer:
+                   473 seconds
+Information : 
+                Timer:
+                   482 seconds
+Information : 
+                Timer:
+                   536 seconds
+Information : 
+                Timer:
+                   545 seconds
+Information : 
+                Timer:
+                   555 seconds
+Information : 
+                Timer:
+                   559 seconds
+Information : 
+                Timer:
+                   564 seconds
+Information : 
+                Timer:
+                   565 seconds
+Information : 
+                Timer:
+                   581 seconds
+Information : 
+                Timer:
+                   587 seconds
+Information : 
+                Timer:
+                   594 seconds
+Information : 
+                Timer:
+                   601 seconds
+Information : 
+                Timer:
+                   627 seconds
+Information : 
+                Timer:
+                   628 seconds
+Information : 
+                Timer:
+                   629 seconds
+Information : 
+                Timer:
+                   634 seconds
+Information : 
+                Timer:
+                   636 seconds
+Information : 
+                Timer:
+                   640 seconds
+Information : 
+                Timer:
+                   646 seconds
+Information : 
+                Timer:
+                   655 seconds
+Information : 
+                Timer:
+                   656 seconds
+Information : 
+                Timer:
+                   671 seconds
+Information : 
+                Timer:
+                   677 seconds
+Information : 
+                Timer:
+                   742 seconds
+Information : 
+                Timer:
+                   743 seconds
+Information : 
+                Timer:
+                   766 seconds
+Information : 
+                Timer:
+                   769 seconds
+Information : 
+                Timer:
+                   772 seconds
+Information : 
+                Timer:
+                   774 seconds
+Information : 
+                Timer:
+                   780 seconds
+Information : 
+                Timer:
+                   793 seconds
+Information : 
+                Timer:
+                   802 seconds
+Information : 
+                Timer:
+                   809 seconds
+Information : 
+                Timer:
+                   844 seconds
+Information : 
+                Timer:
+                   850 seconds
+Information : 
+                Timer:
+                   856 seconds
+Information : 
+                Timer:
+                   922 seconds
+Information : 
+                Timer:
+                   923 seconds
+Information : 
+                Timer:
+                   929 seconds
+Information : 
+                Timer:
+                   933 seconds
+Information : 
+                Timer:
+                   940 seconds
+Information : 
+                Timer:
+                   946 seconds
+Information : 
+                Timer:
+                   954 seconds
+Information : 
+                Timer:
+                   959 seconds
+Information : 
+                Timer:
+                   963 seconds
+Information : 
+                Timer:
+                   1000 seconds
+Information : 
+                Timer:
+                   1064 seconds
+Information : 
+                Timer:
+                   1113 seconds
+Information : 
+                Timer:
+                   1116 seconds
+Information : 
+                Timer:
+                   1118 seconds
+Information : 
+                Timer:
+                   1124 seconds
+Information : 
+                Timer:
+                   1134 seconds
+Information : 
+                Timer:
+                   1139 seconds
+Information : 
+                Timer:
+                   1140 seconds
+Information : 
+                Timer:
+                   1141 seconds
+Information : 
+                Timer:
+                   1142 seconds
+Information : 
+                Timer:
+                   1147 seconds
+Information : 
+                Timer:
+                   1154 seconds
+Information : 
+                Timer:
+                   1158 seconds
+Information : 
+                Timer:
+                   1161 seconds
+Information : 
+                Timer:
+                   1226 seconds
+Information : 
+                Timer:
+                   1232 seconds
+Information : 
+                Timer:
+                   1234 seconds
+Information : 
+                Timer:
+                   1261 seconds
+Information : 
+                Timer:
+                   1267 seconds
+Information : 
+                Timer:
+                   1273 seconds
+Information : 
+                Timer:
+                   1279 seconds
+Information : 
+                Timer:
+                   1295 seconds
+Information : 
+                Timer:
+                   1301 seconds
+Information : 
+                Timer:
+                   1307 seconds
+Information : 
+                Timer:
+                   1312 seconds
+Information : 
+                Timer:
+                   1317 seconds
+Information : 
+                Timer:
+                   1318 seconds
+Information : 
+                Timer:
+                   1351 seconds
+Information : 
+                Timer:
+                   1370 seconds
+Information : 
+                Timer:
+                   1376 seconds
+Information : 
+                Timer:
+                   1382 seconds
+Information : 
+                Timer:
+                   1385 seconds
+Information : 
+                Timer:
+                   1394 seconds
+Information : 
+                Timer:
+                   1398 seconds
+Information : 
+                Timer:
+                   1444 seconds
+Information : 
+                Timer:
+                   1448 seconds
+Information : 
+                Timer:
+                   1456 seconds
+Information : 
+                Timer:
+                   1463 seconds
+Information : 
+                Timer:
+                   1469 seconds
+Information : 
+                Timer:
+                   1472 seconds
+Information : 
+                Timer:
+                   1479 seconds
+Information : 
+                Timer:
+                   1483 seconds
+Information : 
+                Timer:
+                   1488 seconds
+Information : 
+                Timer:
+                   1493 seconds
+Information : 
+                Timer:
+                   1524 seconds
+Information : 
+                Timer:
+                   1526 seconds
+Information : 
+                Timer:
+                   1527 seconds
+Information : 
+                Timer:
+                   1532 seconds
+Information : 
+                Timer:
+                   1536 seconds
+Information : 
+                Timer:
+                   1541 seconds
+Information : 
+                Timer:
+                   1545 seconds
+Information : 
+                Timer:
+                   1550 seconds
+Information : 
+                Timer:
+                   1561 seconds
+Information : 
+                Timer:
+                   1566 seconds
+Information : 
+                Timer:
+                   1577 seconds
+Information : 
+                Timer:
+                   1583 seconds
+Information : 
+                Timer:
+                   1584 seconds
+Information : 
+                Timer:
+                   1608 seconds
+Information : 
+                Timer:
+                   1613 seconds
+Status : TBR Finished
+Status : Tree Fusing Finished
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 2 h, 52 m, 35 s; Hits: 4
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 2 h, 52 m, 35 s; Hits: 4
+Status : Fusing Trees : 0 Generation 7
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status : Tree Fusing Finished
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 2 h, 52 m, 35 s; Hits: 4
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 2 h, 52 m, 35 s; Hits: 4
+Status : Fusing Trees : 0 Generation 8
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status : Tree Fusing :
+         1 of 1
+         -- tree #3 [13690.000000] -> tree #4 [13690.000000]: tree with cost 13690.
+Status : Tree Fusing Finished
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 2 h, 52 m, 23 s; Hits: 4
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 2 h, 52 m, 23 s; Hits: 4
+Status : Fusing Trees : 0 Generation 9
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status : Tree Fusing Finished
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 2 h, 52 m, 23 s; Hits: 4
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 2 h, 52 m, 23 s; Hits: 4
+Status : Fusing Trees : 0 Generation 10
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status : Tree Fusing Finished
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 2 h, 52 m, 23 s; Hits: 4
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 2 h, 52 m, 23 s; Hits: 4
+Status : Fusing Trees : 0 Generation 11
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status : Tree Fusing :
+         1 of 1
+         -- tree #3 [13690.000000] -> tree #1 [13695.000000]: tree with cost 13690.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #3 [13690.000000] -> tree #1 [13695.000000]: tree with cost 13690.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #3 [13690.000000] -> tree #1 [13695.000000]: tree with cost 13690.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #3 [13690.000000] -> tree #1 [13695.000000]: tree with cost 13690.
+Status : Tree Fusing :
+         1 of 1
+         -- tree #3 [13690.000000] -> tree #1 [13695.000000]: tree with cost 13690.
+Status : TBR : 13690 13690.
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   21 seconds
+Information : 
+                Timer:
+                   27 seconds
+Information : 
+                Timer:
+                   28 seconds
+Information : 
+                Timer:
+                   47 seconds
+Information : 
+                Timer:
+                   48 seconds
+Information : 
+                Timer:
+                   54 seconds
+Information : 
+                Timer:
+                   66 seconds
+Information : 
+                Timer:
+                   73 seconds
+Information : 
+                Timer:
+                   75 seconds
+Information : 
+                Timer:
+                   80 seconds
+Information : 
+                Timer:
+                   86 seconds
+Information : 
+                Timer:
+                   96 seconds
+Information : 
+                Timer:
+                   102 seconds
+Information : 
+                Timer:
+                   104 seconds
+Information : 
+                Timer:
+                   106 seconds
+Information : 
+                Timer:
+                   168 seconds
+Information : 
+                Timer:
+                   169 seconds
+Information : 
+                Timer:
+                   170 seconds
+Information : 
+                Timer:
+                   177 seconds
+Information : 
+                Timer:
+                   179 seconds
+Information : 
+                Timer:
+                   180 seconds
+Information : 
+                Timer:
+                   183 seconds
+Information : 
+                Timer:
+                   184 seconds
+Information : 
+                Timer:
+                   189 seconds
+Information : 
+                Timer:
+                   195 seconds
+Information : 
+                Timer:
+                   202 seconds
+Information : 
+                Timer:
+                   208 seconds
+Information : 
+                Timer:
+                   216 seconds
+Information : 
+                Timer:
+                   217 seconds
+Information : 
+                Timer:
+                   281 seconds
+Information : 
+                Timer:
+                   286 seconds
+Information : 
+                Timer:
+                   293 seconds
+Information : 
+                Timer:
+                   299 seconds
+Information : 
+                Timer:
+                   304 seconds
+Information : 
+                Timer:
+                   317 seconds
+Information : 
+                Timer:
+                   323 seconds
+Information : 
+                Timer:
+                   327 seconds
+Information : 
+                Timer:
+                   334 seconds
+Information : 
+                Timer:
+                   404 seconds
+Information : 
+                Timer:
+                   409 seconds
+Information : 
+                Timer:
+                   416 seconds
+Information : 
+                Timer:
+                   449 seconds
+Information : 
+                Timer:
+                   457 seconds
+Information : 
+                Timer:
+                   462 seconds
+Information : 
+                Timer:
+                   468 seconds
+Information : 
+                Timer:
+                   496 seconds
+Information : 
+                Timer:
+                   497 seconds
+Information : 
+                Timer:
+                   499 seconds
+Information : 
+                Timer:
+                   501 seconds
+Information : 
+                Timer:
+                   507 seconds
+Information : 
+                Timer:
+                   510 seconds
+Information : 
+                Timer:
+                   517 seconds
+Information : 
+                Timer:
+                   523 seconds
+Information : 
+                Timer:
+                   525 seconds
+Information : 
+                Timer:
+                   529 seconds
+Information : 
+                Timer:
+                   530 seconds
+Information : 
+                Timer:
+                   531 seconds
+Information : 
+                Timer:
+                   535 seconds
+Information : 
+                Timer:
+                   546 seconds
+Information : 
+                Timer:
+                   560 seconds
+Information : 
+                Timer:
+                   567 seconds
+Information : 
+                Timer:
+                   568 seconds
+Information : 
+                Timer:
+                   572 seconds
+Information : 
+                Timer:
+                   591 seconds
+Information : 
+                Timer:
+                   595 seconds
+Information : 
+                Timer:
+                   602 seconds
+Information : 
+                Timer:
+                   608 seconds
+Information : 
+                Timer:
+                   645 seconds
+Information : 
+                Timer:
+                   670 seconds
+Information : 
+                Timer:
+                   681 seconds
+Information : 
+                Timer:
+                   718 seconds
+Information : 
+                Timer:
+                   728 seconds
+Information : 
+                Timer:
+                   732 seconds
+Information : 
+                Timer:
+                   740 seconds
+Information : 
+                Timer:
+                   748 seconds
+Information : 
+                Timer:
+                   755 seconds
+Information : 
+                Timer:
+                   756 seconds
+Information : 
+                Timer:
+                   762 seconds
+Information : 
+                Timer:
+                   763 seconds
+Information : 
+                Timer:
+                   769 seconds
+Information : 
+                Timer:
+                   785 seconds
+Information : 
+                Timer:
+                   792 seconds
+Information : 
+                Timer:
+                   797 seconds
+Information : 
+                Timer:
+                   798 seconds
+Information : 
+                Timer:
+                   807 seconds
+Information : 
+                Timer:
+                   813 seconds
+Information : 
+                Timer:
+                   815 seconds
+Information : 
+                Timer:
+                   818 seconds
+Information : 
+                Timer:
+                   827 seconds
+Information : 
+                Timer:
+                   832 seconds
+Information : 
+                Timer:
+                   833 seconds
+Information : 
+                Timer:
+                   838 seconds
+Information : 
+                Timer:
+                   844 seconds
+Information : 
+                Timer:
+                   851 seconds
+Information : 
+                Timer:
+                   855 seconds
+Information : 
+                Timer:
+                   859 seconds
+Information : 
+                Timer:
+                   864 seconds
+Information : 
+                Timer:
+                   870 seconds
+Information : 
+                Timer:
+                   875 seconds
+Information : 
+                Timer:
+                   923 seconds
+Information : 
+                Timer:
+                   929 seconds
+Information : 
+                Timer:
+                   936 seconds
+Information : 
+                Timer:
+                   940 seconds
+Information : 
+                Timer:
+                   963 seconds
+Information : 
+                Timer:
+                   1006 seconds
+Information : 
+                Timer:
+                   1007 seconds
+Information : 
+                Timer:
+                   1022 seconds
+Information : 
+                Timer:
+                   1023 seconds
+Information : 
+                Timer:
+                   1029 seconds
+Information : 
+                Timer:
+                   1034 seconds
+Information : 
+                Timer:
+                   1041 seconds
+Information : 
+                Timer:
+                   1071 seconds
+Information : 
+                Timer:
+                   1078 seconds
+Information : 
+                Timer:
+                   1128 seconds
+Information : 
+                Timer:
+                   1133 seconds
+Information : 
+                Timer:
+                   1134 seconds
+Information : 
+                Timer:
+                   1157 seconds
+Information : 
+                Timer:
+                   1159 seconds
+Information : 
+                Timer:
+                   1170 seconds
+Information : 
+                Timer:
+                   1177 seconds
+Information : 
+                Timer:
+                   1183 seconds
+Information : 
+                Timer:
+                   1186 seconds
+Information : 
+                Timer:
+                   1242 seconds
+Information : 
+                Timer:
+                   1311 seconds
+Information : 
+                Timer:
+                   1327 seconds
+Information : 
+                Timer:
+                   1333 seconds
+Information : 
+                Timer:
+                   1337 seconds
+Information : 
+                Timer:
+                   1346 seconds
+Information : 
+                Timer:
+                   1353 seconds
+Information : 
+                Timer:
+                   1354 seconds
+Information : 
+                Timer:
+                   1360 seconds
+Information : 
+                Timer:
+                   1371 seconds
+Information : 
+                Timer:
+                   1373 seconds
+Information : 
+                Timer:
+                   1374 seconds
+Information : 
+                Timer:
+                   1377 seconds
+Information : 
+                Timer:
+                   1381 seconds
+Information : 
+                Timer:
+                   1386 seconds
+Information : 
+                Timer:
+                   1453 seconds
+Information : 
+                Timer:
+                   1460 seconds
+Information : 
+                Timer:
+                   1480 seconds
+Information : 
+                Timer:
+                   1485 seconds
+Information : 
+                Timer:
+                   1486 seconds
+Information : 
+                Timer:
+                   1503 seconds
+Information : 
+                Timer:
+                   1508 seconds
+Information : 
+                Timer:
+                   1509 seconds
+Information : 
+                Timer:
+                   1524 seconds
+Information : 
+                Timer:
+                   1592 seconds
+Information : 
+                Timer:
+                   1599 seconds
+Information : 
+                Timer:
+                   1625 seconds
+Information : 
+                Timer:
+                   1627 seconds
+Information : 
+                Timer:
+                   1630 seconds
+Information : 
+                Timer:
+                   1635 seconds
+Status : TBR Finished
+Status : Tree Fusing Finished
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 2 h, 24 m, 9 s; Hits: 5
+Status : Alternate : 0 Beginning search
+Status : Alternate : 0 SPR search
+Status : SPR : 13690 13690.
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   25 seconds
+Information : 
+                Timer:
+                   32 seconds
+Information : 
+                Timer:
+                   40 seconds
+Information : 
+                Timer:
+                   45 seconds
+Information : 
+                Timer:
+                   70 seconds
+Information : 
+                Timer:
+                   77 seconds
+Information : 
+                Timer:
+                   82 seconds
+Information : 
+                Timer:
+                   90 seconds
+Information : 
+                Timer:
+                   96 seconds
+Information : 
+                Timer:
+                   102 seconds
+Information : 
+                Timer:
+                   109 seconds
+Information : 
+                Timer:
+                   116 seconds
+Information : 
+                Timer:
+                   123 seconds
+Information : 
+                Timer:
+                   129 seconds
+Information : 
+                Timer:
+                   136 seconds
+Information : 
+                Timer:
+                   142 seconds
+Information : 
+                Timer:
+                   148 seconds
+Information : 
+                Timer:
+                   154 seconds
+Information : 
+                Timer:
+                   160 seconds
+Information : 
+                Timer:
+                   168 seconds
+Information : 
+                Timer:
+                   174 seconds
+Information : 
+                Timer:
+                   181 seconds
+Information : 
+                Timer:
+                   187 seconds
+Information : 
+                Timer:
+                   193 seconds
+Information : 
+                Timer:
+                   200 seconds
+Information : 
+                Timer:
+                   206 seconds
+Information : 
+                Timer:
+                   212 seconds
+Information : 
+                Timer:
+                   218 seconds
+Information : 
+                Timer:
+                   240 seconds
+Information : 
+                Timer:
+                   246 seconds
+Information : 
+                Timer:
+                   252 seconds
+Information : 
+                Timer:
+                   259 seconds
+Information : 
+                Timer:
+                   264 seconds
+Information : 
+                Timer:
+                   271 seconds
+Information : 
+                Timer:
+                   277 seconds
+Information : 
+                Timer:
+                   283 seconds
+Information : 
+                Timer:
+                   289 seconds
+Information : 
+                Timer:
+                   295 seconds
+Information : 
+                Timer:
+                   301 seconds
+Information : 
+                Timer:
+                   306 seconds
+Information : 
+                Timer:
+                   312 seconds
+Information : 
+                Timer:
+                   319 seconds
+Information : 
+                Timer:
+                   325 seconds
+Information : 
+                Timer:
+                   331 seconds
+Information : 
+                Timer:
+                   337 seconds
+Information : 
+                Timer:
+                   343 seconds
+Information : 
+                Timer:
+                   350 seconds
+Information : 
+                Timer:
+                   356 seconds
+Information : 
+                Timer:
+                   361 seconds
+Information : 
+                Timer:
+                   367 seconds
+Information : 
+                Timer:
+                   373 seconds
+Information : 
+                Timer:
+                   380 seconds
+Information : 
+                Timer:
+                   385 seconds
+Information : 
+                Timer:
+                   390 seconds
+Information : 
+                Timer:
+                   395 seconds
+Information : 
+                Timer:
+                   401 seconds
+Information : 
+                Timer:
+                   407 seconds
+Information : 
+                Timer:
+                   413 seconds
+Information : 
+                Timer:
+                   428 seconds
+Information : 
+                Timer:
+                   434 seconds
+Information : 
+                Timer:
+                   439 seconds
+Information : 
+                Timer:
+                   445 seconds
+Information : 
+                Timer:
+                   451 seconds
+Information : 
+                Timer:
+                   457 seconds
+Information : 
+                Timer:
+                   463 seconds
+Information : 
+                Timer:
+                   469 seconds
+Information : 
+                Timer:
+                   474 seconds
+Information : 
+                Timer:
+                   479 seconds
+Information : 
+                Timer:
+                   485 seconds
+Information : 
+                Timer:
+                   491 seconds
+Information : 
+                Timer:
+                   497 seconds
+Information : 
+                Timer:
+                   502 seconds
+Information : 
+                Timer:
+                   506 seconds
+Information : 
+                Timer:
+                   511 seconds
+Information : 
+                Timer:
+                   513 seconds
+Information : 
+                Timer:
+                   518 seconds
+Information : 
+                Timer:
+                   524 seconds
+Information : 
+                Timer:
+                   530 seconds
+Information : 
+                Timer:
+                   535 seconds
+Information : 
+                Timer:
+                   541 seconds
+Information : 
+                Timer:
+                   546 seconds
+Information : 
+                Timer:
+                   552 seconds
+Information : 
+                Timer:
+                   557 seconds
+Information : 
+                Timer:
+                   562 seconds
+Information : 
+                Timer:
+                   566 seconds
+Information : 
+                Timer:
+                   572 seconds
+Information : 
+                Timer:
+                   578 seconds
+Information : 
+                Timer:
+                   582 seconds
+Information : 
+                Timer:
+                   588 seconds
+Information : 
+                Timer:
+                   594 seconds
+Information : 
+                Timer:
+                   598 seconds
+Information : 
+                Timer:
+                   602 seconds
+Information : 
+                Timer:
+                   616 seconds
+Information : 
+                Timer:
+                   621 seconds
+Information : 
+                Timer:
+                   625 seconds
+Information : 
+                Timer:
+                   630 seconds
+Information : 
+                Timer:
+                   634 seconds
+Information : 
+                Timer:
+                   638 seconds
+Information : 
+                Timer:
+                   642 seconds
+Information : 
+                Timer:
+                   646 seconds
+Information : 
+                Timer:
+                   651 seconds
+Information : 
+                Timer:
+                   654 seconds
+Information : 
+                Timer:
+                   660 seconds
+Information : 
+                Timer:
+                   665 seconds
+Information : 
+                Timer:
+                   669 seconds
+Information : 
+                Timer:
+                   673 seconds
+Information : 
+                Timer:
+                   677 seconds
+Information : 
+                Timer:
+                   681 seconds
+Information : 
+                Timer:
+                   685 seconds
+Information : 
+                Timer:
+                   689 seconds
+Information : 
+                Timer:
+                   693 seconds
+Information : 
+                Timer:
+                   696 seconds
+Information : 
+                Timer:
+                   699 seconds
+Information : 
+                Timer:
+                   701 seconds
+Information : 
+                Timer:
+                   703 seconds
+Information : 
+                Timer:
+                   706 seconds
+Information : 
+                Timer:
+                   710 seconds
+Information : 
+                Timer:
+                   713 seconds
+Information : 
+                Timer:
+                   715 seconds
+Information : 
+                Timer:
+                   717 seconds
+Information : 
+                Timer:
+                   719 seconds
+Information : 
+                Timer:
+                   721 seconds
+Information : 
+                Timer:
+                   722 seconds
+Information : 
+                Timer:
+                   724 seconds
+Information : 
+                Timer:
+                   728 seconds
+Information : 
+                Timer:
+                   731 seconds
+Information : 
+                Timer:
+                   732 seconds
+Information : 
+                Timer:
+                   733 seconds
+Information : 
+                Timer:
+                   734 seconds
+Information : 
+                Timer:
+                   735 seconds
+Information : 
+                Timer:
+                   736 seconds
+Information : 
+                Timer:
+                   738 seconds
+Information : 
+                Timer:
+                   739 seconds
+Information : 
+                Timer:
+                   740 seconds
+Information : 
+                Timer:
+                   741 seconds
+Information : 
+                Timer:
+                   742 seconds
+Information : 
+                Timer:
+                   743 seconds
+Information : 
+                Timer:
+                   744 seconds
+Information : 
+                Timer:
+                   745 seconds
+Information : 
+                Timer:
+                   746 seconds
+Information : 
+                Timer:
+                   747 seconds
+Information : 
+                Timer:
+                   748 seconds
+Information : 
+                Timer:
+                   749 seconds
+Information : 
+                Timer:
+                   750 seconds
+Information : 
+                Timer:
+                   751 seconds
+Information : 
+                Timer:
+                   752 seconds
+Information : 
+                Timer:
+                   753 seconds
+Information : 
+                Timer:
+                   754 seconds
+Information : 
+                Timer:
+                   755 seconds
+Information : 
+                Timer:
+                   756 seconds
+Status : SPR Finished
+Status : Alternate : 0 Performing TBR swapping
+Information : 
+                Timer:
+                   756 seconds
+Information : 
+                Timer:
+                   763 seconds
+Information : 
+                Timer:
+                   769 seconds
+Information : 
+                Timer:
+                   775 seconds
+Information : 
+                Timer:
+                   781 seconds
+Information : 
+                Timer:
+                   788 seconds
+Information : 
+                Timer:
+                   794 seconds
+Information : 
+                Timer:
+                   803 seconds
+Information : 
+                Timer:
+                   810 seconds
+Information : 
+                Timer:
+                   815 seconds
+Information : 
+                Timer:
+                   821 seconds
+Information : 
+                Timer:
+                   827 seconds
+Information : 
+                Timer:
+                   833 seconds
+Information : 
+                Timer:
+                   839 seconds
+Information : 
+                Timer:
+                   845 seconds
+Information : 
+                Timer:
+                   852 seconds
+Information : 
+                Timer:
+                   859 seconds
+Information : 
+                Timer:
+                   866 seconds
+Information : 
+                Timer:
+                   894 seconds
+Information : 
+                Timer:
+                   926 seconds
+Information : 
+                Timer:
+                   932 seconds
+Information : 
+                Timer:
+                   938 seconds
+Information : 
+                Timer:
+                   943 seconds
+Information : 
+                Timer:
+                   949 seconds
+Information : 
+                Timer:
+                   959 seconds
+Information : 
+                Timer:
+                   964 seconds
+Information : 
+                Timer:
+                   986 seconds
+Information : 
+                Timer:
+                   992 seconds
+Information : 
+                Timer:
+                   997 seconds
+Information : 
+                Timer:
+                   1004 seconds
+Information : 
+                Timer:
+                   1020 seconds
+Information : 
+                Timer:
+                   1025 seconds
+Information : 
+                Timer:
+                   1075 seconds
+Information : 
+                Timer:
+                   1081 seconds
+Information : 
+                Timer:
+                   1117 seconds
+Information : 
+                Timer:
+                   1127 seconds
+Information : 
+                Timer:
+                   1133 seconds
+Information : 
+                Timer:
+                   1139 seconds
+Information : 
+                Timer:
+                   1186 seconds
+Information : 
+                Timer:
+                   1193 seconds
+Information : 
+                Timer:
+                   1207 seconds
+Information : 
+                Timer:
+                   1215 seconds
+Information : 
+                Timer:
+                   1221 seconds
+Information : 
+                Timer:
+                   1226 seconds
+Information : 
+                Timer:
+                   1232 seconds
+Information : 
+                Timer:
+                   1292 seconds
+Information : 
+                Timer:
+                   1307 seconds
+Information : 
+                Timer:
+                   1325 seconds
+Information : 
+                Timer:
+                   1357 seconds
+Information : 
+                Timer:
+                   1365 seconds
+Information : 
+                Timer:
+                   1380 seconds
+Information : 
+                Timer:
+                   1390 seconds
+Information : 
+                Timer:
+                   1396 seconds
+Information : 
+                Timer:
+                   1402 seconds
+Information : 
+                Timer:
+                   1414 seconds
+Information : 
+                Timer:
+                   1421 seconds
+Information : 
+                Timer:
+                   1426 seconds
+Information : 
+                Timer:
+                   1443 seconds
+Information : 
+                Timer:
+                   1453 seconds
+Information : 
+                Timer:
+                   1459 seconds
+Information : 
+                Timer:
+                   1465 seconds
+Information : 
+                Timer:
+                   1535 seconds
+Information : 
+                Timer:
+                   1599 seconds
+Information : 
+                Timer:
+                   1606 seconds
+Information : 
+                Timer:
+                   1616 seconds
+Information : 
+                Timer:
+                   1684 seconds
+Information : 
+                Timer:
+                   1690 seconds
+Information : 
+                Timer:
+                   1706 seconds
+Information : 
+                Timer:
+                   1726 seconds
+Information : 
+                Timer:
+                   1734 seconds
+Information : 
+                Timer:
+                   1740 seconds
+Information : 
+                Timer:
+                   1766 seconds
+Information : 
+                Timer:
+                   1833 seconds
+Information : 
+                Timer:
+                   1839 seconds
+Information : 
+                Timer:
+                   1844 seconds
+Information : 
+                Timer:
+                   1848 seconds
+Information : 
+                Timer:
+                   1886 seconds
+Information : 
+                Timer:
+                   1888 seconds
+Information : 
+                Timer:
+                   1933 seconds
+Information : 
+                Timer:
+                   1944 seconds
+Information : 
+                Timer:
+                   1950 seconds
+Information : 
+                Timer:
+                   1955 seconds
+Information : 
+                Timer:
+                   1981 seconds
+Information : 
+                Timer:
+                   1986 seconds
+Information : 
+                Timer:
+                   1995 seconds
+Information : 
+                Timer:
+                   2006 seconds
+Information : 
+                Timer:
+                   2029 seconds
+Information : 
+                Timer:
+                   2033 seconds
+Information : 
+                Timer:
+                   2041 seconds
+Information : 
+                Timer:
+                   2046 seconds
+Information : 
+                Timer:
+                   2051 seconds
+Information : 
+                Timer:
+                   2056 seconds
+Information : 
+                Timer:
+                   2062 seconds
+Information : 
+                Timer:
+                   2066 seconds
+Information : 
+                Timer:
+                   2070 seconds
+Information : 
+                Timer:
+                   2089 seconds
+Information : 
+                Timer:
+                   2094 seconds
+Information : 
+                Timer:
+                   2099 seconds
+Information : 
+                Timer:
+                   2174 seconds
+Information : 
+                Timer:
+                   2178 seconds
+Information : 
+                Timer:
+                   2182 seconds
+Information : 
+                Timer:
+                   2186 seconds
+Information : 
+                Timer:
+                   2191 seconds
+Information : 
+                Timer:
+                   2196 seconds
+Information : 
+                Timer:
+                   2201 seconds
+Information : 
+                Timer:
+                   2259 seconds
+Information : 
+                Timer:
+                   2264 seconds
+Information : 
+                Timer:
+                   2272 seconds
+Information : 
+                Timer:
+                   2279 seconds
+Information : 
+                Timer:
+                   2283 seconds
+Information : 
+                Timer:
+                   2287 seconds
+Information : 
+                Timer:
+                   2291 seconds
+Information : 
+                Timer:
+                   2295 seconds
+Information : 
+                Timer:
+                   2300 seconds
+Information : 
+                Timer:
+                   2303 seconds
+Information : 
+                Timer:
+                   2305 seconds
+Information : 
+                Timer:
+                   2308 seconds
+Information : 
+                Timer:
+                   2310 seconds
+Information : 
+                Timer:
+                   2314 seconds
+Information : 
+                Timer:
+                   2318 seconds
+Information : 
+                Timer:
+                   2322 seconds
+Information : 
+                Timer:
+                   2323 seconds
+Information : 
+                Timer:
+                   2326 seconds
+Information : 
+                Timer:
+                   2328 seconds
+Information : 
+                Timer:
+                   2329 seconds
+Information : 
+                Timer:
+                   2331 seconds
+Information : 
+                Timer:
+                   2336 seconds
+Information : 
+                Timer:
+                   2340 seconds
+Information : 
+                Timer:
+                   2343 seconds
+Information : 
+                Timer:
+                   2344 seconds
+Information : 
+                Timer:
+                   2345 seconds
+Information : 
+                Timer:
+                   2346 seconds
+Information : 
+                Timer:
+                   2347 seconds
+Information : 
+                Timer:
+                   2348 seconds
+Information : 
+                Timer:
+                   2350 seconds
+Information : 
+                Timer:
+                   2351 seconds
+Information : 
+                Timer:
+                   2352 seconds
+Information : 
+                Timer:
+                   2353 seconds
+Information : 
+                Timer:
+                   2354 seconds
+Information : 
+                Timer:
+                   2355 seconds
+Information : 
+                Timer:
+                   2356 seconds
+Information : 
+                Timer:
+                   2357 seconds
+Information : 
+                Timer:
+                   2358 seconds
+Information : 
+                Timer:
+                   2359 seconds
+Information : 
+                Timer:
+                   2360 seconds
+Information : 
+                Timer:
+                   2361 seconds
+Information : 
+                Timer:
+                   2362 seconds
+Information : 
+                Timer:
+                   2363 seconds
+Information : 
+                Timer:
+                   2364 seconds
+Information : 
+                Timer:
+                   2365 seconds
+Information : 
+                Timer:
+                   2366 seconds
+Information : 
+                Timer:
+                   2367 seconds
+Information : 
+                Timer:
+                   2368 seconds
+Status : Single TBR Finished
+Status : Alternate Finished
+Status : Automated Search :
+         0 Best tree: 13690.; Time left: 1 h, 44 m, 40 s; Hits: 5
+Status : Fusing Trees Finished
+Status : RAS + TBR : 0 
+Status : RAS + TBR : 0 Searching on tree number 5
+Status : Wagner : 2 of 115 -- Wagner tree with cost 28.
+Status : Wagner : 3 of 115 -- Wagner tree with cost 428.
+Status : Wagner : 4 of 115 -- Wagner tree with cost 667.
+Status : Wagner : 5 of 115 -- Wagner tree with cost 929.
+Status : Wagner : 6 of 115 -- Wagner tree with cost 949.
+Status : Wagner : 7 of 115 -- Wagner tree with cost 1122.
+Status : Wagner : 8 of 115 -- Wagner tree with cost 1143.
+Status : Wagner : 9 of 115 -- Wagner tree with cost 1145.
+Status : Wagner : 10 of 115 -- Wagner tree with cost 1336.
+Status : Wagner : 11 of 115 -- Wagner tree with cost 1499.
+Status : Wagner : 12 of 115 -- Wagner tree with cost 1509.
+Status : Wagner : 13 of 115 -- Wagner tree with cost 1521.
+Status : Wagner : 14 of 115 -- Wagner tree with cost 1754.
+Status : Wagner : 15 of 115 -- Wagner tree with cost 1887.
+Status : Wagner : 16 of 115 -- Wagner tree with cost 2037.
+Status : Wagner : 17 of 115 -- Wagner tree with cost 2242.
+Status : Wagner : 18 of 115 -- Wagner tree with cost 2243.
+Status : Wagner : 19 of 115 -- Wagner tree with cost 2604.
+Status : Wagner : 20 of 115 -- Wagner tree with cost 2606.
+Status : Wagner : 21 of 115 -- Wagner tree with cost 2864.
+Status : Wagner : 22 of 115 -- Wagner tree with cost 2971.
+Status : Wagner : 23 of 115 -- Wagner tree with cost 3313.
+Status : Wagner : 24 of 115 -- Wagner tree with cost 3503.
+Status : Wagner : 25 of 115 -- Wagner tree with cost 4010.
+Status : Wagner : 26 of 115 -- Wagner tree with cost 4015.
+Status : Wagner : 27 of 115 -- Wagner tree with cost 4015.
+Status : Wagner : 28 of 115 -- Wagner tree with cost 4033.
+Status : Wagner : 29 of 115 -- Wagner tree with cost 4049.
+Status : Wagner : 30 of 115 -- Wagner tree with cost 4234.
+Status : Wagner : 31 of 115 -- Wagner tree with cost 4236.
+Status : Wagner : 32 of 115 -- Wagner tree with cost 4237.
+Status : Wagner : 33 of 115 -- Wagner tree with cost 4558.
+Status : Wagner : 34 of 115 -- Wagner tree with cost 4576.
+Status : Wagner : 35 of 115 -- Wagner tree with cost 5121.
+Status : Wagner : 36 of 115 -- Wagner tree with cost 5123.
+Status : Wagner : 37 of 115 -- Wagner tree with cost 5130.
+Status : Wagner : 38 of 115 -- Wagner tree with cost 5130.
+Status : Wagner : 39 of 115 -- Wagner tree with cost 5223.
+Status : Wagner : 40 of 115 -- Wagner tree with cost 5493.
+Status : Wagner : 41 of 115 -- Wagner tree with cost 5959.
+Status : Wagner : 42 of 115 -- Wagner tree with cost 6202.
+Status : Wagner : 43 of 115 -- Wagner tree with cost 6443.
+Status : Wagner : 44 of 115 -- Wagner tree with cost 6443.
+Status : Wagner : 45 of 115 -- Wagner tree with cost 6576.
+Status : Wagner : 46 of 115 -- Wagner tree with cost 6644.
+Status : Wagner : 47 of 115 -- Wagner tree with cost 6863.
+Status : Wagner : 48 of 115 -- Wagner tree with cost 6886.
+Status : Wagner : 49 of 115 -- Wagner tree with cost 7050.
+Status : Wagner : 50 of 115 -- Wagner tree with cost 7296.
+Status : Wagner : 51 of 115 -- Wagner tree with cost 7903.
+Status : Wagner : 52 of 115 -- Wagner tree with cost 7903.
+Status : Wagner : 53 of 115 -- Wagner tree with cost 8085.
+Status : Wagner : 54 of 115 -- Wagner tree with cost 8369.
+Status : Wagner : 55 of 115 -- Wagner tree with cost 8369.
+Status : Wagner : 56 of 115 -- Wagner tree with cost 8381.
+Status : Wagner : 57 of 115 -- Wagner tree with cost 8391.
+Status : Wagner : 58 of 115 -- Wagner tree with cost 8435.
+Status : Wagner : 59 of 115 -- Wagner tree with cost 8437.
+Status : Wagner : 60 of 115 -- Wagner tree with cost 8701.
+Status : Wagner : 61 of 115 -- Wagner tree with cost 8701.
+Status : Wagner : 62 of 115 -- Wagner tree with cost 8702.
+Status : Wagner : 63 of 115 -- Wagner tree with cost 8704.
+Status : Wagner : 64 of 115 -- Wagner tree with cost 8730.
+Status : Wagner : 65 of 115 -- Wagner tree with cost 8900.
+Status : Wagner : 66 of 115 -- Wagner tree with cost 9089.
+Status : Wagner : 67 of 115 -- Wagner tree with cost 9090.
+Status : Wagner : 68 of 115 -- Wagner tree with cost 9091.
+Status : Wagner : 69 of 115 -- Wagner tree with cost 9093.
+Status : Wagner : 70 of 115 -- Wagner tree with cost 9228.
+Status : Wagner : 71 of 115 -- Wagner tree with cost 9228.
+Status : Wagner : 72 of 115 -- Wagner tree with cost 9230.
+Status : Wagner : 73 of 115 -- Wagner tree with cost 9232.
+Status : Wagner : 74 of 115 -- Wagner tree with cost 9233.
+Status : Wagner : 75 of 115 -- Wagner tree with cost 9234.
+Status : Wagner : 76 of 115 -- Wagner tree with cost 9236.
+Status : Wagner : 77 of 115 -- Wagner tree with cost 9237.
+Status : Wagner : 78 of 115 -- Wagner tree with cost 9239.
+Status : Wagner : 79 of 115 -- Wagner tree with cost 9361.
+Status : Wagner : 80 of 115 -- Wagner tree with cost 9706.
+Status : Wagner : 81 of 115 -- Wagner tree with cost 9816.
+Status : Wagner : 82 of 115 -- Wagner tree with cost 9915.
+Status : Wagner : 83 of 115 -- Wagner tree with cost 9915.
+Status : Wagner : 84 of 115 -- Wagner tree with cost 10088.
+Status : Wagner : 85 of 115 -- Wagner tree with cost 10161.
+Status : Wagner : 86 of 115 -- Wagner tree with cost 10323.
+Status : Wagner : 87 of 115 -- Wagner tree with cost 10326.
+Status : Wagner : 88 of 115 -- Wagner tree with cost 10428.
+Status : Wagner : 89 of 115 -- Wagner tree with cost 10810.
+Status : Wagner : 90 of 115 -- Wagner tree with cost 10817.
+Status : Wagner : 91 of 115 -- Wagner tree with cost 10848.
+Status : Wagner : 92 of 115 -- Wagner tree with cost 11278.
+Status : Wagner : 93 of 115 -- Wagner tree with cost 11284.
+Status : Wagner : 94 of 115 -- Wagner tree with cost 11289.
+Status : Wagner : 95 of 115 -- Wagner tree with cost 11418.
+Status : Wagner : 96 of 115 -- Wagner tree with cost 11428.
+Status : Wagner : 97 of 115 -- Wagner tree with cost 11434.
+Status : Wagner : 98 of 115 -- Wagner tree with cost 11435.
+Status : Wagner : 99 of 115 -- Wagner tree with cost 11789.
+Status : Wagner : 100 of 115 -- Wagner tree with cost 11793.
+Status : Wagner : 101 of 115 -- Wagner tree with cost 11804.
+Status : Wagner : 102 of 115 -- Wagner tree with cost 11804.
+Status : Wagner : 103 of 115 -- Wagner tree with cost 12156.
+Status : Wagner : 104 of 115 -- Wagner tree with cost 12191.
+Status : Wagner : 105 of 115 -- Wagner tree with cost 12193.
+Status : Wagner : 106 of 115 -- Wagner tree with cost 12196.
+Status : Wagner : 107 of 115 -- Wagner tree with cost 12368.
+Status : Wagner : 108 of 115 -- Wagner tree with cost 12702.
+Status : Wagner : 109 of 115 -- Wagner tree with cost 12778.
+Status : Wagner : 110 of 115 -- Wagner tree with cost 12925.
+Status : Wagner : 111 of 115 -- Wagner tree with cost 13355.
+Status : Wagner : 112 of 115 -- Wagner tree with cost 13630.
+Status : Wagner : 113 of 115 -- Wagner tree with cost 13631.
+Status : Wagner : 114 of 115 -- Wagner tree with cost 13931.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 13917 13917.
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   16 seconds
+Information : 
+                Timer:
+                   26 seconds
+Information : 
+                Timer:
+                   34 seconds
+Information : 
+                Timer:
+                   42 seconds
+Information : 
+                Timer:
+                   49 seconds
+Information : 
+                Timer:
+                   70 seconds
+Information : 
+                Timer:
+                   78 seconds
+Information : 
+                Timer:
+                   85 seconds
+Information : 
+                Timer:
+                   92 seconds
+Information : 
+                Timer:
+                   98 seconds
+Information : 
+                Timer:
+                   105 seconds
+Information : 
+                Timer:
+                   111 seconds
+Information : 
+                Timer:
+                   118 seconds
+Information : 
+                Timer:
+                   154 seconds
+Information : 
+                Timer:
+                   162 seconds
+Information : 
+                Timer:
+                   167 seconds
+Information : 
+                Timer:
+                   188 seconds
+Status : TBR : 13913 13913.
+Information : 
+                Timer:
+                   189 seconds
+Information : 
+                Timer:
+                   201 seconds
+Information : 
+                Timer:
+                   208 seconds
+Information : 
+                Timer:
+                   216 seconds
+Status : TBR : 13911 13911.
+Information : 
+                Timer:
+                   218 seconds
+Status : TBR : 13904 13904.
+Information : 
+                Timer:
+                   221 seconds
+Information : 
+                Timer:
+                   235 seconds
+Status : TBR : 13895 13895.
+Information : 
+                Timer:
+                   238 seconds
+Status : TBR : 13881 13881.
+Information : 
+                Timer:
+                   245 seconds
+Information : 
+                Timer:
+                   284 seconds
+Information : 
+                Timer:
+                   292 seconds
+Information : 
+                Timer:
+                   310 seconds
+Information : 
+                Timer:
+                   358 seconds
+Information : 
+                Timer:
+                   366 seconds
+Information : 
+                Timer:
+                   374 seconds
+Status : TBR : 13877 13877.
+Information : 
+                Timer:
+                   375 seconds
+Information : 
+                Timer:
+                   384 seconds
+Information : 
+                Timer:
+                   393 seconds
+Information : 
+                Timer:
+                   416 seconds
+Information : 
+                Timer:
+                   422 seconds
+Information : 
+                Timer:
+                   434 seconds
+Information : 
+                Timer:
+                   464 seconds
+Status : TBR : 13866 13866.
+Information : 
+                Timer:
+                   465 seconds
+Information : 
+                Timer:
+                   479 seconds
+Information : 
+                Timer:
+                   486 seconds
+Information : 
+                Timer:
+                   493 seconds
+Information : 
+                Timer:
+                   500 seconds
+Information : 
+                Timer:
+                   509 seconds
+Status : TBR : 13858 13858.
+Information : 
+                Timer:
+                   515 seconds
+Information : 
+                Timer:
+                   534 seconds
+Information : 
+                Timer:
+                   544 seconds
+Information : 
+                Timer:
+                   557 seconds
+Information : 
+                Timer:
+                   573 seconds
+Information : 
+                Timer:
+                   577 seconds
+Information : 
+                Timer:
+                   591 seconds
+Information : 
+                Timer:
+                   605 seconds
+Information : 
+                Timer:
+                   613 seconds
+Information : 
+                Timer:
+                   617 seconds
+Information : 
+                Timer:
+                   624 seconds
+Status : TBR : 13856 13856.
+Information : 
+                Timer:
+                   658 seconds
+Information : 
+                Timer:
+                   672 seconds
+Information : 
+                Timer:
+                   679 seconds
+Status : TBR : 13852 13852.
+Information : 
+                Timer:
+                   693 seconds
+Information : 
+                Timer:
+                   703 seconds
+Information : 
+                Timer:
+                   709 seconds
+Information : 
+                Timer:
+                   716 seconds
+Information : 
+                Timer:
+                   732 seconds
+Status : TBR : 13851 13851.
+Information : 
+                Timer:
+                   739 seconds
+Information : 
+                Timer:
+                   763 seconds
+Information : 
+                Timer:
+                   790 seconds
+Status : TBR : 13850 13850.
+Information : 
+                Timer:
+                   793 seconds
+Information : 
+                Timer:
+                   811 seconds
+Information : 
+                Timer:
+                   828 seconds
+Information : 
+                Timer:
+                   833 seconds
+Information : 
+                Timer:
+                   836 seconds
+Status : TBR : 13847 13847.
+Information : 
+                Timer:
+                   839 seconds
+Information : 
+                Timer:
+                   846 seconds
+Information : 
+                Timer:
+                   854 seconds
+Information : 
+                Timer:
+                   862 seconds
+Status : TBR : 13834 13834.
+Information : 
+                Timer:
+                   866 seconds
+Information : 
+                Timer:
+                   872 seconds
+Status : TBR : 13829 13829.
+Information : 
+                Timer:
+                   876 seconds
+Information : 
+                Timer:
+                   888 seconds
+Information : 
+                Timer:
+                   897 seconds
+Information : 
+                Timer:
+                   932 seconds
+Information : 
+                Timer:
+                   937 seconds
+Information : 
+                Timer:
+                   943 seconds
+Information : 
+                Timer:
+                   961 seconds
+Information : 
+                Timer:
+                   968 seconds
+Information : 
+                Timer:
+                   976 seconds
+Information : 
+                Timer:
+                   982 seconds
+Information : 
+                Timer:
+                   984 seconds
+Information : 
+                Timer:
+                   995 seconds
+Information : 
+                Timer:
+                   1001 seconds
+Status : TBR : 13821 13821.
+Information : 
+                Timer:
+                   1008 seconds
+Information : 
+                Timer:
+                   1017 seconds
+Information : 
+                Timer:
+                   1023 seconds
+Status : TBR : 13814 13814.
+Information : 
+                Timer:
+                   1026 seconds
+Information : 
+                Timer:
+                   1037 seconds
+Status : TBR : 13811 13811.
+Information : 
+                Timer:
+                   1040 seconds
+Status : TBR : 13807 13807.
+Information : 
+                Timer:
+                   1052 seconds
+Information : 
+                Timer:
+                   1063 seconds
+Status : TBR : 13805 13805.
+Information : 
+                Timer:
+                   1068 seconds
+Status : TBR : 13798 13798.
+Information : 
+                Timer:
+                   1073 seconds
+Information : 
+                Timer:
+                   1086 seconds
+Status : TBR : 13795 13795.
+Information : 
+                Timer:
+                   1092 seconds
+Information : 
+                Timer:
+                   1100 seconds
+Information : 
+                Timer:
+                   1107 seconds
+Information : 
+                Timer:
+                   1114 seconds
+Information : 
+                Timer:
+                   1119 seconds
+Information : 
+                Timer:
+                   1132 seconds
+Information : 
+                Timer:
+                   1136 seconds
+Information : 
+                Timer:
+                   1143 seconds
+Information : 
+                Timer:
+                   1148 seconds
+Information : 
+                Timer:
+                   1154 seconds
+Information : 
+                Timer:
+                   1161 seconds
+Information : 
+                Timer:
+                   1166 seconds
+Information : 
+                Timer:
+                   1176 seconds
+Information : 
+                Timer:
+                   1181 seconds
+Information : 
+                Timer:
+                   1186 seconds
+Information : 
+                Timer:
+                   1192 seconds
+Status : TBR : 13793 13793.
+Information : 
+                Timer:
+                   1196 seconds
+Information : 
+                Timer:
+                   1206 seconds
+Information : 
+                Timer:
+                   1209 seconds
+Information : 
+                Timer:
+                   1213 seconds
+Information : 
+                Timer:
+                   1220 seconds
+Information : 
+                Timer:
+                   1224 seconds
+Information : 
+                Timer:
+                   1226 seconds
+Information : 
+                Timer:
+                   1232 seconds
+Information : 
+                Timer:
+                   1234 seconds
+Information : 
+                Timer:
+                   1238 seconds
+Information : 
+                Timer:
+                   1241 seconds
+Information : 
+                Timer:
+                   1243 seconds
+Information : 
+                Timer:
+                   1245 seconds
+Information : 
+                Timer:
+                   1248 seconds
+Information : 
+                Timer:
+                   1251 seconds
+Information : 
+                Timer:
+                   1253 seconds
+Information : 
+                Timer:
+                   1255 seconds
+Information : 
+                Timer:
+                   1257 seconds
+Information : 
+                Timer:
+                   1260 seconds
+Information : 
+                Timer:
+                   1263 seconds
+Information : 
+                Timer:
+                   1326 seconds
+Status : TBR : 13791 13791.
+Information : 
+                Timer:
+                   1328 seconds
+Information : 
+                Timer:
+                   1333 seconds
+Information : 
+                Timer:
+                   1335 seconds
+Information : 
+                Timer:
+                   1336 seconds
+Information : 
+                Timer:
+                   1357 seconds
+Status : TBR : 13780 13780.
+Information : 
+                Timer:
+                   1360 seconds
+Information : 
+                Timer:
+                   1362 seconds
+Information : 
+                Timer:
+                   1364 seconds
+Information : 
+                Timer:
+                   1381 seconds
+Information : 
+                Timer:
+                   1382 seconds
+Information : 
+                Timer:
+                   1383 seconds
+Status : TBR : 13779 13779.
+Information : 
+                Timer:
+                   1387 seconds
+Information : 
+                Timer:
+                   1389 seconds
+Information : 
+                Timer:
+                   1391 seconds
+Information : 
+                Timer:
+                   1393 seconds
+Information : 
+                Timer:
+                   1411 seconds
+Information : 
+                Timer:
+                   1414 seconds
+Information : 
+                Timer:
+                   1416 seconds
+Information : 
+                Timer:
+                   1417 seconds
+Information : 
+                Timer:
+                   1418 seconds
+Information : 
+                Timer:
+                   1419 seconds
+Information : 
+                Timer:
+                   1420 seconds
+Information : 
+                Timer:
+                   1429 seconds
+Status : TBR : 13778 13778.
+Information : 
+                Timer:
+                   1434 seconds
+Information : 
+                Timer:
+                   1440 seconds
+Information : 
+                Timer:
+                   1442 seconds
+Status : TBR : 13777 13777.
+Information : 
+                Timer:
+                   1446 seconds
+Information : 
+                Timer:
+                   1450 seconds
+Information : 
+                Timer:
+                   1453 seconds
+Information : 
+                Timer:
+                   1454 seconds
+Information : 
+                Timer:
+                   1455 seconds
+Information : 
+                Timer:
+                   1458 seconds
+Information : 
+                Timer:
+                   1460 seconds
+Information : 
+                Timer:
+                   1462 seconds
+Information : 
+                Timer:
+                   1490 seconds
+Information : 
+                Timer:
+                   1492 seconds
+Information : 
+                Timer:
+                   1494 seconds
+Information : 
+                Timer:
+                   1496 seconds
+Status : TBR : 13775 13775.
+Information : 
+                Timer:
+                   1499 seconds
+Status : TBR : 13774 13774.
+Information : 
+                Timer:
+                   1508 seconds
+Information : 
+                Timer:
+                   1510 seconds
+Information : 
+                Timer:
+                   1512 seconds
+Information : 
+                Timer:
+                   1516 seconds
+Information : 
+                Timer:
+                   1518 seconds
+Information : 
+                Timer:
+                   1519 seconds
+Information : 
+                Timer:
+                   1522 seconds
+Information : 
+                Timer:
+                   1524 seconds
+Information : 
+                Timer:
+                   1530 seconds
+Information : 
+                Timer:
+                   1532 seconds
+Information : 
+                Timer:
+                   1539 seconds
+Information : 
+                Timer:
+                   1542 seconds
+Information : 
+                Timer:
+                   1544 seconds
+Information : 
+                Timer:
+                   1546 seconds
+Information : 
+                Timer:
+                   1547 seconds
+Information : 
+                Timer:
+                   1552 seconds
+Information : 
+                Timer:
+                   1555 seconds
+Information : 
+                Timer:
+                   1556 seconds
+Information : 
+                Timer:
+                   1558 seconds
+Information : 
+                Timer:
+                   1560 seconds
+Information : 
+                Timer:
+                   1561 seconds
+Information : 
+                Timer:
+                   1563 seconds
+Information : 
+                Timer:
+                   1564 seconds
+Information : 
+                Timer:
+                   1565 seconds
+Information : 
+                Timer:
+                   1566 seconds
+Information : 
+                Timer:
+                   1567 seconds
+Information : 
+                Timer:
+                   1572 seconds
+Information : 
+                Timer:
+                   1575 seconds
+Information : 
+                Timer:
+                   1581 seconds
+Information : 
+                Timer:
+                   1582 seconds
+Information : 
+                Timer:
+                   1583 seconds
+Information : 
+                Timer:
+                   1632 seconds
+Information : 
+                Timer:
+                   1634 seconds
+Information : 
+                Timer:
+                   1635 seconds
+Information : 
+                Timer:
+                   1638 seconds
+Information : 
+                Timer:
+                   1639 seconds
+Information : 
+                Timer:
+                   1641 seconds
+Information : 
+                Timer:
+                   1643 seconds
+Information : 
+                Timer:
+                   1645 seconds
+Information : 
+                Timer:
+                   1648 seconds
+Information : 
+                Timer:
+                   1650 seconds
+Information : 
+                Timer:
+                   1652 seconds
+Information : 
+                Timer:
+                   1654 seconds
+Information : 
+                Timer:
+                   1656 seconds
+Information : 
+                Timer:
+                   1658 seconds
+Information : 
+                Timer:
+                   1659 seconds
+Information : 
+                Timer:
+                   1660 seconds
+Information : 
+                Timer:
+                   1667 seconds
+Information : 
+                Timer:
+                   1674 seconds
+Information : 
+                Timer:
+                   1679 seconds
+Information : 
+                Timer:
+                   1685 seconds
+Information : 
+                Timer:
+                   1691 seconds
+Information : 
+                Timer:
+                   1697 seconds
+Information : 
+                Timer:
+                   1715 seconds
+Information : 
+                Timer:
+                   1722 seconds
+Information : 
+                Timer:
+                   1728 seconds
+Information : 
+                Timer:
+                   1733 seconds
+Information : 
+                Timer:
+                   1740 seconds
+Information : 
+                Timer:
+                   1745 seconds
+Information : 
+                Timer:
+                   1751 seconds
+Information : 
+                Timer:
+                   1756 seconds
+Information : 
+                Timer:
+                   1792 seconds
+Information : 
+                Timer:
+                   1798 seconds
+Information : 
+                Timer:
+                   1804 seconds
+Information : 
+                Timer:
+                   1823 seconds
+Information : 
+                Timer:
+                   1867 seconds
+Information : 
+                Timer:
+                   1871 seconds
+Information : 
+                Timer:
+                   1877 seconds
+Information : 
+                Timer:
+                   1883 seconds
+Information : 
+                Timer:
+                   1941 seconds
+Information : 
+                Timer:
+                   1947 seconds
+Status : TBR : 13765 13765.
+Information : 
+                Timer:
+                   1948 seconds
+Information : 
+                Timer:
+                   1963 seconds
+Information : 
+                Timer:
+                   1975 seconds
+Information : 
+                Timer:
+                   2008 seconds
+Information : 
+                Timer:
+                   2015 seconds
+Information : 
+                Timer:
+                   2034 seconds
+Information : 
+                Timer:
+                   2040 seconds
+Information : 
+                Timer:
+                   2046 seconds
+Information : 
+                Timer:
+                   2052 seconds
+Information : 
+                Timer:
+                   2057 seconds
+Information : 
+                Timer:
+                   2060 seconds
+Information : 
+                Timer:
+                   2101 seconds
+Information : 
+                Timer:
+                   2114 seconds
+Information : 
+                Timer:
+                   2120 seconds
+Information : 
+                Timer:
+                   2132 seconds
+Information : 
+                Timer:
+                   2158 seconds
+Information : 
+                Timer:
+                   2198 seconds
+Information : 
+                Timer:
+                   2205 seconds
+Information : 
+                Timer:
+                   2212 seconds
+Information : 
+                Timer:
+                   2218 seconds
+Information : 
+                Timer:
+                   2224 seconds
+Information : 
+                Timer:
+                   2252 seconds
+Information : 
+                Timer:
+                   2258 seconds
+Information : 
+                Timer:
+                   2277 seconds
+Status : TBR : 13764 13764.
+Information : 
+                Timer:
+                   2279 seconds
+Information : 
+                Timer:
+                   2294 seconds
+Information : 
+                Timer:
+                   2308 seconds
+Information : 
+                Timer:
+                   2311 seconds
+Status : TBR : 13761 13761.
+Information : 
+                Timer:
+                   2313 seconds
+Information : 
+                Timer:
+                   2330 seconds
+Information : 
+                Timer:
+                   2337 seconds
+Information : 
+                Timer:
+                   2340 seconds
+Information : 
+                Timer:
+                   2347 seconds
+Information : 
+                Timer:
+                   2398 seconds
+Information : 
+                Timer:
+                   2403 seconds
+Information : 
+                Timer:
+                   2408 seconds
+Information : 
+                Timer:
+                   2413 seconds
+Information : 
+                Timer:
+                   2418 seconds
+Information : 
+                Timer:
+                   2423 seconds
+Information : 
+                Timer:
+                   2426 seconds
+Information : 
+                Timer:
+                   2457 seconds
+Information : 
+                Timer:
+                   2462 seconds
+Information : 
+                Timer:
+                   2480 seconds
+Information : 
+                Timer:
+                   2493 seconds
+Information : 
+                Timer:
+                   2515 seconds
+Information : 
+                Timer:
+                   2527 seconds
+Information : 
+                Timer:
+                   2537 seconds
+Information : 
+                Timer:
+                   2540 seconds
+Information : 
+                Timer:
+                   2542 seconds
+Information : 
+                Timer:
+                   2546 seconds
+Information : 
+                Timer:
+                   2549 seconds
+Information : 
+                Timer:
+                   2555 seconds
+Information : 
+                Timer:
+                   2557 seconds
+Information : 
+                Timer:
+                   2558 seconds
+Information : 
+                Timer:
+                   2560 seconds
+Status : TBR : 13754 13754.
+Information : 
+                Timer:
+                   2563 seconds
+Information : 
+                Timer:
+                   2572 seconds
+Information : 
+                Timer:
+                   2580 seconds
+Information : 
+                Timer:
+                   2587 seconds
+Information : 
+                Timer:
+                   2592 seconds
+Information : 
+                Timer:
+                   2596 seconds
+Information : 
+                Timer:
+                   2607 seconds
+Information : 
+                Timer:
+                   2613 seconds
+Information : 
+                Timer:
+                   2621 seconds
+Information : 
+                Timer:
+                   2625 seconds
+Information : 
+                Timer:
+                   2626 seconds
+Information : 
+                Timer:
+                   2634 seconds
+Information : 
+                Timer:
+                   2640 seconds
+Information : 
+                Timer:
+                   2644 seconds
+Information : 
+                Timer:
+                   2650 seconds
+Information : 
+                Timer:
+                   2655 seconds
+Information : 
+                Timer:
+                   2656 seconds
+Information : 
+                Timer:
+                   2663 seconds
+Information : 
+                Timer:
+                   2678 seconds
+Information : 
+                Timer:
+                   2679 seconds
+Information : 
+                Timer:
+                   2687 seconds
+Information : 
+                Timer:
+                   2689 seconds
+Information : 
+                Timer:
+                   2745 seconds
+Information : 
+                Timer:
+                   2750 seconds
+Information : 
+                Timer:
+                   2785 seconds
+Information : 
+                Timer:
+                   2789 seconds
+Information : 
+                Timer:
+                   2795 seconds
+Information : 
+                Timer:
+                   2800 seconds
+Information : 
+                Timer:
+                   2803 seconds
+Information : 
+                Timer:
+                   2814 seconds
+Information : 
+                Timer:
+                   2817 seconds
+Information : 
+                Timer:
+                   2823 seconds
+Information : 
+                Timer:
+                   2827 seconds
+Information : 
+                Timer:
+                   2833 seconds
+Information : 
+                Timer:
+                   2841 seconds
+Information : 
+                Timer:
+                   2844 seconds
+Status : TBR : 13753 13753.
+Information : 
+                Timer:
+                   2847 seconds
+Information : 
+                Timer:
+                   2856 seconds
+Information : 
+                Timer:
+                   2861 seconds
+Information : 
+                Timer:
+                   2864 seconds
+Information : 
+                Timer:
+                   2866 seconds
+Information : 
+                Timer:
+                   2872 seconds
+Information : 
+                Timer:
+                   2875 seconds
+Information : 
+                Timer:
+                   2878 seconds
+Information : 
+                Timer:
+                   2883 seconds
+Information : 
+                Timer:
+                   2887 seconds
+Information : 
+                Timer:
+                   2889 seconds
+Information : 
+                Timer:
+                   2893 seconds
+Information : 
+                Timer:
+                   2895 seconds
+Information : 
+                Timer:
+                   2896 seconds
+Information : 
+                Timer:
+                   2898 seconds
+Information : 
+                Timer:
+                   2900 seconds
+Information : 
+                Timer:
+                   2901 seconds
+Information : 
+                Timer:
+                   2903 seconds
+Information : 
+                Timer:
+                   2905 seconds
+Information : 
+                Timer:
+                   2907 seconds
+Information : 
+                Timer:
+                   2908 seconds
+Information : 
+                Timer:
+                   2910 seconds
+Information : 
+                Timer:
+                   2911 seconds
+Information : 
+                Timer:
+                   2912 seconds
+Information : 
+                Timer:
+                   2954 seconds
+Information : 
+                Timer:
+                   2965 seconds
+Information : 
+                Timer:
+                   2970 seconds
+Information : 
+                Timer:
+                   2971 seconds
+Information : 
+                Timer:
+                   2972 seconds
+Information : 
+                Timer:
+                   2975 seconds
+Status : TBR : 13752 13752.
+Information : 
+                Timer:
+                   2982 seconds
+Information : 
+                Timer:
+                   2983 seconds
+Information : 
+                Timer:
+                   2985 seconds
+Information : 
+                Timer:
+                   3022 seconds
+Information : 
+                Timer:
+                   3024 seconds
+Information : 
+                Timer:
+                   3042 seconds
+Information : 
+                Timer:
+                   3044 seconds
+Information : 
+                Timer:
+                   3059 seconds
+Information : 
+                Timer:
+                   3076 seconds
+Information : 
+                Timer:
+                   3079 seconds
+Information : 
+                Timer:
+                   3080 seconds
+Information : 
+                Timer:
+                   3081 seconds
+Information : 
+                Timer:
+                   3082 seconds
+Information : 
+                Timer:
+                   3090 seconds
+Information : 
+                Timer:
+                   3092 seconds
+Information : 
+                Timer:
+                   3093 seconds
+Information : 
+                Timer:
+                   3095 seconds
+Information : 
+                Timer:
+                   3112 seconds
+Information : 
+                Timer:
+                   3114 seconds
+Information : 
+                Timer:
+                   3115 seconds
+Information : 
+                Timer:
+                   3116 seconds
+Information : 
+                Timer:
+                   3117 seconds
+Information : 
+                Timer:
+                   3119 seconds
+Information : 
+                Timer:
+                   3128 seconds
+Information : 
+                Timer:
+                   3134 seconds
+Information : 
+                Timer:
+                   3156 seconds
+Information : 
+                Timer:
+                   3158 seconds
+Information : 
+                Timer:
+                   3160 seconds
+Information : 
+                Timer:
+                   3176 seconds
+Information : 
+                Timer:
+                   3179 seconds
+Information : 
+                Timer:
+                   3190 seconds
+Information : 
+                Timer:
+                   3191 seconds
+Information : 
+                Timer:
+                   3192 seconds
+Information : 
+                Timer:
+                   3194 seconds
+Information : 
+                Timer:
+                   3196 seconds
+Information : 
+                Timer:
+                   3197 seconds
+Information : 
+                Timer:
+                   3199 seconds
+Information : 
+                Timer:
+                   3200 seconds
+Information : 
+                Timer:
+                   3205 seconds
+Information : 
+                Timer:
+                   3211 seconds
+Information : 
+                Timer:
+                   3215 seconds
+Information : 
+                Timer:
+                   3217 seconds
+Information : 
+                Timer:
+                   3219 seconds
+Information : 
+                Timer:
+                   3221 seconds
+Information : 
+                Timer:
+                   3223 seconds
+Information : 
+                Timer:
+                   3224 seconds
+Information : 
+                Timer:
+                   3225 seconds
+Information : 
+                Timer:
+                   3227 seconds
+Information : 
+                Timer:
+                   3228 seconds
+Information : 
+                Timer:
+                   3229 seconds
+Information : 
+                Timer:
+                   3230 seconds
+Information : 
+                Timer:
+                   3231 seconds
+Information : 
+                Timer:
+                   3232 seconds
+Information : 
+                Timer:
+                   3233 seconds
+Information : 
+                Timer:
+                   3238 seconds
+Information : 
+                Timer:
+                   3240 seconds
+Information : 
+                Timer:
+                   3246 seconds
+Information : 
+                Timer:
+                   3247 seconds
+Information : 
+                Timer:
+                   3248 seconds
+Information : 
+                Timer:
+                   3288 seconds
+Information : 
+                Timer:
+                   3312 seconds
+Information : 
+                Timer:
+                   3314 seconds
+Information : 
+                Timer:
+                   3317 seconds
+Information : 
+                Timer:
+                   3319 seconds
+Information : 
+                Timer:
+                   3321 seconds
+Information : 
+                Timer:
+                   3323 seconds
+Information : 
+                Timer:
+                   3326 seconds
+Information : 
+                Timer:
+                   3329 seconds
+Information : 
+                Timer:
+                   3331 seconds
+Information : 
+                Timer:
+                   3333 seconds
+Information : 
+                Timer:
+                   3336 seconds
+Information : 
+                Timer:
+                   3338 seconds
+Information : 
+                Timer:
+                   3339 seconds
+Information : 
+                Timer:
+                   3340 seconds
+Information : 
+                Timer:
+                   3341 seconds
+Information : 
+                Timer:
+                   3348 seconds
+Information : 
+                Timer:
+                   3354 seconds
+Information : 
+                Timer:
+                   3360 seconds
+Information : 
+                Timer:
+                   3366 seconds
+Information : 
+                Timer:
+                   3372 seconds
+Information : 
+                Timer:
+                   3378 seconds
+Status : TBR : 13748 13748.
+Information : 
+                Timer:
+                   3379 seconds
+Information : 
+                Timer:
+                   3390 seconds
+Information : 
+                Timer:
+                   3424 seconds
+Information : 
+                Timer:
+                   3430 seconds
+Information : 
+                Timer:
+                   3436 seconds
+Information : 
+                Timer:
+                   3444 seconds
+Information : 
+                Timer:
+                   3448 seconds
+Information : 
+                Timer:
+                   3454 seconds
+Information : 
+                Timer:
+                   3491 seconds
+Information : 
+                Timer:
+                   3497 seconds
+Information : 
+                Timer:
+                   3502 seconds
+Information : 
+                Timer:
+                   3515 seconds
+Information : 
+                Timer:
+                   3557 seconds
+Information : 
+                Timer:
+                   3561 seconds
+Information : 
+                Timer:
+                   3583 seconds
+Information : 
+                Timer:
+                   3590 seconds
+Information : 
+                Timer:
+                   3647 seconds
+Status : TBR : 13747 13747.
+Information : 
+                Timer:
+                   3649 seconds
+Information : 
+                Timer:
+                   3659 seconds
+Information : 
+                Timer:
+                   3670 seconds
+Information : 
+                Timer:
+                   3687 seconds
+Information : 
+                Timer:
+                   3694 seconds
+Information : 
+                Timer:
+                   3700 seconds
+Information : 
+                Timer:
+                   3716 seconds
+Information : 
+                Timer:
+                   3722 seconds
+Information : 
+                Timer:
+                   3728 seconds
+Information : 
+                Timer:
+                   3734 seconds
+Information : 
+                Timer:
+                   3739 seconds
+Information : 
+                Timer:
+                   3742 seconds
+Information : 
+                Timer:
+                   3786 seconds
+Information : 
+                Timer:
+                   3799 seconds
+Information : 
+                Timer:
+                   3805 seconds
+Information : 
+                Timer:
+                   3816 seconds
+Information : 
+                Timer:
+                   3823 seconds
+Information : 
+                Timer:
+                   3861 seconds
+Information : 
+                Timer:
+                   3869 seconds
+Information : 
+                Timer:
+                   3875 seconds
+Information : 
+                Timer:
+                   3881 seconds
+Information : 
+                Timer:
+                   3887 seconds
+Information : 
+                Timer:
+                   3888 seconds
+Information : 
+                Timer:
+                   3894 seconds
+Information : 
+                Timer:
+                   3896 seconds
+Information : 
+                Timer:
+                   3897 seconds
+Information : 
+                Timer:
+                   3908 seconds
+Information : 
+                Timer:
+                   3922 seconds
+Information : 
+                Timer:
+                   3925 seconds
+Information : 
+                Timer:
+                   3941 seconds
+Information : 
+                Timer:
+                   3955 seconds
+Information : 
+                Timer:
+                   3962 seconds
+Information : 
+                Timer:
+                   3965 seconds
+Information : 
+                Timer:
+                   3972 seconds
+Information : 
+                Timer:
+                   4023 seconds
+Information : 
+                Timer:
+                   4028 seconds
+Information : 
+                Timer:
+                   4031 seconds
+Information : 
+                Timer:
+                   4035 seconds
+Information : 
+                Timer:
+                   4040 seconds
+Information : 
+                Timer:
+                   4045 seconds
+Information : 
+                Timer:
+                   4048 seconds
+Information : 
+                Timer:
+                   4103 seconds
+Information : 
+                Timer:
+                   4106 seconds
+Information : 
+                Timer:
+                   4125 seconds
+Information : 
+                Timer:
+                   4139 seconds
+Information : 
+                Timer:
+                   4161 seconds
+Information : 
+                Timer:
+                   4172 seconds
+Information : 
+                Timer:
+                   4223 seconds
+Information : 
+                Timer:
+                   4226 seconds
+Information : 
+                Timer:
+                   4228 seconds
+Information : 
+                Timer:
+                   4231 seconds
+Information : 
+                Timer:
+                   4234 seconds
+Information : 
+                Timer:
+                   4240 seconds
+Information : 
+                Timer:
+                   4242 seconds
+Information : 
+                Timer:
+                   4245 seconds
+Information : 
+                Timer:
+                   4251 seconds
+Information : 
+                Timer:
+                   4257 seconds
+Information : 
+                Timer:
+                   4265 seconds
+Information : 
+                Timer:
+                   4271 seconds
+Information : 
+                Timer:
+                   4275 seconds
+Information : 
+                Timer:
+                   4279 seconds
+Information : 
+                Timer:
+                   4291 seconds
+Information : 
+                Timer:
+                   4298 seconds
+Information : 
+                Timer:
+                   4305 seconds
+Information : 
+                Timer:
+                   4310 seconds
+Information : 
+                Timer:
+                   4311 seconds
+Information : 
+                Timer:
+                   4319 seconds
+Information : 
+                Timer:
+                   4324 seconds
+Information : 
+                Timer:
+                   4328 seconds
+Information : 
+                Timer:
+                   4334 seconds
+Information : 
+                Timer:
+                   4339 seconds
+Information : 
+                Timer:
+                   4341 seconds
+Information : 
+                Timer:
+                   4346 seconds
+Information : 
+                Timer:
+                   4362 seconds
+Information : 
+                Timer:
+                   4363 seconds
+Information : 
+                Timer:
+                   4371 seconds
+Information : 
+                Timer:
+                   4373 seconds
+Information : 
+                Timer:
+                   4389 seconds
+Information : 
+                Timer:
+                   4393 seconds
+Information : 
+                Timer:
+                   4429 seconds
+Information : 
+                Timer:
+                   4433 seconds
+Information : 
+                Timer:
+                   4439 seconds
+Information : 
+                Timer:
+                   4444 seconds
+Information : 
+                Timer:
+                   4446 seconds
+Information : 
+                Timer:
+                   4457 seconds
+Information : 
+                Timer:
+                   4460 seconds
+Information : 
+                Timer:
+                   4465 seconds
+Information : 
+                Timer:
+                   4470 seconds
+Information : 
+                Timer:
+                   4476 seconds
+Information : 
+                Timer:
+                   4482 seconds
+Information : 
+                Timer:
+                   4486 seconds
+Information : 
+                Timer:
+                   4488 seconds
+Information : 
+                Timer:
+                   4492 seconds
+Information : 
+                Timer:
+                   4497 seconds
+Information : 
+                Timer:
+                   4500 seconds
+Information : 
+                Timer:
+                   4506 seconds
+Information : 
+                Timer:
+                   4508 seconds
+Information : 
+                Timer:
+                   4510 seconds
+Information : 
+                Timer:
+                   4515 seconds
+Information : 
+                Timer:
+                   4519 seconds
+Information : 
+                Timer:
+                   4521 seconds
+Information : 
+                Timer:
+                   4524 seconds
+Information : 
+                Timer:
+                   4525 seconds
+Information : 
+                Timer:
+                   4527 seconds
+Information : 
+                Timer:
+                   4528 seconds
+Information : 
+                Timer:
+                   4530 seconds
+Information : 
+                Timer:
+                   4531 seconds
+Information : 
+                Timer:
+                   4532 seconds
+Information : 
+                Timer:
+                   4533 seconds
+Information : 
+                Timer:
+                   4535 seconds
+Information : 
+                Timer:
+                   4536 seconds
+Information : 
+                Timer:
+                   4537 seconds
+Information : 
+                Timer:
+                   4538 seconds
+Information : 
+                Timer:
+                   4540 seconds
+Information : 
+                Timer:
+                   4595 seconds
+Information : 
+                Timer:
+                   4606 seconds
+Information : 
+                Timer:
+                   4608 seconds
+Information : 
+                Timer:
+                   4609 seconds
+Information : 
+                Timer:
+                   4611 seconds
+Information : 
+                Timer:
+                   4622 seconds
+Information : 
+                Timer:
+                   4623 seconds
+Information : 
+                Timer:
+                   4654 seconds
+Information : 
+                Timer:
+                   4655 seconds
+Information : 
+                Timer:
+                   4656 seconds
+Information : 
+                Timer:
+                   4673 seconds
+Information : 
+                Timer:
+                   4674 seconds
+Information : 
+                Timer:
+                   4675 seconds
+Information : 
+                Timer:
+                   4676 seconds
+Information : 
+                Timer:
+                   4689 seconds
+Information : 
+                Timer:
+                   4707 seconds
+Information : 
+                Timer:
+                   4710 seconds
+Information : 
+                Timer:
+                   4711 seconds
+Information : 
+                Timer:
+                   4712 seconds
+Information : 
+                Timer:
+                   4713 seconds
+Status : TBR : 13746 13746.
+Information : 
+                Timer:
+                   4718 seconds
+Information : 
+                Timer:
+                   4722 seconds
+Information : 
+                Timer:
+                   4723 seconds
+Information : 
+                Timer:
+                   4726 seconds
+Information : 
+                Timer:
+                   4745 seconds
+Information : 
+                Timer:
+                   4748 seconds
+Information : 
+                Timer:
+                   4749 seconds
+Information : 
+                Timer:
+                   4750 seconds
+Information : 
+                Timer:
+                   4751 seconds
+Information : 
+                Timer:
+                   4753 seconds
+Status : TBR : 13743 13743.
+Information : 
+                Timer:
+                   4757 seconds
+Information : 
+                Timer:
+                   4765 seconds
+Information : 
+                Timer:
+                   4793 seconds
+Information : 
+                Timer:
+                   4794 seconds
+Information : 
+                Timer:
+                   4797 seconds
+Information : 
+                Timer:
+                   4816 seconds
+Information : 
+                Timer:
+                   4820 seconds
+Information : 
+                Timer:
+                   4832 seconds
+Information : 
+                Timer:
+                   4833 seconds
+Information : 
+                Timer:
+                   4835 seconds
+Information : 
+                Timer:
+                   4837 seconds
+Information : 
+                Timer:
+                   4838 seconds
+Information : 
+                Timer:
+                   4839 seconds
+Information : 
+                Timer:
+                   4840 seconds
+Information : 
+                Timer:
+                   4842 seconds
+Information : 
+                Timer:
+                   4847 seconds
+Information : 
+                Timer:
+                   4848 seconds
+Information : 
+                Timer:
+                   4880 seconds
+Information : 
+                Timer:
+                   4884 seconds
+Information : 
+                Timer:
+                   4886 seconds
+Information : 
+                Timer:
+                   4887 seconds
+Information : 
+                Timer:
+                   4889 seconds
+Information : 
+                Timer:
+                   4891 seconds
+Information : 
+                Timer:
+                   4892 seconds
+Information : 
+                Timer:
+                   4893 seconds
+Information : 
+                Timer:
+                   4895 seconds
+Information : 
+                Timer:
+                   4896 seconds
+Information : 
+                Timer:
+                   4897 seconds
+Information : 
+                Timer:
+                   4899 seconds
+Information : 
+                Timer:
+                   4900 seconds
+Information : 
+                Timer:
+                   4901 seconds
+Information : 
+                Timer:
+                   4902 seconds
+Information : 
+                Timer:
+                   4908 seconds
+Information : 
+                Timer:
+                   4910 seconds
+Information : 
+                Timer:
+                   4915 seconds
+Information : 
+                Timer:
+                   4916 seconds
+Information : 
+                Timer:
+                   4918 seconds
+Information : 
+                Timer:
+                   4950 seconds
+Information : 
+                Timer:
+                   4954 seconds
+Information : 
+                Timer:
+                   4956 seconds
+Information : 
+                Timer:
+                   4959 seconds
+Information : 
+                Timer:
+                   4960 seconds
+Information : 
+                Timer:
+                   4962 seconds
+Information : 
+                Timer:
+                   4964 seconds
+Information : 
+                Timer:
+                   4966 seconds
+Information : 
+                Timer:
+                   4970 seconds
+Information : 
+                Timer:
+                   4972 seconds
+Information : 
+                Timer:
+                   4974 seconds
+Information : 
+                Timer:
+                   4975 seconds
+Information : 
+                Timer:
+                   4976 seconds
+Information : 
+                Timer:
+                   4977 seconds
+Information : 
+                Timer:
+                   4978 seconds
+Information : 
+                Timer:
+                   4979 seconds
+Information : 
+                Timer:
+                   4986 seconds
+Information : 
+                Timer:
+                   4993 seconds
+Information : 
+                Timer:
+                   4999 seconds
+Information : 
+                Timer:
+                   5005 seconds
+Information : 
+                Timer:
+                   5011 seconds
+Information : 
+                Timer:
+                   5017 seconds
+Information : 
+                Timer:
+                   5036 seconds
+Information : 
+                Timer:
+                   5043 seconds
+Information : 
+                Timer:
+                   5076 seconds
+Information : 
+                Timer:
+                   5081 seconds
+Information : 
+                Timer:
+                   5088 seconds
+Information : 
+                Timer:
+                   5094 seconds
+Information : 
+                Timer:
+                   5098 seconds
+Information : 
+                Timer:
+                   5104 seconds
+Information : 
+                Timer:
+                   5142 seconds
+Information : 
+                Timer:
+                   5148 seconds
+Information : 
+                Timer:
+                   5153 seconds
+Information : 
+                Timer:
+                   5167 seconds
+Information : 
+                Timer:
+                   5209 seconds
+Information : 
+                Timer:
+                   5214 seconds
+Information : 
+                Timer:
+                   5234 seconds
+Information : 
+                Timer:
+                   5240 seconds
+Information : 
+                Timer:
+                   5266 seconds
+Information : 
+                Timer:
+                   5304 seconds
+Information : 
+                Timer:
+                   5309 seconds
+Information : 
+                Timer:
+                   5318 seconds
+Information : 
+                Timer:
+                   5334 seconds
+Information : 
+                Timer:
+                   5339 seconds
+Information : 
+                Timer:
+                   5345 seconds
+Information : 
+                Timer:
+                   5361 seconds
+Information : 
+                Timer:
+                   5367 seconds
+Information : 
+                Timer:
+                   5373 seconds
+Information : 
+                Timer:
+                   5379 seconds
+Information : 
+                Timer:
+                   5384 seconds
+Information : 
+                Timer:
+                   5387 seconds
+Information : 
+                Timer:
+                   5429 seconds
+Information : 
+                Timer:
+                   5442 seconds
+Information : 
+                Timer:
+                   5448 seconds
+Information : 
+                Timer:
+                   5458 seconds
+Information : 
+                Timer:
+                   5464 seconds
+Information : 
+                Timer:
+                   5503 seconds
+Information : 
+                Timer:
+                   5511 seconds
+Information : 
+                Timer:
+                   5517 seconds
+Information : 
+                Timer:
+                   5524 seconds
+Information : 
+                Timer:
+                   5529 seconds
+Information : 
+                Timer:
+                   5530 seconds
+Information : 
+                Timer:
+                   5536 seconds
+Information : 
+                Timer:
+                   5537 seconds
+Information : 
+                Timer:
+                   5538 seconds
+Information : 
+                Timer:
+                   5548 seconds
+Information : 
+                Timer:
+                   5562 seconds
+Information : 
+                Timer:
+                   5565 seconds
+Information : 
+                Timer:
+                   5572 seconds
+Information : 
+                Timer:
+                   5584 seconds
+Information : 
+                Timer:
+                   5591 seconds
+Information : 
+                Timer:
+                   5595 seconds
+Information : 
+                Timer:
+                   5601 seconds
+Information : 
+                Timer:
+                   5650 seconds
+Information : 
+                Timer:
+                   5655 seconds
+Information : 
+                Timer:
+                   5665 seconds
+Information : 
+                Timer:
+                   5669 seconds
+Information : 
+                Timer:
+                   5674 seconds
+Information : 
+                Timer:
+                   5678 seconds
+Information : 
+                Timer:
+                   5681 seconds
+Information : 
+                Timer:
+                   5734 seconds
+Information : 
+                Timer:
+                   5736 seconds
+Information : 
+                Timer:
+                   5754 seconds
+Information : 
+                Timer:
+                   5767 seconds
+Information : 
+                Timer:
+                   5788 seconds
+Information : 
+                Timer:
+                   5800 seconds
+Information : 
+                Timer:
+                   5853 seconds
+Information : 
+                Timer:
+                   5855 seconds
+Information : 
+                Timer:
+                   5858 seconds
+Information : 
+                Timer:
+                   5861 seconds
+Information : 
+                Timer:
+                   5864 seconds
+Information : 
+                Timer:
+                   5870 seconds
+Information : 
+                Timer:
+                   5871 seconds
+Information : 
+                Timer:
+                   5872 seconds
+Information : 
+                Timer:
+                   5875 seconds
+Information : 
+                Timer:
+                   5881 seconds
+Information : 
+                Timer:
+                   5886 seconds
+Information : 
+                Timer:
+                   5894 seconds
+Information : 
+                Timer:
+                   5900 seconds
+Information : 
+                Timer:
+                   5904 seconds
+Information : 
+                Timer:
+                   5908 seconds
+Status : TBR Finished
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 13690.; Time left: -6 s; Hits: 5
+Information : Vectorized:44 of 44 characters.
+Status : Transforming : 1 of 1 --  transformations applied
+Status : Transforming : 0 of 209 --  characters transformed
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Warning : Data contains characters that do not support static approx. I will
+          skip over these and do the best that I can.
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Information : Vectorized:44 of 44 characters.
+Status : Transforming : 1 of 1 --  transformations applied
+Status : Transforming : 15192 of 209 --  characters transformed
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Perturb Iteration Finished
+Information : Vectorized:44 of 44 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Automated Search : 0 Best tree: 13690.; Time left: -60 s; Hits: 6
+Status : RAS + TBR Finished
+Status : Fusing Trees : 0 
+Status : Fusing Trees Finished
+Information : Vectorized:44 of 44 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 5 -- Recalculating trees
+Information : Vectorized:44 of 44 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 5 -- Recalculating trees
+Information : Vectorized:44 of 44 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 5 -- Recalculating trees
+Information : Vectorized:44 of 44 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 5 -- Recalculating trees
+Information : Vectorized:44 of 44 characters.
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 5 of 5 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Automated Search Finished
+Information : The search evaluated 2437 independent repetitions with ratchet and fusing for 6815 generations. The shortest tree was found 24 times.
+Information : I will use the shortest tree to fix the sequence alignments.
+Warning : Data contains characters that do not support static approx. I will
+          skip over these and do the best that I can.
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Implied Alignments : 1 of 229 -- vertices calculated
+Status : Implied Alignments : 2 of 229 -- vertices calculated
+Status : Implied Alignments : 3 of 229 -- vertices calculated
+Status : Implied Alignments : 4 of 229 -- vertices calculated
+Status : Implied Alignments : 5 of 229 -- vertices calculated
+Status : Implied Alignments : 6 of 229 -- vertices calculated
+Status : Implied Alignments : 7 of 229 -- vertices calculated
+Status : Implied Alignments : 8 of 229 -- vertices calculated
+Status : Implied Alignments : 9 of 229 -- vertices calculated
+Status : Implied Alignments : 10 of 229 -- vertices calculated
+Status : Implied Alignments : 11 of 229 -- vertices calculated
+Status : Implied Alignments : 12 of 229 -- vertices calculated
+Status : Implied Alignments : 13 of 229 -- vertices calculated
+Status : Implied Alignments : 14 of 229 -- vertices calculated
+Status : Implied Alignments : 15 of 229 -- vertices calculated
+Status : Implied Alignments : 16 of 229 -- vertices calculated
+Status : Implied Alignments : 17 of 229 -- vertices calculated
+Status : Implied Alignments : 18 of 229 -- vertices calculated
+Status : Implied Alignments : 19 of 229 -- vertices calculated
+Status : Implied Alignments : 20 of 229 -- vertices calculated
+Status : Implied Alignments : 21 of 229 -- vertices calculated
+Status : Implied Alignments : 22 of 229 -- vertices calculated
+Status : Implied Alignments : 23 of 229 -- vertices calculated
+Status : Implied Alignments : 24 of 229 -- vertices calculated
+Status : Implied Alignments : 25 of 229 -- vertices calculated
+Status : Implied Alignments : 26 of 229 -- vertices calculated
+Status : Implied Alignments : 27 of 229 -- vertices calculated
+Status : Implied Alignments : 28 of 229 -- vertices calculated
+Status : Implied Alignments : 29 of 229 -- vertices calculated
+Status : Implied Alignments : 30 of 229 -- vertices calculated
+Status : Implied Alignments : 31 of 229 -- vertices calculated
+Status : Implied Alignments : 32 of 229 -- vertices calculated
+Status : Implied Alignments : 33 of 229 -- vertices calculated
+Status : Implied Alignments : 34 of 229 -- vertices calculated
+Status : Implied Alignments : 35 of 229 -- vertices calculated
+Status : Implied Alignments : 36 of 229 -- vertices calculated
+Status : Implied Alignments : 37 of 229 -- vertices calculated
+Status : Implied Alignments : 38 of 229 -- vertices calculated
+Status : Implied Alignments : 39 of 229 -- vertices calculated
+Status : Implied Alignments : 40 of 229 -- vertices calculated
+Status : Implied Alignments : 41 of 229 -- vertices calculated
+Status : Implied Alignments : 42 of 229 -- vertices calculated
+Status : Implied Alignments : 43 of 229 -- vertices calculated
+Status : Implied Alignments : 44 of 229 -- vertices calculated
+Status : Implied Alignments : 45 of 229 -- vertices calculated
+Status : Implied Alignments : 46 of 229 -- vertices calculated
+Status : Implied Alignments : 47 of 229 -- vertices calculated
+Status : Implied Alignments : 48 of 229 -- vertices calculated
+Status : Implied Alignments : 49 of 229 -- vertices calculated
+Status : Implied Alignments : 50 of 229 -- vertices calculated
+Status : Implied Alignments : 51 of 229 -- vertices calculated
+Status : Implied Alignments : 52 of 229 -- vertices calculated
+Status : Implied Alignments : 53 of 229 -- vertices calculated
+Status : Implied Alignments : 54 of 229 -- vertices calculated
+Status : Implied Alignments : 55 of 229 -- vertices calculated
+Status : Implied Alignments : 56 of 229 -- vertices calculated
+Status : Implied Alignments : 57 of 229 -- vertices calculated
+Status : Implied Alignments : 58 of 229 -- vertices calculated
+Status : Implied Alignments : 59 of 229 -- vertices calculated
+Status : Implied Alignments : 60 of 229 -- vertices calculated
+Status : Implied Alignments : 61 of 229 -- vertices calculated
+Status : Implied Alignments : 62 of 229 -- vertices calculated
+Status : Implied Alignments : 63 of 229 -- vertices calculated
+Status : Implied Alignments : 64 of 229 -- vertices calculated
+Status : Implied Alignments : 65 of 229 -- vertices calculated
+Status : Implied Alignments : 66 of 229 -- vertices calculated
+Status : Implied Alignments : 67 of 229 -- vertices calculated
+Status : Implied Alignments : 68 of 229 -- vertices calculated
+Status : Implied Alignments : 69 of 229 -- vertices calculated
+Status : Implied Alignments : 70 of 229 -- vertices calculated
+Status : Implied Alignments : 71 of 229 -- vertices calculated
+Status : Implied Alignments : 72 of 229 -- vertices calculated
+Status : Implied Alignments : 73 of 229 -- vertices calculated
+Status : Implied Alignments : 74 of 229 -- vertices calculated
+Status : Implied Alignments : 75 of 229 -- vertices calculated
+Status : Implied Alignments : 76 of 229 -- vertices calculated
+Status : Implied Alignments : 77 of 229 -- vertices calculated
+Status : Implied Alignments : 78 of 229 -- vertices calculated
+Status : Implied Alignments : 79 of 229 -- vertices calculated
+Status : Implied Alignments : 80 of 229 -- vertices calculated
+Status : Implied Alignments : 81 of 229 -- vertices calculated
+Status : Implied Alignments : 82 of 229 -- vertices calculated
+Status : Implied Alignments : 83 of 229 -- vertices calculated
+Status : Implied Alignments : 84 of 229 -- vertices calculated
+Status : Implied Alignments : 85 of 229 -- vertices calculated
+Status : Implied Alignments : 86 of 229 -- vertices calculated
+Status : Implied Alignments : 87 of 229 -- vertices calculated
+Status : Implied Alignments : 88 of 229 -- vertices calculated
+Status : Implied Alignments : 89 of 229 -- vertices calculated
+Status : Implied Alignments : 90 of 229 -- vertices calculated
+Status : Implied Alignments : 91 of 229 -- vertices calculated
+Status : Implied Alignments : 92 of 229 -- vertices calculated
+Status : Implied Alignments : 93 of 229 -- vertices calculated
+Status : Implied Alignments : 94 of 229 -- vertices calculated
+Status : Implied Alignments : 95 of 229 -- vertices calculated
+Status : Implied Alignments : 96 of 229 -- vertices calculated
+Status : Implied Alignments : 97 of 229 -- vertices calculated
+Status : Implied Alignments : 98 of 229 -- vertices calculated
+Status : Implied Alignments : 99 of 229 -- vertices calculated
+Status : Implied Alignments : 100 of 229 -- vertices calculated
+Status : Implied Alignments : 101 of 229 -- vertices calculated
+Status : Implied Alignments : 102 of 229 -- vertices calculated
+Status : Implied Alignments : 103 of 229 -- vertices calculated
+Status : Implied Alignments : 104 of 229 -- vertices calculated
+Status : Implied Alignments : 105 of 229 -- vertices calculated
+Status : Implied Alignments : 106 of 229 -- vertices calculated
+Status : Implied Alignments : 107 of 229 -- vertices calculated
+Status : Implied Alignments : 108 of 229 -- vertices calculated
+Status : Implied Alignments : 109 of 229 -- vertices calculated
+Status : Implied Alignments : 110 of 229 -- vertices calculated
+Status : Implied Alignments : 111 of 229 -- vertices calculated
+Status : Implied Alignments : 112 of 229 -- vertices calculated
+Status : Implied Alignments : 113 of 229 -- vertices calculated
+Status : Implied Alignments : 114 of 229 -- vertices calculated
+Status : Implied Alignments : 115 of 229 -- vertices calculated
+Status : Implied Alignments : 116 of 229 -- vertices calculated
+Status : Implied Alignments : 117 of 229 -- vertices calculated
+Status : Implied Alignments : 118 of 229 -- vertices calculated
+Status : Implied Alignments : 119 of 229 -- vertices calculated
+Status : Implied Alignments : 120 of 229 -- vertices calculated
+Status : Implied Alignments : 121 of 229 -- vertices calculated
+Status : Implied Alignments : 122 of 229 -- vertices calculated
+Status : Implied Alignments : 123 of 229 -- vertices calculated
+Status : Implied Alignments : 124 of 229 -- vertices calculated
+Status : Implied Alignments : 125 of 229 -- vertices calculated
+Status : Implied Alignments : 126 of 229 -- vertices calculated
+Status : Implied Alignments : 127 of 229 -- vertices calculated
+Status : Implied Alignments : 128 of 229 -- vertices calculated
+Status : Implied Alignments : 129 of 229 -- vertices calculated
+Status : Implied Alignments : 130 of 229 -- vertices calculated
+Status : Implied Alignments : 131 of 229 -- vertices calculated
+Status : Implied Alignments : 132 of 229 -- vertices calculated
+Status : Implied Alignments : 133 of 229 -- vertices calculated
+Status : Implied Alignments : 134 of 229 -- vertices calculated
+Status : Implied Alignments : 135 of 229 -- vertices calculated
+Status : Implied Alignments : 136 of 229 -- vertices calculated
+Status : Implied Alignments : 137 of 229 -- vertices calculated
+Status : Implied Alignments : 138 of 229 -- vertices calculated
+Status : Implied Alignments : 139 of 229 -- vertices calculated
+Status : Implied Alignments : 140 of 229 -- vertices calculated
+Status : Implied Alignments : 141 of 229 -- vertices calculated
+Status : Implied Alignments : 142 of 229 -- vertices calculated
+Status : Implied Alignments : 143 of 229 -- vertices calculated
+Status : Implied Alignments : 144 of 229 -- vertices calculated
+Status : Implied Alignments : 145 of 229 -- vertices calculated
+Status : Implied Alignments : 146 of 229 -- vertices calculated
+Status : Implied Alignments : 147 of 229 -- vertices calculated
+Status : Implied Alignments : 148 of 229 -- vertices calculated
+Status : Implied Alignments : 149 of 229 -- vertices calculated
+Status : Implied Alignments : 150 of 229 -- vertices calculated
+Status : Implied Alignments : 151 of 229 -- vertices calculated
+Status : Implied Alignments : 152 of 229 -- vertices calculated
+Status : Implied Alignments : 153 of 229 -- vertices calculated
+Status : Implied Alignments : 154 of 229 -- vertices calculated
+Status : Implied Alignments : 155 of 229 -- vertices calculated
+Status : Implied Alignments : 156 of 229 -- vertices calculated
+Status : Implied Alignments : 157 of 229 -- vertices calculated
+Status : Implied Alignments : 158 of 229 -- vertices calculated
+Status : Implied Alignments : 159 of 229 -- vertices calculated
+Status : Implied Alignments : 160 of 229 -- vertices calculated
+Status : Implied Alignments : 161 of 229 -- vertices calculated
+Status : Implied Alignments : 162 of 229 -- vertices calculated
+Status : Implied Alignments : 163 of 229 -- vertices calculated
+Status : Implied Alignments : 164 of 229 -- vertices calculated
+Status : Implied Alignments : 165 of 229 -- vertices calculated
+Status : Implied Alignments : 166 of 229 -- vertices calculated
+Status : Implied Alignments : 167 of 229 -- vertices calculated
+Status : Implied Alignments : 168 of 229 -- vertices calculated
+Status : Implied Alignments : 169 of 229 -- vertices calculated
+Status : Implied Alignments : 170 of 229 -- vertices calculated
+Status : Implied Alignments : 171 of 229 -- vertices calculated
+Status : Implied Alignments : 172 of 229 -- vertices calculated
+Status : Implied Alignments : 173 of 229 -- vertices calculated
+Status : Implied Alignments : 174 of 229 -- vertices calculated
+Status : Implied Alignments : 175 of 229 -- vertices calculated
+Status : Implied Alignments : 176 of 229 -- vertices calculated
+Status : Implied Alignments : 177 of 229 -- vertices calculated
+Status : Implied Alignments : 178 of 229 -- vertices calculated
+Status : Implied Alignments : 179 of 229 -- vertices calculated
+Status : Implied Alignments : 180 of 229 -- vertices calculated
+Status : Implied Alignments : 181 of 229 -- vertices calculated
+Status : Implied Alignments : 182 of 229 -- vertices calculated
+Status : Implied Alignments : 183 of 229 -- vertices calculated
+Status : Implied Alignments : 184 of 229 -- vertices calculated
+Status : Implied Alignments : 185 of 229 -- vertices calculated
+Status : Implied Alignments : 186 of 229 -- vertices calculated
+Status : Implied Alignments : 187 of 229 -- vertices calculated
+Status : Implied Alignments : 188 of 229 -- vertices calculated
+Status : Implied Alignments : 189 of 229 -- vertices calculated
+Status : Implied Alignments : 190 of 229 -- vertices calculated
+Status : Implied Alignments : 191 of 229 -- vertices calculated
+Status : Implied Alignments : 192 of 229 -- vertices calculated
+Status : Implied Alignments : 193 of 229 -- vertices calculated
+Status : Implied Alignments : 194 of 229 -- vertices calculated
+Status : Implied Alignments : 195 of 229 -- vertices calculated
+Status : Implied Alignments : 196 of 229 -- vertices calculated
+Status : Implied Alignments : 197 of 229 -- vertices calculated
+Status : Implied Alignments : 198 of 229 -- vertices calculated
+Status : Implied Alignments : 199 of 229 -- vertices calculated
+Status : Implied Alignments : 200 of 229 -- vertices calculated
+Status : Implied Alignments : 201 of 229 -- vertices calculated
+Status : Implied Alignments : 202 of 229 -- vertices calculated
+Status : Implied Alignments : 203 of 229 -- vertices calculated
+Status : Implied Alignments : 204 of 229 -- vertices calculated
+Status : Implied Alignments : 205 of 229 -- vertices calculated
+Status : Implied Alignments : 206 of 229 -- vertices calculated
+Status : Implied Alignments : 207 of 229 -- vertices calculated
+Status : Implied Alignments : 208 of 229 -- vertices calculated
+Status : Implied Alignments : 209 of 229 -- vertices calculated
+Status : Implied Alignments : 210 of 229 -- vertices calculated
+Status : Implied Alignments : 211 of 229 -- vertices calculated
+Status : Implied Alignments : 212 of 229 -- vertices calculated
+Status : Implied Alignments : 213 of 229 -- vertices calculated
+Status : Implied Alignments : 214 of 229 -- vertices calculated
+Status : Implied Alignments : 215 of 229 -- vertices calculated
+Status : Implied Alignments : 216 of 229 -- vertices calculated
+Status : Implied Alignments : 217 of 229 -- vertices calculated
+Status : Implied Alignments : 218 of 229 -- vertices calculated
+Status : Implied Alignments : 219 of 229 -- vertices calculated
+Status : Implied Alignments : 220 of 229 -- vertices calculated
+Status : Implied Alignments : 221 of 229 -- vertices calculated
+Status : Implied Alignments : 222 of 229 -- vertices calculated
+Status : Implied Alignments : 223 of 229 -- vertices calculated
+Status : Implied Alignments : 224 of 229 -- vertices calculated
+Status : Implied Alignments : 225 of 229 -- vertices calculated
+Status : Implied Alignments : 226 of 229 -- vertices calculated
+Status : Implied Alignments : 227 of 229 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Loading Characters :
+         0 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         1 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         2 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         3 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         4 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         5 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         6 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         7 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         8 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         9 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         23 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         24 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         25 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         26 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         27 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         28 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         29 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         30 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         31 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         32 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         33 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         34 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         35 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         36 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         37 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         38 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         39 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         40 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         41 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         42 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         43 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         44 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         45 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         46 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         47 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         48 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         49 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         50 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         51 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         52 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         53 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         54 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         55 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         56 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         57 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         58 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         59 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         60 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         61 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         62 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         63 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         64 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         65 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         66 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         67 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         68 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         69 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         70 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         71 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         72 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         73 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         74 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         75 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         76 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         77 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         78 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         79 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         80 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         81 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         82 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         83 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         84 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         85 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         86 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         87 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         88 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         89 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         90 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         91 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         92 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         93 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         94 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         95 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         96 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         97 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         98 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         99 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         100 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         101 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         102 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         103 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         104 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         105 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         106 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         107 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         108 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         109 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         110 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         111 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         112 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         113 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         114 of 115 -- Storing the character specifications
+Status : Loading Characters :
+         115 of 115 -- Storing the character specifications
+Status : Loading Characters Finished
+Information : Vectorized:44 of 44 characters.
+Status : Transforming : 1 of 1 --  transformations applied
+Status : Transforming : 15211 of 209 --  characters transformed
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 5 of 5 -- Recalculating trees
+Status : Diagnosis Finished
+Fatal error: exception Invalid_argument("Printf: bad conversion %_, at char number 29 in format string ``:_Reduced_relationship.,_>40%_of_anterior_ramus_length_or_less.''")

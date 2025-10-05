@@ -2,151 +2,72 @@
 prepDyn(input_file='../test_data/empirical/empirical3_Nakamura/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical3_Nakamura/5_equal/round2/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='equal', partitioning_round=2)
 
 --- Step 1: Summary before preprocessing ---
-No. sequences: 161
+No. sequences: 60
 No. columns: 891
-Total no. nucleotides (A/C/G/T only): 82909 bp
-Total no. gaps (-): 60510
-Total no. IUPAC N: 20
+Total no. nucleotides (A/C/G/T only): 33750 bp
+Total no. gaps (-): 19695
+Total no. IUPAC N: 6
 
 --- Step 2: Trimming (invariant columns) ---
 [890]
 
 --- Step 3: Missing data identification (gaps replaced with '?') ---
-Total '?' characters: 25527
-Total '-' characters in fully missing partitions: 34866
-Combined total: 60393
+Total '?' characters: 8333
+Total '-' characters in fully missing partitions: 11324
+Combined total: 19657
 
-2983_sen_Jussari_BA: partition 2 (594–891, length 298) fully missing (all '-')
-4393_robertmertensi: partition 2 (594–891, length 298) fully missing (all '-')
-4093_minutus_col: partition 2 (594–891, length 298) fully missing (all '-')
-4090_stingi_top: partition 2 (594–891, length 298) fully missing (all '-')
-4096_stingi_top: partition 2 (594–891, length 298) fully missing (all '-')
-2324_dutrai: partition 2 (594–891, length 298) fully missing (all '-')
-2994_sp1_PauRosa_AM: partition 2 (594–891, length 298) fully missing (all '-')
-4089_garagoensis: partition 2 (594–891, length 298) fully missing (all '-')
-4097_garagoensis: partition 2 (594–891, length 298) fully missing (all '-')
-leuco_Tab: partition 2 (594–891, length 298) fully missing (all '-')
-elegans_GB: partition 2 (594–891, length 298) fully missing (all '-')
-2335_novaisi: partition 2 (594–891, length 298) fully missing (all '-')
-X_truncata_GB: partition 2 (594–891, length 298) fully missing (all '-')
-triangulum_GB: partition 2 (594–891, length 298) fully missing (all '-')
-berthalutzae_GB: partition 2 (594–891, length 298) fully missing (all '-')
-bipunctatus_GB: partition 2 (594–891, length 298) fully missing (all '-')
-walfordi_GB: partition 2 (594–891, length 298) fully missing (all '-')
-nanus_GB: partition 2 (594–891, length 298) fully missing (all '-')
-microcephalus_GB: partition 2 (594–891, length 298) fully missing (all '-')
-rubicundulus_GB: partition 2 (594–891, length 298) fully missing (all '-')
-sanborni_GB: partition 2 (594–891, length 298) fully missing (all '-')
-giesleri_GB: partition 2 (594–891, length 298) fully missing (all '-')
-P_luteolous_GB: partition 2 (594–891, length 298) fully missing (all '-')
-minuta_GB_11: partition 2 (594–891, length 298) fully missing (all '-')
-marmoratus_GB: partition 2 (594–891, length 298) fully missing (all '-')
-seniculus_GB: partition 2 (594–891, length 298) fully missing (all '-')
-ebraccatus_GB: partition 2 (594–891, length 298) fully missing (all '-')
-labialis_GB: partition 2 (594–891, length 298) fully missing (all '-')
-carnifex_GB: partition 2 (594–891, length 298) fully missing (all '-')
-89_carnifex: partition 2 (594–891, length 298) fully missing (all '-')
-brevifrons_GB: partition 2 (594–891, length 298) fully missing (all '-')
-parviceps_GB: partition 2 (594–891, length 298) fully missing (all '-')
-anceps_GB: partition 2 (594–891, length 298) fully missing (all '-')
-Sci_berthae_GB: partition 2 (594–891, length 298) fully missing (all '-')
-Sca_goinorum_GB: partition 2 (594–891, length 298) fully missing (all '-')
-Sph_lacteus_GB: partition 2 (594–891, length 298) fully missing (all '-')
-Sph_dorisae_GB: partition 2 (594–891, length 298) fully missing (all '-')
-I_langsdorffii_GB: partition 2 (594–891, length 298) fully missing (all '-')
-Sci_fuscovarius_GB: partition 2 (594–891, length 298) fully missing (all '-')
-1517: partition 2 (594–891, length 298) fully missing (all '-')
-L_laevis_GB: partition 2 (594–891, length 298) fully missing (all '-')
-miyatai_GB: partition 2 (594–891, length 298) fully missing (all '-')
-triangulum_Tab: partition 2 (594–891, length 298) fully missing (all '-')
-1488_werneri_Peruibe_SP: partition 2 (594–891, length 298) fully missing (all '-')
-4352_gaucheri: partition 2 (594–891, length 298) fully missing (all '-')
-4365_riveroi: partition 2 (594–891, length 298) fully missing (all '-')
-4395_riveroi: partition 2 (594–891, length 298) fully missing (all '-')
-4382_riveroi: partition 2 (594–891, length 298) fully missing (all '-')
-1804_reicheli_par: partition 2 (594–891, length 298) fully missing (all '-')
-1803_reicheli_par: partition 2 (594–891, length 298) fully missing (all '-')
-1628_coffea: partition 2 (594–891, length 298) fully missing (all '-')
-4384_leali: partition 2 (594–891, length 298) fully missing (all '-')
-2228_sartori: partition 2 (594–891, length 298) fully missing (all '-')
-2789_microcephalus_CO: partition 2 (594–891, length 298) fully missing (all '-')
-2044_anataliasiasi: partition 2 (594–891, length 298) fully missing (all '-')
-2659_araguaya_top: partition 2 (594–891, length 298) fully missing (all '-')
-2988_jimi_top: partition 2 (594–891, length 298) fully missing (all '-')
-2643_cachimbo: partition 2 (594–891, length 298) fully missing (all '-')
-2642_anataliasiasi: partition 2 (594–891, length 298) fully missing (all '-')
-4218_anataliasiasi: partition 2 (594–891, length 298) fully missing (all '-')
-1822_elianeae_itap_SP: partition 2 (594–891, length 298) fully missing (all '-')
-2925_sanborni_Itape_SP: partition 2 (594–891, length 298) fully missing (all '-')
-1824_cf_rubi_SJdAlianca_GO: partition 2 (594–891, length 298) fully missing (all '-')
-4100_cruzi_Anapolis_GO: partition 2 (594–891, length 298) fully missing (all '-')
-1801_juliani_par: partition 2 (594–891, length 298) fully missing (all '-')
-1802_juliani_par: partition 2 (594–891, length 298) fully missing (all '-')
-4091_minusculus_col: partition 2 (594–891, length 298) fully missing (all '-')
-4098_minusculus_col: partition 2 (594–891, length 298) fully missing (all '-')
-2100_cf_giesleri_Tapirai_SP: partition 2 (594–891, length 298) fully missing (all '-')
-2169_sp_gr_parviceps: partition 2 (594–891, length 298) fully missing (all '-')
-4356_microps: partition 2 (594–891, length 298) fully missing (all '-')
-2026_microps_Iporanga_SP: partition 2 (594–891, length 298) fully missing (all '-')
-4399_ruschii: partition 2 (594–891, length 298) fully missing (all '-')
-1839_ruschii: partition 2 (594–891, length 298) fully missing (all '-')
-1633_xapuriensis: partition 2 (594–891, length 298) fully missing (all '-')
-4012_cf_xapuriensis: partition 2 (594–891, length 298) fully missing (all '-')
-4057_minutus_Alcantara_MA: partition 2 (594–891, length 298) fully missing (all '-')
-4035_minutus_PARNAAM_PA: partition 2 (594–891, length 298) fully missing (all '-')
-4002_soa_Minacu_GO: partition 2 (594–891, length 298) fully missing (all '-')
-2343_soaresi_Ubajara_CE: partition 2 (594–891, length 298) fully missing (all '-')
-2396_mel_Jauru_MT: partition 2 (594–891, length 298) fully missing (all '-')
-1622_melanargyreus_Bol: partition 2 (594–891, length 298) fully missing (all '-')
-2415_mel_Jauru_MT: partition 2 (594–891, length 298) fully missing (all '-')
-4074_mel_VilaRica_MT: partition 2 (594–891, length 298) fully missing (all '-')
-2981_marmo_Itapinima_AM: partition 2 (594–891, length 298) fully missing (all '-')
-2871_marmo_Juruti_PA: partition 2 (594–891, length 298) fully missing (all '-')
-2318_sen_Catas_MG: partition 2 (594–891, length 298) fully missing (all '-')
-1835_nahdereri: partition 2 (594–891, length 298) fully missing (all '-')
-2355_nahdereri: partition 2 (594–891, length 298) fully missing (all '-')
-4397_schubarti: partition 2 (594–891, length 298) fully missing (all '-')
-4388_schubarti: partition 2 (594–891, length 298) fully missing (all '-')
-2979_ebraccatus: partition 2 (594–891, length 298) fully missing (all '-')
-2626_haddadi_Aurelino_BA: partition 2 (594–891, length 298) fully missing (all '-')
-4205_haddadi_Camacan_BA: partition 2 (594–891, length 298) fully missing (all '-')
-2468_sp: partition 2 (594–891, length 298) fully missing (all '-')
-2174_decipiens: partition 2 (594–891, length 298) fully missing (all '-')
-1838_meridianus: partition 2 (594–891, length 298) fully missing (all '-')
-2487_sp: partition 2 (594–891, length 298) fully missing (all '-')
-4037_decipiens_Prado_BA: partition 2 (594–891, length 298) fully missing (all '-')
-2944_haddadi_Vitoria_ES: partition 2 (594–891, length 298) fully missing (all '-')
-4022_oliverai_TimbauSul_RN: partition 2 (594–891, length 298) fully missing (all '-')
-2481_oliverai_top: partition 2 (594–891, length 298) fully missing (all '-')
-3000_sp1_PauRosa_AM: partition 2 (594–891, length 298) fully missing (all '-')
-4374_labialis: partition 2 (594–891, length 298) fully missing (all '-')
-2880_columbianus: partition 2 (594–891, length 298) fully missing (all '-')
-1638_yaracuyanus: partition 2 (594–891, length 298) fully missing (all '-')
-4358_koechlini_PE: partition 2 (594–891, length 298) fully missing (all '-')
-4016_brevifrons_AC: partition 2 (594–891, length 298) fully missing (all '-')
-4364_sp_Santiago: partition 2 (594–891, length 298) fully missing (all '-')
-4099_bokermanni_col: partition 2 (594–891, length 298) fully missing (all '-')
-4094_bokermanni_col: partition 2 (594–891, length 298) fully missing (all '-')
-2878_berthalutzae_IlhaBela_SP: partition 2 (594–891, length 298) fully missing (all '-')
-2874_elegans_Sooretama_ES: partition 2 (594–891, length 298) fully missing (all '-')
-4023_Sca_goinorum: partition 2 (594–891, length 298) fully missing (all '-')
-2403: partition 2 (594–891, length 298) fully missing (all '-')
-6: partition 2 (594–891, length 298) fully missing (all '-')
-4161_rossalleni: partition 2 (594–891, length 298) fully missing (all '-')
+D_anataliasiasi_1: partition 2 (594–891, length 298) fully missing (all '-')
+D_anataliasiasi_2: partition 2 (594–891, length 298) fully missing (all '-')
+D_araguaya_II_1: partition 2 (594–891, length 298) fully missing (all '-')
+D_araguaya_II_2: partition 2 (594–891, length 298) fully missing (all '-')
+D_cachimbo_1: partition 2 (594–891, length 298) fully missing (all '-')
+D_coffea: partition 2 (594–891, length 298) fully missing (all '-')
+D_columbianus_1: partition 2 (594–891, length 298) fully missing (all '-')
+D_cruzi: partition 2 (594–891, length 298) fully missing (all '-')
+D_elianae_3: partition 2 (594–891, length 298) fully missing (all '-')
+D_elianeae_1: partition 2 (594–891, length 298) fully missing (all '-')
+D_gaucheri_1: partition 2 (594–891, length 298) fully missing (all '-')
+D_jimi_M: partition 2 (594–891, length 298) fully missing (all '-')
+D_juliani_1: partition 2 (594–891, length 298) fully missing (all '-')
+D_juliani_2: partition 2 (594–891, length 298) fully missing (all '-')
+D_labialis_1_M: partition 2 (594–891, length 298) fully missing (all '-')
+D_leali_1: partition 2 (594–891, length 298) fully missing (all '-')
+D_marmoratus_1_M: partition 2 (594–891, length 298) fully missing (all '-')
+D_mathiassoni_1: partition 2 (594–891, length 298) fully missing (all '-')
+D_mathiassoni_2: partition 2 (594–891, length 298) fully missing (all '-')
+D_microcephalus_1: partition 2 (594–891, length 298) fully missing (all '-')
+D_reicheli_1: partition 2 (594–891, length 298) fully missing (all '-')
+D_riveroi_M: partition 2 (594–891, length 298) fully missing (all '-')
+D_robertmertensi: partition 2 (594–891, length 298) fully missing (all '-')
+D_rubicundulus_1: partition 2 (594–891, length 298) fully missing (all '-')
+D_ruschii_1_M: partition 2 (594–891, length 298) fully missing (all '-')
+D_sanborni_1: partition 2 (594–891, length 298) fully missing (all '-')
+D_sanborni_2_M: partition 2 (594–891, length 298) fully missing (all '-')
+D_sartori_1: partition 2 (594–891, length 298) fully missing (all '-')
+D_shiwiarum_1: partition 2 (594–891, length 298) fully missing (all '-')
+D_triangulum_1_M: partition 2 (594–891, length 298) fully missing (all '-')
+D_walfordi: partition 2 (594–891, length 298) fully missing (all '-')
+D_werneri_1: partition 2 (594–891, length 298) fully missing (all '-')
+Phyllodytes_luteolous_M: partition 2 (594–891, length 298) fully missing (all '-')
+Scarthyla_goinorum_1: partition 2 (594–891, length 298) fully missing (all '-')
+Scinax_berthae_M: partition 2 (594–891, length 298) fully missing (all '-')
+Scinax_perereca_M: partition 2 (594–891, length 298) fully missing (all '-')
+Sphaenorhynchus_lacteus_M: partition 2 (594–891, length 298) fully missing (all '-')
+Sphaenorhynchus_pauloalvini_M: partition 2 (594–891, length 298) fully missing (all '-')
 
 --- Step 4: Partitioning ---
 Method used: equal
 Columns with '#' inserted: [296, 593]
 
 --- Summary after preprocessing ---
-No. sequences: 161
+No. sequences: 60
 No. columns: 892
 No. pound sign columns (#): 2
-Total no. nucleotides (A/C/G/T): 82865 bp
-Total no. gaps (-): 34866
-Total no. IUPAC N: 20
-Total no. missing values (?): 60393
+Total no. nucleotides (A/C/G/T): 33728 bp
+Total no. gaps (-): 11324
+Total no. IUPAC N: 6
+Total no. missing values (?): 19657
 
 --- Run time ---
-Wall-clock time: 0.42060590 seconds
-CPU time: 0.40422800 seconds
+Wall-clock time: 0.15290594 seconds
+CPU time: 0.14944600 seconds

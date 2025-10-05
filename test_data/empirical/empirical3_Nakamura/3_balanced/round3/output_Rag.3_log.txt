@@ -2,83 +2,82 @@
 prepDyn(input_file='../test_data/empirical/empirical3_Nakamura/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical3_Nakamura/3_balanced/round3/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=3)
 
 --- Step 1: Summary before preprocessing ---
-No. sequences: 101
+No. sequences: 39
 No. columns: 427
-Total no. nucleotides (A/C/G/T only): 42681 bp
-Total no. gaps (-): 290
-Total no. IUPAC N: 5
+Total no. nucleotides (A/C/G/T only): 16319 bp
+Total no. gaps (-): 280
+Total no. IUPAC N: 4
 
 --- Step 2: Trimming (invariant columns) ---
 [0, 425, 426]
 
 --- Step 3: Missing data identification (gaps replaced with '?') ---
-Total '?' characters: 8
-Total '-' characters in fully missing partitions: 249
-Combined total: 257
+Total '?' characters: 5
+Total '-' characters in fully missing partitions: 248
+Combined total: 253
 
-2693_padreluna: partition 10 (433–433, length 1) fully missing (all '-')
-2692_parviceps_CO: partition 0 (0–2, length 3) fully missing (all '-')
-2692_parviceps_CO: partition 1 (4–4, length 1) fully missing (all '-')
-2692_parviceps_CO: partition 2 (6–8, length 3) fully missing (all '-')
-2692_parviceps_CO: partition 3 (10–10, length 1) fully missing (all '-')
-2692_parviceps_CO: partition 4 (12–62, length 51) fully missing (all '-')
-2692_parviceps_CO: partition 10 (433–433, length 1) fully missing (all '-')
-4085_minutus_Maromba_RJ: partition 0 (0–2, length 3) fully missing (all '-')
-4085_minutus_Maromba_RJ: partition 1 (4–4, length 1) fully missing (all '-')
-4085_minutus_Maromba_RJ: partition 2 (6–8, length 3) fully missing (all '-')
-4085_minutus_Maromba_RJ: partition 3 (10–10, length 1) fully missing (all '-')
-4085_minutus_Maromba_RJ: partition 4 (12–62, length 51) fully missing (all '-')
-2643_cachimbo: partition 0 (0–2, length 3) fully missing (all '-')
-2643_cachimbo: partition 1 (4–4, length 1) fully missing (all '-')
-2643_cachimbo: partition 2 (6–8, length 3) fully missing (all '-')
-2643_cachimbo: partition 3 (10–10, length 1) fully missing (all '-')
-2643_cachimbo: partition 6 (418–419, length 2) fully missing (all '-')
-2643_cachimbo: partition 7 (421–422, length 2) fully missing (all '-')
-2643_cachimbo: partition 8 (424–427, length 4) fully missing (all '-')
-2643_cachimbo: partition 9 (429–431, length 3) fully missing (all '-')
-2643_cachimbo: partition 10 (433–433, length 1) fully missing (all '-')
-2642_anataliasiasi: partition 0 (0–2, length 3) fully missing (all '-')
-2642_anataliasiasi: partition 1 (4–4, length 1) fully missing (all '-')
-2642_anataliasiasi: partition 7 (421–422, length 2) fully missing (all '-')
-2642_anataliasiasi: partition 8 (424–427, length 4) fully missing (all '-')
-2642_anataliasiasi: partition 9 (429–431, length 3) fully missing (all '-')
-2642_anataliasiasi: partition 10 (433–433, length 1) fully missing (all '-')
-2659_araguaya_top: partition 0 (0–2, length 3) fully missing (all '-')
-2659_araguaya_top: partition 1 (4–4, length 1) fully missing (all '-')
-2659_araguaya_top: partition 2 (6–8, length 3) fully missing (all '-')
-2659_araguaya_top: partition 3 (10–10, length 1) fully missing (all '-')
-2659_araguaya_top: partition 8 (424–427, length 4) fully missing (all '-')
-2659_araguaya_top: partition 9 (429–431, length 3) fully missing (all '-')
-2659_araguaya_top: partition 10 (433–433, length 1) fully missing (all '-')
-2864_branneri_Aurelino_BA: partition 9 (429–431, length 3) fully missing (all '-')
-2864_branneri_Aurelino_BA: partition 10 (433–433, length 1) fully missing (all '-')
-2631_araguaya_AlTaquari_MT: partition 0 (0–2, length 3) fully missing (all '-')
-2631_araguaya_AlTaquari_MT: partition 9 (429–431, length 3) fully missing (all '-')
-2631_araguaya_AlTaquari_MT: partition 10 (433–433, length 1) fully missing (all '-')
-2795_jimi_Itirapina_SP: partition 0 (0–2, length 3) fully missing (all '-')
-2795_jimi_Itirapina_SP: partition 1 (4–4, length 1) fully missing (all '-')
-2795_jimi_Itirapina_SP: partition 2 (6–8, length 3) fully missing (all '-')
-2795_jimi_Itirapina_SP: partition 10 (433–433, length 1) fully missing (all '-')
-2572_branneri_Aurelino_BA: partition 0 (0–2, length 3) fully missing (all '-')
-2572_branneri_Aurelino_BA: partition 1 (4–4, length 1) fully missing (all '-')
-2572_branneri_Aurelino_BA: partition 2 (6–8, length 3) fully missing (all '-')
-2572_branneri_Aurelino_BA: partition 3 (10–10, length 1) fully missing (all '-')
-2572_branneri_Aurelino_BA: partition 4 (12–62, length 51) fully missing (all '-')
-2572_branneri_Aurelino_BA: partition 10 (433–433, length 1) fully missing (all '-')
+D_anataliasiasi_1: partition 0 (0–2, length 3) fully missing (all '-')
+D_anataliasiasi_1: partition 1 (4–4, length 1) fully missing (all '-')
+D_anataliasiasi_1: partition 7 (421–422, length 2) fully missing (all '-')
+D_anataliasiasi_1: partition 8 (424–427, length 4) fully missing (all '-')
+D_anataliasiasi_1: partition 9 (429–431, length 3) fully missing (all '-')
+D_anataliasiasi_1: partition 10 (433–433, length 1) fully missing (all '-')
+D_araguaya_II_2: partition 0 (0–2, length 3) fully missing (all '-')
+D_araguaya_II_2: partition 1 (4–4, length 1) fully missing (all '-')
+D_araguaya_II_2: partition 2 (6–8, length 3) fully missing (all '-')
+D_araguaya_II_2: partition 3 (10–10, length 1) fully missing (all '-')
+D_araguaya_II_2: partition 8 (424–427, length 4) fully missing (all '-')
+D_araguaya_II_2: partition 9 (429–431, length 3) fully missing (all '-')
+D_araguaya_II_2: partition 10 (433–433, length 1) fully missing (all '-')
+D_araguaya_I_2: partition 0 (0–2, length 3) fully missing (all '-')
+D_araguaya_I_2: partition 9 (429–431, length 3) fully missing (all '-')
+D_araguaya_I_2: partition 10 (433–433, length 1) fully missing (all '-')
+D_branneri_1: partition 0 (0–2, length 3) fully missing (all '-')
+D_branneri_1: partition 1 (4–4, length 1) fully missing (all '-')
+D_branneri_1: partition 2 (6–8, length 3) fully missing (all '-')
+D_branneri_1: partition 3 (10–10, length 1) fully missing (all '-')
+D_branneri_1: partition 4 (12–62, length 51) fully missing (all '-')
+D_branneri_1: partition 10 (433–433, length 1) fully missing (all '-')
+D_branneri_2_M: partition 9 (429–431, length 3) fully missing (all '-')
+D_branneri_2_M: partition 10 (433–433, length 1) fully missing (all '-')
+D_cachimbo_1: partition 0 (0–2, length 3) fully missing (all '-')
+D_cachimbo_1: partition 1 (4–4, length 1) fully missing (all '-')
+D_cachimbo_1: partition 2 (6–8, length 3) fully missing (all '-')
+D_cachimbo_1: partition 3 (10–10, length 1) fully missing (all '-')
+D_cachimbo_1: partition 6 (418–419, length 2) fully missing (all '-')
+D_cachimbo_1: partition 7 (421–422, length 2) fully missing (all '-')
+D_cachimbo_1: partition 8 (424–427, length 4) fully missing (all '-')
+D_cachimbo_1: partition 9 (429–431, length 3) fully missing (all '-')
+D_cachimbo_1: partition 10 (433–433, length 1) fully missing (all '-')
+D_jimi_1: partition 0 (0–2, length 3) fully missing (all '-')
+D_jimi_1: partition 1 (4–4, length 1) fully missing (all '-')
+D_jimi_1: partition 2 (6–8, length 3) fully missing (all '-')
+D_jimi_1: partition 10 (433–433, length 1) fully missing (all '-')
+D_minutus_I_M: partition 0 (0–2, length 3) fully missing (all '-')
+D_minutus_I_M: partition 1 (4–4, length 1) fully missing (all '-')
+D_minutus_I_M: partition 2 (6–8, length 3) fully missing (all '-')
+D_minutus_I_M: partition 3 (10–10, length 1) fully missing (all '-')
+D_minutus_I_M: partition 4 (12–62, length 51) fully missing (all '-')
+D_parviceps_1: partition 0 (0–2, length 3) fully missing (all '-')
+D_parviceps_1: partition 1 (4–4, length 1) fully missing (all '-')
+D_parviceps_1: partition 2 (6–8, length 3) fully missing (all '-')
+D_parviceps_1: partition 3 (10–10, length 1) fully missing (all '-')
+D_parviceps_1: partition 4 (12–62, length 51) fully missing (all '-')
+D_parviceps_1: partition 10 (433–433, length 1) fully missing (all '-')
 
 --- Step 4: Partitioning ---
 Method used: balanced (partitioning_round=3)
 Columns with '#' inserted: [3, 5, 9, 11, 63, 417, 420, 423, 428, 432]
 
 --- Summary after preprocessing ---
-No. sequences: 101
+No. sequences: 39
 No. columns: 434
 No. pound sign columns (#): 10
-Total no. nucleotides (A/C/G/T): 42410 bp
-Total no. gaps (-): 250
-Total no. IUPAC N: 5
-Total no. missing values (?): 257
+Total no. nucleotides (A/C/G/T): 16228 bp
+Total no. gaps (-): 249
+Total no. IUPAC N: 4
+Total no. missing values (?): 253
 
 --- Run time ---
-Wall-clock time: 0.13230205 seconds
-CPU time: 0.13110900 seconds
+Wall-clock time: 0.05507112 seconds
+CPU time: 0.05414200 seconds

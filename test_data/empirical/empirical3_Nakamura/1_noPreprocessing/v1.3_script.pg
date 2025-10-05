@@ -1,15 +1,22 @@
 set (seed:73412305)
 
+--LOAD SYNONYMS
+--read(rename:"Dendropsophus_synonym_list.txt")
+
 --LOAD DATA
 read ("dendropsophus124.ss")
 read ("*.fasta")
+
+
+--LOAD TAXA
+--read(include:"IncludeTaxa.txt")
 
 -- REPORT LOADED DATA
 report ("v1.3_PHYG_Nakamura_crossref.csv", crossrefs, overwrite)
 report ("v1.3_PHYG_Nakamura.data", data, overwrite)
 
 --LOAD INITIAL TREES
-read ("v1.1_POY_Nakamura.trees.nwk")
+read ("v1.1_POY_Nakamura.trees.txt")
 
 --SEARCH SETTINGS
 set (partitioncharacter:#)

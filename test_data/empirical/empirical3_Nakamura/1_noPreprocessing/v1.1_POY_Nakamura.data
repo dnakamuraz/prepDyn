@@ -1,0 +1,1057 @@
+Data
+    
+
+
+Taxa
+    
+    Total 115
+                                                     
+ Name                          Code          
+D_anataliasiasi_1             74           {}
+D_anataliasiasi_2             167          {}
+D_anataliasiasi_3             235          {}
+D_anataliasiasi_4             191          {}
+D_anataliasiasi_5             234          {}
+D_anataliasiasi_6             233          {}
+D_anataliasiasi_7             200          {}
+D_araguaya_II_1               166          {}
+D_araguaya_II_2               63           {}
+D_araguaya_II_3               188          {}
+D_araguaya_I_1                65           {}
+D_araguaya_I_2                66           {}
+D_bilobatus_1                 213          {}
+D_bilobatus_2                 215          {}
+D_bipunctatus_1_M             21           {}
+D_branneri_1                  58           {}
+D_branneri_2_M                19           {}
+D_cachimbo_1                  62           {}
+D_cachimbo_2                  61           {}
+D_cerradensis_1               68           {}
+D_cerradensis_2               69           {}
+D_cf_tritaeniatus_1           198          {}
+D_cf_tritaeniatus_2           216          {}
+D_cf_tritaeniatus_3           193          {}
+D_cf_tritaeniatus_4           192          {}
+D_coffea                      164          {}
+D_columbianus_1               185          {}
+D_cruzi                       57           {}
+D_decipiens_I_M               24           {}
+D_elegans                     27           {}
+D_elianae_3                   149          {}
+D_elianae_4                   232          {}
+D_elianae_5                   231          {}
+D_elianae_6                   230          {}
+D_elianae_7                   206          {}
+D_elianae_8                   205          {}
+D_elianeae_1                  168          {}
+D_elianeae_2_M                15           {}
+D_gaucheri_1                  75           {}
+D_jimi_1                      64           {}
+D_jimi_2                      67           {}
+D_jimi_3                      204          {}
+D_jimi_M                      14           {}
+D_joannae                     81           {}
+D_juliani_1                   171          {}
+D_juliani_2                   172          {}
+D_juliani_A                   236          {}
+D_juliani_A_2                 214          {}
+D_labialis_1_M                30           {}
+D_leali_1                     82           {}
+D_marmoratus_1_M              6            {}
+D_mathiassoni_1               59           {}
+D_mathiassoni_2               60           {}
+D_meridensis                  209          {}
+D_microcephalus_1             136          {}
+D_minusculus_1                56           {}
+D_minusculus_2                55           {}
+D_minusculus_3                54           {}
+D_minutus_I_M                 25           {}
+D_nanus_1                     17           {}
+D_parviceps_1                 122          {}
+D_pseudomeridianus_1          77           {}
+D_reicheli_1                  163          {}
+D_rhea_hDNA                   48           {}
+D_rhodopeplus_1_M             18           {}
+D_riveroi_M                   32           {}
+D_robertmertensi              138          {}
+D_rozenmani_1                 70           {}
+D_rozenmani_2                 71           {}
+D_rozenmani_3                 229          {}
+D_rozenmani_4                 228          {}
+D_rozenmani_5                 227          {}
+D_rozenmani_6                 226          {}
+D_rubicundulus_1              170          {}
+D_rubicundulus_10             222          {}
+D_rubicundulus_11             212          {}
+D_rubicundulus_12             221          {}
+D_rubicundulus_13             202          {}
+D_rubicundulus_14             201          {}
+D_rubicundulus_15             194          {}
+D_rubicundulus_16             189          {}
+D_rubicundulus_17             199          {}
+D_rubicundulus_18             220          {}
+D_rubicundulus_2              143          {}
+D_rubicundulus_3              225          {}
+D_rubicundulus_4              203          {}
+D_rubicundulus_5              196          {}
+D_rubicundulus_6              224          {}
+D_rubicundulus_7              223          {}
+D_rubicundulus_8              195          {}
+D_rubicundulus_9              190          {}
+D_ruschii_1_M                 9            {}
+D_sanborni_1                  169          {}
+D_sanborni_2_M                16           {}
+D_sanborni_3                  219          {}
+D_sanborni_4                  218          {}
+D_sanborni_5                  217          {}
+D_sartori_1                   165          {}
+D_shiwiarum_1                 161          {}
+D_studerae_1                  72           {}
+D_triangulum_1_M              26           {}
+D_tritaeniatus_hDNA           47           {}
+D_walfordi                    146          {}
+D_werneri_1                   160          {}
+Itapotihyla_langsdorffi_1     249          {}
+Lysapus_laevis_1              251          {}
+Phyllodytes_luteolous_M       46           {}
+Pseudis_minutus_M             45           {}
+Scarthyla_goinorum_1          187          {}
+Scinax_berthae_M              42           {}
+Scinax_perereca_M             40           {}
+Sphaenorhynchus_lacteus_M     38           {}
+Sphaenorhynchus_pauloalvini_M 37           {}
+Xenohyla_eugenioi_1           132          {}
+Xenohyla_truncata_1_M         35           {}
+
+Synonyms
+    
+    Total 305
+                                                     
+  
+{1488_werneri_Peruibe_SP, D_werneri_1, }
+{1517, Scinax_littoralis*, }
+{1622_melanargyreus_Bol, D_melanargyreus_1, }
+{1628_coffea, D_coffea, }
+{1633_xapuriensis, D_xapuriensis, }
+{1638_yaracuyanus, D_yaracuyanus, }
+{1801_juliani_par, D_juliani_1, }
+{1802_juliani_par, D_juliani_2, }
+{1803_reicheli_par, D_reicheli_1, }
+{1804_reicheli_par, D_reicheli_2, }
+{1822_elianeae_itap_SP, D_elianeae_1, }
+{1824_cf_rubi_SJdAlianca_GO, D_rubicundulus_1, }
+{1835_nahdereri, D_nahdereri_1, }
+{1838_meridianus, D_decipiens_IV_1, }
+{1839_ruschii, D_ruschii_1_M, }
+{2026_microps_Iporanga_SP, D_microps_1, }
+{2044_anataliasiasi, D_araguaya_II_1, }
+{2053, Scinax_littoralis*, }
+{2100_cf_giesleri_Tapirai_SP, D_giesleri_1, }
+{2169_sp_gr_parviceps, D_giesleri_2, }
+{2174_decipiens, D_decipiens_II, }
+{2228_sartori, D_sartori_1, }
+{2318_sen_Catas_MG, D_seniculus_1, }
+{2324_dutrai, D_dutrai, }
+{2335_novaisi, D_novaisi_1*, }
+{2343_soaresi_Ubajara_CE, D_soaresi_1, }
+{2355_nahdereri, D_nahdereri_2*, }
+{2396_mel_Jauru_MT, D_melanargyreus_2, }
+{2403, Sphaenorhynchus_pauloalvini_M, }
+{2415_mel_Jauru_MT, D_melanargyreus_3, }
+{2468_sp, D_decipiens_VI_1, }
+{2474_soa_Campo_Alegre_AL, D_soaresi_2, }
+{2481_oliverai_top, D_oliveirai_1*, }
+{2487_sp, D_decipiens_IV_2, }
+{2572_branneri_Aurelino_BA, D_branneri_1, }
+{2574_sen_Citrolandia_RJ, D_seniculus_2*, }
+{2626_haddadi_Aurelino_BA, D_decipiens_III_1, }
+{2631_araguaya_AlTaquari_MT, D_araguaya_I_2, }
+{2642_anataliasiasi, D_anataliasiasi_1, }
+{2643_cachimbo, D_cachimbo_1, }
+{2645_pseudomeridianus_top, D_pseudomeridianus_1, }
+{2646_decipiens, D_pseudomeridianus_2, }
+{2647_meridianus_top, D_meridianus_1*, }
+{2659_araguaya_top, D_araguaya_II_2, }
+{2686_acreanus, D_acreanus, }
+{2687_nor, D_norandinus_1, }
+{2690_virolinensis, D_virolinensis*, }
+{2692_parviceps_CO, D_parviceps_1, }
+{2693_padreluna, D_padreluna, }
+{2787_bogerti, D_bogerti_1, }
+{2788_cf_microcephalus_Ubajara_CE, D_minusculus_1, }
+{2789_microcephalus_CO, D_microcephalus_1, }
+{2793_nor, D_norandinus_2, }
+{2794_elianeae_Aricozal_MT, D_elianeae_2_M, }
+{2795_jimi_Itirapina_SP, D_jimi_1, }
+{2864_branneri_Aurelino_BA, D_branneri_2_M, }
+{2868_cf_jimi_3lagoas_MS, D_jimi_2, }
+{2871_marmo_Juruti_PA, D_marmoratus_1_M, }
+{2874_elegans_Sooretama_ES, D_elegans_II_1, }
+{2878_berthalutzae_IlhaBela_SP, D_berthalutzae_1, }
+{2880_columbianus, D_columbianus_1, }
+{2883_bipunctatus_Aurelino_BA, D_bipunctatus_1_M, }
+{2909_rhodopeplus, D_rhodopeplus_1_M, }
+{2911_bogerti, D_bogerti_2, }
+{2913_subocularis, D_subocularis, }
+{2915_decipiens_Sero_RJ, D_decipiens_I_M, }
+{2925_sanborni_Itape_SP, D_sanborni_1, }
+{2944_haddadi_Vitoria_ES, D_haddadi_1, }
+{2960_joannae_CrzSul_AC, D_joannae, }
+{2962_cf_tintinnabulum, D_shiwiarum_3, }
+{2979_ebraccatus, D_ebraccatus_1, }
+{2981_marmo_Itapinima_AM, D_marmoratus_2, }
+{2983_sen_Jussari_BA, D_novaisi_2, }
+{2988_jimi_top, D_jimi_M, }
+{2994_sp1_Pau-Rosa_AM, D_ozzyi_1, }
+{2994_sp1_PauRosa_AM, D_ozzyi_1, }
+{2994_sp1_Pau_Rosa_AM, D_ozzyi_1, }
+{3000_sp1_Pau-Rosa_AM, D_ozzyi_2, }
+{3000_sp1_PauRosa_AM, D_ozzyi_2, }
+{3000_sp1_Pau_Rosa_AM, D_ozzyi_2, }
+{3113_luteoocelatus, D_luteoocelatus, }
+{4002_soa_Minacu_GO, D_soaresi_3*, }
+{4003_rubicundulus_top, D_rubicundulus_2, }
+{4012_cf_xapuriensis, D_xapuriensis_2, }
+{4014_sarayacuensis_AC, D_sarayacuensis_1, }
+{4016_brevifrons_AC, D_brevifrons_1, }
+{4018_koechlini_AC, D_pauiniensis_1, }
+{4022_oliverai_TimbauSul_RN, D_oliveirai_2, }
+{4023_Sca_goinorum, Scarthyla_goinorum_1, }
+{4035_minutus_PARNAAM_PA, D_aff_minutus, }
+{4037_decipiens_Prado_BA, D_haddadi_2*, }
+{4057_minutus_Alcantara_MA, D_minutus_III_1, }
+{4068_nanus, D_nanus_1, }
+{4074_mel_VilaRica_MT, D_melanargyreus_4, }
+{4076_elegans_Itabaiana_SE, D_elegans_II_2, }
+{4085_minutus_Maromba_RJ, D_minutus_I_M, }
+{4086_berthalutzae_top, D_berthalutzae_2*, }
+{4087_manonegra, D_manonegra_1, }
+{4088_meridianus_top, D_meridianus_2, }
+{4089_garagoensis, D_garagoensis_1, }
+{4090_stingi_top, D_stingi_1, }
+{4091_minusculus_col, D_mathiassoni_1, }
+{4092_columbianus, D_columbianus_2*, }
+{4093_minutus_col, D_stingi_2, }
+{4094_bokermanni_col, D_bokermanni_1, }
+{4096_stingi_top, D_stingi_3, }
+{4097_garagoensis, D_garagoensis_2, }
+{4098_minusculus_col, D_mathiassoni_2, }
+{4099_bokermanni_col, D_bokermanni_2, }
+{4100_cruzi_Anapolis_GO, D_cruzi, }
+{4161_rossalleni, D_rossalleni_1, }
+{4192_tremembe, D_minusculus_2, }
+{4193_anceps_Cacapava_SP, D_anceps_1, }
+{4194_chicoanisioi, D_decipiens_V_1, }
+{4195_P_minutus, Pseudis_minutus_M, }
+{4199_elegans_Vicosa_MG, D_elegans, }
+{4201_anceps_Linhares, D_anceps_2, }
+{4202_gr_rubicundulus_Chp_Guim_MT, D_cachimbo_2, }
+{4203_decipiens_Vicosa_MG, D_decipiens_VI_2, }
+{4205_haddadi_Camacan_BA, D_decipiens_III_2, }
+{4207_chicoanisioi, D_decipiens_V_2, }
+{4208_werneri, D_werneri_2, }
+{4209_X_truncata, Xenohyla_truncata_1_M, }
+{4210_araguaya, D_araguaya_I_1, }
+{4212_cerradensis, D_cerradensis_1, }
+{4218_anataliasiasi, D_anataliasiasi_2, }
+{4219_haddadi_Jequie_BA, D_decipiens_VII, }
+{4221_cerradensis, D_cerradensis_2, }
+{4332, Scinax_perereca_M, }
+{4352_gaucheri, D_gaucheri_1, }
+{4355_gaucheri, D_gaucheri_2, }
+{4356_microps, D_microps_2*, }
+{4358_koechlini_PE, D_koechlini, }
+{4364_sp_Santiago, D_frosti, }
+{4365_riveroi, D_riveroi_M, }
+{4372_haraldschultzi, D_haraldschultzi_1, }
+{4374_labialis, D_luddeckei_1, }
+{4379_allenorum, D_timbeba_1*, }
+{4382_riveroi, D_shiwiarum_1, }
+{4384_leali, D_leali_1, }
+{4386_leali, D_leali_2, }
+{4388_schubarti, D_schubarti_1, }
+{4391_allenorum, D_timbeba_2, }
+{4393_robertmertensi, D_robertmertensi, }
+{4395_riveroi, D_shiwiarum_2, }
+{4397_schubarti, D_schubarti_2, }
+{4399_ruschii, D_ruschii_2, }
+{4403_minusculus_RR, D_minusculus_3, }
+{4405_L_laevis, Lysapus_laevis_1, }
+{4409_rossalleni, D_rossalleni_2, }
+{4413_haraldschultzi, D_haraldschultzi_2*, }
+{4415_walfordi, D_rozenmani_1, }
+{4417_walfordi, D_rozenmani_2, }
+{4423_manonegra, D_manonegra_2, }
+{4428_I_langsdorffii, Itapotihyla_langsdorffi_1, }
+{4503_novaisi, D_novaisi_3, }
+{4509_amarelinho, D_decipiens_VIII, }
+{4513_haddadi_top, D_haddadi_3, }
+{4631, D_studerae_1, }
+{4632, D_studerae_2, }
+{477_leucophyllatus, D_leucophyllatus_1, }
+{4812, Xenohyla_eugenioi_1, }
+{4813, Xenohyla_eugenioi_2, }
+{6, Scinax_perereca_M, }
+{D_anceps, D_anceps_3*, }
+{D_berthalutzae, D_berthalutzae_2*, }
+{D_bipunctatus, D_bipunctatus_1_M, }
+{D_branneri, D_branneri_2_M, }
+{D_carnifex, D_carnifex*, }
+{D_columbianus, D_columbianus_2*, }
+{D_decipiens, D_decipiens_I_M, }
+{D_elianeae, D_elianeae_2_M, }
+{D_gryllatus_hDNA_H1, D_gryllatus_hDNA, }
+{D_haddadi, D_haddadi_2*, }
+{D_haraldschultzi, D_haraldschultzi_2*, }
+{D_jimi, D_jimi_M, }
+{D_labialis, D_labialis_1_M, }
+{D_marmoratus, D_marmoratus_1_M, }
+{D_melanargyreus, D_melanargyreus_4, }
+{D_meridianus, D_meridianus_1*, }
+{D_microps, D_microps_2*, }
+{D_minutus, D_minutus_I_M, }
+{D_nahdereri, D_nahdereri_2*, }
+{D_nanus, D_nanus_1, }
+{D_novaisi, D_novaisi_1*, }
+{D_oliveirai, D_oliveirai_1*, }
+{D_oliverai, D_oliveirai_1*, }
+{D_parviceps, D_parviceps_2*, }
+{D_rhea_H1_hDNA, D_rhea_hDNA, }
+{D_rhea_H1_hDNA_COI, D_rhea_hDNA, }
+{D_rhea_H1_hDNA_CYTB, D_rhea_hDNA, }
+{D_rhodopeplus, D_rhodopeplus_1_M, }
+{D_riveroi, D_riveroi_M, }
+{D_ruschii, D_ruschii_1_M, }
+{D_salli_MJ1281_JF790045, D_salli_2, }
+{D_sanborni, D_sanborni_2_M, }
+{D_seniculus, D_seniculus_2*, }
+{D_soaresi, D_soaresi_3*, }
+{D_sp.ARB-2011_MJ1309_JF790110, D_sp.ARB_2011, }
+{D_sp.ARB2011_MJ1309_JF790110, D_sp.ARB_2011, }
+{D_sp.ARB_2011_MJ1309_JF790110, D_sp.ARB_2011, }
+{D_timbeba, D_timbeba_1*, }
+{D_triangulum, D_triangulum_1_M, }
+{D_tritaeniatus_H1_hDNA_CYTB, D_tritaeniatus_hDNA, }
+{D_tritaeniatus_hDNA_COI, D_tritaeniatus_hDNA, }
+{D_tritaeniatus_hDNA_H1, D_tritaeniatus_hDNA, }
+{D_virolinensis, D_virolinensis*, }
+{I_langsdorffii_GB, Itapotihyla_langsdorffi_2, }
+{JD_026_2013_D.praestans, D_praestans, }
+{L_laevis_GB, Lysapus_laevis_2*, }
+{L_limellum, Lysapus_laevis_2*, }
+{P_luteolous_GB, Phyllodytes_luteolous_M, }
+{P_minuta, Pseudis_minutus_M, }
+{Ph_luteolus, Phyllodytes_luteolous_M, }
+{S_berthae, Scinax_berthae_M, }
+{S_fuscovarius, Scinax_fuscovarius*, }
+{S_littoralis, Scinax_littoralis*, }
+{S_perereca, Scinax_perereca_M, }
+{Sca_goinorum_GB, Scarthyla_goinorum_2*, }
+{Scarthyla_goinorum, Scarthyla_goinorum_2*, }
+{Sci_berthae_GB, Scinax_berthae_M, }
+{Sci_fuscovarius_GB, Scinax_fuscovarius*, }
+{Sp_lacteus, Sphaenorhynchus_lacteus_M, }
+{Sp_pauloalvini, Sphaenorhynchus_pauloalvini_M, }
+{Sp_prasinus, Sphaenorhynchus_dorisae*, }
+{Sph_dorisae_GB, Sphaenorhynchus_dorisae*, }
+{Sph_lacteus_GB, Sphaenorhynchus_lacteus_M, }
+{X_truncata_GB, Xenohyla_truncata_2, }
+{Xenohyla_truncata, Xenohyla_truncata_1_M, }
+{anataliasiasi_MK919543, D_anataliasiasi_7, }
+{anataliasiasi_ON561790, D_anataliasiasi_3, }
+{anataliasiasi_ON561797, D_anataliasiasi_4, }
+{anataliasiasi_ON561807, D_anataliasiasi_5, }
+{anataliasiasi_ON561818, D_anataliasiasi_6, }
+{anceps_GB, D_anceps_3*, }
+{aperomeus_AY819450_AY819549, D_aperomeus, }
+{araguaya_ON561811, D_araguaya_II_3, }
+{berthalutzae_GB, D_berthalutzae_GB, }
+{bifurcus_DQ380350_AY362975, D_bifurcus, }
+{bilobatus_MN977836, D_bilobatus_2, }
+{bilobatus_MN977837, D_bilobatus_1, }
+{bipunctatus_GB, D_bipunctatus_2, }
+{brevifrons_GB, D_brevifrons_2, }
+{carnifex_GB, D_carnifex*, }
+{cf_goughi, D_cf_goughi, }
+{delarivai, D_delarivai, }
+{ebraccatus_GB, D_ebraccatus_2, }
+{elegans_GB, D_elegans_I_2, }
+{elianae_JF790046, D_elianae_4, }
+{elianae_MK919553, D_elianae_7, }
+{elianae_MK919555, D_elianae_8, }
+{elianae_ON561787, D_elianae_5, }
+{elianae_ON561808, D_elianae_6, }
+{giesleri_GB, D_giesleri_3, }
+{jimi_MH206245, D_jimi_3, }
+{juliani_JF790053, D_juliani_A, }
+{juliani_JX187447, D_juliani_A_2, }
+{labialis_CG_GB, D_labialis_2, }
+{labialis_GB, D_labialis_1_M, }
+{leuco_Tab, D_leucophyllatus_2_Tab, }
+{luddeckei_GB, D_luddeckei_2, }
+{marmoratus_GB, D_marmoratus_3, }
+{meridensis_GB, D_meridensis, }
+{microcephalus_GB, D_microcephalus_2, }
+{minuta_GB_11, D_minutus_II, }
+{miyatai_GB, D_miyatai, }
+{nanus_GB, D_nanus_2, }
+{parviceps_GB, D_parviceps_2*, }
+{rhodopeplus_GB, D_rhodopeplus_2, }
+{rozenmani_JF790112, D_rozenmani_3, }
+{rozenmani_JF790113, D_rozenmani_4, }
+{rozenmani_JF790114, D_rozenmani_5, }
+{rozenmani_JF790115, D_rozenmani_6, }
+{rubicundulus_GB, D_elianae_3, }
+{rubicundulus_MK919557, D_rubicundulus_13, }
+{rubicundulus_ON561789, D_rubicundulus_3, }
+{rubicundulus_ON561791, D_rubicundulus_14, }
+{rubicundulus_ON561793, D_rubicundulus_17, }
+{rubicundulus_ON561794, D_rubicundulus_10, }
+{rubicundulus_ON561796, D_rubicundulus_11, }
+{rubicundulus_ON561799, D_rubicundulus_8, }
+{rubicundulus_ON561800, D_rubicundulus_4, }
+{rubicundulus_ON561801, D_rubicundulus_12, }
+{rubicundulus_ON561802, D_rubicundulus_9, }
+{rubicundulus_ON561803, D_rubicundulus_16, }
+{rubicundulus_ON561805, D_rubicundulus_15, }
+{rubicundulus_ON561806, D_rubicundulus_6, }
+{rubicundulus_ON561813, D_rubicundulus_7, }
+{rubicundulus_ON561817, D_rubicundulus_5, }
+{rubicundulus_ON561820, D_rubicundulus_18, }
+{salli_AY362976_1216S, D_salli_1, }
+{sanborni_GB, D_sanborni_2_M, }
+{sanborni_KU517290, D_sanborni_3, }
+{sanborni_KU517293, D_sanborni_4, }
+{sanborni_MT460220, D_sanborni_5, }
+{sarayacuensis_GB, D_sarayacuensis_2, }
+{sartori_GB, D_sartori_2, }
+{seniculus_GB, D_seniculus_3, }
+{triangulum_GB, D_triangulum_1_M, }
+{triangulum_Tab, D_triangulum_2_Tab, }
+{tritaeniatus_ON561792, D_cf_tritaeniatus_1, }
+{tritaeniatus_ON561809, D_cf_tritaeniatus_2, }
+{tritaeniatus_ON561810, D_cf_tritaeniatus_3, }
+{tritaeniatus_ON561812, D_cf_tritaeniatus_4, }
+{walfordi_GB, D_walfordi, }
+
+Ignored taxa
+    Xenohyla_truncata_2;
+Xenohyla_eugenioi_2;
+Sphaenorhynchus_dorisae*;
+Scinax_littoralis*;
+Scinax_fuscovarius*;
+Scarthyla_goinorum_2*;
+Lysapus_laevis_2*;
+Itapotihyla_langsdorffi_2;
+D_yaracuyanus;
+D_xapuriensis_2;
+D_xapuriensis;
+D_werneri_2;
+D_virolinensis*;
+D_triangulum_2_Tab;
+D_timbeba_2;
+D_timbeba_1*;
+D_subocularis;
+D_studerae_2;
+D_stingi_3;
+D_stingi_2;
+D_stingi_1;
+D_sp.ARB_2011;
+D_soaresi_3*;
+D_soaresi_2;
+D_soaresi_1;
+D_shiwiarum_3;
+D_shiwiarum_2;
+D_seniculus_3;
+D_seniculus_2*;
+D_seniculus_1;
+D_schubarti_2;
+D_schubarti_1;
+D_sartori_2;
+D_sarayacuensis_2;
+D_sarayacuensis_1;
+D_salli_2;
+D_salli_1;
+D_ruschii_2;
+D_rossalleni_2;
+D_rossalleni_1;
+D_rhodopeplus_2;
+D_reicheli_2;
+D_pseudomeridianus_2;
+D_praestans;
+D_pauiniensis_1;
+D_parviceps_2*;
+D_padreluna;
+D_ozzyi_2;
+D_ozzyi_1;
+D_oliveirai_2;
+D_oliveirai_1*;
+D_novaisi_3;
+D_novaisi_2;
+D_novaisi_1*;
+D_norandinus_2;
+D_norandinus_1;
+D_nanus_2;
+D_nahdereri_2*;
+D_nahdereri_1;
+D_miyatai;
+D_minutus_III_1;
+D_minutus_II;
+D_microps_2*;
+D_microps_1;
+D_microcephalus_2;
+D_meridianus_2;
+D_meridianus_1*;
+D_melanargyreus_4;
+D_melanargyreus_3;
+D_melanargyreus_2;
+D_melanargyreus_1;
+D_marmoratus_3;
+D_marmoratus_2;
+D_manonegra_2;
+D_manonegra_1;
+D_luteoocelatus;
+D_luddeckei_2;
+D_luddeckei_1;
+D_leucophyllatus_2_Tab;
+D_leucophyllatus_1;
+D_leali_2;
+D_labialis_2;
+D_koechlini;
+D_haraldschultzi_2*;
+D_haraldschultzi_1;
+D_haddadi_3;
+D_haddadi_2*;
+D_haddadi_1;
+D_gryllatus_hDNA;
+D_giesleri_3;
+D_giesleri_2;
+D_giesleri_1;
+D_gaucheri_2;
+D_garagoensis_2;
+D_garagoensis_1;
+D_frosti;
+D_elegans_I_2;
+D_elegans_II_2;
+D_elegans_II_1;
+D_ebraccatus_2;
+D_ebraccatus_1;
+D_dutrai;
+D_delarivai;
+D_decipiens_V_2;
+D_decipiens_V_1;
+D_decipiens_VI_2;
+D_decipiens_VI_1;
+D_decipiens_VIII;
+D_decipiens_VII;
+D_decipiens_IV_2;
+D_decipiens_IV_1;
+D_decipiens_III_2;
+D_decipiens_III_1;
+D_decipiens_II;
+D_columbianus_2*;
+D_cf_goughi;
+D_carnifex*;
+D_brevifrons_2;
+D_brevifrons_1;
+D_bokermanni_2;
+D_bokermanni_1;
+D_bogerti_2;
+D_bogerti_1;
+D_bipunctatus_2;
+D_bifurcus;
+D_berthalutzae_GB;
+D_berthalutzae_2*;
+D_berthalutzae_1;
+D_aperomeus;
+D_anceps_3*;
+D_anceps_2;
+D_anceps_1;
+D_aff_minutus;
+D_acreanus;
+89_carnifex;
+3459_SPX;
+
+Characters
+    Non Additive
+    
+    Total 157
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+ File Source         Name                                                                                                          Weight         Missing Symbol         Match Symbol         Gap Symbol         Ignore         Case Sentive         Set
+dendropsophus124.ss Alary_process_of_premaxilla_shape.                                                                            1.             ?                                           -                  false          true                 {:_Base_and_tip_subequal., :_Base_much_broader_then_tip., 0, 1, }
+dendropsophus124.ss Angle_of_vomers_medial_margins_in_relation_to_sagital_axis.                                                   1.             ?                                           -                  false          true                 {:_Divergent_about_30_degrees_of_the_sagital_axis., :_Divergent_about_45_degrees_of_the_sagital_axis., 0, 1, }
+dendropsophus124.ss Anterior_labial_tooth_rows.                                                                                   1.             ?                                           -                  false          true                 {:_Rows_absent., :_Rows_present., 0, 1, }
+dendropsophus124.ss Anterior_process_of_hyoid.                                                                                    1.             ?                                           -                  false          true                 {:_Anterior_process_of_hyoid_absent., :_Anterior_process_of_hyoid_present., 0, 1, }
+dendropsophus124.ss Anterior_process_of_the_suprascapula.                                                                         1.             ?                                           -                  false          true                 {:_Process_absent., :_Process_present., 0, 1, }
+dendropsophus124.ss Anterior_process_of_vomer.                                                                                    1.             ?                                           -                  false          true                 {:_Process_absent., :_Process_present., 0, 1, }
+dendropsophus124.ss Arytenoids_inner_longitudinal_ridge_shape.                                                                    1.             ?                                           -                  false          true                 {:_Absent., :_Present., 0, 1, }
+dendropsophus124.ss Axillary_membrane.                                                                                            1.             ?                                           -                  false          true                 {:_Membrane_absent., :_Membrane_present., 0, 1, }
+dendropsophus124.ss Belly_ornamentation_pattern.                                                                                  1.             ?                                           -                  false          true                 {:_Homogeneously_clear., :_Blotched., :_Marbled., :_Homogeneously_black., 0, 1, 2, 3, }
+dendropsophus124.ss Calcar_presence.                                                                                              1.             ?                                           -                  false          true                 {:_Calcar_absent., :_Calcar_present., 0, 1, }
+dendropsophus124.ss Calcar_shape.                                                                                                 1.             ?                                           -                  false          true                 {:_Tubercular., :_Rounded_fringe., 0, 1, }
+dendropsophus124.ss Canthal_stripe_-_I.                                                                                           1.             ?                                           -                  false          true                 {:_Stripe_absent., :_Stripe_present., 0, 1, }
+dendropsophus124.ss Canthal_stripe_-_II.                                                                                          1.             ?                                           -                  false          true                 {:_White., :_Black., 0, 1, }
+dendropsophus124.ss Cartilaginous_plate.                                                                                          1.             ?                                           -                  false          true                 {:_Regular., :_Expanded., 0, 1, }
+dendropsophus124.ss Cartilago_obliqua_lateral_margin_curvature_in_relation_to_medial_axis.                                        1.             ?                                           -                  false          true                 {:_Cartilago_obliqua_concave., :_Cartilago_obliqua_convex_or_almost__straight., 0, 1, }
+dendropsophus124.ss Caudal_third_portion_of_thyrohyals.                                                                           1.             ?                                           -                  false          true                 {:_Not_expanded.,_with_approximately_the_same_width_of_the_rest_(with_exception_of_thyrohyals_caudal_cartilaginous_portion)., :_Expanded.,_wider,_at_least_1.5x,_than_the_rest_(around_thyrohyals_caudal_cartilaginous_portion_width)., 0, 1, }
+dendropsophus124.ss Central_butresses                                                                                             1.             ?                                           -                  false          true                 {:_Absent., :_Present., 0, 1, }
+dendropsophus124.ss Chromosome_number.                                                                                            1.             ?                                           -                  false          true                 {:_22., :_24., :_30., 0, 1, 2, }
+dendropsophus124.ss Cloacal_sheath.                                                                                               1.             ?                                           -                  false          true                 {:_Short.,_not_covering_all_cloaca_in_posterior_view., :_Long.,_covering_all_cloaca_in_posterior_view., 0, 1, }
+dendropsophus124.ss Color_of_the_vocal_sac_inflatable_portion_in_preservative.                                                    1.             ?                                           -                  false          true                 {:_Clear_cream_or_white., :_Blotched., :_Anteriorly_black., :_Completely_black., 0, 1, 2, 3, }
+dendropsophus124.ss Columellae_orientation_to_medial_body_axis.                                                                   1.             ?                                           -                  false          true                 {:_Perpendicular_or_slightly_oriented_forward_(up_to_30_degrees_of_a_transverse_axis)., :_Strongly_oriented_forward_(about_45_degrees)., 0, 1, }
+dendropsophus124.ss Conection_between_processus_lingularis_and_lamina_orbitonasalis.                                              1.             ?                                           -                  false          true                 {:_Processus_lingularis_and_lamina_orbitonasalis_not_connected., :_Processus_lingularis_and_lamina_orbitonasalis_connected., 0, 1, }
+dendropsophus124.ss Coracoid_crest.                                                                                               1.             ?                                           -                  false          true                 {:_Crest_absent., :_Crest_present., 0, 1, }
+dendropsophus124.ss Crista_subnasalis_ventral_edge.                                                                               1.             ?                                           -                  false          true                 {:_Single,_straight., :_Bicapitate., 0, 1, }
+dendropsophus124.ss Crista_supraorbitalis.                                                                                        1.             ?                                           -                  false          true                 {:_A_small_piece_of_cartilage_that_does_not_invade_orbit_transversally., :_A_cartilaginous_structure_that_invades_the_orbit_transversally., 0, 1, }
+dendropsophus124.ss Crista_supraorbitalis_shape.                                                                                  1.             ?                                           -                  false          true                 {:_Without__distal_expansion.,_straight., :_Anterolaterally_expanded.,_angled., 0, 1, }
+dendropsophus124.ss Degree_of_ossification_of_sphenethmoid_lateral_margins.                                                       1.             ?                                           -                  false          true                 {:_Not_reaching_ocular_fenestra., :_Reaching_anterior_(cranial)_wall_of_ocular_fenestra,_but_only_ventrally., :_Reaching_anterior_(cranial)_wall_of_ocular_fenestra_both_ventrally_and_dorsally_(in_lateral_view,_the_left_posterior_wall_of_sphenethmoid_has_a_"C?-shape._, 0, 1, 2, }
+dendropsophus124.ss Dorsomedial_prominence_of_the_arytenoids.                                                                     1.             ?                                           -                  false          true                 {:_Poorly_developed.,_major_axis_parallel_to_arytenoids., :_Well_developed.,_right_triangle_shaped,_with_major_axis_parallel_to_arytenoids., :_Well_developed.,_isosceles_triangle_shaped,_with_anterior_margin_slightly_convex., :_Well_developed.,_right_triangle_shaped,_with_major_axis_perpendicular_to_arytenoids., 0, 1, 2, 3, }
+dendropsophus124.ss Dorsum_ornamentation.                                                                                         1.             ?                                           -                  false          true                 {:_Smooth., :_With_spiculae., :_With_tubercles., 0, 1, 2, }
+dendropsophus124.ss Esophageal_margin_of_cricoid_ring_in_esophageal_view.                                                         1.             ?                                           -                  false          true                 {:_Curved_margin., :_Straight_margin., 0, 1, }
+dendropsophus124.ss Female_pectoral_gland_presence.                                                                               1.             ?                                           -                  false          true                 {:_Gland_absent., :_Gland_present., 0, 1, }
+dendropsophus124.ss Flanks_ornamentation_pattern.                                                                                 1.             ?                                           -                  false          true                 {:_Homogeneous., :_Blotched., :_Stripped., :_Marbled., 0, 1, 2, 3, }
+dendropsophus124.ss Frontal_and_canthal_lines_connection.                                                                         1.             ?                                           -                  false          true                 {:_Connecting_dorsally_to_the_nares., :_Connecting_laterally_to_the_nares., 0, 1, }
+dendropsophus124.ss Frontal_lines_-_I.                                                                                            1.             ?                                           -                  false          true                 {:_Lines_absent., :_Lines_present., 0, 1, }
+dendropsophus124.ss Frontal_lines_-_II.                                                                                           1.             ?                                           -                  false          true                 {:_One,_vertical,_dividing_rostrum_in_two_halves., :_Two,_forming_a_"V"_in_frontal_view., 0, 1, }
+dendropsophus124.ss Frontal_lines_-_III.                                                                                          1.             ?                                           -                  false          true                 {:_Thin_line(s)., :_Thick_line(s)., 0, 1, }
+dendropsophus124.ss Frontoparietal_orbital_flange.                                                                                1.             ?                                           -                  false          true                 {:_Flange_absent., :_Flange_present., 0, 1, }
+dendropsophus124.ss Hyal_basal_portion.                                                                                           1.             ?                                           -                  false          true                 {:_Thin., :_Broad., 0, 1, }
+dendropsophus124.ss Hyoid_anterolateral--or_alary--process_presence.                                                              1.             ?                                           -                  false          true                 {:_Anterolateral_process_absent., :_Anterolateral_process_present., 0, 1, }
+dendropsophus124.ss Hyoid_anterolateral--or_alary--process_shape.                                                                 1.             ?                                           -                  false          true                 {:_Strongly_reduced_to_a_laminar_blade_parallel_to_hyal_axis., :_Anterolateral_process_developed_as_a_transversal_rod., 0, 1, }
+dendropsophus124.ss Hyoid_plate_medial_mineralization.                                                                            1.             ?                                           -                  false          true                 {:_Mineralization_absent., :_Mineralization_present., 0, 1, }
+dendropsophus124.ss Hyoid_posterolateral_process_orientation.                                                                     1.             ?                                           -                  false          true                 {:_Directed_45_degrees_posteriorly_in_relation_to_hyoid_plate., :_Directed_laterally_(90_degrees_in_relation_to_hyoid_plate)., :_Directed_posteriorly., 0, 1, 2, }
+dendropsophus124.ss Hyoid_posterolateral_process_origin.                                                                          1.             ?                                           -                  false          true                 {:_At,_or_just_above,_thyrohyal_level., :_More_than_one_posterolateral_process_width_above_thyrohyial., 0, 1, }
+dendropsophus124.ss Inferior_margin_of_the_orbit_position_in_relation_to_the_nostrils.                                            1.             ?                                           -                  false          true                 {:_Inferior_margin_of_the_orbit_lower_than_nostrils., :_Inferior_margin_of_the_orbit_higher_than_nostrils., 0, 1, }
+dendropsophus124.ss Intercalary_element_shape.                                                                                    1.             ?                                           -                  false          true                 {:_Small.,_cuboidal,_transverse_to_other_phalanges., :_Elongated.,_linearly_aligned_with_other_phalanges., 0, 1, }
+dendropsophus124.ss Internal_buttresses_of_the_arytenoids.                                                                        1.             ?                                           -                  false          true                 {:_Buttresses_absent., :_Buttresses_present., 0, 1, }
+dendropsophus124.ss Intestinal_visceral_peritoneum.                                                                               1.             ?                                           -                  false          true                 {:_Clear.,_transparent., :_Iridophores_present., 0, 1, }
+dendropsophus124.ss Kidneys_posterior_cardinal_sinus.                                                                             1.             ?                                           -                  false          true                 {:_Melanofores_absent., :_Melanofores_present., 0, 1, }
+dendropsophus124.ss Larval_body_shape_in_dorsal_view.                                                                             1.             ?                                           -                  false          true                 {:_Rounded.,_ovoid., :_Violin-shaped., 0, 1, }
+dendropsophus124.ss Larval_fin_coloration.                                                                                        1.             ?                                           -                  false          true                 {:_Homogeneous_brown_or_similar,_mostly_ground_color., :_Zebra_like,_with_black_or_dark_brown_bars_separated_by_translucent_ones., :_Blotched.,_marbled., :_Translucent.,_unpigmented., 0, 1, 2, 3, }
+dendropsophus124.ss Larval_nostril_orientation.                                                                                   1.             ?                                           -                  false          true                 {:_Dorsolateral., :_Frontal., 0, 1, }
+dendropsophus124.ss Larval_nostril_position.                                                                                      1.             ?                                           -                  false          true                 {:_Dorsolateral., :_Frontal., 0, 1, }
+dendropsophus124.ss Larval_nostril_shape.                                                                                         1.             ?                                           -                  false          true                 {:_Kidney_shaped., :_Valved_shaped., 0, 1, }
+dendropsophus124.ss Larval_tail_shape.                                                                                            1.             ?                                           -                  false          true                 {:_Acute., :_Xiphicercal., 0, 1, }
+dendropsophus124.ss Lateral_margin_of_nasal_in_dorsal_view.                                                                       1.             ?                                           -                  false          true                 {:_Straight_margin., :_Concave_margin., 0, 1, }
+dendropsophus124.ss Lateral_portion_of_the_nasal_relation_to_the_lateroposterior_portion_of_the_cartilago_obliqua_in_dorsal_view. 1.             ?                                           -                  false          true                 {:_Nasal_not_covering_cartilago_obliqua., :_Nasal_covering_cartilago_obliqua., 0, 1, }
+dendropsophus124.ss Liver_color.                                                                                                  1.             ?                                           -                  false          true                 {:_Cream_colored,_with_sparse_melanophores., :_Dark., 0, 1, }
+dendropsophus124.ss Liver_size.                                                                                                   1.             ?                                           -                  false          true                 {:_Covering_only_a_small_part_of_the_stomach., :_Reaching_the_pylorus., 0, 1, }
+dendropsophus124.ss Lung_pigmentation.                                                                                            1.             ?                                           -                  false          true                 {:_Melanofores_absent., :_Melanofores_present., 0, 1, }
+dendropsophus124.ss M._pectoralis_origin.                                                                                         1.             ?                                           -                  false          true                 {:_Fibers_originate_at_midbody., :_Fibers_originate_on_pelvis.,_tendon_not_evident., 0, 1, }
+dendropsophus124.ss M._pectoralis_portio_axillary_presence.                                                                       1.             ?                                           -                  false          true                 {:_Absent., :_Present., 0, 1, }
+dendropsophus124.ss Male_glandular_nuptial_pad_shape.                                                                             1.             ?                                           -                  false          true                 {:_Overall_appearance_as_a_non-hypertrophied_pad., :_Overall_appearance_as_a_largely_hypertrophied_pad., 0, 1, }
+dendropsophus124.ss Male_pectoral_gland_presence.                                                                                 1.             ?                                           -                  false          true                 {:_Gland_absent., :_Gland_present., 0, 1, }
+dendropsophus124.ss Male_pectoral_gland_shape.                                                                                    1.             ?                                           -                  false          true                 {:_Two_clear_distinct_patches., :_A_single_structure,_not_divided., :_As_scattered_acini., 0, 1, 2, }
+dendropsophus124.ss Mandibular_odontoids.                                                                                         1.             ?                                           -                  false          true                 {:_Odontoids_absent., :_Odontoids_present., 0, 1, }
+dendropsophus124.ss Margin_of_the_basal_process_covered_by_the_medial_ramus_of_the_pyterigoid.                                    1.             ?                                           -                  false          true                 {:_Anterior_margin., :_Ventral_margin., 0, 1, }
+dendropsophus124.ss Marginal_labial_papillae_row_posterolateral_gap.                                                              1.             ?                                           -                  false          true                 {:_Continuous., :_Gaped., 0, 1, }
+dendropsophus124.ss Maxillary_process_of_the_nasal.                                                                               1.             ?                                           -                  false          true                 {:_Nasal_maxillary_process_absent., :_Nasal_maxillary_process_present., 0, 1, }
+dendropsophus124.ss Maxillary_teeth.                                                                                              1.             ?                                           -                  false          true                 {:_Maxillary_teeth_not_reaching_the_end_of_maxilla., :_Maxillary_teeth_reaching_the_end_of_maxilla., 0, 1, }
+dendropsophus124.ss Medioventral_arytenoid_fibrous_masses.                                                                        1.             ?                                           -                  false          true                 {:_Not_extending_ventrally_of_arytenoid_margin., :_Extending_ventrally_of_arytenoid_margin., 0, 1, }
+dendropsophus124.ss Mesenterium.                                                                                                  1.             ?                                           -                  false          true                 {:_Melanofores_absent., :_Melanofores_present., 0, 1, }
+dendropsophus124.ss Metatarsal_III_sesamoid.                                                                                      1.             ?                                           -                  false          true                 {:_Sesamoid_absent., :_Sesamoid_present., 0, 1, }
+dendropsophus124.ss Metatarsal_III_sesamoid_-_shape.                                                                              1.             ?                                           -                  false          true                 {:_Cartilaginous_(or_slightly_ossified)_crest., :_Spherical., 0, 1, }
+dendropsophus124.ss Metatarsal_II_sesamoid.                                                                                       1.             ?                                           -                  false          true                 {:_Sesamoid_absent., :_Sesamoid_present., 0, 1, }
+dendropsophus124.ss Metatarsal_II_sesamoid_-_shape.                                                                               1.             ?                                           -                  false          true                 {:_As_a_tiny_crest., :_Spherical., 0, 1, }
+dendropsophus124.ss Metatarsal_I_sesamoid.                                                                                        1.             ?                                           -                  false          true                 {:_Sesamoid_absent., :_Sesamoid_present., 0, 1, }
+dendropsophus124.ss Myocardium.                                                                                                   1.             ?                                           -                  false          true                 {:_Melanofores_absent., :_Melanofores_present., 0, 1, }
+dendropsophus124.ss Nasals_overlap_with_sphenethmoid.                                                                             1.             ?                                           -                  false          true                 {:_Nasals_not_overlapping_with_sphenethmoid., :_Nasals_overlapping_with_sphenethmoid., 0, 1, }
+dendropsophus124.ss Nature_of_contact_between_pterygoid_anterior_ramus_and_maxilla.                                               1.             ?                                           -                  false          true                 {:_Reduced_relationship.,_>40%_of_anterior_ramus_length_or_less., :_Extensive_relationship.,_<50%_anterior_ramus_length., 0, 1, }
+dendropsophus124.ss Nostril_position.                                                                                             1.             ?                                           -                  false          true                 {:_At_the_top_of_snout,_dorsolateral., :_Lateral_to_the_snout,_frontally_or_laterally_directed., 0, 1, }
+dendropsophus124.ss Number_of_distal_prepolical_elements.                                                                         1.             ?                                           -                  false          true                 {:_One., :_Two., :_Three., 0, 1, }
+dendropsophus124.ss Number_of_visible_liver_lobes_in_ventral_view.                                                                1.             ?                                           -                  false          true                 {:_Two., :_Three., 0, 1, }
+dendropsophus124.ss Operculum_dorsal_visibility.                                                                                  1.             ?                                           -                  false          true                 {:_Operculum_dorsally_not_visible., :_Operculum_dorsally_visible., 0, 1, }
+dendropsophus124.ss Oral_disc_marginal_labial_papillae.                                                                           1.             ?                                           -                  false          true                 {:_Papillae_absent., :_Papillae_present., 0, 1, }
+dendropsophus124.ss Oral_disc_position.                                                                                           1.             ?                                           -                  false          true                 {:_Anterior.,_terminal.,_directed_anteriorly_oral_disc., :_Anteroventral_oral_disc.,_directed_more_ventrally_then_anteriorly., :_Ventral_oral_disc., 0, 1, 2, }
+dendropsophus124.ss Ossification_of_oculomotor_foramen_medial_margin.                                                             1.             ?                                           -                  false          true                 {:_Not_ossified., :_Ossified., 0, 1, }
+dendropsophus124.ss Otic_plate_of_squamosal.                                                                                      1.             ?                                           -                  false          true                 {:_Not_laying_over_crista_parotica_expansion., :_Laying_over_crista_parotica_expansion_until_its_midpoint_caudally., 0, 1, }
+dendropsophus124.ss Palatines_medial_margin_shape.                                                                                1.             ?                                           -                  false          true                 {:_Lateral_edge_club-like.,_blunt., :_Lateral_edge_needle-like.,_pointed., 0, 1, }
+dendropsophus124.ss Paramedial_butresses                                                                                          1.             ?                                           -                  false          true                 {:_Absent., :_Present., 0, 1, }
+dendropsophus124.ss Parasphenoid_alae_lateral_extension.                                                                          1.             ?                                           -                  false          true                 {:_Reaching_the_otic_capsules., :_Lying_over_the_otic_capsule., 0, 1, }
+dendropsophus124.ss Parasphenoid_cultriform_process_margins.                                                                      1.             ?                                           -                  false          true                 {:_Subparallel_margins., :_Convex_margins., 0, 1, }
+dendropsophus124.ss Parasphenoid_posterior_margin.                                                                                1.             ?                                           -                  false          true                 {:_Convexly_rounded., :_Presenting_a_posteromedial_process_shaped_as_a_triangular_tip., 0, 1, }
+dendropsophus124.ss Pars_externa_plectri_shape.                                                                                   1.             ?                                           -                  false          true                 {:_Club-like., :_Racket-like., 0, 1, }
+dendropsophus124.ss Pars_facialis_of_the_maxilla.                                                                                 1.             ?                                           -                  false          true                 {:_Not_covering_crista_subnasalis_laterally_to_the_level_of_the_solum_nasi_insertion., :_Covering_crista_subnasalis_laterally_to_the_level_of_the_solum_nasi_insertion., 0, 1, }
+dendropsophus124.ss Pectoral_lymph_septum.                                                                                        1.             ?                                           -                  false          true                 {:_Pectoral_lymph_septum_not_extending_into_arm.,_fixation_points_in_the_m._deltoideus., :_Pectoral_lymph_septum_extending_into_arm.,_fixation_point_in_the_axillary_membrane., 0, 1, }
+dendropsophus124.ss Pelvic_girdle_melanin_deposits.                                                                               1.             ?                                           -                  false          true                 {:_Deposits_absent., :_Deposits_present., 0, 1, }
+dendropsophus124.ss Pericardium_iridophores.                                                                                      1.             ?                                           -                  false          true                 {:_Iridophores_absent., :_Iridophores_present., 0, 1, }
+dendropsophus124.ss Point_of_attachment_of_hyale_to_the_skull.                                                                    1.             ?                                           -                  false          true                 {:_Hyale_attaching_to_the_basal_process., :_Hyale_attaching_to_the_prootic., 0, 1, }
+dendropsophus124.ss Position_of_the_proctodeal_tube_with_respect_to_the_ventral_caudal_fin.                                       1.             ?                                           -                  false          true                 {:_Above_the_margin_of_the_lower_fin., :_At_the_margin_of_the_lower_fin., 0, 1, }
+dendropsophus124.ss Postaxillar_pectoral_fold_presence.                                                                           1.             ?                                           -                  false          true                 {:_Fold_absent., :_Fold_present., 0, 1, }
+dendropsophus124.ss Posterior_labial_tooth_rows.                                                                                  1.             ?                                           -                  false          true                 {:_Rows_absent., :_Rows_present., 0, 1, }
+dendropsophus124.ss Posterior_margin_of_vertebra_VI.                                                                              1.             ?                                           -                  false          true                 {:_Straight.,_vertebra_wider_than_long_(>1.2x)., :_Curved.,_vertebra_as_wide_as_long_(<1.1x)., 0, 1, }
+dendropsophus124.ss Posterior_margins_of_the_arytenoids_in_lateral_view.                                                          1.             ?                                           -                  false          true                 {:_Not_or_slightly_passing_cricoid_ring., :_Clearly_passing_cricoid_ring., 0, 1, }
+dendropsophus124.ss Posterolateral_development_of_frontoparietals.                                                                1.             ?                                           -                  false          true                 {:_Posterior_margin_of_frontoparietals_not_reaching_epiotic_eminences., :_Posterior_margin_of_frontoparietals_reaching_or_slightly_covering_epiotic_eminences., 0, 1, }
+dendropsophus124.ss Preaxillary_pectoral_fold.                                                                                    1.             ?                                           -                  false          true                 {:_Fold_absent., :_Fold_present., 0, 1, }
+dendropsophus124.ss Premaxilla_relation_with_nasal_capsules_in_dorsal_view.                                                       1.             ?                                           -                  false          true                 {:_Nasal_capsules_do_not_cover_premaxilla_pars_dentalis., :_Nasal_capsules_cover_premaxilla_pars_dentalis., 0, 1, }
+dendropsophus124.ss Processus_maxillaris_of_the_planum_terminale_anterior_development.                                            1.             ?                                           -                  false          true                 {:_Reduced_processus., :_Developed_processus., 0, 1, }
+dendropsophus124.ss Processus_prenasalis_medius.                                                                                  1.             ?                                           -                  false          true                 {:_Processus_prenasalis_medius_absent., :_Processus_prenasalis_medius_present., 0, 1, }
+dendropsophus124.ss Pterygoid_medial_flange.                                                                                      1.             ?                                           -                  false          true                 {:_Flange_absent., :_Flange_present., 0, 1, }
+dendropsophus124.ss Quadratojugal.                                                                                                1.             ?                                           -                  false          true                 {:_Quadratojugal_absent_or_extremely_reduced., :_Quadratojugal_present., 0, 1, }
+dendropsophus124.ss Relation_between_larval_tail_fins.                                                                            1.             ?                                           -                  false          true                 {:_Dorsal_clearly_shallower., :_Equal_or_subequal., :_Ventral_clearly_shallower., 0, 1, 2, }
+dendropsophus124.ss Relationship_between_dentigerous_process_and_the_main_body_of_vomer.                                          1.             ?                                           -                  false          true                 {:_Dentigerous_process_is_continuous_to_the_main_body_of_vomer., :_Dentigerous_process_is_separated_of_the_main_body_of_vomer_or_connected_by_a_medial_constricted_portion., 0, 1, }
+dendropsophus124.ss Relationship_between_prootic_and_exooccipital_ventrally.                                                      1.             ?                                           -                  false          true                 {:_Not_fused., :_Fused., 0, 1, }
+dendropsophus124.ss Relationship_between_pterygoid_anterior_ramus_and_maxilla.                                                    1.             ?                                           -                  false          true                 {:_Not_reaching., :_Reaching., 0, 1, }
+dendropsophus124.ss Relationship_between_quadratojugal_and_maxilla_(in_males).                                                    1.             ?                                           -                  false          true                 {:_Not_in_contact., :_In_contact., 0, 1, }
+dendropsophus124.ss Relationship_between_quadratojugal_and_squamosal_(in_males).                                                  1.             ?                                           -                  false          true                 {:_Not_in_contact., :_In_contact., 0, 1, }
+dendropsophus124.ss Relationship_between_the_annulus_tympanicus_and_crista_parotica.                                              1.             ?                                           -                  false          true                 {:_Annulus_tympanicus_free_from_crista_parotica., :_Anterior_portion_of_annulus_fused_to_crista_parotica., 0, 1, }
+dendropsophus124.ss Relative_size_of_liver_sides.                                                                                 1.             ?                                           -                  false          true                 {:_Subequal., :_Left_clearly_larger., 0, 1, }
+dendropsophus124.ss Retrolateral_process_of_crista_parotica.                                                                      1.             ?                                           -                  false          true                 {:_Retrolateral_process_absent., :_Retrolateral_process_present., 0, 1, }
+dendropsophus124.ss Rhodomelanocrom_presence.                                                                                     1.             ?                                           -                  false          true                 {:_Rhodomelanocrom_absent., :_Rhodomelanocrom_present., 0, 1, }
+dendropsophus124.ss Sacral_sesamoid.                                                                                              1.             ?                                           -                  false          true                 {:_Sesamoid_absent., :_Sesamoid_present., 0, 1, }
+dendropsophus124.ss Sacral_sesamoid_-_nature.                                                                                     1.             ?                                           -                  false          true                 {:_Cartilaginous., :_Ossified., 0, 1, }
+dendropsophus124.ss Shanks_dorsal_coloration_pattern.                                                                             1.             ?                                           -                  false          true                 {:_Homogeneous.,_i.e._not_differentiable_from_other_areas_of_the_shanks., :_With_dark_transversal_stripes., :_With_well_defined_clear_blotches_over_a_darker_base,_regardless_of_the_number_and_similar_to_dorsal_coloration, :_With_loosely_defined_dark_blotches_over_a_lighter_base,_regardless_of_the_number_and_similar_to_dorsal_coloration, 0, 1, 2, 3, }
+dendropsophus124.ss Shape_of_the_anterior_process_of_hyoid.                                                                       1.             ?                                           -                  false          true                 {:_Process_transverse_to_hyal_"axis".,_subcilindric., :_Plate_along_the_hyal_"axis".,_laminar., 0, 1, }
+dendropsophus124.ss Shape_of_the_postaxillar_pectoral_fold.                                                                       1.             ?                                           -                  false          true                 {:_Continuous., :_Interrupted_medially., 0, 1, }
+dendropsophus124.ss Shape_of_the_sacral_diapophysis.                                                                              1.             ?                                           -                  false          true                 {:_Expanded_diapophysis_(index_maximum/minimum_length_of_diapophysis>_6)., :_Rounded_diapophysis_(index_maximum/minimum_length_of_diapophysis_<_3.5)., 0, 1, }
+dendropsophus124.ss Sheath_of_thickened_tissue_in_the_basal_portion_of_the_tail_muscle_and_adjacent_fins.                         1.             ?                                           -                  false          true                 {:_Sheath_absent., :_Sheath_present., 0, 1, }
+dendropsophus124.ss Site_of_clutch_deposition.                                                                                    1.             ?                                           -                  false          true                 {:_Aquatic., :_Terrestrial_(perched_on_branches_or_leaves)., 0, 1, }
+dendropsophus124.ss Size_relation_between_testes_and_kidneys.                                                                     1.             ?                                           -                  false          true                 {:_Small_testes.,_not_larger_than_half_kidney_length., :_Large_testes.,_about_the_same_length_of_the_kidney., 0, 1, }
+dendropsophus124.ss Skin_around_the_margin_of_the_lower_lip.                                                                      1.             ?                                           -                  false          true                 {:_Smooth., :_Warty., 0, 1, }
+dendropsophus124.ss Sphenethmoid_lateral_degree_of_ossification.                                                                  1.             ?                                           -                  false          true                 {:_Planum_antorbitale_entirely_cartilaginous., :_Ossification_of_the_planum_antorbitale_extending_to_the_level_of,_but_not_including_the_anterior_process_of_the_postnasal_wall., :_Ossification_extending_to_the_level_of_anterior_process_of_postnasal_wall., 0, 1, 2, }
+dendropsophus124.ss Sphenethmoid_ventral_posterior_degree_of_ossification.                                                        1.             ?                                           -                  false          true                 {:_Not_reaching_orbit_midpoint., :_Reaching_orbit_midpoint., 0, 1, }
+dendropsophus124.ss Subnarial_spot.                                                                                               1.             ?                                           -                  false          true                 {:_Spot_absent., :_Spot_present., 0, 1, }
+dendropsophus124.ss Suborbital_white_bar_-_extension.                                                                             1.             ?                                           -                  false          true                 {:_Under_the_eye_only., :_Extending_onto_the_body., :_Extending_from_rostrum_to_posterior_edge_of_the_eye., 0, 1, 2, }
+dendropsophus124.ss Suborbital_white_bar_presence.                                                                                1.             ?                                           -                  false          true                 {:_Bar_absent,, :_Bar_present., 0, 1, }
+dendropsophus124.ss Tadpole_body_dorsal_coloration.                                                                               1.             ?                                           -                  false          true                 {:_Without_a_pair_of_paramedian_yellow_or_cream_stripes., :_With_a_pair_of_paramedian_yellow_or_cream_stripes., 0, 1, }
+dendropsophus124.ss Tadpole_dorsal_tail_fin_initial_lateral_profile.                                                              1.             ?                                           -                  false          true                 {:_Low., :_High., 0, 1, }
+dendropsophus124.ss Tarsal_fold_nature.                                                                                           1.             ?                                           -                  false          true                 {:_Delicate., :_Well-defined_fold., :_Tubercles., 0, 1, 2, }
+dendropsophus124.ss Tarsal_fold_presence.                                                                                         1.             ?                                           -                  false          true                 {:_Tarsal_fold_absent., :_Tarsal_fold_present., 0, 1, }
+dendropsophus124.ss Thigh_posterior_and_dorsal_areas_relation.                                                                    1.             ?                                           -                  false          true                 {:_Dorsal_and_posterior_areas_of_the_thighs_homogeneous,_not_blotched_nor_differentiable_through_color_pattern., :_Dorsal_area_different_from_posterior_area._Dorsal_following_the_general_dorsal_pattern_that_is_different_from_the_posterior_area_pattern., :_Dorsal_and_posterior_areas_of_the_thighs_homogeneous_blotched., 0, 1, 2, }
+dendropsophus124.ss Thigh_posterior_area_pattern.                                                                                 1.             ?                                           -                  false          true                 {:_Homogeneous., :_Well_defined_blotched_or_marbled., :_Longitudinally_stripped., :_Loosely_blotched_or_marbled., 0, 1, 2, 3, }
+dendropsophus124.ss Thigh_ventral_area_pattern.                                                                                   1.             ?                                           -                  false          true                 {:_Homogeneous., :_Blotched., :_Longitudinally_stripped., 0, 1, 2, }
+dendropsophus124.ss Throat_ornamentation_pattern.                                                                                 1.             ?                                           -                  false          true                 {:_Homogeneously_clear., :_Blotched., :_Marbled., :_Homogeneously_black., 0, 1, 2, 3, }
+dendropsophus124.ss Tibial_ventral_fold.                                                                                          1.             ?                                           -                  false          true                 {:_Tibial_ventral_fold_absent., :_Tibial_ventral_fold_present., 0, 1, }
+dendropsophus124.ss Toe_I_disc_shape.                                                                                             1.             ?                                           -                  false          true                 {:_Rounded., :_Transversely_elliptical., :_Longitudinally_elliptical., 0, 1, 2, }
+dendropsophus124.ss Transverse_process_of_Vertebra_IV.                                                                            1.             ?                                           -                  false          true                 {:_Transverse_process_of_vertebra_IV_transverse_or_slightly_angled_posteriorly., :_Transverse_process_of_vertebra_IV_strongly_angled_posteriorly., :_Transverse_process_of_vertebra_IV_L-shaped., 0, 1, 2, }
+dendropsophus124.ss Tympanic_membrane_pigmentation_differentiation.                                                               1.             ?                                           -                  false          true                 {:_Tympanic_membrane_not_clearly_differentiated., :_Evident_tympanic_membrane., 0, 1, }
+dendropsophus124.ss Ulnar_fold_nature.                                                                                            1.             ?                                           -                  false          true                 {:_Delicate., :_Well-defined_fold., :_Tubercles., 0, 1, 2, }
+dendropsophus124.ss Ulnar_fold_presence.                                                                                          1.             ?                                           -                  false          true                 {:_Ulnar_fold_absent., :_Ulnar_fold_present., 0, 1, }
+dendropsophus124.ss Urinary_bladder.                                                                                              1.             ?                                           -                  false          true                 {:_Clear,_transparent., :_Iridophores_present., 0, 1, }
+dendropsophus124.ss Ventral_cartilaginous_contact_between_exooccipitals.                                                          1.             ?                                           -                  false          true                 {:_Slightly_mineralized., :_Heavily_mineralized., 0, 1, }
+dendropsophus124.ss Vocal_sac_morphology.                                                                                         1.             ?                                           -                  false          true                 {:_Single,_subgular., :_Double., 0, 1, }
+dendropsophus124.ss Vomers_dentigerous_process_structure.                                                                         1.             ?                                           -                  false          true                 {:_With_scattered,_unaligned_teeth., :_With_clearly_aligned_teeth., 0, 1, }
+dendropsophus124.ss Webbing_insertion_between_toes_I_and_II_(scored_on_I).                                                        1.             ?                                           -                  false          true                 {:_Absent_or_reduced_to_a_small_fringe., :_Reaching_the_level_of_subarticular_tubercle_I_or_digital_disc., 0, 1, }
+dendropsophus124.ss White_line_above_cloaca.                                                                                      1.             ?                                           -                  false          true                 {:_Line_absent., :_Line_present., 0, 1, }
+dendropsophus124.ss White_lines_above_heels.                                                                                      1.             ?                                           -                  false          true                 {:_Lines_absent., :_Lines_present., 0, 1, }
+dendropsophus124.ss Xiphisternum_distalmost_shape.                                                                                1.             ?                                           -                  false          true                 {:_Triangular.,_unnotched,_round., :_Notched.,_bilobated., 0, 1, }
+
+Additive
+    
+    Total 44
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+ File Source         Name                                                                                                                 Weight         Missing Symbol         Match Symbol         Gap Symbol         Ignore         Case Sentive         Range
+dendropsophus124.ss Alary_process_of_premaxilla_angle_in_relation_to_pars_dentalis.                                                      1.             ?                                           -                  false          true                 {:_Directed_anteriorly., :_Directed_perpendicularly., :_Directed_posteriorly., 0, 1, 2, }
+dendropsophus124.ss Area_of_hyoid_plate.                                                                                                 1.             ?                                           -                  false          true                 {:_Thin_(total_length_is_nearly_the_same_of_the_retrolateral_processes_cranial_portion)., :_Medium_(total_length_is_approximately_less_that_two_times_the_tyrohyal_cranial_portion_or_less)., :_Long_(total_length_is_approximately_more_that_two_times_the_retrolateral_processes_cranial_portion)., 0, 1, 2, }
+dendropsophus124.ss Bronchial_process_point_of_origin.                                                                                   1.             ?                                           -                  false          true                 {:_Before_cricoid_ring_midpoint., :_At_or_posterior_to_cricoid_ring_midpoint., 0, 1, }
+dendropsophus124.ss Crista_parotica_ossification.                                                                                        1.             ?                                           -                  false          true                 {:_Without_ossified_expansion., :_Anteriorly_ossified_only_(cranially)., :_Ossified_anteriorly_(cranially)_and_posteriorly_(caudally)., 0, 1, 2, }
+dendropsophus124.ss Degree_of_frontoparietal_fontanelle_covering_by_the_medial_margins_of_the_anterior_third_portion_of_frontoparietals. 1.             ?                                           -                  false          true                 {:_Frontoparietals_not_covering_the_fontanelle,_only_as_wide_as_the_underlying_sphenethmoid_wall., :_Frontoparietals_covering_the_fontanelle_in_various_degrees_but_leaving_a_nearly_triangular_area_between_the_irregular_margins., :_Frontoparietals_with_smooth_margins_covering_almost_all_the_underlying_frontoparietal_fontanelle_apart_by_a_very_thin_rectangular_space., 0, 1, 2, }
+dendropsophus124.ss Degree_of_tectum_synoticum_covering_by_the_medial_margins_of_the_posterior_third_portion_of_frontoparietals.         1.             ?                                           -                  false          true                 {:_Frontoparietals_medial_margins_slender,_not_expanding_medially_more_then_the_medial_edge_of_the_epiotic_eminescences,_leaving_nearly_all_tectum_synoticum_exposed., :_Frontoparietals_medial_margins_expand_onto_tectum_synoticum,_passing_the_medial_edge_of_the_epiotic_eminescences,_but_without_contacting_each_other_and_leaving_a_rhomboidal_space_between_them., :_Frontoparietals_with_smooth,_parallel,_medial_margins_covering_almost_all_the_underlying_tectum_synoticum_and_separated_by_a_thin_rectangular_space., 0, 1, 2, }
+dendropsophus124.ss Dorsal_cartilaginous_articulation_between_exooccipitals.                                                             1.             ?                                           -                  false          true                 {:_Not_mineralized., :_Slightly_mineralized., :_Heavily_mineralized., 0, 1, 2, }
+dendropsophus124.ss Esophageal_process_in_males.                                                                                         1.             ?                                           -                  false          true                 {:_Process_absent., :_Process_present.,_oriented_esophageally_(perpendicular_to_the_main_axis_of_cricoid_ring)., :_Process_present.,_oriented_caudally_(following_the_main_axis_of_cricoid_ring)., 0, 1, 2, }
+dendropsophus124.ss Larval_body_shape_in_lateral_view.                                                                                   1.             ?                                           -                  false          true                 {:_Anteriorly_abruptly_ending.,_rounded.,_oval., :_Triangular_but_not_cuneiform., :_Triangular.,_cuneiform.,_depressed., 0, 1, 2, }
+dendropsophus124.ss Lateral_development_of_palatines.                                                                                    1.             ?                                           -                  false          true                 {:_Reduced.,_palatines_lateral_edges_are_not_covered_by_the_maxilla., :_Lateral_edges_of_the_palatines_covered_by_maxilla.,_nearly_reaching_maxilla., :_Lateral_edges_of_palatines_in_contact_with_maxilla., 0, 1, 2, }
+dendropsophus124.ss Length_of_the_medial_ramus_of_pterygoid.                                                                             1.             ?                                           -                  false          true                 {:_Reduced,_reaching_the_basal_process,_not_concealing_it., :_Concealing_about_half_the_basal_process_length., :_Covering_all_(or_almost)_the_basal_process., 0, 1, 2, }
+dendropsophus124.ss Length_of_the_posterior_ramus_of_pyterigoid.                                                                         1.             ?                                           -                  false          true                 {:_Extremely_short., :_Present_but_not_reaching_squamosal_ventral_ramus., :_Reaching_squamosal_ventral_ramus., 0, 1, 2, }
+dendropsophus124.ss Male_glandular_nuptial_pad_extension.                                                                                1.             ?                                           -                  false          true                 {:_Pad_only_in_lateral_areas_of_prepolex,_not_reaching_dorsal_areas., :_Pad_covering_dorsal_areas_of_prepolex_and_fingers., :_Pad_extending_onto_forearm., 0, 1, 2, }
+dendropsophus124.ss Male_nuptial_excrescence_presence.                                                                                   1.             ?                                           -                  false          true                 {:_Without_visible_excrescence., :_With_sparse,_not_pigmented_queratinized_excrescence., :_With_thick_queratinized_excrescence., 0, 1, 2, }
+dendropsophus124.ss Maxilla_lenght.                                                                                                      1.             ?                                           -                  false          true                 {:_Small.,_ending_about_1/3_of_orbit., :_Medium.,_reaching_about_1/2_the_orbit_length,_ending_between_posterior_margin_of_sphenethmoid_and_pterygoid_central_point., :_Long.,_ending_at_about_2/3_of_orbit_length,_at_pterygoid_central_point_level., 0, 1, 2, }
+dendropsophus124.ss Medial_development_of_palatines.                                                                                     1.             ?                                           -                  false          true                 {:_Not_reaching_choanae_medial_wall., :_Palatines_reach_the_level_of_choane_medial_wall., :_Palatines_passes_choane_medial_wall_but_do_not_reach_the_level_of_vomer_dentigerous_process., :_Palatines_reach_the_level_of_vomer_dentigerous_process., 0, 1, 2, 3, }
+dendropsophus124.ss Medial_ventral_margins_of_arytenoids.                                                                                1.             ?                                           -                  false          true                 {:_Frenulum_smooth_with_medial_margin_convex., :_Evident_frenulum,_with_medial_margin_concave., :_Evident_frenulum,_with_medial_margin_with_secondary_constriction., 0, 1, 2, }
+dendropsophus124.ss Mineralization_of_intercalary_elements_between_ultimate_and_penultimate_phalanges.                                   1.             ?                                           -                  false          true                 {:_Not_mineralized., :_Partially_mineralized., :_Completely_mineralized., 0, 1, 2, }
+dendropsophus124.ss Number_of_anterior_labial_tooth_rows.                                                                                1.             ?                                           -                  false          true                 {:_One., :_Two., :_Three., 0, 1, }
+dendropsophus124.ss Number_of_posterior_labial_tooth_rows.                                                                               1.             ?                                           -                  false          true                 {:_One., :_Two., :_Three., 0, 1, 2, }
+dendropsophus124.ss Number_of_rows_of_inferior_marginal_labial_papillae.                                                                 1.             ?                                           -                  false          true                 {:_One., :_Two., :_Multiple., 0, 1, 2, }
+dendropsophus124.ss Number_of_suborbital_white_bars.                                                                                     1.             ?                                           -                  false          true                 {:_One., :_Two., :_Many_small_spots., 0, 1, 2, }
+dendropsophus124.ss Ocular_fenestra_size.                                                                                                1.             ?                                           -                  false          true                 {:_Reaching_about_halfway_through_parasphenoid_cultriform_process., :_Reaching_about_three-fourths_through_parasphenoid_cultriform_process., :_Reaching_or_passing_the_tip_of_parasphenoid_cultriform_process., 0, 1, 2, }
+dendropsophus124.ss Rectum_coloration.                                                                                                   1.             ?                                           -                  false          true                 {:_Without_melanophores., :_With_sparse_melanophores.,_marbled., :_Completely_black., 0, 1, 2, }
+dendropsophus124.ss Rows_of_lateral_marginal_labial_papillae.                                                                            1.             ?                                           -                  false          true                 {:_One., :_Two., :_Multiple., 0, 1, 2, }
+dendropsophus124.ss Shape_of_hyoid_plate_medial_mineralization.                                                                          1.             ?                                           -                  false          true                 {:_Only_between_the_tyrohyals_not_reaching_the_anterior_margin_of_the_hyoid_plate., :_Nearly_triangular,_extending_through_the_hyoid_plate_but_covering_only_the_anterior_medial_portion_in_a_cranio-caudal_direction., :_Nearly_retangular,_covering_all_(or_almost_all)_hyoid_plate_between_the_posterolateral_processes., 0, 1, 2, }
+dendropsophus124.ss Shape_of_the_posterior_(caudal)_cartilaginous_portion_of_thyrohyal.                                                  1.             ?                                           -                  false          true                 {:_As_an_uneven_rectangle,_with_nearly_straight_margins., :_With_two_unequal_apexes,_posterior_margin_curved., :_Fairly_triangular_(almost_a_square_triangle)., 0, 1, 2, }
+dendropsophus124.ss Shape_of_the_tip_of_the_anterolateral_process_of_hyoid.                                                              1.             ?                                           -                  false          true                 {:_Acute., :_Subrectangular., :_Expanded., 0, 1, 2, }
+dendropsophus124.ss Sphenethmoid_dorsal_extension.                                                                                       1.             ?                                           -                  false          true                 {:_Not_reaching_half_of_septum_nasi_length., :_Reaching_or_passing_half_of_septum_nasi_length_but_not_covering_all_of_it., :_Covering_all_septum_nasi., 0, 1, 2, }
+dendropsophus124.ss Sphenethmoid_ventral_anterior_degree_of_ossification.                                                                1.             ?                                           -                  false          true                 {:_Posterior_to_palatines., :_Posterior_or_at_the_level_of_the_planum_antorbitale., :_Extending_to_midlevel_of_the_choanae., :_Including_entire_septum_nasi., 0, 1, 2, 3, }
+dendropsophus124.ss Testes_coloration.                                                                                                   1.             ?                                           -                  false          true                 {:_White.,_without_melanophores., :_Cranially_marbled., :_With_sparse_melanophores.,_marbled., :_Completely_black., 0, 1, 2, 3, }
+dendropsophus124.ss Ventromedial_vocal_chord_ligaments.                                                                                  1.             ?                                           -                  false          true                 {:_Fibrous., :_Distal_portions_slightly_condrified., :_Distal_portions_deeply_condrified., 0, 1, 2, }
+dendropsophus124.ss Webbing_insertion_between_fingers_III_and_IV_(scored_on_III).                                                        1.             ?                                           -                  false          true                 {:_Webbing_absent., :_Reduced_to_a_small_fringe., :_Reaching_subarticular_tubercle_II_level., :_Reaching_subarticular_tubercle_I_level., 0, 1, 2, 3, }
+dendropsophus124.ss Webbing_insertion_between_fingers_III_and_IV_(scored_on_IV).                                                         1.             ?                                           -                  false          true                 {:_Webbing_absent., :_Reduced_to_a_small_fringe., :_Reaching_subarticular_tubercle_III_level., :_Reaching_subarticular_tubercle_II_level., 0, 1, 2, 3, }
+dendropsophus124.ss Webbing_insertion_between_fingers_II_and_III_(scored_on_II).                                                         1.             ?                                           -                  false          true                 {:_Webbing_absent., :_Reduced_to_a_small_fringe., :_Reaching_subarticular_tubercle_II_level., 0, 1, 2, }
+dendropsophus124.ss Webbing_insertion_between_fingers_IV_and_V_(scored_on_IV).                                                           1.             ?                                           -                  false          true                 {:_Webbing_absent., :_Reduced_to_a_small_fringe., :_Reaching_subarticular_tubercle_III_level., :_Reaching_subarticular_tubercle_II_level., 0, 1, 2, 3, }
+dendropsophus124.ss Webbing_insertion_between_fingers_IV_and_V_(scored_on_V).                                                            1.             ?                                           -                  false          true                 {:_Webbing_absent., :_Reduced_to_a_small_fringe., :_Reaching_subarticular_tubercle_III_level., :_Reaching_subarticular_tubercle_II_level., :_Reaching_the_level_of_subarticular_tubercle_I_or_digital_disc., 0, 1, 2, 3, 4, }
+dendropsophus124.ss Webbing_insertion_between_toes_III_and_IV_(scored_on_III).                                                           1.             ?                                           -                  false          true                 {:_Webbing_absent., :_Reaching_subarticular_tubercle_III_level., :_Reaching_subarticular_tubercle_II_level., :_Reaching_the_level_of_subarticular_tubercle_I_or_digital_disc., 0, 1, 2, 3, }
+dendropsophus124.ss Webbing_insertion_between_toes_III_and_IV_(scored_on_IV).                                                            1.             ?                                           -                  false          true                 {:_Absent_or_reduced_to_a_small_fringe., :_Reaching_subarticular_tubercle_III_level., :_Reaching_subarticular_tubercle_II_level., :_Reaching_the_level_of_subarticular_tubercle_I_or_digital_disc., 0, 1, 2, 3, }
+dendropsophus124.ss Webbing_insertion_between_toes_II_and_III_(scored_on_II).                                                            1.             ?                                           -                  false          true                 {:_Absent_or_reduced_to_a_small_fringe., :_Reaching_subarticular_tubercle_II_level., :_Reaching_the_level_of_subarticular_tubercle_I_or_digital_disc., 0, 1, 2, }
+dendropsophus124.ss Webbing_insertion_between_toes_II_and_III_(scored_on_III).                                                           1.             ?                                           -                  false          true                 {:_Webbing_absent., :_Reaching_subarticular_tubercle_III_level., :_Reaching_subarticular_tubercle_II_level., :_Reaching_the_level_of_subarticular_tubercle_I_or_digital_disc., 0, 1, 2, 3, }
+dendropsophus124.ss Webbing_insertion_between_toes_IV_and_V_(scored_on_IV).                                                              1.             ?                                           -                  false          true                 {:_Absent_or_reduced_to_a_small_fringe., :_Reaching_subarticular_tubercle_III_level., :_Reaching_subarticular_tubercle_II_level., :_Reaching_the_level_of_subarticular_tubercle_I_or_digital_disc., 0, 1, 2, 3, }
+dendropsophus124.ss Webbing_insertion_between_toes_IV_and_V_(scored_on_V).                                                               1.             ?                                           -                  false          true                 {:_Absent_or_reduced_to_a_small_fringe., :_Reaching_subarticular_tubercle_II_level., :_Reaching_the_level_of_subarticular_tubercle_I_or_digital_disc., 1, 2, }
+dendropsophus124.ss Webbing_insertion_between_toes_I_and_II_(scored_on_II).                                                              1.             ?                                           -                  false          true                 {:_Lower_than_subarticular_tubercle_II_or_webbing_absent., :_Reaching_subarticular_tubercle_II_level., :_Reaching_the_level_of_subarticular_tubercle_I_or_digital_disc., 0, 1, 2, }
+
+Sankoff
+    
+    Total 0
+
+
+
+Molecular
+    
+    Total 8
+                                                                                                                                        
+ Name           Initial Assignment         Transformation Cost Matrix         Gap Opening         Weight         class          
+COI.2.fasta:0  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+Cytb.1.fasta:0 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+H1.3.fasta:0   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+POMC.3.fasta:0 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+Rag.3.fasta:0  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+Rhod.3.fasta:0 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+SIA.2.fasta:0  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+TYR.1.fasta:0  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+
+Likelihood
+    
+    Total 0
+
+
+
+
+Ignored characters
+    
+Files
+    
+
+
+File
+    
+
+File Name : TYR.1.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : SIA.2.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : Rhod.3.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : Rag.3.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : POMC.3.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : H1.3.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : Cytb.1.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : COI.2.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : dendropsophus124.ss
+
+File Contents 
+
+
+Characters
+
+File Contents 
+
+
+Trees
+
+
+
+
+
+
+
+File References:
+                                                                                                                                                                                                                     
+Terminal                      TYR.1.fasta        SIA.2.fasta        Rhod.3.fasta        Rag.3.fasta        POMC.3.fasta        H1.3.fasta        Cytb.1.fasta        COI.2.fasta        dendropsophus124.ss
+D_anataliasiasi_1             -                  +                  +                   +                  -                   +                 +                   +                  -
+D_anataliasiasi_2             -                  -                  +                   -                  +                   +                 +                   -                  -
+D_anataliasiasi_3             -                  -                  -                   -                  -                   +                 -                   -                  -
+D_anataliasiasi_4             -                  -                  -                   -                  -                   +                 -                   -                  -
+D_anataliasiasi_5             -                  -                  -                   -                  -                   +                 -                   -                  -
+D_anataliasiasi_6             -                  -                  -                   -                  -                   +                 -                   -                  -
+D_anataliasiasi_7             -                  -                  -                   -                  -                   +                 -                   -                  -
+D_araguaya_II_1               +                  +                  -                   +                  -                   +                 +                   -                  -
+D_araguaya_II_2               +                  +                  +                   +                  -                   +                 +                   +                  -
+D_araguaya_II_3               -                  -                  -                   -                  -                   +                 -                   -                  -
+D_araguaya_I_1                +                  -                  +                   -                  +                   +                 +                   +                  -
+D_araguaya_I_2                -                  +                  +                   +                  -                   +                 +                   +                  -
+D_bilobatus_1                 -                  -                  -                   -                  -                   +                 -                   -                  -
+D_bilobatus_2                 -                  -                  -                   -                  -                   +                 -                   -                  -
+D_bipunctatus_1_M             -                  +                  +                   +                  +                   +                 +                   +                  +
+D_branneri_1                  -                  +                  +                   +                  -                   +                 +                   +                  -
+D_branneri_2_M                +                  +                  +                   +                  +                   +                 +                   +                  +
+D_cachimbo_1                  +                  +                  +                   +                  -                   +                 +                   +                  -
+D_cachimbo_2                  -                  -                  +                   -                  +                   +                 +                   +                  -
+D_cerradensis_1               +                  -                  +                   -                  +                   +                 +                   +                  -
+D_cerradensis_2               +                  -                  +                   -                  +                   +                 +                   +                  -
+D_cf_tritaeniatus_1           -                  -                  -                   -                  -                   +                 -                   -                  -
+D_cf_tritaeniatus_2           -                  -                  -                   -                  -                   +                 -                   -                  -
+D_cf_tritaeniatus_3           -                  -                  -                   -                  -                   +                 -                   -                  -
+D_cf_tritaeniatus_4           -                  -                  -                   -                  -                   +                 -                   -                  -
+D_coffea                      -                  -                  -                   +                  -                   +                 +                   -                  -
+D_columbianus_1               -                  +                  +                   +                  +                   +                 +                   -                  -
+D_cruzi                       +                  +                  +                   +                  +                   +                 +                   +                  -
+D_decipiens_I_M               +                  -                  -                   -                  -                   +                 -                   -                  +
+D_elegans                     +                  -                  +                   -                  +                   +                 -                   +                  +
+D_elianae_3                   -                  -                  +                   +                  -                   +                 +                   -                  -
+D_elianae_4                   -                  -                  -                   -                  -                   +                 -                   -                  -
+D_elianae_5                   -                  -                  -                   -                  -                   +                 -                   -                  -
+D_elianae_6                   -                  -                  -                   -                  -                   +                 -                   -                  -
+D_elianae_7                   -                  -                  -                   -                  -                   +                 -                   -                  -
+D_elianae_8                   -                  -                  -                   -                  -                   +                 -                   -                  -
+D_elianeae_1                  +                  +                  -                   +                  -                   +                 +                   -                  -
+D_elianeae_2_M                +                  +                  -                   +                  -                   +                 +                   +                  +
+D_gaucheri_1                  -                  +                  -                   -                  -                   +                 +                   +                  -
+D_jimi_1                      -                  +                  -                   +                  -                   +                 +                   +                  -
+D_jimi_2                      -                  +                  +                   +                  -                   +                 +                   +                  -
+D_jimi_3                      -                  -                  -                   -                  -                   +                 -                   -                  -
+D_jimi_M                      +                  +                  +                   -                  -                   +                 +                   +                  +
+D_joannae                     +                  +                  +                   +                  -                   +                 +                   +                  -
+D_juliani_1                   -                  +                  -                   +                  -                   +                 +                   -                  -
+D_juliani_2                   -                  +                  -                   +                  -                   +                 +                   -                  -
+D_juliani_A                   -                  -                  -                   -                  -                   +                 -                   -                  -
+D_juliani_A_2                 -                  -                  -                   -                  -                   +                 -                   -                  -
+D_labialis_1_M                +                  +                  +                   -                  +                   +                 +                   -                  +
+D_leali_1                     -                  +                  -                   -                  -                   +                 +                   +                  -
+D_marmoratus_1_M              +                  +                  -                   -                  +                   +                 +                   +                  +
+D_mathiassoni_1               +                  -                  +                   +                  -                   +                 +                   +                  -
+D_mathiassoni_2               +                  +                  +                   +                  +                   +                 +                   +                  -
+D_meridensis                  -                  -                  -                   -                  -                   +                 -                   -                  -
+D_microcephalus_1             -                  +                  +                   +                  -                   +                 +                   +                  -
+D_minusculus_1                -                  +                  +                   +                  -                   +                 +                   +                  -
+D_minusculus_2                -                  -                  +                   -                  +                   +                 +                   +                  -
+D_minusculus_3                +                  -                  -                   -                  -                   +                 -                   +                  -
+D_minutus_I_M                 -                  +                  +                   +                  +                   +                 -                   -                  +
+D_nanus_1                     -                  +                  +                   +                  +                   +                 +                   +                  +
+D_parviceps_1                 +                  -                  +                   +                  -                   +                 +                   +                  -
+D_pseudomeridianus_1          -                  +                  +                   +                  -                   +                 +                   +                  -
+D_reicheli_1                  -                  +                  -                   -                  -                   +                 +                   -                  -
+D_rhea_hDNA                   -                  -                  -                   -                  -                   +                 +                   +                  -
+D_rhodopeplus_1_M             +                  -                  -                   -                  -                   +                 +                   +                  +
+D_riveroi_M                   -                  -                  -                   -                  -                   +                 +                   +                  +
+D_robertmertensi              -                  +                  -                   -                  -                   +                 +                   -                  -
+D_rozenmani_1                 -                  -                  -                   -                  -                   +                 -                   +                  -
+D_rozenmani_2                 -                  -                  -                   -                  -                   +                 -                   +                  -
+D_rozenmani_3                 -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rozenmani_4                 -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rozenmani_5                 -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rozenmani_6                 -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rubicundulus_1              -                  +                  -                   +                  -                   +                 +                   -                  -
+D_rubicundulus_10             -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rubicundulus_11             -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rubicundulus_12             -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rubicundulus_13             -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rubicundulus_14             -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rubicundulus_15             -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rubicundulus_16             -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rubicundulus_17             -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rubicundulus_18             -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rubicundulus_2              +                  +                  +                   +                  +                   +                 +                   -                  -
+D_rubicundulus_3              -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rubicundulus_4              -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rubicundulus_5              -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rubicundulus_6              -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rubicundulus_7              -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rubicundulus_8              -                  -                  -                   -                  -                   +                 -                   -                  -
+D_rubicundulus_9              -                  -                  -                   -                  -                   +                 -                   -                  -
+D_ruschii_1_M                 +                  +                  -                   +                  -                   +                 +                   -                  +
+D_sanborni_1                  +                  +                  -                   +                  -                   +                 +                   -                  -
+D_sanborni_2_M                +                  +                  +                   +                  -                   +                 +                   -                  +
+D_sanborni_3                  -                  -                  -                   -                  -                   +                 -                   -                  -
+D_sanborni_4                  -                  -                  -                   -                  -                   +                 -                   -                  -
+D_sanborni_5                  -                  -                  -                   -                  -                   +                 -                   -                  -
+D_sartori_1                   -                  +                  -                   +                  -                   +                 +                   -                  -
+D_shiwiarum_1                 -                  -                  -                   -                  -                   +                 +                   -                  -
+D_studerae_1                  -                  -                  +                   +                  +                   +                 -                   +                  -
+D_triangulum_1_M              +                  -                  +                   +                  -                   +                 +                   -                  +
+D_tritaeniatus_hDNA           -                  -                  -                   -                  -                   +                 +                   +                  -
+D_walfordi                    -                  -                  +                   -                  -                   +                 +                   -                  -
+D_werneri_1                   -                  +                  -                   +                  -                   +                 +                   -                  -
+Itapotihyla_langsdorffi_1     +                  -                  -                   -                  -                   +                 -                   -                  -
+Lysapus_laevis_1              -                  -                  -                   -                  -                   +                 -                   -                  -
+Phyllodytes_luteolous_M       +                  +                  +                   +                  +                   +                 +                   +                  +
+Pseudis_minutus_M             -                  -                  -                   -                  +                   +                 -                   +                  +
+Scarthyla_goinorum_1          -                  +                  -                   -                  +                   +                 +                   -                  -
+Scinax_berthae_M              -                  +                  +                   -                  -                   +                 +                   -                  +
+Scinax_perereca_M             -                  +                  +                   +                  +                   +                 +                   +                  +
+Sphaenorhynchus_lacteus_M     +                  -                  +                   +                  +                   +                 +                   +                  +
+Sphaenorhynchus_pauloalvini_M +                  -                  +                   +                  +                   +                 +                   -                  +
+Xenohyla_eugenioi_1           -                  -                  -                   -                  -                   +                 -                   +                  -
+Xenohyla_truncata_1_M         +                  -                  +                   -                  +                   +                 +                   -                  +
+
