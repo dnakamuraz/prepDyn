@@ -1,0 +1,37 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical3_Nakamura/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical3_Nakamura/5_equal/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='equal', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 42
+No. columns: 646
+Total no. nucleotides (A/C/G/T only): 26636 bp
+Total no. gaps (-): 475
+Total no. IUPAC N: 21
+
+--- Step 2: Trimming (invariant columns) ---
+[]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 289
+Total '-' characters in fully missing partitions: 186
+Combined total: 475
+
+D_microcephalus_1: partition 5 (465–556, length 92) fully missing (all '-')
+D_microcephalus_1: partition 6 (558–651, length 94) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: equal
+Columns with '#' inserted: [92, 185, 278, 371, 464, 557]
+
+--- Summary after preprocessing ---
+No. sequences: 42
+No. columns: 652
+No. pound sign columns (#): 6
+Total no. nucleotides (A/C/G/T): 26636 bp
+Total no. gaps (-): 186
+Total no. IUPAC N: 21
+Total no. missing values (?): 475
+
+--- Run time ---
+Wall-clock time: 0.08040214 seconds
+CPU time: 0.07947800 seconds

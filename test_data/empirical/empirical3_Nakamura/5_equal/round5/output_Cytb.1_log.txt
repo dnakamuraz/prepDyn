@@ -1,0 +1,149 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical3_Nakamura/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical3_Nakamura/5_equal/round5/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='equal', partitioning_round=5)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 60
+No. columns: 891
+Total no. nucleotides (A/C/G/T only): 33750 bp
+Total no. gaps (-): 19695
+Total no. IUPAC N: 6
+
+--- Step 2: Trimming (invariant columns) ---
+[890]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 2709
+Total '-' characters in fully missing partitions: 16948
+Combined total: 19657
+
+D_anataliasiasi_1: partition 3 (447–594, length 148) fully missing (all '-')
+D_anataliasiasi_1: partition 4 (596–743, length 148) fully missing (all '-')
+D_anataliasiasi_1: partition 5 (745–894, length 150) fully missing (all '-')
+D_anataliasiasi_2: partition 3 (447–594, length 148) fully missing (all '-')
+D_anataliasiasi_2: partition 4 (596–743, length 148) fully missing (all '-')
+D_anataliasiasi_2: partition 5 (745–894, length 150) fully missing (all '-')
+D_araguaya_II_1: partition 3 (447–594, length 148) fully missing (all '-')
+D_araguaya_II_1: partition 4 (596–743, length 148) fully missing (all '-')
+D_araguaya_II_1: partition 5 (745–894, length 150) fully missing (all '-')
+D_araguaya_II_2: partition 3 (447–594, length 148) fully missing (all '-')
+D_araguaya_II_2: partition 4 (596–743, length 148) fully missing (all '-')
+D_araguaya_II_2: partition 5 (745–894, length 150) fully missing (all '-')
+D_cachimbo_1: partition 3 (447–594, length 148) fully missing (all '-')
+D_cachimbo_1: partition 4 (596–743, length 148) fully missing (all '-')
+D_cachimbo_1: partition 5 (745–894, length 150) fully missing (all '-')
+D_coffea: partition 3 (447–594, length 148) fully missing (all '-')
+D_coffea: partition 4 (596–743, length 148) fully missing (all '-')
+D_coffea: partition 5 (745–894, length 150) fully missing (all '-')
+D_columbianus_1: partition 3 (447–594, length 148) fully missing (all '-')
+D_columbianus_1: partition 4 (596–743, length 148) fully missing (all '-')
+D_columbianus_1: partition 5 (745–894, length 150) fully missing (all '-')
+D_cruzi: partition 3 (447–594, length 148) fully missing (all '-')
+D_cruzi: partition 4 (596–743, length 148) fully missing (all '-')
+D_cruzi: partition 5 (745–894, length 150) fully missing (all '-')
+D_elianae_3: partition 3 (447–594, length 148) fully missing (all '-')
+D_elianae_3: partition 4 (596–743, length 148) fully missing (all '-')
+D_elianae_3: partition 5 (745–894, length 150) fully missing (all '-')
+D_elianeae_1: partition 3 (447–594, length 148) fully missing (all '-')
+D_elianeae_1: partition 4 (596–743, length 148) fully missing (all '-')
+D_elianeae_1: partition 5 (745–894, length 150) fully missing (all '-')
+D_gaucheri_1: partition 3 (447–594, length 148) fully missing (all '-')
+D_gaucheri_1: partition 4 (596–743, length 148) fully missing (all '-')
+D_gaucheri_1: partition 5 (745–894, length 150) fully missing (all '-')
+D_jimi_M: partition 3 (447–594, length 148) fully missing (all '-')
+D_jimi_M: partition 4 (596–743, length 148) fully missing (all '-')
+D_jimi_M: partition 5 (745–894, length 150) fully missing (all '-')
+D_juliani_1: partition 3 (447–594, length 148) fully missing (all '-')
+D_juliani_1: partition 4 (596–743, length 148) fully missing (all '-')
+D_juliani_1: partition 5 (745–894, length 150) fully missing (all '-')
+D_juliani_2: partition 3 (447–594, length 148) fully missing (all '-')
+D_juliani_2: partition 4 (596–743, length 148) fully missing (all '-')
+D_juliani_2: partition 5 (745–894, length 150) fully missing (all '-')
+D_labialis_1_M: partition 3 (447–594, length 148) fully missing (all '-')
+D_labialis_1_M: partition 4 (596–743, length 148) fully missing (all '-')
+D_labialis_1_M: partition 5 (745–894, length 150) fully missing (all '-')
+D_leali_1: partition 3 (447–594, length 148) fully missing (all '-')
+D_leali_1: partition 4 (596–743, length 148) fully missing (all '-')
+D_leali_1: partition 5 (745–894, length 150) fully missing (all '-')
+D_marmoratus_1_M: partition 3 (447–594, length 148) fully missing (all '-')
+D_marmoratus_1_M: partition 4 (596–743, length 148) fully missing (all '-')
+D_marmoratus_1_M: partition 5 (745–894, length 150) fully missing (all '-')
+D_mathiassoni_1: partition 3 (447–594, length 148) fully missing (all '-')
+D_mathiassoni_1: partition 4 (596–743, length 148) fully missing (all '-')
+D_mathiassoni_1: partition 5 (745–894, length 150) fully missing (all '-')
+D_mathiassoni_2: partition 3 (447–594, length 148) fully missing (all '-')
+D_mathiassoni_2: partition 4 (596–743, length 148) fully missing (all '-')
+D_mathiassoni_2: partition 5 (745–894, length 150) fully missing (all '-')
+D_microcephalus_1: partition 3 (447–594, length 148) fully missing (all '-')
+D_microcephalus_1: partition 4 (596–743, length 148) fully missing (all '-')
+D_microcephalus_1: partition 5 (745–894, length 150) fully missing (all '-')
+D_reicheli_1: partition 3 (447–594, length 148) fully missing (all '-')
+D_reicheli_1: partition 4 (596–743, length 148) fully missing (all '-')
+D_reicheli_1: partition 5 (745–894, length 150) fully missing (all '-')
+D_riveroi_M: partition 3 (447–594, length 148) fully missing (all '-')
+D_riveroi_M: partition 4 (596–743, length 148) fully missing (all '-')
+D_riveroi_M: partition 5 (745–894, length 150) fully missing (all '-')
+D_robertmertensi: partition 3 (447–594, length 148) fully missing (all '-')
+D_robertmertensi: partition 4 (596–743, length 148) fully missing (all '-')
+D_robertmertensi: partition 5 (745–894, length 150) fully missing (all '-')
+D_rubicundulus_1: partition 3 (447–594, length 148) fully missing (all '-')
+D_rubicundulus_1: partition 4 (596–743, length 148) fully missing (all '-')
+D_rubicundulus_1: partition 5 (745–894, length 150) fully missing (all '-')
+D_ruschii_1_M: partition 3 (447–594, length 148) fully missing (all '-')
+D_ruschii_1_M: partition 4 (596–743, length 148) fully missing (all '-')
+D_ruschii_1_M: partition 5 (745–894, length 150) fully missing (all '-')
+D_sanborni_1: partition 3 (447–594, length 148) fully missing (all '-')
+D_sanborni_1: partition 4 (596–743, length 148) fully missing (all '-')
+D_sanborni_1: partition 5 (745–894, length 150) fully missing (all '-')
+D_sanborni_2_M: partition 3 (447–594, length 148) fully missing (all '-')
+D_sanborni_2_M: partition 4 (596–743, length 148) fully missing (all '-')
+D_sanborni_2_M: partition 5 (745–894, length 150) fully missing (all '-')
+D_sartori_1: partition 3 (447–594, length 148) fully missing (all '-')
+D_sartori_1: partition 4 (596–743, length 148) fully missing (all '-')
+D_sartori_1: partition 5 (745–894, length 150) fully missing (all '-')
+D_shiwiarum_1: partition 3 (447–594, length 148) fully missing (all '-')
+D_shiwiarum_1: partition 4 (596–743, length 148) fully missing (all '-')
+D_shiwiarum_1: partition 5 (745–894, length 150) fully missing (all '-')
+D_triangulum_1_M: partition 3 (447–594, length 148) fully missing (all '-')
+D_triangulum_1_M: partition 4 (596–743, length 148) fully missing (all '-')
+D_triangulum_1_M: partition 5 (745–894, length 150) fully missing (all '-')
+D_walfordi: partition 3 (447–594, length 148) fully missing (all '-')
+D_walfordi: partition 4 (596–743, length 148) fully missing (all '-')
+D_walfordi: partition 5 (745–894, length 150) fully missing (all '-')
+D_werneri_1: partition 3 (447–594, length 148) fully missing (all '-')
+D_werneri_1: partition 4 (596–743, length 148) fully missing (all '-')
+D_werneri_1: partition 5 (745–894, length 150) fully missing (all '-')
+Phyllodytes_luteolous_M: partition 3 (447–594, length 148) fully missing (all '-')
+Phyllodytes_luteolous_M: partition 4 (596–743, length 148) fully missing (all '-')
+Phyllodytes_luteolous_M: partition 5 (745–894, length 150) fully missing (all '-')
+Scarthyla_goinorum_1: partition 3 (447–594, length 148) fully missing (all '-')
+Scarthyla_goinorum_1: partition 4 (596–743, length 148) fully missing (all '-')
+Scarthyla_goinorum_1: partition 5 (745–894, length 150) fully missing (all '-')
+Scinax_berthae_M: partition 3 (447–594, length 148) fully missing (all '-')
+Scinax_berthae_M: partition 4 (596–743, length 148) fully missing (all '-')
+Scinax_berthae_M: partition 5 (745–894, length 150) fully missing (all '-')
+Scinax_perereca_M: partition 3 (447–594, length 148) fully missing (all '-')
+Scinax_perereca_M: partition 4 (596–743, length 148) fully missing (all '-')
+Scinax_perereca_M: partition 5 (745–894, length 150) fully missing (all '-')
+Sphaenorhynchus_lacteus_M: partition 3 (447–594, length 148) fully missing (all '-')
+Sphaenorhynchus_lacteus_M: partition 4 (596–743, length 148) fully missing (all '-')
+Sphaenorhynchus_lacteus_M: partition 5 (745–894, length 150) fully missing (all '-')
+Sphaenorhynchus_pauloalvini_M: partition 3 (447–594, length 148) fully missing (all '-')
+Sphaenorhynchus_pauloalvini_M: partition 4 (596–743, length 148) fully missing (all '-')
+Sphaenorhynchus_pauloalvini_M: partition 5 (745–894, length 150) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: equal
+Columns with '#' inserted: [148, 297, 446, 595, 744]
+
+--- Summary after preprocessing ---
+No. sequences: 60
+No. columns: 895
+No. pound sign columns (#): 5
+Total no. nucleotides (A/C/G/T): 33728 bp
+Total no. gaps (-): 16948
+Total no. IUPAC N: 6
+Total no. missing values (?): 19657
+
+--- Run time ---
+Wall-clock time: 0.15195584 seconds
+CPU time: 0.15043900 seconds
