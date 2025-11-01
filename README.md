@@ -1,6 +1,6 @@
 <img src="figures/banner.jpg" alt="" width="900">
 
-# Preprocessing sequences for dynamic homology
+# prepDyn: Preprocessing sequences for dynamic homology
 
 [![language](https://img.shields.io/badge/language-python-green?style=flat&logo=python&logoColor=green)](https://www.python.org)
 [![author](https://img.shields.io/badge/author-DYM_Nakamura-green?logo=googlescholar&logoColor=green)](https://scholar.google.com/citations?user=c0W8Cm8AAAAJ&hl=en)
