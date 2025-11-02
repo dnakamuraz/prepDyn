@@ -8,7 +8,7 @@
 
 **prepDyn** is a collection of Python scripts to facilitate the preprocessing of input sequences for dynamic homology. 
 
-In dynamic homology, data should be preprocessed to distinguish differences in sequence length resulting from missing data or insertion-deletion events to avoid grouping from artifacts. However, previous empirical studies using POY/PhyG manually preprocessed data with varying approaches. Here we present **prepDyn**, a collection of Python scripts to facilitate the preprocessing of input sequences to POY/PhyG. **prepDyn** comprises four steps: (1) data collection from GenBank, (2) trimming, (3) identification of missing data, and (4) partitioning.
+In dynamic homology, data should be preprocessed to distinguish differences in sequence length resulting from missing data or insertion-deletion events to avoid grouping from artifacts. However, previous empirical studies using POY (Wheeler et al. 2015) and PhyG (Wheeler et al. 2024) manually preprocessed data with varying approaches (e.g. Grant et al. 2006; Nakamura et al. 2025). Here we present **prepDyn**, a collection of Python scripts to facilitate the preprocessing of input sequences to POY/PhyG. **prepDyn** comprises four steps: (1) data collection from GenBank, (2) trimming, (3) identification of missing data, and (4) partitioning.
 
 Copyright (C) Daniel Y. M. Nakamura 2025
 
@@ -90,9 +90,9 @@ python src/addSeq.py -h
 
 The following examples are designed for users with little experience on Unix. If you have questions, send a message using **GitHub issues**. Do not move the scripts from the directory *src*, otherwise the modular structure will break.
 
-### Example 1: Basic
+### Example 1: Simple example
 
-The basic use of **prepDyn** is running all four steps using a single command. Given an input CSV, whose first column is called *Terminals* and the other columns are the names of genes (each cell containing the correspondent GenBank accession number), the following command will download sequences, trim invariants and orphan nucleotides <10 bp in terminal positions, and identify missing data as *?* (all differences in sequence length in terminal positions are missing data). In the CSV file, if more than one GenBank accession number is specified in the same cell refering to non-overlapping fragments of the same gene (e.g. MT893619/MT895696), the space between them is automatically identified as internal missing data (?).
+The basic use of **prepDyn** is running all four steps using a single command. Given an input CSV, whose first column is called *Terminals* and the other columns are the names of genes (each cell containing the correspondent GenBank accession number), the following command will download sequences, trim invariants and orphan nucleotides <10 bp in terminal positions, and identify missing data as *?* (all differences in sequence length in terminal positions are missing data). In the CSV file, if more than one GenBank accession number is specified in the same cell refering to non-overlapping fragments of the same gene (e.g. JX155817/JX155844), the space between them is automatically identified as internal missing data (?).
 
 <img src="figures/example_csv.png" alt="" width="300">
 
@@ -150,9 +150,9 @@ python src/prepDyn.py \
     --log T
 ```
 
-### Example 3: Appending new sequences
+### Example 3: Appending new sequences to a profile alignment
 
- MAFFT is unable to align sequences if pound signs or question marks are present. This is a problem when we try to align new sequences to a prevously preprocessed profile alignment. To avoid manual alignment by eye, addSeq.py allows aligning new sequences to profile alignments. Gaps, missing data, and pound signs are not modified for the sequences present in the profile alignment. Gaps, missing data, and pound signs are only inserted in the new sequences.
+ MAFFT is unable to align sequences if pound signs or question marks are present. This is a problem when we try to align new sequences to a prevously preprocessed alignment. To avoid manual alignment by eye, addSeq.py allows aligning new sequences to profile alignments. Gaps, missing data, and pound signs are not modified for the sequences present in the profile alignment--they are only inserted in the new sequences.
 
 A simple example:
 
@@ -183,3 +183,13 @@ Warning: The input *--new_seqs* cannot be longer than the input profile *--align
 ## Cite
 
 If you use **prepDyn** in your research, cite this repository.
+
+## References
+
+Grant T et al. (2006) Phylogenetic systematics of dart-poison frogs and their relatives (Amphibia: Athesphatanura: Dendrobatidae). *Bull Am Mus Nat Hist* 2006(299):1-262.
+
+Nakamura DYM et al. (2025) Museomics reduces taxonomic inflation in the *Dendropsophus araguaya* complex (Hylinae: Dendropsophini) from the Cerrado. *Journal of Vertebrate Biology* 74:24112.
+
+Wheeler WC et al. (2015) POY version 5: phylogenetic analysis using dynamic homologies under multiple optimality criteria. *Cladistics* 31:189-196.
+
+Wheeler WC et al. (2024) PhylogeneticGraph (PhyG) a new phylogenetic graph search and optimization program. *Cladistics* 40(1):97-105.
