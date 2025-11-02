@@ -7,7 +7,7 @@
 # GNU General Public Licence version 3.0
 # Contact: dani_ymn@outlook.com
 
-COPYRIGHT=""""
+COPYRIGHT="""
 prepDyn - Data preprocessing for dynamic homology
 Copyright (C) 2025 - Daniel Y. M. Nakamura
     prepDyn comes with ABSOLUTELY NO WARRANTY!

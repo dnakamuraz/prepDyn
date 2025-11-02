@@ -1,8 +1,8 @@
 --- Overall prepDyn Execution Summary ---
 Command used:
-prepDyn(GB_input='test_data/tutorial/ex1.1/ex1.1_input.csv', input_format='fasta', MSA=False, output_file='test_data/tutorial/ex1.1/ex1.1', output_format='fasta', log=True, sequence_names=True, orphan_method='semi', orphan_threshold=10, percentile=25.0, del_inv=True, internal_column_ranges='all', internal_leaves='all', partitioning_method='None', partitioning_round=0)
+prepDyn(GB_input='test_data/tutorial/ex1.1/ex1.1_input.csv', input_format='fasta', MSA=False, output_file='test_data/tutorial/ex1.1/ex1.1', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=10, percentile=25.0, del_inv=True, internal_column_ranges='all', internal_leaves='all', partitioning_method='None', partitioning_round=0)
 
-Total Wall-clock time: 23.32828617 seconds
-Total CPU time: 0.75708000 seconds
+Total Wall-clock time: 35.62000299 seconds
+Total CPU time: 1.71469300 seconds
 
 Note: Individual gene/alignment logs provide detailed information.

@@ -126,6 +126,5 @@ Example:  python GB2MSA.py --input_file input.csv --output_prefix myoutput --del
         log=args.log,
         orphan_threshold=args.orphan_threshold)
 
-# Only run main() directly from command line, not imported as a module
 if __name__ == "__main__":
     main()

@@ -139,6 +139,5 @@ Examples: python addSeq.py --alignment aln.fas --new_seqs 12s_sp_new.fas --outpu
         gaps2question=args.gaps2question,
         n2question=args.n2question)
 
-# Only run main() directly from command line, not imported as a module
 if __name__ == "__main__":
     main()

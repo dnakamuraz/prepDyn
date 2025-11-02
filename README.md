@@ -1,6 +1,6 @@
 <img src="figures/banner.jpg" alt="" width="900">
 
-# prepDyn: Preprocessing sequences for dynamic homology
+# Preprocessing DNA sequences for dynamic homology
 
 [![language](https://img.shields.io/badge/language-python-green?style=flat&logo=python&logoColor=green)](https://www.python.org)
 [![author](https://img.shields.io/badge/author-DYM_Nakamura-green?logo=googlescholar&logoColor=green)](https://scholar.google.com/citations?user=c0W8Cm8AAAAJ&hl=en)
@@ -19,7 +19,11 @@ The two dependencies that should be installed beforehand by the user are:
 - MAFFT v. 7.5.2 (or newer), installed in $PATH as 'mafft'.
 
 ```
-conda create -n new_env python=3.10 --yes
+# Create a conda environmnt called 'prepdyn'
+conda create -n prepdyn python=3.10 --yes
+
+# Inside the newly created environment, install 'mafft'
+conda activate prepdyn
 conda install bioconda::mafft
 ```
 

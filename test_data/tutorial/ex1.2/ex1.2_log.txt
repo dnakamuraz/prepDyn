@@ -1,5 +1,5 @@
 --- Command used ---
-prepDyn(input_file='../test_data/tutorial/ex1.2/ex1.2_input.fasta', input_format='fasta', MSA=False, output_file='../test_data/tutorial/ex1.2/ex1.2', output_format='fasta', log=True, sequence_names=True, orphan_method='semi', orphan_threshold=3, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=8, partitioning_method='balanced', partitioning_round=1)
+prepDyn(input_file='test_data/tutorial/ex1.2/ex1.2_input.fasta', input_format='fasta', MSA=False, output_file='test_data/tutorial/ex1.2/ex1.2', output_format='fasta', log=True, sequence_names=True, orphan_threshold=10, percentile=25.0, del_inv=True, internal_column_ranges='all', internal_leaves='all', partitioning_method='balanced', partitioning_round=1)
 
 --- Step 1: Summary before preprocessing ---
 No. sequences: 27
@@ -53,5 +53,5 @@ Total no. IUPAC N: 2551
 Total no. missing values (?): 10594
 
 --- Run time ---
-Wall-clock time: 0.29910493 seconds
-CPU time: 0.28615700 seconds
+Wall-clock time: 0.31657863 seconds
+CPU time: 0.30023700 seconds
