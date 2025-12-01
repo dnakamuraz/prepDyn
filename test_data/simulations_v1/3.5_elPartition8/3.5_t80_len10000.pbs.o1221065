@@ -1,0 +1,67 @@
+Working directory is /home/dnakamura/simulations/3.5_elPartition8
+Running on host hel-n0022.hel.pcc.amnh.org
+Time is Sat Nov 8 00:46:39 EST 2025
+Directory is /home/dnakamura/simulations/3.5_elPartition8
+Using 38 processors across 1 nodes
+[0;92m[0;32m
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ Phylogenetic Graph (PhyG) Version 1.3 [3c1a1fa] (3128 commits) on 2025-05-09 @ 10:59:29 EDT      │
+│                                                                                                  │
+│ © 2015 Ward Wheeler and The American Museum of Natural History                                   │
+│ The program 'phyg' comes with ABSOLUTELY NO WARRANTY;                                            │
+│ This is free software, and may be redistributed under the BSD 3-Clause License.                  │
+│                                                                                                  │
+│ Performs heuristic search of phylogenetic graph space via scoring abstract input data.           │
+│ For more information, see: https://github.com/AMNH/PhyG#readme                                   │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘[0;0m[0;97m
+[0;37m
+Command script file: '3.5_t80_len10000_script.pg'
+[0;0m[0;97m[0;37mInitial random seed set to 1802788167
+[0;0m[0;96m
+[0;36m
+Checking command file syntax
+[0;0m[0;96m[0;36m	Commands appear to be properly specified--file availability and contents not checked.
+[0;0m[0;97m
+[0;37mReading 3.5_t80_len10000_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile 3.5_t80_len10000_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse 3.5_t80_len10000_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mEntered 1 data file(s) and 0 input graphs
+[0;0m[0;97m[0;37mOptimality criterion set to Parsimony
+[0;0m[0;97m[0;37m
+Partitioning 3.5_t80_len10000_preprocessed.fasta#0 into 9 segments
+[0;0m[0;97m[0;37mNo terminals to be renamed
+[0;0m[0;97m[0;37mData were input for 80 terminals
+[0;0m[0;97m[0;37mRecoding input block: 3.5_t80_len10000_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: 3.5_t80_len10000_preprocessed.fasta#1
+[0;0m[0;97m[0;37mRecoding input block: 3.5_t80_len10000_preprocessed.fasta#2
+[0;0m[0;97m[0;37mRecoding input block: 3.5_t80_len10000_preprocessed.fasta#3
+[0;0m[0;97m[0;37mRecoding input block: 3.5_t80_len10000_preprocessed.fasta#4
+[0;0m[0;97m[0;37mRecoding input block: 3.5_t80_len10000_preprocessed.fasta#5
+[0;0m[0;97m[0;37mRecoding input block: 3.5_t80_len10000_preprocessed.fasta#6
+[0;0m[0;97m[0;37mRecoding input block: 3.5_t80_len10000_preprocessed.fasta#7
+[0;0m[0;97m[0;37mRecoding input block: 3.5_t80_len10000_preprocessed.fasta#8
+[0;0m[0;97m[0;37mAll taxa contain data
+[0;0m[0;97m[0;37mCharacter Blocks as input files
+[0;0m[0;97m[0;37mCharacter Blocks as input files
+[0;0m[0;97m[0;37mRandom Seed set to 22
+[0;0m[0;97m[0;37mOptimality criterion set to Parsimony
+[0;0m[0;97m[0;37m	Generating pairwise distances for 9 character blocks
+[0;0m[0;97m[0;37m		Building 10 character Wagner replicates
+[0;0m[0;97m[0;37m	Building Wagner replicate 9
+[0;0m[0;97m[0;37m	Building Wagner replicate 8
+[0;0m[0;97m[0;37m	Building Wagner replicate 6
+[0;0m[0;97m[0;37m	Building Wagner replicate 2
+[0;0m[0;97m[0;37m	Building Wagner replicate 0
+[0;0m[0;97m[0;37m	Building Wagner replicate 7
+[0;0m[0;97m[0;37m	Building Wagner replicate 5
+[0;0m[0;97m[0;37m	Building Wagner replicate 1
+[0;0m[0;97m[0;37m	Building Wagner replicate 4
+[0;0m[0;97m[0;37m	Building Wagner replicate 3
+[0;0m[0;96m
+[0;36m	Character build yielded 10 trees at cost range (296530.0,309351.0)
+
+[0;0m[0;97m
+[0;37m	Returning 10 graphs at cost range (296530.0, 309351.0)
+[0;0m[0;97m[0;37mSwapping 10 input graph(s) with 1 trajectories at minimum cost 296530.0 keeping maximum of 10 graphs per input graph
+[0;0m[0;97m[0;37m	-> 296212.0[0;0m[0;97m[0;37m	-> 296825.0[0;0m[0;97m[0;37m	-> 300516.0[0;0m[0;97m[0;37m	-> 296699.0[0;0m[0;97m[0;37m	-> 301323.0[0;0m[0;97m[0;37m	-> 305612.0[0;0m[0;97m[0;37m	-> 302188.0[0;0m[0;97m[0;37m	-> 308433.0[0;0m[0;97m[0;37m	-> 305593.0[0;0m[0;97m[0;37m	-> 305381.0[0;0m[0;97m[0;37m	-> 296163.0[0;0m[0;97m[0;37m	-> 304595.0[0;0m[0;97m[0;37m	-> 299385.0[0;0m[0;97m[0;37m	-> 302029.0[0;0m[0;97m[0;37m	-> 295396.0[0;0m[0;97m[0;37m	-> 295069.0[0;0m[0;97m[0;37m	-> 300582.0[0;0m[0;97m[0;37m	-> 304827.0[0;0m[0;97m[0;37m	-> 305320.0[0;0m[0;97m[0;37m	-> 304180.0[0;0m[0;97m[0;37m	-> 307361.0[0;0m[0;97m[0;37m	-> 296694.0[0;0m[0;97m[0;37m	-> 304381.0[0;0m[0;97m[0;37m	-> 294064.0[0;0m[0;97m[0;37m	-> 304814.0[0;0m[0;97m[0;37m	-> 298249.0[0;0m[0;97m[0;37m	-> 301742.0[0;0m[0;97m[0;37m	-> 294215.0[0;0m[0;97m[0;37m	-> 300546.0[0;0m[0;97m[0;37m	-> 301616.0[0;0m[0;97m[0;37m	-> 292903.0[0;0m[0;97m[0;37m	-> 304319.0[0;0m[0;97m[0;37m	-> 296182.0[0;0m[0;97m[0;37m	-> 304171.0[0;0m[0;97m[0;37m	-> 307359.0[0;0m[0;97m[0;37m	-> 301626.0[0;0m[0;97m[0;37m	-> 297638.0[0;0m[0;97m[0;37m	-> 300261.0[0;0m[0;97m[0;37m	-> 292630.0[0;0m[0;97m[0;37m	-> 291726.0[0;0m[0;97m[0;37m	-> 301298.0[0;0m[0;97m[0;37m	-> 300528.0[0;0m[0;97m[0;37m	-> 307145.0[0;0m[0;97m[0;37m	-> 297463.0[0;0m[0;97m[0;37m	-> 300235.0[0;0m[0;97m[0;37m	-> 292561.0[0;0m[0;97m[0;37m	-> 299747.0[0;0m[0;97m[0;37m	-> 301028.0[0;0m[0;97m[0;37m	-> 288683.0[0;0m[0;97m[0;37m	-> 303146.0[0;0m[0;97m[0;37m	-> 295694.0[0;0m[0;97m[0;37m	-> 296574.0[0;0m[0;97m[0;37m	-> 306830.0[0;0m[0;97m[0;37m	-> 303682.0[0;0m[0;97m[0;37m	-> 299265.0[0;0m[0;97m[0;37m	-> 300175.0[0;0m[0;97m[0;37m	-> 291961.0[0;0m[0;97m[0;37m	-> 300142.0[0;0m[0;97m[0;37m	-> 287721.0[0;0m[0;97m[0;37m	-> 295336.0[0;0m[0;97m[0;37m	-> 301967.0[0;0m[0;97m[0;37m	-> 306816.0[0;0m[0;97m[0;37m	-> 300055.0[0;0m[0;97m[0;37m	-> 303021.0[0;0m[0;97m[0;37m	-> 291762.0[0;0m

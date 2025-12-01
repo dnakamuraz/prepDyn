@@ -1,0 +1,12 @@
+/var/spool/slurmd/job1220176/slurm_script: line 12: $PBS_NODEFILE: ambiguous redirect
+[0;93m[WARN] [0;33mWarning: no tcm file specified for use with fasta/c file : 3.1_t10_len1000_preprocessed.fasta. Using default, all 1 diagonal 0 cost matrix.
+[0;0mphyg: Uncaught exception ghc-internal:GHC.Internal.Exception.ErrorCall:
+
+Number of root out edges /= 2 in rerootGraph: 4 root index: (10,0)
+Graph:
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,
+(10,1),(10,2),(10,11),(10,15),(11,6),(11,16),(12,4),(12,5),(13,3),(13,12),(14,7),(14,8),(15,0),(15,13),(16,9),(16,14),
+
+HasCallStack backtrace:
+  error, called at src/Utilities/LocalGraph.hs:2086:85 in PhyG-1.3-inplace-phyg:Utilities.LocalGraph
+

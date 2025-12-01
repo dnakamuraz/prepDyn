@@ -1,0 +1,67 @@
+Working directory is /home/dnakamura/simulations/3.1_noPartition
+Running on host hel-n0021.hel.pcc.amnh.org
+Time is Tue Jul 8 15:32:27 EDT 2025
+Directory is /home/dnakamura/simulations/3.1_noPartition
+Using 38 processors across 1 nodes
+[0;92m[0;32m
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ Phylogenetic Graph (PhyG) Version 1.3 [3c1a1fa] (3128 commits) on 2025-05-09 @ 10:59:29 EDT      │
+│                                                                                                  │
+│ © 2015 Ward Wheeler and The American Museum of Natural History                                   │
+│ The program 'phyg' comes with ABSOLUTELY NO WARRANTY;                                            │
+│ This is free software, and may be redistributed under the BSD 3-Clause License.                  │
+│                                                                                                  │
+│ Performs heuristic search of phylogenetic graph space via scoring abstract input data.           │
+│ For more information, see: https://github.com/AMNH/PhyG#readme                                   │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘[0;0m[0;97m
+[0;37m
+Command script file: '3.1_t10_len1000_script.pg'
+[0;0m[0;97m[0;37mInitial random seed set to 1794290300
+[0;0m[0;96m
+[0;36m
+Checking command file syntax
+[0;0m[0;96m[0;36m	Commands appear to be properly specified--file availability and contents not checked.
+[0;0m[0;97m
+[0;37mReading 3.1_t10_len1000_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile 3.1_t10_len1000_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse 3.1_t10_len1000_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mEntered 1 data file(s) and 0 input graphs
+[0;0m[0;97m[0;37mOptimality criterion set to Parsimony
+[0;0m[0;97m[0;37mNo terminals to be renamed
+[0;0m[0;97m[0;37mData were input for 10 terminals
+[0;0m[0;97m[0;37mRecoding input block: 3.1_t10_len1000_preprocessed.fasta#0
+[0;0m[0;97m[0;37mAll taxa contain data
+[0;0m[0;97m[0;37mCharacter Blocks as input files
+[0;0m[0;97m[0;37mCharacter Blocks as input files
+[0;0m[0;97m[0;37mRandom Seed set to 22
+[0;0m[0;97m[0;37mOptimality criterion set to Parsimony
+[0;0m[0;97m[0;37m	Generating pairwise distances for 1 character blocks
+[0;0m[0;97m[0;37m		Building 10 character Wagner replicates
+[0;0m[0;97m[0;37m	Building Wagner replicate 3
+[0;0m[0;97m[0;37m	Building Wagner replicate 2
+[0;0m[0;97m[0;37m	Building Wagner replicate 8
+[0;0m[0;97m[0;37m	Building Wagner replicate 9
+[0;0m[0;97m[0;37m	Building Wagner replicate 7
+[0;0m[0;97m[0;37m	Building Wagner replicate 1
+[0;0m[0;97m[0;37m	Building Wagner replicate 6
+[0;0m[0;97m[0;37m	Building Wagner replicate 4
+[0;0m[0;97m[0;37m	Building Wagner replicate 0
+[0;0m[0;97m[0;37m	Building Wagner replicate 5
+[0;0m[0;96m
+[0;36m	Character build yielded 10 trees at cost range (3364.0,3439.0)
+
+[0;0m[0;97m
+[0;37m	Returning 10 graphs at cost range (3364.0, 3439.0)
+[0;0m[0;97m[0;37mSwapping 10 input graph(s) with 1 trajectories at minimum cost 3364.0 keeping maximum of 10 graphs per input graph
+[0;0m[0;97m[0;37m	-> 3378.0[0;0m[0;97m[0;37m	-> 3376.0[0;0m[0;97m[0;37m	-> 3388.0[0;0m[0;97m[0;37m	-> 3362.0[0;0m[0;97m[0;37m	-> 3365.0[0;0m[0;97m[0;37m	-> 3410.0[0;0m[0;97m[0;37m	-> 3363.0[0;0m[0;97m[0;37m	-> 3426.0[0;0m[0;97m[0;37m	-> 3366.0[0;0m[0;97m[0;37m	-> 3367.0[0;0m[0;97m[0;37m	-> 3362.0[0;0m[0;97m[0;37m	-> 3362.0[0;0m[0;97m[0;37m	-> 3372.0[0;0m[0;97m[0;37m	-> 3366.0[0;0m[0;97m[0;37m	-> 3398.0[0;0m[0;97m[0;37m	-> 3367.0[0;0m[0;97m[0;37m	-> 3378.0[0;0m[0;97m[0;37m	-> 3362.0[0;0m[0;97m[0;37m	-> 3366.0[0;0m[0;97m[0;37m	-> 3359.0[0;0m[0;97m[0;37m	-> 3384.0[0;0m[0;97m[0;37m	-> 3376.0[0;0m[0;97m[0;37m	-> 3363.0[0;0m[0;97m[0;37m	-> 3365.0[0;0m[0;97m[0;37m	-> 3362.0[0;0m[0;97m[0;37m	-> 3367.0[0;0m[0;97m[0;37m	-> 3359.0[0;0m[0;97m[0;37m	-> 3375.0[0;0m[0;97m[0;37m	-> 3357.0[0;0m[0;97m[0;37m	-> 3357.0[0;0m[0;97m[0;37m	-> 3357.0[0;0m[0;97m[0;37m	-> 3363.0[0;0m[0;97m[0;37m	-> 3357.0[0;0m[0;97m[0;37m	-> 3371.0[0;0m[0;97m[0;37m	-> 3359.0[0;0m[0;97m[0;37m	-> 3368.0[0;0m[0;97m[0;37m	-> 3372.0[0;0m[0;97m[0;37m	-> 3363.0[0;0m[0;97m[0;37m	-> 3360.0[0;0m[0;97m[0;37m	-> 3366.0[0;0m[0;97m[0;37m	-> 3362.0[0;0m[0;97m[0;37m	-> 3359.0[0;0m[0;97m[0;37m	-> 3359.0[0;0m[0;97m[0;37m	-> 3358.0[0;0m[0;97m[0;37m	-> 3357.0[0;0m[0;97m[0;37m	-> 3357.0[0;0m[0;97m[0;37m
+	After swap: 3 resulting graphs with minimum cost 3357.0 with swap rounds (total): 60 Alternate
+[0;0m[0;97m[0;37mReport writing to "3.1_t10_len1000_searchstats.csv"
+[0;0m[0;97m[0;37mReporting 3 graph(s) at minimum cost 3357.0
+[0;0m[0;97m[0;37mReport writing to "3.1_t10_len1000_searchTrees.nwk"
+[0;0m[0;97m[0;37mSelecting unique graphs 
+[0;0m[0;97m[0;37mSelecting best graphs 
+[0;0m[0;97m[0;37mReporting 3 graph(s) at minimum cost 3357.0
+[0;0m[0;97m[0;37mReport writing to "3.1_t10_len1000_bestUnique.nwk"
+[0;0m[0;97m[0;37mReport writing to "3.1_t10_len1000_ia.tnt"
+[0;0m

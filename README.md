@@ -1,10 +1,10 @@
-<img src="figures/banner.jpg" alt="" width="900">
-
-# Preprocessing DNA sequences for dynamic homology
+# Preprocessing dynamic characters for tree-alignment
 
 [![language](https://img.shields.io/badge/language-python-green?style=flat&logo=python&logoColor=green)](https://www.python.org)
 [![author](https://img.shields.io/badge/author-DYM_Nakamura-green?logo=googlescholar&logoColor=green)](https://scholar.google.com/citations?user=c0W8Cm8AAAAJ&hl=en)
 [![license](https://img.shields.io/badge/license-GPL_v3-green?logo=gnu&logoColor=green)](https://www.gnu.org/licenses/gpl-3.0.html)
+
+<img src="figures/banner.jpg" alt="" width="900">
 
 **prepDyn** is a collection of Python scripts to facilitate the preprocessing of input sequences for dynamic homology. 
 

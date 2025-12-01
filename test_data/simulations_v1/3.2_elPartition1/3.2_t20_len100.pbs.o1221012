@@ -1,0 +1,75 @@
+Working directory is /home/dnakamura/simulations/3.2_elPartition1
+Running on host hel-n0022.hel.pcc.amnh.org
+Time is Wed Jul 16 10:47:41 EDT 2025
+Directory is /home/dnakamura/simulations/3.2_elPartition1
+Using 38 processors across 1 nodes
+[0;92m[0;32m
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ Phylogenetic Graph (PhyG) Version 1.3 [3c1a1fa] (3128 commits) on 2025-05-09 @ 10:59:29 EDT      │
+│                                                                                                  │
+│ © 2015 Ward Wheeler and The American Museum of Natural History                                   │
+│ The program 'phyg' comes with ABSOLUTELY NO WARRANTY;                                            │
+│ This is free software, and may be redistributed under the BSD 3-Clause License.                  │
+│                                                                                                  │
+│ Performs heuristic search of phylogenetic graph space via scoring abstract input data.           │
+│ For more information, see: https://github.com/AMNH/PhyG#readme                                   │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘[0;0m[0;97m
+[0;37m
+Command script file: '3.2_t20_len100_script.pg'
+[0;0m[0;97m[0;37mInitial random seed set to 1779010530
+[0;0m[0;96m
+[0;36m
+Checking command file syntax
+[0;0m[0;96m[0;36m	Commands appear to be properly specified--file availability and contents not checked.
+[0;0m[0;97m
+[0;37mReading 3.2_t20_len100_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile 3.2_t20_len100_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse 3.2_t20_len100_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mEntered 1 data file(s) and 0 input graphs
+[0;0m[0;97m[0;37mOptimality criterion set to Parsimony
+[0;0m[0;97m[0;37m
+Partitioning 3.2_t20_len100_preprocessed.fasta#0 into 2 segments
+[0;0m[0;97m[0;37mNo terminals to be renamed
+[0;0m[0;97m[0;37mData were input for 20 terminals
+[0;0m[0;97m[0;37mRecoding input block: 3.2_t20_len100_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: 3.2_t20_len100_preprocessed.fasta#1
+[0;0m[0;97m[0;37mAll taxa contain data
+[0;0m[0;97m[0;37mCharacter Blocks as input files
+[0;0m[0;97m[0;37mCharacter Blocks as input files
+[0;0m[0;97m[0;37mRandom Seed set to 22
+[0;0m[0;97m[0;37mOptimality criterion set to Parsimony
+[0;0m[0;97m[0;37m	Generating pairwise distances for 2 character blocks
+[0;0m[0;97m[0;37m		Building 10 character Wagner replicates
+[0;0m[0;97m[0;37m	Building Wagner replicate 0
+[0;0m[0;97m[0;37m	Building Wagner replicate 3
+[0;0m[0;97m[0;37m	Building Wagner replicate 8
+[0;0m[0;97m[0;37m	Building Wagner replicate 5
+[0;0m[0;97m[0;37m	Building Wagner replicate 2
+[0;0m[0;97m[0;37m	Building Wagner replicate 9
+[0;0m[0;97m[0;37m	Building Wagner replicate 7
+[0;0m[0;97m[0;37m	Building Wagner replicate 6
+[0;0m[0;97m[0;37m	Building Wagner replicate 1
+[0;0m[0;97m[0;37m	Building Wagner replicate 4
+[0;0m[0;96m
+[0;36m	Character build yielded 10 trees at cost range (716.0,774.0)
+
+[0;0m[0;97m
+[0;37m	Returning 10 graphs at cost range (716.0, 774.0)
+[0;0m[0;97m[0;37mSwapping 10 input graph(s) with 1 trajectories at minimum cost 716.0 keeping maximum of 10 graphs per input graph
+[0;0m[0;97m[0;37m	-> 756.0[0;0m[0;97m[0;37m	-> 771.0[0;0m[0;97m[0;37m	-> 737.0[0;0m[0;97m[0;37m	-> 727.0[0;0m[0;97m[0;37m	-> 741.0[0;0m[0;97m[0;37m	-> 737.0[0;0m[0;97m[0;37m	-> 760.0[0;0m[0;97m[0;37m	-> 733.0[0;0m[0;97m[0;37m	-> 756.0[0;0m[0;97m[0;37m	-> 734.0[0;0m[0;97m[0;37m	-> 734.0[0;0m[0;97m[0;37m	-> 770.0[0;0m[0;97m[0;37m	-> 754.0[0;0m[0;97m[0;37m	-> 715.0[0;0m[0;97m[0;37m	-> 721.0[0;0m[0;97m[0;37m	-> 732.0[0;0m[0;97m[0;37m	-> 755.0[0;0m[0;97m[0;37m	-> 729.0[0;0m[0;97m[0;37m	-> 729.0[0;0m[0;97m[0;37m	-> 761.0[0;0m[0;97m[0;37m	-> 731.0[0;0m[0;97m[0;37m	-> 725.0[0;0m[0;97m[0;37m	-> 751.0[0;0m[0;97m[0;37m	-> 753.0[0;0m[0;97m[0;37m	-> 745.0[0;0m[0;97m[0;37m	-> 729.0[0;0m[0;97m[0;37m	-> 758.0[0;0m[0;97m[0;37m	-> 720.0[0;0m[0;97m[0;37m	-> 735.0[0;0m[0;97m[0;37m	-> 740.0[0;0m[0;97m[0;37m	-> 752.0[0;0m[0;97m[0;37m	-> 728.0[0;0m[0;97m[0;37m	-> 721.0[0;0m[0;97m[0;37m	-> 736.0[0;0m[0;97m[0;37m	-> 746.0[0;0m[0;97m[0;37m	-> 730.0[0;0m[0;97m[0;37m	-> 728.0[0;0m[0;97m[0;37m	-> 732.0[0;0m[0;97m[0;37m	-> 742.0[0;0m[0;97m[0;37m	-> 719.0[0;0m[0;97m[0;37m	-> 741.0[0;0m[0;97m[0;37m	-> 713.0[0;0m[0;97m[0;37m	-> 741.0[0;0m[0;97m[0;37m	-> 723.0[0;0m[0;97m[0;37m	-> 727.0[0;0m[0;97m[0;37m	-> 726.0[0;0m[0;97m[0;37m	-> 710.0[0;0m[0;97m[0;37m	-> 721.0[0;0m[0;97m[0;37m	-> 730.0[0;0m[0;97m[0;37m	-> 720.0[0;0m[0;97m[0;37m	-> 730.0[0;0m[0;97m[0;37m	-> 726.0[0;0m[0;97m[0;37m	-> 729.0[0;0m[0;97m[0;37m	-> 718.0[0;0m[0;97m[0;37m	-> 719.0[0;0m[0;97m[0;37m	-> 718.0[0;0m[0;97m[0;37m	-> 728.0[0;0m[0;97m[0;37m	-> 723.0[0;0m[0;97m[0;37m	-> 712.0[0;0m[0;97m[0;37m	-> 723.0[0;0m[0;97m[0;37m	-> 721.0[0;0m[0;97m[0;37m	-> 713.0[0;0m[0;97m[0;37m	-> 726.0[0;0m[0;97m[0;37m	-> 717.0[0;0m[0;97m[0;37m	-> 718.0[0;0m[0;97m[0;37m	-> 727.0[0;0m[0;97m[0;37m	-> 708.0[0;0m[0;97m[0;37m	-> 717.0[0;0m[0;97m[0;37m	-> 716.0[0;0m[0;97m[0;37m	-> 713.0[0;0m[0;97m[0;37m	-> 725.0[0;0m[0;97m[0;37m	-> 714.0[0;0m[0;97m[0;37m	-> 726.0[0;0m[0;97m[0;37m	-> 722.0[0;0m[0;97m[0;37m	-> 708.0[0;0m[0;97m[0;37m	-> 706.0[0;0m[0;97m[0;37m	-> 711.0[0;0m[0;97m[0;37m	-> 715.0[0;0m[0;97m[0;37m	-> 721.0[0;0m[0;97m[0;37m	-> 723.0[0;0m[0;97m[0;37m	-> 724.0[0;0m[0;97m[0;37m	-> 718.0[0;0m[0;97m[0;37m	-> 711.0[0;0m[0;97m[0;37m	-> 726.0[0;0m[0;97m[0;37m	-> 698.0[0;0m[0;97m[0;37m	-> 717.0[0;0m[0;97m[0;37m	-> 725.0[0;0m[0;97m[0;37m	-> 705.0[0;0m[0;97m[0;37m	-> 714.0[0;0m[0;97m[0;37m	-> 707.0[0;0m[0;97m[0;37m	-> 702.0[0;0m[0;97m[0;37m	-> 706.0[0;0m[0;97m[0;37m	-> 716.0[0;0m[0;97m[0;37m	-> 719.0[0;0m[0;97m[0;37m	-> 722.0[0;0m[0;97m[0;37m	-> 718.0[0;0m[0;97m[0;37m	-> 715.0[0;0m[0;97m[0;37m	-> 710.0[0;0m[0;97m[0;37m	-> 720.0[0;0m[0;97m[0;37m	-> 710.0[0;0m[0;97m[0;37m	-> 705.0[0;0m[0;97m[0;37m	-> 712.0[0;0m[0;97m[0;37m	-> 702.0[0;0m[0;97m[0;37m	-> 722.0[0;0m[0;97m[0;37m	-> 709.0[0;0m[0;97m[0;37m	-> 700.0[0;0m[0;97m[0;37m	-> 720.0[0;0m[0;97m[0;37m	-> 709.0[0;0m[0;97m[0;37m	-> 718.0[0;0m[0;97m[0;37m	-> 703.0[0;0m[0;97m[0;37m	-> 707.0[0;0m[0;97m[0;37m	-> 712.0[0;0m[0;97m[0;37m	-> 711.0[0;0m[0;97m[0;37m	-> 715.0[0;0m[0;97m[0;37m	-> 711.0[0;0m[0;97m[0;37m	-> 709.0[0;0m[0;97m[0;37m	-> 701.0[0;0m[0;97m[0;37m	-> 708.0[0;0m[0;97m[0;37m	-> 707.0[0;0m[0;97m[0;37m	-> 707.0[0;0m[0;97m[0;37m	-> 699.0[0;0m[0;97m[0;37m	-> 708.0[0;0m[0;97m[0;37m	-> 705.0[0;0m[0;97m[0;37m	-> 704.0[0;0m[0;97m[0;37m	-> 705.0[0;0m[0;97m[0;37m	-> 702.0[0;0m[0;97m[0;37m	-> 704.0[0;0m[0;97m[0;37m	-> 717.0[0;0m[0;97m[0;37m	-> 716.0[0;0m[0;97m[0;37m	-> 701.0[0;0m[0;97m[0;37m	-> 700.0[0;0m[0;97m[0;37m	-> 699.0[0;0m[0;97m[0;37m	-> 713.0[0;0m[0;97m[0;37m	-> 697.0[0;0m[0;97m[0;37m	-> 712.0[0;0m[0;97m[0;37m	-> 711.0[0;0m[0;97m[0;37m	-> 696.0[0;0m[0;97m[0;37m	-> 703.0[0;0m[0;97m[0;37m	-> 702.0[0;0m[0;97m[0;37m	-> 706.0[0;0m[0;97m[0;37m	-> 701.0[0;0m[0;97m[0;37m	-> 701.0[0;0m[0;97m[0;37m	-> 698.0[0;0m[0;97m[0;37m	-> 693.0[0;0m[0;97m[0;37m
+	After swap: 1 resulting graphs with minimum cost 693.0 with swap rounds (total): 155 Alternate
+[0;0m[0;97m[0;37mReport writing to "3.2_t20_len100_searchstats.csv"
+[0;0m[0;97m[0;37mReporting 1 graph(s) at minimum cost 693.0
+[0;0m[0;97m[0;37mReport writing to "3.2_t20_len100_searchTrees.nwk"
+[0;0m[0;97m[0;37mSelecting unique graphs 
+[0;0m[0;97m[0;37mSelecting best graphs 
+[0;0m[0;97m[0;37mReporting 1 graph(s) at minimum cost 693.0
+[0;0m[0;97m[0;37mReport writing to "3.2_t20_len100_bestUnique.nwk"
+[0;0m[0;97m[0;37mReport writing to "3.2_t20_len100_ia.tnt"
+[0;0m[0;97m[0;37mReport writing to "3.2_t20_len100_bestConsensus.nwk"
+[0;0m[0;97m[0;37mExecution returned 1 graph(s) at cost range (693.0,693.0) 
+[0;0m[0;97m[0;37m	Wall-Clock time  236.348086761 second(s)
+	CPU time 3013.201446018 second(s)
+	CPU usage 1274%
+[0;0m

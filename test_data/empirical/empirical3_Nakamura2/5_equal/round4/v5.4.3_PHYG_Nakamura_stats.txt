@@ -1,0 +1,10 @@
+System Info, OS: linux, Chip Arch: x86_64, Compiler: ghc 9.12, Compile Date: May  9 2025 10:43:41
+CPU Info, Physical Processors: 4, Physical Cores: 32, Logical Cores: 64
+SearchData
+Random seed, 1619995108
+"Command","Arguments","Min cost in","Max cost in","Num graphs in","Min cost out","Max cost out","Num graphs out","CPU time (secs)","Comment"
+"Input and data processing",,"Infinity","Infinity","0","Infinity","Infinity","0","100.167411466","No Comment"
+"Input graph processing",,"Infinity","Infinity","0","13463.0","13463.0","18","1204.429676412","No Comment"
+"Search","hours:12 thompson:2 instances:5 exponential:","13463.0","13463.0","18","13463.0","13463.0","10","1485253.35"
+"Iteration","Search Type","Delta","Min Cost out","CPU time (secs)","Arguments"
+"Hit minimum cost 13463.0 in 5 of 5 iterations"

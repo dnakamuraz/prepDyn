@@ -1,0 +1,19 @@
+#!/bin/bash
+#PBS -V
+#PBS -q batch-intel-v4
+#PBS -S /bin/bash
+#PBS -m abe
+#PBS -M dnakamura@amnh.org
+#PBS -l nodes=1:ppn=46
+#PBS -l mem=1950gb
+#PBS -l walltime=90-00:00:00
+cd $SLURM_SUBMIT_DIR
+echo Working directory is $SLURM_SUBMIT_DIR
+NPROCS=`wc -l < $PBS_NODEFILE`
+NNODES=`uniq $PBS_NODEFILE | wc -l`
+echo Running on host `hostname`
+echo Time is `date`
+echo Directory is `pwd`
+echo Using 38 processors across 1 nodes
+/home/dnakamura/phyg 3.2_t160_len10000_script.pg  +RTS -N46 -xr2T
+

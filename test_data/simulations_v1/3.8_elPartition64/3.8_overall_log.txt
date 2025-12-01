@@ -1,0 +1,8 @@
+--- Overall prepDyn Execution Summary ---
+Command used:
+prepDyn(input_file='../test_data/simulations_v1/2_aligned', input_format='fasta', MSA=False, output_file='../test_data/simulations_v1/3.8_elPartition64/3.8', output_format='fasta', log=True, sequence_names=True, orphan_threshold=10, percentile=25, del_inv=False, internal_leaves='all', partitioning_method='equal', partitioning_round=64)
+
+Total Wall-clock time: 20.71605778 seconds
+Total CPU time: 19.96155400 seconds
+
+Note: Individual gene/alignment logs provide detailed information.

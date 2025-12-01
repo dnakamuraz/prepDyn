@@ -1,0 +1,9 @@
+System Info, OS: linux, Chip Arch: x86_64, Compiler: ghc 9.12, Compile Date: May  9 2025 10:43:41
+CPU Info, Physical Processors: 2, Physical Cores: 48, Logical Cores: 48
+SearchData
+Random seed, 1802450349
+"Command","Arguments","Min cost in","Max cost in","Num graphs in","Min cost out","Max cost out","Num graphs out","CPU time (secs)","Comment"
+"Input and data processing",,"Infinity","Infinity","0","Infinity","Infinity","0","0.310821851","No Comment"
+"Input graph processing",,"Infinity","Infinity","0","Infinity","Infinity","0","0.0","No Comment"
+"Build",,"Infinity","Infinity","0","70431.0","73548.0","10","0.0","No Comment"
+"Swap",,"70431.0","73548.0","10","69610.0","69610.0","1","286165.167","No Comment"

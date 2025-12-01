@@ -1,0 +1,400 @@
+
+Currently Loaded Modules:
+  1) phyg/1.3
+
+ 
+
+This job ran on 1 nodes.
+[0;92m[0;32m
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ Phylogenetic Graph (PhyG) Version 1.3 [3c1a1fa] (3128 commits) on 2025-05-09 @ 11:59:29 -03      │
+│                                                                                                  │
+│ © 2015 Ward Wheeler and The American Museum of Natural History                                   │
+│ The program 'phyg' comes with ABSOLUTELY NO WARRANTY;                                            │
+│ This is free software, and may be redistributed under the BSD 3-Clause License.                  │
+│                                                                                                  │
+│ Performs heuristic search of phylogenetic graph space via scoring abstract input data.           │
+│ For more information, see: https://github.com/AMNH/PhyG#readme                                   │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘[0;0m[0;97m
+[0;37m
+Command script file: 'v4.3.3_script.pg'
+[0;0m[0;97m[0;37mInitial random seed set to 1628509445
+[0;0m[0;96m
+[0;36m
+Checking command file syntax
+[0;0m[0;96m[0;36m	Commands appear to be properly specified--file availability and contents not checked.
+[0;0m[0;97m
+[0;37mReading dendropsophus124.ss with no options
+[0;0m[0;97m[0;37m
+TNT file file dendropsophus124.ss message : No TNT title message with 22 taxa and 201 characters
+[0;0m[0;97m[0;37m	Trying to parse dendropsophus124.ss as TNT
+[0;0m[0;97m[0;37mReading output_Rhod.3_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile output_Rhod.3_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse output_Rhod.3_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mReading output_H1.3_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile output_H1.3_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse output_H1.3_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mReading output_SIA.2_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile output_SIA.2_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse output_SIA.2_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mReading output_Cytb.1_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile output_Cytb.1_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse output_Cytb.1_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mReading output_Rag.3_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile output_Rag.3_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse output_Rag.3_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mReading output_TYR.1_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile output_TYR.1_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse output_TYR.1_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mReading output_POMC.3_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile output_POMC.3_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse output_POMC.3_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mReading output_COI.2_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile output_COI.2_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse output_COI.2_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mReading v4.3.1_POY_Nakamura.trees.nwk with no options
+[0;0m[0;97m[0;37mEntered 9 data file(s) and 3 input graphs
+[0;0m[0;97m[0;37mRandom Seed set to 73412305
+[0;0m[0;97m[0;37mOptimality criterion set to Parsimony
+[0;0m[0;97m[0;37m
+Partitioning output_COI.2_preprocessed.fasta#0 into 206 segments
+[0;0m[0;97m[0;37m
+Partitioning output_Rag.3_preprocessed.fasta#0 into 10 segments
+[0;0m[0;97m[0;37m
+Partitioning output_Cytb.1_preprocessed.fasta#0 into 10 segments
+[0;0m[0;97m[0;37m
+Partitioning output_SIA.2_preprocessed.fasta#0 into 8 segments
+[0;0m[0;97m[0;37m
+Partitioning output_H1.3_preprocessed.fasta#0 into 4 segments
+[0;0m[0;97m[0;37m
+Partitioning output_Rhod.3_preprocessed.fasta#0 into 4 segments
+[0;0m[0;97m[0;37m
+Partitioning output_POMC.3_preprocessed.fasta#0 into 5 segments
+[0;0m[0;97m[0;37m
+Partitioning output_TYR.1_preprocessed.fasta#0 into 7 segments
+[0;0m[0;97m[0;37mNo terminals to be renamed
+[0;0m[0;97m[0;37mData were input for 115 terminals
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#1
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#2
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#3
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#4
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#5
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#6
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#7
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#8
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#9
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#10
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#11
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#12
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#13
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#14
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#15
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#16
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#17
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#18
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#19
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#20
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#21
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#22
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#23
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#24
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#25
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#26
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#27
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#28
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#29
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#30
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#31
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#32
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#33
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#34
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#35
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#36
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#37
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#38
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#39
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#40
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#41
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#42
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#43
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#44
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#45
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#46
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#47
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#48
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#49
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#50
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#51
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#52
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#53
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#54
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#55
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#56
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#57
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#58
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#59
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#60
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#61
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#62
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#63
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#64
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#65
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#66
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#67
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#68
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#69
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#70
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#71
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#72
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#73
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#74
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#75
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#76
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#77
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#78
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#79
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#80
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#81
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#82
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#83
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#84
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#85
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#86
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#87
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#88
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#89
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#90
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#91
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#92
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#93
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#94
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#95
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#96
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#97
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#98
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#99
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#100
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#101
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#102
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#103
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#104
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#105
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#106
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#107
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#108
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#109
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#110
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#111
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#112
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#113
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#114
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#115
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#116
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#117
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#118
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#119
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#120
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#121
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#122
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#123
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#124
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#125
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#126
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#127
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#128
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#129
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#130
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#131
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#132
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#133
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#134
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#135
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#136
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#137
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#138
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#139
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#140
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#141
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#142
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#143
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#144
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#145
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#146
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#147
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#148
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#149
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#150
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#151
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#152
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#153
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#154
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#155
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#156
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#157
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#158
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#159
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#160
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#161
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#162
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#163
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#164
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#165
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#166
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#167
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#168
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#169
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#170
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#171
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#172
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#173
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#174
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#175
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#176
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#177
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#178
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#179
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#180
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#181
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#182
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#183
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#184
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#185
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#186
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#187
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#188
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#189
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#190
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#191
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#192
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#193
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#194
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#195
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#196
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#197
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#198
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#199
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#200
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#201
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#202
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#203
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#204
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#205
+[0;0m[0;97m[0;37mRecoding input block: output_Rag.3_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: output_Rag.3_preprocessed.fasta#1
+[0;0m[0;97m[0;37mRecoding input block: output_Rag.3_preprocessed.fasta#2
+[0;0m[0;97m[0;37mRecoding input block: output_Rag.3_preprocessed.fasta#3
+[0;0m[0;97m[0;37mRecoding input block: output_Rag.3_preprocessed.fasta#4
+[0;0m[0;97m[0;37mRecoding input block: output_Rag.3_preprocessed.fasta#5
+[0;0m[0;97m[0;37mRecoding input block: output_Rag.3_preprocessed.fasta#6
+[0;0m[0;97m[0;37mRecoding input block: output_Rag.3_preprocessed.fasta#7
+[0;0m[0;97m[0;37mRecoding input block: output_Rag.3_preprocessed.fasta#8
+[0;0m[0;97m[0;37mRecoding input block: output_Rag.3_preprocessed.fasta#9
+[0;0m[0;97m[0;37mRecoding input block: output_Cytb.1_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: output_Cytb.1_preprocessed.fasta#1
+[0;0m[0;97m[0;37mRecoding input block: output_Cytb.1_preprocessed.fasta#2
+[0;0m[0;97m[0;37mRecoding input block: output_Cytb.1_preprocessed.fasta#3
+[0;0m[0;97m[0;37mRecoding input block: output_Cytb.1_preprocessed.fasta#4
+[0;0m[0;97m[0;37mRecoding input block: output_Cytb.1_preprocessed.fasta#5
+[0;0m[0;97m[0;37mRecoding input block: output_Cytb.1_preprocessed.fasta#6
+[0;0m[0;97m[0;37mRecoding input block: output_Cytb.1_preprocessed.fasta#7
+[0;0m[0;97m[0;37mRecoding input block: output_Cytb.1_preprocessed.fasta#8
+[0;0m[0;97m[0;37mRecoding input block: output_Cytb.1_preprocessed.fasta#9
+[0;0m[0;97m[0;37mRecoding input block: output_SIA.2_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: output_SIA.2_preprocessed.fasta#1
+[0;0m[0;97m[0;37mRecoding input block: output_SIA.2_preprocessed.fasta#2
+[0;0m[0;97m[0;37mRecoding input block: output_SIA.2_preprocessed.fasta#3
+[0;0m[0;97m[0;37mRecoding input block: output_SIA.2_preprocessed.fasta#4
+[0;0m[0;97m[0;37mRecoding input block: output_SIA.2_preprocessed.fasta#5
+[0;0m[0;97m[0;37mRecoding input block: output_SIA.2_preprocessed.fasta#6
+[0;0m[0;97m[0;37mRecoding input block: output_SIA.2_preprocessed.fasta#7
+[0;0m[0;97m[0;37mRecoding input block: output_H1.3_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: output_H1.3_preprocessed.fasta#1
+[0;0m[0;97m[0;37mRecoding input block: output_H1.3_preprocessed.fasta#2
+[0;0m[0;97m[0;37mRecoding input block: output_H1.3_preprocessed.fasta#3
+[0;0m[0;97m[0;37mRecoding input block: output_Rhod.3_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: output_Rhod.3_preprocessed.fasta#1
+[0;0m[0;97m[0;37mRecoding input block: output_Rhod.3_preprocessed.fasta#2
+[0;0m[0;97m[0;37mRecoding input block: output_Rhod.3_preprocessed.fasta#3
+[0;0m[0;97m[0;37mRecoding input block: output_POMC.3_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: output_POMC.3_preprocessed.fasta#1
+[0;0m[0;97m[0;37mRecoding input block: output_POMC.3_preprocessed.fasta#2
+[0;0m[0;97m[0;37mRecoding input block: output_POMC.3_preprocessed.fasta#3
+[0;0m[0;97m[0;37mRecoding input block: output_POMC.3_preprocessed.fasta#4
+[0;0m[0;97m[0;37mRecoding input block: output_TYR.1_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: output_TYR.1_preprocessed.fasta#1
+[0;0m[0;97m[0;37mRecoding input block: output_TYR.1_preprocessed.fasta#2
+[0;0m[0;97m[0;37mRecoding input block: output_TYR.1_preprocessed.fasta#3
+[0;0m[0;97m[0;37mRecoding input block: output_TYR.1_preprocessed.fasta#4
+[0;0m[0;97m[0;37mRecoding input block: output_TYR.1_preprocessed.fasta#5
+[0;0m[0;97m[0;37mRecoding input block: output_TYR.1_preprocessed.fasta#6
+[0;0m[0;97m[0;37mRecoding input block: dendropsophus124.ss#0
+[0;0m[0;97m[0;37mAll taxa contain data
+[0;0m[0;97m[0;37mCharacter Blocks as input files
+[0;0m[0;97m[0;37mCharacter Blocks as input files
+[0;0m[0;97m[0;37mOutgroup set to Phyllodytes_luteolous_M
+[0;0m[0;97m[0;37mRandom Seed set to 73412305
+[0;0m[0;97m[0;37mOptimality criterion set to Parsimony
+[0;0m[0;97m[0;37mReport writing to "v4.3.3_PHYG_Nakamura_crossref.csv"
+[0;0m[0;97m[0;37mReport writing to "v4.3.3_PHYG_Nakamura.data"
+[0;0m[0;97m[0;37mRandomized search for 43260 seconds with 5 instances keeping at most 10 graphs
+[0;0m[0;97m[0;37m	Generating pairwise distances for 255 character blocks
+[0;0m[0;97m[0;37m	Building 1000 Wagner tree(s)
+[0;0m[0;97m[0;37m	Building Distance Tree
+[0;0m[0;96m
+[0;36m	Distance build yielded 10 trees at cost range (14166.0,15103.0)
+
+[0;0m[0;97m
+[0;37m	Returning 10 graphs at cost range (14166.0, 15103.0)
+[0;0m[0;97m[0;37mChanging multiTraverse to False:13467.0 -> 13487.0
+[0;0m[0;97m[0;37mChanging multiTraverse to False:13467.0 -> 13487.0
+[0;0m[0;97m[0;37mChanging multiTraverse to False:13467.0 -> 13487.0
+[0;0m[0;97m[0;37mChanging multiTraverse to False:13467.0 -> 13487.0
+[0;0m[0;97m[0;37mChanging multiTraverse to False:13467.0 -> 13487.0
+[0;0m[0;97m[0;37mTransforming data to staticApprox: 13467.0 -> 13467.0
+[0;0m[0;97m[0;37mSwapping 3 input graph(s) with 1 trajectories at minimum cost 13467.0 keeping maximum of 1 graphs per input graph
+[0;0m[0;97m[0;37mTransforming data to staticApprox: 13467.0 -> 13467.0
+[0;0m[0;97m[0;37mSimulated Annealing (Swapping) 1 rounds with 20 cooling steps 3 input graph(s) at minimum cost 13467.0 keeping maximum of 2 graphs
+[0;0m[0;97m[0;37m	MultiTraverse to False
+[0;0m[0;97m[0;37mTransforming data to staticApprox: 13467.0 -> 13467.0
+[0;0m[0;97m[0;37mSimulated Annealing (Swapping) 1 rounds with 5 cooling steps 3 input graph(s) at minimum cost 13487.0 keeping maximum of 1 graphs
+[0;0m[0;97m[0;37mTransforming data to staticApprox: 13467.0 -> 13467.0
+[0;0m[0;97m[0;37mFusing 10 input graph(s) with minimum cost 13467.0 
+[0;0m[0;97m[0;37m	Fusing 10 randomized graph pairs with TBR swapping at minimum cost 13467.0
+[0;0m[0;97m[0;37mTransforming data to staticApprox: 13467.0 -> 13467.0
+[0;0m[0;97m[0;37mFusing 10 input graph(s) with minimum cost 13467.0 
+[0;0m[0;97m[0;37m	Fusing 10 randomized graph pairs without swapping at minimum cost 13467.0
+[0;0m[0;97m[0;37m	-> 13532.0[0;0m[0;97m[0;37m	-> 13498.0[0;0m[0;97m[0;37m	-> 13487.0[0;0m[0;97m[0;37m	-> 13530.0[0;0m[0;97m[0;37m	-> 13509.0[0;0m[0;97m[0;37m	-> 13488.0[0;0m[0;97m[0;37m	-> 13701.0[0;0m[0;97m[0;37m	-> 13646.0[0;0m[0;97m[0;37m	-> 13489.0[0;0m[0;97m[0;37m	-> 13489.0[0;0m[0;97m[0;37m	-> 13521.0[0;0m[0;97m[0;37m	-> 13504.0[0;0m[0;97m[0;37m	-> 13488.0[0;0m[0;97m[0;37m	-> 13609.0[0;0m[0;97m[0;37m	-> 13510.0[0;0m[0;97m[0;37m	-> 13559.0[0;0m[0;97m[0;37m	-> 13487.0[0;0m[0;97m[0;37m	-> 13488.0[0;0m[0;97m[0;37m	-> 13508.0[0;0m[0;97m[0;37m	-> 13530.0[0;0m[0;97m[0;37m	-> 13489.0[0;0m[0;97m[0;37m	-> 13487.0[0;0m[0;97m[0;37m	-> 13498.0[0;0m[0;97m[0;37m	-> 13487.0[0;0m[0;97m[0;37m	-> 13487.0[0;0m[0;97m[0;37m	-> 13495.0[0;0m[0;97m[0;37m	-> 13559.0[0;0m[0;96m
+[0;36m	After fusing: 3 resulting graphs with minimum cost 13467.0  after fuse rounds (total):  1 
+[0;0m[0;97m
+[0;37mTransforming data to dynamic: 13467.0 -> 13467.0
+[0;0m[0;97m[0;37m[0;0m[0;97m[0;37m[0;0m[0;96m
+[0;36mThread   	4
+Alloted  	12h01min
+Ellapsed 	6h23min
+Remaining	5h37min
+
+
+[0;0m[0;97m
+[0;37m	-> 13511.0[0;0m[0;97m[0;37mChanging multiTraverse to False:13467.0 -> 13487.0
+[0;0m[0;97m[0;37m	-> 13511.0[0;0m[0;97m[0;37m	-> 13505.0[0;0m[0;97m[0;37mTransforming data to staticApprox: 13467.0 -> 13467.0
+[0;0m[0;97m[0;37mSwapping 3 input graph(s) with 1 trajectories at minimum cost 13487.0 keeping maximum of 1 graphs per input graph
+[0;0m[0;97m[0;37m	-> 13487.0[0;0m[0;97m[0;37m	-> 13487.0[0;0m[0;97m[0;37m	-> 13488.0[0;0m[0;97m[0;37m	-> 13500.0[0;0m[0;97m[0;37m	-> 13507.0[0;0m[0;97m[0;37m	-> 13500.0[0;0m[0;96m
+[0;36m	After fusing: 3 resulting graphs with minimum cost 13467.0  after fuse rounds (total):  1 
+[0;0m[0;97m
+[0;37mHit minimum cost 13467.0 in 5 of 5 iterations
+[0;0m[0;97m[0;37mReport writing to "v4.3.3_PHYG_Nakamura_stats.txt"
+[0;0m[0;97m[0;37mReporting 10 graph(s) at minimum cost 13467.0
+[0;0m[0;97m[0;37mReport writing to "v4.3.3_PHYG_Nakamura_searchTrees.txt"
+[0;0m[0;97m[0;37mSelecting unique graphs 
+[0;0m[0;97m[0;37mSelecting best graphs 
+[0;0m[0;97m[0;37mReporting 3 graph(s) at minimum cost 13467.0
+[0;0m[0;97m[0;37mReport writing to "v4.3.3_PHYG_Nakamura_bestUnique.nwk"
+[0;0m[0;97m[0;37mReport writing to "v4.3.3_PHYG_Nakamura_ia.tnt"
+[0;0m[0;97m[0;37mReport writing to "v4.3.3_PHYG_Nakamura_bestConsensus.nwk"
+[0;0m[0;97m[0;37mExecution returned 3 graph(s) at cost range (13467.0,13467.0) 
+[0;0m[0;97m[0;37m	Wall-Clock time  44255.739146558 second(s)
+	CPU time 907427.74884449 second(s)
+	CPU usage 2050%
+[0;0mThis job took 44259 seconds to run.

@@ -1,0 +1,20 @@
+set (seed:22)
+
+--LOAD DATA
+read ("3.7_t10_len1000_preprocessed.fasta")
+
+--SEARCH SETTINGS
+set (partitioncharacter:#)
+set (criterion:parsimony)
+set (graphtype:tree)
+build()
+swap()
+
+--REPORT RESULTS
+report ("3.7_t10_len1000_searchstats.csv", search) 
+report ("3.7_t10_len1000_searchTrees.nwk", graphs, newick, nohtulabels)
+select (unique)
+select (best)
+report ("3.7_t10_len1000_bestUnique.nwk", graphs, newick, nohtulabels)
+report ("3.7_t10_len1000_ia.tnt", tnt, concatenate, overwrite)
+report ("3.7_t10_len1000_bestConsensus.nwk", newick, reconcile, method:strict, nohtulabels)

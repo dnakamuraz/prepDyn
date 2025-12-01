@@ -1,0 +1,13 @@
+System Info, OS: linux, Chip Arch: x86_64, Compiler: ghc 9.12, Compile Date: May  9 2025 10:43:41
+CPU Info, Physical Processors: 4, Physical Cores: 32, Logical Cores: 64
+SearchData
+Random seed, 1686639823
+"Command","Arguments","Min cost in","Max cost in","Num graphs in","Min cost out","Max cost out","Num graphs out","CPU time (secs)","Comment"
+"Input and data processing",,"Infinity","Infinity","0","Infinity","Infinity","0","24.557460469","No Comment"
+"Input graph processing",,"Infinity","Infinity","0","13469.0","13469.0","3","163.825199411","No Comment"
+"Search","hours:12 thompson:2 instances:5 exponential:","13469.0","13469.0","3","13468.0","14465.0","10","1421247.207"
+"Iteration","Search Type","Delta","Min Cost out","CPU time (secs)","Arguments"
+"0","fuse","1.0","13468.0","0"," 0.3333333333333333 "," 0.3333333333333333 "," 0.3333333333333333 "," "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 ","none: unique: atrandom: pairs:10 keep:20 noreciprocal: multitraverse:True maxparallel:false "
+"1","fuse","0.0","13468.0","1285483"," 0.5 "," 0.25 "," 0.25 "," "," 4.878048780487806e-2 "," 4.878048780487806e-2 "," 4.878048780487806e-2 "," 4.878048780487806e-2 "," 4.878048780487806e-2 "," 4.878048780487806e-2 "," 0.3658536585365854 "," 4.878048780487806e-2 "," 4.878048780487806e-2 "," 4.878048780487806e-2 "," 4.878048780487806e-2 "," 4.878048780487806e-2 "," 4.878048780487806e-2 "," 4.878048780487806e-2 ","none: unique: atrandom: pairs:5 keep:20 noreciprocal: multitraverse:False maxparallel:false MultiTraverse:False MultiTraverse:True "
+,"Final Values",,"13468.0","1419546","0.5454545454545454","9.090909090909091e-2","0.36363636363636365"," ","6.623931623931627e-2","6.623931623931627e-2","6.623931623931627e-2","6.623931623931627e-2","6.623931623931627e-2","6.623931623931627e-2","0.13888888888888892","6.623931623931627e-2","6.623931623931627e-2","6.623931623931627e-2","6.623931623931627e-2","6.623931623931627e-2","6.623931623931627e-2","6.623931623931627e-2",
+"Hit minimum cost 13468.0 in 1 of 5 iterations"

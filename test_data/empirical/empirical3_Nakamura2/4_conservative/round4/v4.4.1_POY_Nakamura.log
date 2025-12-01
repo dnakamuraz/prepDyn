@@ -1,0 +1,331 @@
+Information : Selected 0 of 0 terminals
+Information : The file Dendropsophus_synonym_list.txt contains 308 synonyms.
+Warning : I'm ignoring the self-synonym D_acreanus to D_acreanus.
+Warning : I'm ignoring the self-synonym D_dutrai to D_dutrai.
+Warning : I'm ignoring the self-synonym D_elegans to D_elegans.
+Information : Selected 0 of 0 terminals
+Information : Reading file dendropsophus124.ss of type hennig86/Nona
+
+Information : The file dendropsophus124.ss defines 201 static homology
+              characters, 0 unaligned sequences, and 0 trees, containing 22
+              taxa.
+Status : Loading Characters : 0 of 22 -- Storing the character specifications
+Status : Loading Characters : 1 of 22 -- Storing the character specifications
+Status : Loading Characters : 2 of 22 -- Storing the character specifications
+Status : Loading Characters : 3 of 22 -- Storing the character specifications
+Status : Loading Characters : 4 of 22 -- Storing the character specifications
+Status : Loading Characters : 5 of 22 -- Storing the character specifications
+Status : Loading Characters : 6 of 22 -- Storing the character specifications
+Status : Loading Characters : 7 of 22 -- Storing the character specifications
+Status : Loading Characters : 8 of 22 -- Storing the character specifications
+Status : Loading Characters : 9 of 22 -- Storing the character specifications
+Status : Loading Characters :
+         10 of 22 -- Storing the character specifications
+Status : Loading Characters :
+         11 of 22 -- Storing the character specifications
+Status : Loading Characters :
+         12 of 22 -- Storing the character specifications
+Status : Loading Characters :
+         13 of 22 -- Storing the character specifications
+Status : Loading Characters :
+         14 of 22 -- Storing the character specifications
+Status : Loading Characters :
+         15 of 22 -- Storing the character specifications
+Status : Loading Characters :
+         16 of 22 -- Storing the character specifications
+Status : Loading Characters :
+         17 of 22 -- Storing the character specifications
+Status : Loading Characters :
+         18 of 22 -- Storing the character specifications
+Status : Loading Characters :
+         19 of 22 -- Storing the character specifications
+Status : Loading Characters :
+         20 of 22 -- Storing the character specifications
+Status : Loading Characters :
+         21 of 22 -- Storing the character specifications
+Status : Loading Characters :
+         22 of 22 -- Storing the character specifications
+Status : Loading Characters Finished
+Information : Vectorized:44 of 44 characters.
+Information : Reading file output_COI.2_preprocessed.fasta of type input
+              sequences
+
+Information : The file output_COI.2_preprocessed.fasta contains sequences of
+              42 taxa, each sequence holding 206 fragments.
+Information : Reading file output_Cytb.1_preprocessed.fasta of type input
+              sequences
+
+Information : The file output_Cytb.1_preprocessed.fasta contains sequences of
+              60 taxa, each sequence holding 205 fragments.
+Information : Reading file output_H1.3_preprocessed.fasta of type input
+              sequences
+
+Information : The file output_H1.3_preprocessed.fasta contains sequences of
+              113 taxa, each sequence holding 6 fragments.
+Information : Reading file output_POMC.3_preprocessed.fasta of type input
+              sequences
+
+Information : The file output_POMC.3_preprocessed.fasta contains sequences of
+              24 taxa, each sequence holding 7 fragments.
+Information : Reading file output_Rag.3_preprocessed.fasta of type input
+              sequences
+
+Information : The file output_Rag.3_preprocessed.fasta contains sequences of
+              39 taxa, each sequence holding 14 fragments.
+Information : Reading file output_Rhod.3_preprocessed.fasta of type input
+              sequences
+
+Information : The file output_Rhod.3_preprocessed.fasta contains sequences of
+              38 taxa, each sequence holding 5 fragments.
+Information : Reading file output_SIA.2_preprocessed.fasta of type input
+              sequences
+
+Information : The file output_SIA.2_preprocessed.fasta contains sequences of
+              38 taxa, each sequence holding 9 fragments.
+Information : Reading file output_TYR.1_preprocessed.fasta of type input
+              sequences
+
+Information : The file output_TYR.1_preprocessed.fasta contains sequences of
+              31 taxa, each sequence holding 9 fragments.
+Information : Vectorized:44 of 44 characters.
+Warning : Taxa *Xenohyla_truncata_2, *Xenohyla_eugenioi_2,
+          *Sphaenorhynchus_dorisae*, *Scinax_littoralis*,
+          *Scinax_fuscovarius*, *Scarthyla_goinorum_2*, *Lysapus_laevis_2*,
+          *Itapotihyla_langsdorffi_2, *D_yaracuyanus, *D_xapuriensis_2,
+          *D_xapuriensis, *D_werneri_2, *D_virolinensis*,
+          *D_triangulum_2_Tab, *D_timbeba_2, *D_timbeba_1*, *D_subocularis,
+          *D_studerae_2, *D_stingi_3, *D_stingi_2, *D_stingi_1,
+          *D_sp.ARB_2011, *D_soaresi_3*, *D_soaresi_2, *D_soaresi_1,
+          *D_shiwiarum_3, *D_shiwiarum_2, *D_seniculus_3, *D_seniculus_2*,
+          *D_seniculus_1, *D_schubarti_2, *D_schubarti_1, *D_sartori_2,
+          *D_sarayacuensis_2, *D_sarayacuensis_1, *D_salli_2, *D_salli_1,
+          *D_ruschii_2, *D_rossalleni_2, *D_rossalleni_1, *D_rhodopeplus_2,
+          *D_reicheli_2, *D_pseudomeridianus_2, *D_praestans,
+          *D_pauiniensis_1, *D_parviceps_2*, *D_padreluna, *D_ozzyi_2,
+          *D_ozzyi_1, *D_oliveirai_2, *D_oliveirai_1*, *D_novaisi_3,
+          *D_novaisi_2, *D_novaisi_1*, *D_norandinus_2, *D_norandinus_1,
+          *D_nanus_2, *D_nahdereri_2*, *D_nahdereri_1, *D_miyatai,
+          *D_minutus_III_1, *D_minutus_II, *D_microps_2*, *D_microps_1,
+          *D_microcephalus_2, *D_meridianus_2, *D_meridianus_1*,
+          *D_melanargyreus_4, *D_melanargyreus_3, *D_melanargyreus_2,
+          *D_melanargyreus_1, *D_marmoratus_3, *D_marmoratus_2,
+          *D_manonegra_2, *D_manonegra_1, *D_luteoocelatus, *D_luddeckei_2,
+          *D_luddeckei_1, *D_leucophyllatus_2_Tab, *D_leucophyllatus_1,
+          *D_leali_2, *D_labialis_2, *D_koechlini, *D_haraldschultzi_2*,
+          *D_haraldschultzi_1, *D_haddadi_3, *D_haddadi_2*, *D_haddadi_1,
+          *D_gryllatus_hDNA, *D_giesleri_3, *D_giesleri_2, *D_giesleri_1,
+          *D_gaucheri_2, *D_garagoensis_2, *D_garagoensis_1, *D_frosti,
+          *D_elegans_I_2, *D_elegans_II_2, *D_elegans_II_1, *D_ebraccatus_2,
+          *D_ebraccatus_1, *D_dutrai, *D_delarivai, *D_decipiens_V_2,
+          *D_decipiens_V_1, *D_decipiens_VI_2, *D_decipiens_VI_1,
+          *D_decipiens_VIII, *D_decipiens_VII, *D_decipiens_IV_2,
+          *D_decipiens_IV_1, *D_decipiens_III_2, *D_decipiens_III_1,
+          *D_decipiens_II, *D_columbianus_2*, *D_cf_goughi, *D_carnifex*,
+          *D_brevifrons_2, *D_brevifrons_1, *D_bokermanni_2, *D_bokermanni_1,
+          *D_bogerti_2, *D_bogerti_1, *D_bipunctatus_2, *D_bifurcus,
+          *D_berthalutzae_GB, *D_berthalutzae_2*, *D_berthalutzae_1,
+          *D_aperomeus, *D_anceps_3*, *D_anceps_2, *D_anceps_1,
+          *D_aff_minutus, *D_acreanus, *4085_minutus_Maromba_RJ are included
+          in terminals files but is not loaded in data.
+Information : Selected Terminals:
+              
+                                       
+Included                      Excluded
+Xenohyla_truncata_1_M          
+Xenohyla_eugenioi_1            
+Sphaenorhynchus_pauloalvini_M  
+Sphaenorhynchus_lacteus_M      
+Scinax_perereca_M              
+Scinax_berthae_M               
+Scarthyla_goinorum_1           
+Pseudis_minutus_M              
+Phyllodytes_luteolous_M        
+Lysapus_laevis_1               
+Itapotihyla_langsdorffi_1      
+D_werneri_1                    
+D_walfordi                     
+D_tritaeniatus_hDNA            
+D_triangulum_1_M               
+D_studerae_1                   
+D_shiwiarum_1                  
+D_sartori_1                    
+D_sanborni_5                   
+D_sanborni_4                   
+D_sanborni_3                   
+D_sanborni_2_M                 
+D_sanborni_1                   
+D_ruschii_1_M                  
+D_rubicundulus_9               
+D_rubicundulus_8               
+D_rubicundulus_7               
+D_rubicundulus_6               
+D_rubicundulus_5               
+D_rubicundulus_4               
+D_rubicundulus_3               
+D_rubicundulus_2               
+D_rubicundulus_18              
+D_rubicundulus_17              
+D_rubicundulus_16              
+D_rubicundulus_15              
+D_rubicundulus_14              
+D_rubicundulus_13              
+D_rubicundulus_12              
+D_rubicundulus_11              
+D_rubicundulus_10              
+D_rubicundulus_1               
+D_rozenmani_6                  
+D_rozenmani_5                  
+D_rozenmani_4                  
+D_rozenmani_3                  
+D_rozenmani_2                  
+D_rozenmani_1                  
+D_robertmertensi               
+D_riveroi_M                    
+D_rhodopeplus_1_M              
+D_rhea_hDNA                    
+D_reicheli_1                   
+D_pseudomeridianus_1           
+D_parviceps_1                  
+D_nanus_1                      
+D_minutus_I_M                  
+D_minusculus_3                 
+D_minusculus_2                 
+D_minusculus_1                 
+D_microcephalus_1              
+D_meridensis                   
+D_mathiassoni_2                
+D_mathiassoni_1                
+D_marmoratus_1_M               
+D_leali_1                      
+D_labialis_1_M                 
+D_juliani_A_2                  
+D_juliani_A                    
+D_juliani_2                    
+D_juliani_1                    
+D_joannae                      
+D_jimi_M                       
+D_jimi_3                       
+D_jimi_2                       
+D_jimi_1                       
+D_gaucheri_1                   
+D_elianeae_2_M                 
+D_elianeae_1                   
+D_elianae_8                    
+D_elianae_7                    
+D_elianae_6                    
+D_elianae_5                    
+D_elianae_4                    
+D_elianae_3                    
+D_elegans                      
+D_decipiens_I_M                
+D_cruzi                        
+D_columbianus_1                
+D_coffea                       
+D_cf_tritaeniatus_4            
+D_cf_tritaeniatus_3            
+D_cf_tritaeniatus_2            
+D_cf_tritaeniatus_1            
+D_cerradensis_2                
+D_cerradensis_1                
+D_cachimbo_2                   
+D_cachimbo_1                   
+D_branneri_2_M                 
+D_branneri_1                   
+D_bipunctatus_1_M              
+D_bilobatus_2                  
+D_bilobatus_1                  
+D_araguaya_I_2                 
+D_araguaya_I_1                 
+D_araguaya_II_3                
+D_araguaya_II_2                
+D_araguaya_II_1                
+D_anataliasiasi_7              
+D_anataliasiasi_6              
+D_anataliasiasi_5              
+D_anataliasiasi_4              
+D_anataliasiasi_3              
+D_anataliasiasi_2              
+D_anataliasiasi_1              
+Information : 
+Information : Total included: 115
+Information : Total excluded: 0
+Information : Vectorized:44 of 44 characters.
+Information : Selected 115 of 115 terminals
+Status : RAS + TBR : 0 
+Status : RAS + TBR : 0 Searching on tree number 1
+Status : Wagner : 2 of 115 -- Wagner tree with cost 160.
+Status : Wagner : 3 of 115 -- Wagner tree with cost 189.
+Status : Wagner : 4 of 115 -- Wagner tree with cost 211.
+Status : Wagner : 5 of 115 -- Wagner tree with cost 212.
+Status : Wagner : 6 of 115 -- Wagner tree with cost 551.
+Status : Wagner : 7 of 115 -- Wagner tree with cost 1025.
+Status : Wagner : 8 of 115 -- Wagner tree with cost 1275.
+Status : Wagner : 9 of 115 -- Wagner tree with cost 1286.
+Status : Wagner : 10 of 115 -- Wagner tree with cost 1785.
+Status : Wagner : 11 of 115 -- Wagner tree with cost 2059.
+Status : Wagner : 12 of 115 -- Wagner tree with cost 2519.
+Status : Wagner : 13 of 115 -- Wagner tree with cost 2897.
+Status : Wagner : 14 of 115 -- Wagner tree with cost 3099.
+Status : Wagner : 15 of 115 -- Wagner tree with cost 3436.
+Status : Wagner : 16 of 115 -- Wagner tree with cost 3437.
+Status : Wagner : 17 of 115 -- Wagner tree with cost 3445.
+Status : Wagner : 18 of 115 -- Wagner tree with cost 3502.
+Status : Wagner : 19 of 115 -- Wagner tree with cost 3542.
+Status : Wagner : 20 of 115 -- Wagner tree with cost 3678.
+Status : Wagner : 21 of 115 -- Wagner tree with cost 3696.
+Status : Wagner : 22 of 115 -- Wagner tree with cost 3703.
+Status : Wagner : 23 of 115 -- Wagner tree with cost 3703.
+Status : Wagner : 24 of 115 -- Wagner tree with cost 4043.
+Status : Wagner : 25 of 115 -- Wagner tree with cost 4046.
+Status : Wagner : 26 of 115 -- Wagner tree with cost 4048.
+Status : Wagner : 27 of 115 -- Wagner tree with cost 4318.
+Status : Wagner : 28 of 115 -- Wagner tree with cost 4491.
+Status : Wagner : 29 of 115 -- Wagner tree with cost 4852.
+Status : Wagner : 30 of 115 -- Wagner tree with cost 4853.
+Status : Wagner : 31 of 115 -- Wagner tree with cost 5110.
+Status : Wagner : 32 of 115 -- Wagner tree with cost 5341.
+Status : Wagner : 33 of 115 -- Wagner tree with cost 5458.
+Status : Wagner : 34 of 115 -- Wagner tree with cost 5479.
+Status : Wagner : 35 of 115 -- Wagner tree with cost 5732.
+Status : Wagner : 36 of 115 -- Wagner tree with cost 5989.
+Status : Wagner : 37 of 115 -- Wagner tree with cost 6160.
+Status : Wagner : 38 of 115 -- Wagner tree with cost 6220.
+Status : Wagner : 39 of 115 -- Wagner tree with cost 6222.
+Status : Wagner : 40 of 115 -- Wagner tree with cost 6367.
+Status : Wagner : 41 of 115 -- Wagner tree with cost 6561.
+Status : Wagner : 42 of 115 -- Wagner tree with cost 6603.
+Status : Wagner : 43 of 115 -- Wagner tree with cost 6604.
+Status : Wagner : 44 of 115 -- Wagner tree with cost 6871.
+Status : Wagner : 45 of 115 -- Wagner tree with cost 6906.
+Status : Wagner : 46 of 115 -- Wagner tree with cost 7090.
+Status : Wagner : 47 of 115 -- Wagner tree with cost 7181.
+Status : Wagner : 48 of 115 -- Wagner tree with cost 7185.
+Status : Wagner : 49 of 115 -- Wagner tree with cost 7186.
+Status : Wagner : 50 of 115 -- Wagner tree with cost 7470.
+Status : Wagner : 51 of 115 -- Wagner tree with cost 8084.
+Status : Wagner : 52 of 115 -- Wagner tree with cost 8084.
+Status : Wagner : 53 of 115 -- Wagner tree with cost 8120.
+Status : Wagner : 54 of 115 -- Wagner tree with cost 8392.
+Status : Wagner : 55 of 115 -- Wagner tree with cost 8392.
+Status : Wagner : 56 of 115 -- Wagner tree with cost 8392.
+Status : Wagner : 57 of 115 -- Wagner tree with cost 8577.
+Status : Wagner : 58 of 115 -- Wagner tree with cost 8583.
+Status : Wagner : 59 of 115 -- Wagner tree with cost 8779.
+Status : Wagner : 60 of 115 -- Wagner tree with cost 9092.
+Status : Wagner : 61 of 115 -- Wagner tree with cost 9292.
+Status : Wagner : 62 of 115 -- Wagner tree with cost 9294.
+Status : Wagner : 63 of 115 -- Wagner tree with cost 9298.
+Status : Wagner : 64 of 115 -- Wagner tree with cost 9300.
+Status : Wagner : 65 of 115 -- Wagner tree with cost 9304.
+Status : Wagner : 66 of 115 -- Wagner tree with cost 9566.
+Status : Wagner : 67 of 115 -- Wagner tree with cost 9568.
+Status : Wagner : 68 of 115 -- Wagner tree with cost 9652.
+Status : Wagner : 69 of 115 -- Wagner tree with cost 9762.
+Status : Wagner : 70 of 115 -- Wagner tree with cost 9770.
+Status : Wagner : 71 of 115 -- Wagner tree with cost 9772.
+Status : Wagner : 72 of 115 -- Wagner tree with cost 9778.
+Status : Wagner : 73 of 115 -- Wagner tree with cost 9783.
+Status : Wagner : 74 of 115 -- Wagner tree with cost 9783.
+Status : Wagner : 75 of 115 -- Wagner tree with cost 9913.
+Status : Wagner : 76 of 115 -- Wagner tree with cost 10070.
+Status : Wagner : 77 of 115 -- Wagner tree with cost 10118.

@@ -1,0 +1,82 @@
+Working directory is /home/dnakamura/simulations/3.5_elPartition8
+Running on host hel-n0022.hel.pcc.amnh.org
+Time is Mon Nov 3 10:40:08 EST 2025
+Directory is /home/dnakamura/simulations/3.5_elPartition8
+Using 38 processors across 1 nodes
+[0;92m[0;32m
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ Phylogenetic Graph (PhyG) Version 1.3 [3c1a1fa] (3128 commits) on 2025-05-09 @ 10:59:29 EDT      │
+│                                                                                                  │
+│ © 2015 Ward Wheeler and The American Museum of Natural History                                   │
+│ The program 'phyg' comes with ABSOLUTELY NO WARRANTY;                                            │
+│ This is free software, and may be redistributed under the BSD 3-Clause License.                  │
+│                                                                                                  │
+│ Performs heuristic search of phylogenetic graph space via scoring abstract input data.           │
+│ For more information, see: https://github.com/AMNH/PhyG#readme                                   │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘[0;0m[0;97m
+[0;37m
+Command script file: '3.5_t20_len10000_script.pg'
+[0;0m[0;97m[0;37mInitial random seed set to 1802450349
+[0;0m[0;96m
+[0;36m
+Checking command file syntax
+[0;0m[0;96m[0;36m	Commands appear to be properly specified--file availability and contents not checked.
+[0;0m[0;97m
+[0;37mReading 3.5_t20_len10000_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile 3.5_t20_len10000_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse 3.5_t20_len10000_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mEntered 1 data file(s) and 0 input graphs
+[0;0m[0;97m[0;37mOptimality criterion set to Parsimony
+[0;0m[0;97m[0;37m
+Partitioning 3.5_t20_len10000_preprocessed.fasta#0 into 9 segments
+[0;0m[0;97m[0;37mNo terminals to be renamed
+[0;0m[0;97m[0;37mData were input for 20 terminals
+[0;0m[0;97m[0;37mRecoding input block: 3.5_t20_len10000_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: 3.5_t20_len10000_preprocessed.fasta#1
+[0;0m[0;97m[0;37mRecoding input block: 3.5_t20_len10000_preprocessed.fasta#2
+[0;0m[0;97m[0;37mRecoding input block: 3.5_t20_len10000_preprocessed.fasta#3
+[0;0m[0;97m[0;37mRecoding input block: 3.5_t20_len10000_preprocessed.fasta#4
+[0;0m[0;97m[0;37mRecoding input block: 3.5_t20_len10000_preprocessed.fasta#5
+[0;0m[0;97m[0;37mRecoding input block: 3.5_t20_len10000_preprocessed.fasta#6
+[0;0m[0;97m[0;37mRecoding input block: 3.5_t20_len10000_preprocessed.fasta#7
+[0;0m[0;97m[0;37mRecoding input block: 3.5_t20_len10000_preprocessed.fasta#8
+[0;0m[0;97m[0;37mAll taxa contain data
+[0;0m[0;97m[0;37mCharacter Blocks as input files
+[0;0m[0;97m[0;37mCharacter Blocks as input files
+[0;0m[0;97m[0;37mRandom Seed set to 22
+[0;0m[0;97m[0;37mOptimality criterion set to Parsimony
+[0;0m[0;97m[0;37m	Generating pairwise distances for 9 character blocks
+[0;0m[0;97m[0;37m		Building 10 character Wagner replicates
+[0;0m[0;97m[0;37m	Building Wagner replicate 0
+[0;0m[0;97m[0;37m	Building Wagner replicate 7
+[0;0m[0;97m[0;37m	Building Wagner replicate 6
+[0;0m[0;97m[0;37m	Building Wagner replicate 1
+[0;0m[0;97m[0;37m	Building Wagner replicate 3
+[0;0m[0;97m[0;37m	Building Wagner replicate 8
+[0;0m[0;97m[0;37m	Building Wagner replicate 4
+[0;0m[0;97m[0;37m	Building Wagner replicate 2
+[0;0m[0;97m[0;37m	Building Wagner replicate 9
+[0;0m[0;97m[0;37m	Building Wagner replicate 5
+[0;0m[0;96m
+[0;36m	Character build yielded 10 trees at cost range (70431.0,73548.0)
+
+[0;0m[0;97m
+[0;37m	Returning 10 graphs at cost range (70431.0, 73548.0)
+[0;0m[0;97m[0;37mSwapping 10 input graph(s) with 1 trajectories at minimum cost 70431.0 keeping maximum of 10 graphs per input graph
+[0;0m[0;97m[0;37m	-> 72500.0[0;0m[0;97m[0;37m	-> 71319.0[0;0m[0;97m[0;37m	-> 71138.0[0;0m[0;97m[0;37m	-> 70315.0[0;0m[0;97m[0;37m	-> 73499.0[0;0m[0;97m[0;37m	-> 71968.0[0;0m[0;97m[0;37m	-> 72721.0[0;0m[0;97m[0;37m	-> 71924.0[0;0m[0;97m[0;37m	-> 71763.0[0;0m[0;97m[0;37m	-> 70300.0[0;0m[0;97m[0;37m	-> 71293.0[0;0m[0;97m[0;37m	-> 72379.0[0;0m[0;97m[0;37m	-> 70287.0[0;0m[0;97m[0;37m	-> 71937.0[0;0m[0;97m[0;37m	-> 70837.0[0;0m[0;97m[0;37m	-> 71862.0[0;0m[0;97m[0;37m	-> 71053.0[0;0m[0;97m[0;37m	-> 72159.0[0;0m[0;97m[0;37m	-> 70294.0[0;0m[0;97m[0;37m	-> 72362.0[0;0m[0;97m[0;37m	-> 70225.0[0;0m[0;97m[0;37m	-> 71541.0[0;0m[0;97m[0;37m	-> 70449.0[0;0m[0;97m[0;37m	-> 72896.0[0;0m[0;97m[0;37m	-> 71872.0[0;0m[0;97m[0;37m	-> 69959.0[0;0m[0;97m[0;37m	-> 72006.0[0;0m[0;97m[0;37m	-> 72351.0[0;0m[0;97m[0;37m	-> 70377.0[0;0m[0;97m[0;37m	-> 71858.0[0;0m[0;97m[0;37m	-> 70830.0[0;0m[0;97m[0;37m	-> 71432.0[0;0m[0;97m[0;37m	-> 71257.0[0;0m[0;97m[0;37m	-> 69931.0[0;0m[0;97m[0;37m	-> 70364.0[0;0m[0;97m[0;37m	-> 70823.0[0;0m[0;97m[0;37m	-> 71993.0[0;0m[0;97m[0;37m	-> 69768.0[0;0m[0;97m[0;37m	-> 71853.0[0;0m[0;97m[0;37m	-> 71403.0[0;0m[0;97m[0;37m	-> 72769.0[0;0m[0;97m[0;37m	-> 71975.0[0;0m[0;97m[0;37m	-> 69742.0[0;0m[0;97m[0;37m	-> 71859.0[0;0m[0;97m[0;37m	-> 70477.0[0;0m[0;97m[0;37m	-> 71389.0[0;0m[0;97m[0;37m	-> 71821.0[0;0m[0;97m[0;37m	-> 69855.0[0;0m[0;97m[0;37m	-> 71131.0[0;0m[0;97m[0;37m	-> 71807.0[0;0m[0;97m[0;37m	-> 70473.0[0;0m[0;97m[0;37m	-> 71126.0[0;0m[0;97m[0;37m	-> 70297.0[0;0m[0;97m[0;37m	-> 70376.0[0;0m[0;97m[0;37m	-> 70469.0[0;0m[0;97m[0;37m	-> 71817.0[0;0m[0;97m[0;37m	-> 71363.0[0;0m[0;97m[0;37m	-> 71108.0[0;0m[0;97m[0;37m	-> 71458.0[0;0m[0;97m[0;37m	-> 71721.0[0;0m[0;97m[0;37m	-> 70249.0[0;0m[0;97m[0;37m	-> 69806.0[0;0m[0;97m[0;37m	-> 70303.0[0;0m[0;97m[0;37m	-> 70323.0[0;0m[0;97m[0;37m	-> 69722.0[0;0m[0;97m[0;37m	-> 70120.0[0;0m[0;97m[0;37m	-> 71338.0[0;0m[0;97m[0;37m	-> 69712.0[0;0m[0;97m[0;37m	-> 71115.0[0;0m[0;97m[0;37m	-> 71084.0[0;0m[0;97m[0;37m	-> 71048.0[0;0m[0;97m[0;37m	-> 70045.0[0;0m[0;97m[0;37m	-> 69794.0[0;0m[0;97m[0;37m	-> 70300.0[0;0m[0;97m[0;37m	-> 69959.0[0;0m[0;97m[0;37m	-> 69792.0[0;0m[0;97m[0;37m	-> 70101.0[0;0m[0;97m[0;37m	-> 70029.0[0;0m[0;97m[0;37m	-> 70657.0[0;0m[0;97m[0;37m	-> 70294.0[0;0m[0;97m[0;37m	-> 69853.0[0;0m[0;97m[0;37m	-> 70693.0[0;0m[0;97m[0;37m	-> 69728.0[0;0m[0;97m[0;37m	-> 69804.0[0;0m[0;97m[0;37m	-> 71045.0[0;0m[0;97m[0;37m	-> 70179.0[0;0m[0;97m[0;37m	-> 71043.0[0;0m[0;97m[0;37m	-> 70386.0[0;0m[0;97m[0;37m	-> 70075.0[0;0m[0;97m[0;37m	-> 69966.0[0;0m[0;97m[0;37m	-> 69963.0[0;0m[0;97m[0;37m	-> 70859.0[0;0m[0;97m[0;37m	-> 69989.0[0;0m[0;97m[0;37m	-> 70484.0[0;0m[0;97m[0;37m	-> 69741.0[0;0m[0;97m[0;37m	-> 70282.0[0;0m[0;97m[0;37m	-> 70058.0[0;0m[0;97m[0;37m	-> 70460.0[0;0m[0;97m[0;37m	-> 70057.0[0;0m[0;97m[0;37m	-> 69859.0[0;0m[0;97m[0;37m	-> 69761.0[0;0m[0;97m[0;37m	-> 69683.0[0;0m[0;97m[0;37m	-> 70266.0[0;0m[0;97m[0;37m	-> 69781.0[0;0m[0;97m[0;37m	-> 69697.0[0;0m[0;97m[0;37m	-> 69862.0[0;0m[0;97m[0;37m	-> 69988.0[0;0m[0;97m[0;37m	-> 69687.0[0;0m[0;97m[0;37m	-> 69974.0[0;0m[0;97m[0;37m	-> 69719.0[0;0m[0;97m[0;37m	-> 69846.0[0;0m[0;97m[0;37m	-> 69654.0[0;0m[0;97m[0;37m	-> 69968.0[0;0m[0;97m[0;37m	-> 69670.0[0;0m[0;97m[0;37m	-> 69764.0[0;0m[0;97m[0;37m	-> 69917.0[0;0m[0;97m[0;37m	-> 69690.0[0;0m[0;97m[0;37m	-> 69748.0[0;0m[0;97m[0;37m	-> 70227.0[0;0m[0;97m[0;37m	-> 69665.0[0;0m[0;97m[0;37m	-> 69909.0[0;0m[0;97m[0;37m	-> 69818.0[0;0m[0;97m[0;37m	-> 69661.0[0;0m[0;97m[0;37m	-> 69662.0[0;0m[0;97m[0;37m	-> 70196.0[0;0m[0;97m[0;37m	-> 69639.0[0;0m[0;97m[0;37m	-> 69906.0[0;0m[0;97m[0;37m	-> 69689.0[0;0m[0;97m[0;37m	-> 69963.0[0;0m[0;97m[0;37m	-> 69813.0[0;0m[0;97m[0;37m	-> 69648.0[0;0m[0;97m[0;37m	-> 69686.0[0;0m[0;97m[0;37m	-> 69840.0[0;0m[0;97m[0;37m	-> 69786.0[0;0m[0;97m[0;37m	-> 69688.0[0;0m[0;97m[0;37m	-> 69948.0[0;0m[0;97m[0;37m	-> 69814.0[0;0m[0;97m[0;37m	-> 69754.0[0;0m[0;97m[0;37m	-> 69739.0[0;0m[0;97m[0;37m	-> 69669.0[0;0m[0;97m[0;37m	-> 69706.0[0;0m[0;97m[0;37m	-> 69705.0[0;0m[0;97m[0;37m	-> 69631.0[0;0m[0;97m[0;37m	-> 69691.0[0;0m[0;97m[0;37m	-> 69650.0[0;0m[0;97m[0;37m	-> 69682.0[0;0m[0;97m[0;37m	-> 69655.0[0;0m[0;97m[0;37m	-> 69621.0[0;0m[0;97m[0;37m	-> 69647.0[0;0m[0;97m[0;37m	-> 69678.0[0;0m[0;97m[0;37m	-> 69695.0[0;0m[0;97m[0;37m	-> 69660.0[0;0m[0;97m[0;37m	-> 69731.0[0;0m[0;97m[0;37m	-> 69628.0[0;0m[0;97m[0;37m	-> 69641.0[0;0m[0;97m[0;37m	-> 69676.0[0;0m[0;97m[0;37m	-> 69635.0[0;0m[0;97m[0;37m	-> 69610.0[0;0m[0;97m[0;37m	-> 69661.0[0;0m[0;97m[0;37m	-> 69640.0[0;0m[0;97m[0;37m	-> 69632.0[0;0m[0;97m[0;37m	-> 69653.0[0;0m[0;97m[0;37m	-> 69645.0[0;0m[0;97m[0;37m	-> 69630.0[0;0m[0;97m[0;37m
+	After swap: 1 resulting graphs with minimum cost 69610.0 with swap rounds (total): 176 Alternate
+[0;0m[0;97m[0;37mReport writing to "3.5_t20_len10000_searchstats.csv"
+[0;0m[0;97m[0;37mReporting 1 graph(s) at minimum cost 69610.0
+[0;0m[0;97m[0;37mReport writing to "3.5_t20_len10000_searchTrees.nwk"
+[0;0m[0;97m[0;37mSelecting unique graphs 
+[0;0m[0;97m[0;37mSelecting best graphs 
+[0;0m[0;97m[0;37mReporting 1 graph(s) at minimum cost 69610.0
+[0;0m[0;97m[0;37mReport writing to "3.5_t20_len10000_bestUnique.nwk"
+[0;0m[0;97m[0;37mReport writing to "3.5_t20_len10000_ia.tnt"
+[0;0m[0;97m[0;37mReport writing to "3.5_t20_len10000_bestConsensus.nwk"
+[0;0m[0;97m[0;37mExecution returned 1 graph(s) at cost range (69610.0,69610.0) 
+[0;0m[0;97m[0;37m	Wall-Clock time  15262.031909256 second(s)
+	CPU time 288675.429191563 second(s)
+	CPU usage 1891%
+[0;0m

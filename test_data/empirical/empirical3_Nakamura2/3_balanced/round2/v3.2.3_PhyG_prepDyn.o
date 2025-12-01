@@ -1,0 +1,170 @@
+
+Currently Loaded Modules:
+  1) phyg/1.3
+
+ 
+
+This job ran on 1 nodes.
+[0;92m[0;32m
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ Phylogenetic Graph (PhyG) Version 1.3 [3c1a1fa] (3128 commits) on 2025-05-09 @ 11:59:29 -03      │
+│                                                                                                  │
+│ © 2015 Ward Wheeler and The American Museum of Natural History                                   │
+│ The program 'phyg' comes with ABSOLUTELY NO WARRANTY;                                            │
+│ This is free software, and may be redistributed under the BSD 3-Clause License.                  │
+│                                                                                                  │
+│ Performs heuristic search of phylogenetic graph space via scoring abstract input data.           │
+│ For more information, see: https://github.com/AMNH/PhyG#readme                                   │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘[0;0m[0;97m
+[0;37m
+Command script file: 'v3.2.3_script.pg'
+[0;0m[0;97m[0;37mInitial random seed set to 1657979030
+[0;0m[0;96m
+[0;36m
+Checking command file syntax
+[0;0m[0;96m[0;36m	Commands appear to be properly specified--file availability and contents not checked.
+[0;0m[0;97m
+[0;37mReading dendropsophus124.ss with no options
+[0;0m[0;97m[0;37m
+TNT file file dendropsophus124.ss message : No TNT title message with 22 taxa and 201 characters
+[0;0m[0;97m[0;37m	Trying to parse dendropsophus124.ss as TNT
+[0;0m[0;97m[0;37mReading output_Rhod.3_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile output_Rhod.3_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse output_Rhod.3_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mReading output_H1.3_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile output_H1.3_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse output_H1.3_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mReading output_SIA.2_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile output_SIA.2_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse output_SIA.2_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mReading output_Cytb.1_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile output_Cytb.1_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse output_Cytb.1_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mReading output_Rag.3_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile output_Rag.3_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse output_Rag.3_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mReading output_TYR.1_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile output_TYR.1_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse output_TYR.1_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mReading output_POMC.3_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile output_POMC.3_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse output_POMC.3_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mReading output_COI.2_preprocessed.fasta with no options
+[0;0m[0;97m[0;37mFile output_COI.2_preprocessed.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse output_COI.2_preprocessed.fasta as fasta
+[0;0m[0;97m[0;37mReading v3.2.1_POY_Nakamura.trees.nwk with no options
+[0;0m[0;97m[0;37mEntered 9 data file(s) and 10 input graphs
+[0;0m[0;97m[0;37mRandom Seed set to 73412305
+[0;0m[0;97m[0;37mOptimality criterion set to Parsimony
+[0;0m[0;97m[0;37m
+Partitioning output_COI.2_preprocessed.fasta#0 into 4 segments
+[0;0m[0;97m[0;37m
+Partitioning output_Rag.3_preprocessed.fasta#0 into 4 segments
+[0;0m[0;97m[0;37m
+Partitioning output_Cytb.1_preprocessed.fasta#0 into 4 segments
+[0;0m[0;97m[0;37m
+Partitioning output_SIA.2_preprocessed.fasta#0 into 4 segments
+[0;0m[0;97m[0;37m
+Partitioning output_H1.3_preprocessed.fasta#0 into 6 segments
+[0;0m[0;97m[0;37m
+Partitioning output_POMC.3_preprocessed.fasta#0 into 3 segments
+[0;0m[0;97m[0;37m
+Partitioning output_TYR.1_preprocessed.fasta#0 into 4 segments
+[0;0m[0;97m[0;37mNo terminals to be renamed
+[0;0m[0;97m[0;37mData were input for 115 terminals
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#1
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#2
+[0;0m[0;97m[0;37mRecoding input block: output_COI.2_preprocessed.fasta#3
+[0;0m[0;97m[0;37mRecoding input block: output_Rag.3_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: output_Rag.3_preprocessed.fasta#1
+[0;0m[0;97m[0;37mRecoding input block: output_Rag.3_preprocessed.fasta#2
+[0;0m[0;97m[0;37mRecoding input block: output_Rag.3_preprocessed.fasta#3
+[0;0m[0;97m[0;37mRecoding input block: output_Cytb.1_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: output_Cytb.1_preprocessed.fasta#1
+[0;0m[0;97m[0;37mRecoding input block: output_Cytb.1_preprocessed.fasta#2
+[0;0m[0;97m[0;37mRecoding input block: output_Cytb.1_preprocessed.fasta#3
+[0;0m[0;97m[0;37mRecoding input block: output_SIA.2_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: output_SIA.2_preprocessed.fasta#1
+[0;0m[0;97m[0;37mRecoding input block: output_SIA.2_preprocessed.fasta#2
+[0;0m[0;97m[0;37mRecoding input block: output_SIA.2_preprocessed.fasta#3
+[0;0m[0;97m[0;37mRecoding input block: output_H1.3_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: output_H1.3_preprocessed.fasta#1
+[0;0m[0;97m[0;37mRecoding input block: output_H1.3_preprocessed.fasta#2
+[0;0m[0;97m[0;37mRecoding input block: output_H1.3_preprocessed.fasta#3
+[0;0m[0;97m[0;37mRecoding input block: output_H1.3_preprocessed.fasta#4
+[0;0m[0;97m[0;37mRecoding input block: output_H1.3_preprocessed.fasta#5
+[0;0m[0;97m[0;37mRecoding input block: output_Rhod.3_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: output_POMC.3_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: output_POMC.3_preprocessed.fasta#1
+[0;0m[0;97m[0;37mRecoding input block: output_POMC.3_preprocessed.fasta#2
+[0;0m[0;97m[0;37mRecoding input block: output_TYR.1_preprocessed.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: output_TYR.1_preprocessed.fasta#1
+[0;0m[0;97m[0;37mRecoding input block: output_TYR.1_preprocessed.fasta#2
+[0;0m[0;97m[0;37mRecoding input block: output_TYR.1_preprocessed.fasta#3
+[0;0m[0;97m[0;37mRecoding input block: dendropsophus124.ss#0
+[0;0m[0;97m[0;37mAll taxa contain data
+[0;0m[0;97m[0;37mCharacter Blocks as input files
+[0;0m[0;97m[0;37mCharacter Blocks as input files
+[0;0m[0;97m[0;37mOutgroup set to Phyllodytes_luteolous_M
+[0;0m[0;97m[0;37mRandom Seed set to 73412305
+[0;0m[0;97m[0;37mOptimality criterion set to Parsimony
+[0;0m[0;97m[0;37mReport writing to "v3.2.3_PHYG_Nakamura_crossref.csv"
+[0;0m[0;97m[0;37mReport writing to "v3.2.3_PHYG_Nakamura.data"
+[0;0m[0;97m[0;37mRandomized search for 43260 seconds with 5 instances keeping at most 10 graphs
+[0;0m[0;97m[0;37mChanging multiTraverse to False:13474.0 -> 13491.0
+[0;0m[0;97m[0;37mChanging multiTraverse to False:13474.0 -> 13491.0
+[0;0m[0;97m[0;37mChanging multiTraverse to False:13474.0 -> 13491.0
+[0;0m[0;97m[0;37mChanging multiTraverse to False:13474.0 -> 13491.0
+[0;0m[0;97m[0;37mChanging multiTraverse to False:13474.0 -> 13491.0
+[0;0m[0;97m[0;37mTransforming data to staticApprox: 13474.0 -> 13474.0
+[0;0m[0;97m[0;37mSimulated Annealing (Swapping) 1 rounds with 5 cooling steps 10 input graph(s) at minimum cost 13474.0 keeping maximum of 1 graphs
+[0;0m[0;97m[0;37m	MultiTraverse to False
+[0;0m[0;97m[0;37mTransforming data to staticApprox: 13474.0 -> 13474.0
+[0;0m[0;97m[0;37mGenetic Algorithm operating on population of 10 input graph(s) with cost range (13474.0,13474.0)
+[0;0m[0;97m[0;37mGenetic algorithm generation: 0
+[0;0m[0;97m[0;37mTransforming data to staticApprox: 13474.0 -> 13474.0
+[0;0m[0;97m[0;37mTransforming data to staticApprox: 13474.0 -> 13474.0
+[0;0m[0;97m[0;37mTransforming data to staticApprox: 13474.0 -> 13474.0
+[0;0m[0;97m[0;37mFusing 10 input graph(s) with minimum cost 13474.0 
+[0;0m[0;97m[0;37m	Fusing 10 randomized graph pairs with TBR swapping at minimum cost 13474.0
+[0;0m[0;97m[0;37m	Generating pairwise distances for 31 character blocks
+[0;0m[0;97m[0;37m		Building 10 character Wagner replicates
+[0;0m[0;97m[0;37m	Building Wagner replicate 3
+[0;0m[0;97m[0;37m	Building Wagner replicate 9
+[0;0m[0;97m[0;37m	Building Wagner replicate 4
+[0;0m[0;97m[0;37m	Building Wagner replicate 0
+[0;0m[0;97m[0;37m	Building Wagner replicate 6
+[0;0m[0;97m[0;37m	Building Wagner replicate 8
+[0;0m[0;97m[0;37m	Building Wagner replicate 7
+[0;0m[0;97m[0;37m	Building Wagner replicate 2
+[0;0m[0;97m[0;37m	Building Wagner replicate 5
+[0;0m[0;97m[0;37m	Building Wagner replicate 1
+[0;0m[0;97m[0;37m	-> 13508.0[0;0m[0;97m[0;37m	-> 13491.0[0;0m[0;97m[0;37m	-> 13513.0[0;0m[0;97m[0;37m	-> 13493.0[0;0m[0;97m[0;37m	-> 13866.0[0;0m[0;97m[0;37m	-> 13605.0[0;0m[0;97m[0;37m	-> 13501.0[0;0m[0;97m[0;37m	-> 13520.0[0;0m[0;97m[0;37m	Generating pairwise distances for 31 character blocks
+[0;0m[0;97m[0;37m		Building 10 character Wagner replicates
+[0;0m[0;97m[0;37m	Building Wagner replicate 7
+[0;0m[0;97m[0;37m	Building Wagner replicate 1
+[0;0m[0;97m[0;37m	Building Wagner replicate 9
+[0;0m[0;97m[0;37m	Building Wagner replicate 4
+[0;0m[0;97m[0;37m	Building Wagner replicate 2
+[0;0m[0;97m[0;37m	Building Wagner replicate 8
+[0;0m[0;97m[0;37m	Building Wagner replicate 0
+[0;0m[0;97m[0;37m	Building Wagner replicate 6
+[0;0m[0;97m[0;37m	Building Wagner replicate 5
+[0;0m[0;97m[0;37m	Building Wagner replicate 3
+[0;0m[0;97m[0;37m	-> 13519.0[0;0m[0;97m[0;37m	-> 13491.0[0;0m[0;97m[0;37m	-> 13532.0[0;0m[0;97m[0;37m	-> 13491.0[0;0m[0;97m[0;37m	-> 13498.0[0;0m[0;97m[0;37m	-> 13605.0[0;0m[0;97m[0;37m	-> 13470.0[0;0m[0;97m[0;37m	-> 13471.0[0;0m[0;97m[0;37m	-> 13516.0[0;0m[0;97m[0;37m	-> 13673.0[0;0m[0;97m[0;37m	-> 13491.0[0;0m[0;97m[0;37m	-> 13519.0[0;0m[0;97m[0;37m	-> 13496.0[0;0m[0;97m[0;37m	-> 13491.0[0;0m[0;97m[0;37m	-> 13584.0[0;0m[0;97m[0;37m	-> 13491.0[0;0m[0;97m[0;37m	-> 13491.0[0;0m[0;97m[0;37m	-> 13517.0[0;0m[0;97m[0;37m	-> 13525.0[0;0m[0;97m[0;37m	-> 13513.0[0;0m[0;97m[0;37m	-> 13944.0[0;0m[0;97m[0;37m	-> 13492.0[0;0m[0;97m[0;37m	-> 13489.0[0;0m[0;97m[0;37m	-> 13518.0[0;0m[0;97m[0;37m	-> 13491.0[0;0m[0;97m[0;37m	-> 13514.0[0;0m[0;97m[0;37m	-> 13521.0[0;0m[0;97m[0;37m	-> 13470.0[0;0m[0;97m[0;37m	-> 13471.0[0;0m[0;97m[0;37m	-> 13521.0[0;0m[0;97m[0;37m	-> 13474.0[0;0m[0;97m[0;37m	-> 13753.0[0;0m[0;97m[0;37m	-> 13719.0[0;0m[0;97m[0;37m	-> 13554.0[0;0m[0;97m[0;37m	-> 13519.0[0;0m[0;97m[0;37m	-> 13470.0[0;0m[0;97m[0;37m	-> 13471.0[0;0m[0;97m[0;37m	-> 13531.0[0;0m[0;97m[0;37m	-> 13716.0[0;0m[0;97m[0;37m	-> 13519.0[0;0m[0;97m[0;37m	-> 13474.0[0;0m[0;97m[0;37m	-> 13536.0[0;0m[0;97m[0;37m	-> 13470.0[0;0m[0;97m[0;37m	-> 13471.0[0;0m[0;97m[0;37m	-> 13474.0[0;0m[0;97m[0;37m	-> 13474.0[0;0m[0;97m[0;37m	-> 13582.0[0;0m[0;97m[0;37m	-> 13575.0[0;0m[0;97m[0;37m	-> 13470.0[0;0m[0;97m[0;37m	-> 13471.0[0;0m[0;97m[0;37m	-> 13719.0[0;0m[0;97m[0;37m	-> 13856.0[0;0m[0;97m[0;37m	-> 13703.0[0;0m[0;97m[0;37m	-> 13470.0[0;0m[0;97m[0;37m	-> 13471.0[0;0m[0;97m[0;37m	-> 13520.0[0;0m[0;97m[0;37m	-> 13475.0[0;0m[0;97m[0;37m	-> 13470.0[0;0m[0;97m[0;37m	-> 13471.0[0;0m[0;97m[0;37m	-> 13512.0[0;0m[0;97m[0;37mHit minimum cost 13474.0 in 5 of 5 iterations
+[0;0m[0;97m[0;37mReport writing to "v3.2.3_PHYG_Nakamura_stats.txt"
+[0;0m[0;97m[0;37mReporting 10 graph(s) at minimum cost 13474.0
+[0;0m[0;97m[0;37mReport writing to "v3.2.3_PHYG_Nakamura_searchTrees.txt"
+[0;0m[0;97m[0;37mSelecting unique graphs 
+[0;0m[0;97m[0;37mSelecting best graphs 
+[0;0m[0;97m[0;37mReporting 10 graph(s) at minimum cost 13474.0
+[0;0m[0;97m[0;37mReport writing to "v3.2.3_PHYG_Nakamura_bestUnique.nwk"
+[0;0m[0;97m[0;37mReport writing to "v3.2.3_PHYG_Nakamura_ia.tnt"
+[0;0m[0;97m[0;37mReport writing to "v3.2.3_PHYG_Nakamura_bestConsensus.nwk"
+[0;0m[0;97m[0;37mExecution returned 10 graph(s) at cost range (13474.0,13474.0) 
+[0;0m[0;97m[0;37m	Wall-Clock time  44780.234274875 second(s)
+	CPU time 1531237.1645703448 second(s)
+	CPU usage 3419%
+[0;0mThis job took 44787 seconds to run.

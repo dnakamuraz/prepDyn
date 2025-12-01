@@ -1,0 +1,1374 @@
+Data
+    
+
+
+Taxa
+    
+    Total 115
+                                                     
+ Name                          Code          
+D_anataliasiasi_1             23           {}
+D_anataliasiasi_2             52           {}
+D_anataliasiasi_3             70           {}
+D_anataliasiasi_4             71           {}
+D_anataliasiasi_5             72           {}
+D_anataliasiasi_6             74           {}
+D_anataliasiasi_7             73           {}
+D_araguaya_II_1               53           {}
+D_araguaya_II_2               24           {}
+D_araguaya_II_3               75           {}
+D_araguaya_I_1                25           {}
+D_araguaya_I_2                26           {}
+D_bilobatus_1                 76           {}
+D_bilobatus_2                 77           {}
+D_bipunctatus_1_M             9            {}
+D_branneri_1                  27           {}
+D_branneri_2_M                8            {}
+D_cachimbo_1                  28           {}
+D_cachimbo_2                  29           {}
+D_cerradensis_1               30           {}
+D_cerradensis_2               31           {}
+D_cf_tritaeniatus_1           78           {}
+D_cf_tritaeniatus_2           79           {}
+D_cf_tritaeniatus_3           80           {}
+D_cf_tritaeniatus_4           81           {}
+D_coffea                      54           {}
+D_columbianus_1               55           {}
+D_cruzi                       32           {}
+D_decipiens_I_M               10           {}
+D_elegans                     13           {}
+D_elianae_3                   56           {}
+D_elianae_4                   82           {}
+D_elianae_5                   83           {}
+D_elianae_6                   86           {}
+D_elianae_7                   84           {}
+D_elianae_8                   85           {}
+D_elianeae_1                  57           {}
+D_elianeae_2_M                4            {}
+D_gaucheri_1                  33           {}
+D_jimi_1                      34           {}
+D_jimi_2                      35           {}
+D_jimi_3                      87           {}
+D_jimi_M                      3            {}
+D_joannae                     36           {}
+D_juliani_1                   58           {}
+D_juliani_2                   59           {}
+D_juliani_A                   88           {}
+D_juliani_A_2                 89           {}
+D_labialis_1_M                14           {}
+D_leali_1                     37           {}
+D_marmoratus_1_M              1            {}
+D_mathiassoni_1               38           {}
+D_mathiassoni_2               39           {}
+D_meridensis                  90           {}
+D_microcephalus_1             40           {}
+D_minusculus_1                41           {}
+D_minusculus_2                42           {}
+D_minusculus_3                43           {}
+D_minutus_I_M                 11           {}
+D_nanus_1                     6            {}
+D_parviceps_1                 44           {}
+D_pseudomeridianus_1          45           {}
+D_reicheli_1                  60           {}
+D_rhea_hDNA                   46           {}
+D_rhodopeplus_1_M             7            {}
+D_riveroi_M                   15           {}
+D_robertmertensi              61           {}
+D_rozenmani_1                 47           {}
+D_rozenmani_2                 48           {}
+D_rozenmani_3                 91           {}
+D_rozenmani_4                 92           {}
+D_rozenmani_5                 93           {}
+D_rozenmani_6                 94           {}
+D_rubicundulus_1              62           {}
+D_rubicundulus_10             95           {}
+D_rubicundulus_11             96           {}
+D_rubicundulus_12             97           {}
+D_rubicundulus_13             98           {}
+D_rubicundulus_14             99           {}
+D_rubicundulus_15             100          {}
+D_rubicundulus_16             103          {}
+D_rubicundulus_17             101          {}
+D_rubicundulus_18             102          {}
+D_rubicundulus_2              63           {}
+D_rubicundulus_3              104          {}
+D_rubicundulus_4              105          {}
+D_rubicundulus_5              106          {}
+D_rubicundulus_6              110          {}
+D_rubicundulus_7              107          {}
+D_rubicundulus_8              108          {}
+D_rubicundulus_9              109          {}
+D_ruschii_1_M                 2            {}
+D_sanborni_1                  64           {}
+D_sanborni_2_M                5            {}
+D_sanborni_3                  111          {}
+D_sanborni_4                  112          {}
+D_sanborni_5                  113          {}
+D_sartori_1                   65           {}
+D_shiwiarum_1                 66           {}
+D_studerae_1                  49           {}
+D_triangulum_1_M              12           {}
+D_tritaeniatus_hDNA           50           {}
+D_walfordi                    67           {}
+D_werneri_1                   68           {}
+Itapotihyla_langsdorffi_1     114          {}
+Lysapus_laevis_1              115          {}
+Phyllodytes_luteolous_M       22           {}
+Pseudis_minutus_M             21           {}
+Scarthyla_goinorum_1          69           {}
+Scinax_berthae_M              20           {}
+Scinax_perereca_M             19           {}
+Sphaenorhynchus_lacteus_M     18           {}
+Sphaenorhynchus_pauloalvini_M 17           {}
+Xenohyla_eugenioi_1           51           {}
+Xenohyla_truncata_1_M         16           {}
+
+Synonyms
+    
+    Total 305
+                                                     
+  
+{1488_werneri_Peruibe_SP, D_werneri_1, }
+{1517, Scinax_littoralis*, }
+{1622_melanargyreus_Bol, D_melanargyreus_1, }
+{1628_coffea, D_coffea, }
+{1633_xapuriensis, D_xapuriensis, }
+{1638_yaracuyanus, D_yaracuyanus, }
+{1801_juliani_par, D_juliani_1, }
+{1802_juliani_par, D_juliani_2, }
+{1803_reicheli_par, D_reicheli_1, }
+{1804_reicheli_par, D_reicheli_2, }
+{1822_elianeae_itap_SP, D_elianeae_1, }
+{1824_cf_rubi_SJdAlianca_GO, D_rubicundulus_1, }
+{1835_nahdereri, D_nahdereri_1, }
+{1838_meridianus, D_decipiens_IV_1, }
+{1839_ruschii, D_ruschii_1_M, }
+{2026_microps_Iporanga_SP, D_microps_1, }
+{2044_anataliasiasi, D_araguaya_II_1, }
+{2053, Scinax_littoralis*, }
+{2100_cf_giesleri_Tapirai_SP, D_giesleri_1, }
+{2169_sp_gr_parviceps, D_giesleri_2, }
+{2174_decipiens, D_decipiens_II, }
+{2228_sartori, D_sartori_1, }
+{2318_sen_Catas_MG, D_seniculus_1, }
+{2324_dutrai, D_dutrai, }
+{2335_novaisi, D_novaisi_1*, }
+{2343_soaresi_Ubajara_CE, D_soaresi_1, }
+{2355_nahdereri, D_nahdereri_2*, }
+{2396_mel_Jauru_MT, D_melanargyreus_2, }
+{2403, Sphaenorhynchus_pauloalvini_M, }
+{2415_mel_Jauru_MT, D_melanargyreus_3, }
+{2468_sp, D_decipiens_VI_1, }
+{2474_soa_Campo_Alegre_AL, D_soaresi_2, }
+{2481_oliverai_top, D_oliveirai_1*, }
+{2487_sp, D_decipiens_IV_2, }
+{2572_branneri_Aurelino_BA, D_branneri_1, }
+{2574_sen_Citrolandia_RJ, D_seniculus_2*, }
+{2626_haddadi_Aurelino_BA, D_decipiens_III_1, }
+{2631_araguaya_AlTaquari_MT, D_araguaya_I_2, }
+{2642_anataliasiasi, D_anataliasiasi_1, }
+{2643_cachimbo, D_cachimbo_1, }
+{2645_pseudomeridianus_top, D_pseudomeridianus_1, }
+{2646_decipiens, D_pseudomeridianus_2, }
+{2647_meridianus_top, D_meridianus_1*, }
+{2659_araguaya_top, D_araguaya_II_2, }
+{2686_acreanus, D_acreanus, }
+{2687_nor, D_norandinus_1, }
+{2690_virolinensis, D_virolinensis*, }
+{2692_parviceps_CO, D_parviceps_1, }
+{2693_padreluna, D_padreluna, }
+{2787_bogerti, D_bogerti_1, }
+{2788_cf_microcephalus_Ubajara_CE, D_minusculus_1, }
+{2789_microcephalus_CO, D_microcephalus_1, }
+{2793_nor, D_norandinus_2, }
+{2794_elianeae_Aricozal_MT, D_elianeae_2_M, }
+{2795_jimi_Itirapina_SP, D_jimi_1, }
+{2864_branneri_Aurelino_BA, D_branneri_2_M, }
+{2868_cf_jimi_3lagoas_MS, D_jimi_2, }
+{2871_marmo_Juruti_PA, D_marmoratus_1_M, }
+{2874_elegans_Sooretama_ES, D_elegans_II_1, }
+{2878_berthalutzae_IlhaBela_SP, D_berthalutzae_1, }
+{2880_columbianus, D_columbianus_1, }
+{2883_bipunctatus_Aurelino_BA, D_bipunctatus_1_M, }
+{2909_rhodopeplus, D_rhodopeplus_1_M, }
+{2911_bogerti, D_bogerti_2, }
+{2913_subocularis, D_subocularis, }
+{2915_decipiens_Sero_RJ, D_decipiens_I_M, }
+{2925_sanborni_Itape_SP, D_sanborni_1, }
+{2944_haddadi_Vitoria_ES, D_haddadi_1, }
+{2960_joannae_CrzSul_AC, D_joannae, }
+{2962_cf_tintinnabulum, D_shiwiarum_3, }
+{2979_ebraccatus, D_ebraccatus_1, }
+{2981_marmo_Itapinima_AM, D_marmoratus_2, }
+{2983_sen_Jussari_BA, D_novaisi_2, }
+{2988_jimi_top, D_jimi_M, }
+{2994_sp1_Pau-Rosa_AM, D_ozzyi_1, }
+{2994_sp1_PauRosa_AM, D_ozzyi_1, }
+{2994_sp1_Pau_Rosa_AM, D_ozzyi_1, }
+{3000_sp1_Pau-Rosa_AM, D_ozzyi_2, }
+{3000_sp1_PauRosa_AM, D_ozzyi_2, }
+{3000_sp1_Pau_Rosa_AM, D_ozzyi_2, }
+{3113_luteoocelatus, D_luteoocelatus, }
+{4002_soa_Minacu_GO, D_soaresi_3*, }
+{4003_rubicundulus_top, D_rubicundulus_2, }
+{4012_cf_xapuriensis, D_xapuriensis_2, }
+{4014_sarayacuensis_AC, D_sarayacuensis_1, }
+{4016_brevifrons_AC, D_brevifrons_1, }
+{4018_koechlini_AC, D_pauiniensis_1, }
+{4022_oliverai_TimbauSul_RN, D_oliveirai_2, }
+{4023_Sca_goinorum, Scarthyla_goinorum_1, }
+{4035_minutus_PARNAAM_PA, D_aff_minutus, }
+{4037_decipiens_Prado_BA, D_haddadi_2*, }
+{4057_minutus_Alcantara_MA, D_minutus_III_1, }
+{4068_nanus, D_nanus_1, }
+{4074_mel_VilaRica_MT, D_melanargyreus_4, }
+{4076_elegans_Itabaiana_SE, D_elegans_II_2, }
+{4085_minutus_Maromba_RJ, D_minutus_I_M, }
+{4086_berthalutzae_top, D_berthalutzae_2*, }
+{4087_manonegra, D_manonegra_1, }
+{4088_meridianus_top, D_meridianus_2, }
+{4089_garagoensis, D_garagoensis_1, }
+{4090_stingi_top, D_stingi_1, }
+{4091_minusculus_col, D_mathiassoni_1, }
+{4092_columbianus, D_columbianus_2*, }
+{4093_minutus_col, D_stingi_2, }
+{4094_bokermanni_col, D_bokermanni_1, }
+{4096_stingi_top, D_stingi_3, }
+{4097_garagoensis, D_garagoensis_2, }
+{4098_minusculus_col, D_mathiassoni_2, }
+{4099_bokermanni_col, D_bokermanni_2, }
+{4100_cruzi_Anapolis_GO, D_cruzi, }
+{4161_rossalleni, D_rossalleni_1, }
+{4192_tremembe, D_minusculus_2, }
+{4193_anceps_Cacapava_SP, D_anceps_1, }
+{4194_chicoanisioi, D_decipiens_V_1, }
+{4195_P_minutus, Pseudis_minutus_M, }
+{4199_elegans_Vicosa_MG, D_elegans, }
+{4201_anceps_Linhares, D_anceps_2, }
+{4202_gr_rubicundulus_Chp_Guim_MT, D_cachimbo_2, }
+{4203_decipiens_Vicosa_MG, D_decipiens_VI_2, }
+{4205_haddadi_Camacan_BA, D_decipiens_III_2, }
+{4207_chicoanisioi, D_decipiens_V_2, }
+{4208_werneri, D_werneri_2, }
+{4209_X_truncata, Xenohyla_truncata_1_M, }
+{4210_araguaya, D_araguaya_I_1, }
+{4212_cerradensis, D_cerradensis_1, }
+{4218_anataliasiasi, D_anataliasiasi_2, }
+{4219_haddadi_Jequie_BA, D_decipiens_VII, }
+{4221_cerradensis, D_cerradensis_2, }
+{4332, Scinax_perereca_M, }
+{4352_gaucheri, D_gaucheri_1, }
+{4355_gaucheri, D_gaucheri_2, }
+{4356_microps, D_microps_2*, }
+{4358_koechlini_PE, D_koechlini, }
+{4364_sp_Santiago, D_frosti, }
+{4365_riveroi, D_riveroi_M, }
+{4372_haraldschultzi, D_haraldschultzi_1, }
+{4374_labialis, D_luddeckei_1, }
+{4379_allenorum, D_timbeba_1*, }
+{4382_riveroi, D_shiwiarum_1, }
+{4384_leali, D_leali_1, }
+{4386_leali, D_leali_2, }
+{4388_schubarti, D_schubarti_1, }
+{4391_allenorum, D_timbeba_2, }
+{4393_robertmertensi, D_robertmertensi, }
+{4395_riveroi, D_shiwiarum_2, }
+{4397_schubarti, D_schubarti_2, }
+{4399_ruschii, D_ruschii_2, }
+{4403_minusculus_RR, D_minusculus_3, }
+{4405_L_laevis, Lysapus_laevis_1, }
+{4409_rossalleni, D_rossalleni_2, }
+{4413_haraldschultzi, D_haraldschultzi_2*, }
+{4415_walfordi, D_rozenmani_1, }
+{4417_walfordi, D_rozenmani_2, }
+{4423_manonegra, D_manonegra_2, }
+{4428_I_langsdorffii, Itapotihyla_langsdorffi_1, }
+{4503_novaisi, D_novaisi_3, }
+{4509_amarelinho, D_decipiens_VIII, }
+{4513_haddadi_top, D_haddadi_3, }
+{4631, D_studerae_1, }
+{4632, D_studerae_2, }
+{477_leucophyllatus, D_leucophyllatus_1, }
+{4812, Xenohyla_eugenioi_1, }
+{4813, Xenohyla_eugenioi_2, }
+{6, Scinax_perereca_M, }
+{D_anceps, D_anceps_3*, }
+{D_berthalutzae, D_berthalutzae_2*, }
+{D_bipunctatus, D_bipunctatus_1_M, }
+{D_branneri, D_branneri_2_M, }
+{D_carnifex, D_carnifex*, }
+{D_columbianus, D_columbianus_2*, }
+{D_decipiens, D_decipiens_I_M, }
+{D_elianeae, D_elianeae_2_M, }
+{D_gryllatus_hDNA_H1, D_gryllatus_hDNA, }
+{D_haddadi, D_haddadi_2*, }
+{D_haraldschultzi, D_haraldschultzi_2*, }
+{D_jimi, D_jimi_M, }
+{D_labialis, D_labialis_1_M, }
+{D_marmoratus, D_marmoratus_1_M, }
+{D_melanargyreus, D_melanargyreus_4, }
+{D_meridianus, D_meridianus_1*, }
+{D_microps, D_microps_2*, }
+{D_minutus, D_minutus_I_M, }
+{D_nahdereri, D_nahdereri_2*, }
+{D_nanus, D_nanus_1, }
+{D_novaisi, D_novaisi_1*, }
+{D_oliveirai, D_oliveirai_1*, }
+{D_oliverai, D_oliveirai_1*, }
+{D_parviceps, D_parviceps_2*, }
+{D_rhea_H1_hDNA, D_rhea_hDNA, }
+{D_rhea_H1_hDNA_COI, D_rhea_hDNA, }
+{D_rhea_H1_hDNA_CYTB, D_rhea_hDNA, }
+{D_rhodopeplus, D_rhodopeplus_1_M, }
+{D_riveroi, D_riveroi_M, }
+{D_ruschii, D_ruschii_1_M, }
+{D_salli_MJ1281_JF790045, D_salli_2, }
+{D_sanborni, D_sanborni_2_M, }
+{D_seniculus, D_seniculus_2*, }
+{D_soaresi, D_soaresi_3*, }
+{D_sp.ARB-2011_MJ1309_JF790110, D_sp.ARB_2011, }
+{D_sp.ARB2011_MJ1309_JF790110, D_sp.ARB_2011, }
+{D_sp.ARB_2011_MJ1309_JF790110, D_sp.ARB_2011, }
+{D_timbeba, D_timbeba_1*, }
+{D_triangulum, D_triangulum_1_M, }
+{D_tritaeniatus_H1_hDNA_CYTB, D_tritaeniatus_hDNA, }
+{D_tritaeniatus_hDNA_COI, D_tritaeniatus_hDNA, }
+{D_tritaeniatus_hDNA_H1, D_tritaeniatus_hDNA, }
+{D_virolinensis, D_virolinensis*, }
+{I_langsdorffii_GB, Itapotihyla_langsdorffi_2, }
+{JD_026_2013_D.praestans, D_praestans, }
+{L_laevis_GB, Lysapus_laevis_2*, }
+{L_limellum, Lysapus_laevis_2*, }
+{P_luteolous_GB, Phyllodytes_luteolous_M, }
+{P_minuta, Pseudis_minutus_M, }
+{Ph_luteolus, Phyllodytes_luteolous_M, }
+{S_berthae, Scinax_berthae_M, }
+{S_fuscovarius, Scinax_fuscovarius*, }
+{S_littoralis, Scinax_littoralis*, }
+{S_perereca, Scinax_perereca_M, }
+{Sca_goinorum_GB, Scarthyla_goinorum_2*, }
+{Scarthyla_goinorum, Scarthyla_goinorum_2*, }
+{Sci_berthae_GB, Scinax_berthae_M, }
+{Sci_fuscovarius_GB, Scinax_fuscovarius*, }
+{Sp_lacteus, Sphaenorhynchus_lacteus_M, }
+{Sp_pauloalvini, Sphaenorhynchus_pauloalvini_M, }
+{Sp_prasinus, Sphaenorhynchus_dorisae*, }
+{Sph_dorisae_GB, Sphaenorhynchus_dorisae*, }
+{Sph_lacteus_GB, Sphaenorhynchus_lacteus_M, }
+{X_truncata_GB, Xenohyla_truncata_2, }
+{Xenohyla_truncata, Xenohyla_truncata_1_M, }
+{anataliasiasi_MK919543, D_anataliasiasi_7, }
+{anataliasiasi_ON561790, D_anataliasiasi_3, }
+{anataliasiasi_ON561797, D_anataliasiasi_4, }
+{anataliasiasi_ON561807, D_anataliasiasi_5, }
+{anataliasiasi_ON561818, D_anataliasiasi_6, }
+{anceps_GB, D_anceps_3*, }
+{aperomeus_AY819450_AY819549, D_aperomeus, }
+{araguaya_ON561811, D_araguaya_II_3, }
+{berthalutzae_GB, D_berthalutzae_GB, }
+{bifurcus_DQ380350_AY362975, D_bifurcus, }
+{bilobatus_MN977836, D_bilobatus_2, }
+{bilobatus_MN977837, D_bilobatus_1, }
+{bipunctatus_GB, D_bipunctatus_2, }
+{brevifrons_GB, D_brevifrons_2, }
+{carnifex_GB, D_carnifex*, }
+{cf_goughi, D_cf_goughi, }
+{delarivai, D_delarivai, }
+{ebraccatus_GB, D_ebraccatus_2, }
+{elegans_GB, D_elegans_I_2, }
+{elianae_JF790046, D_elianae_4, }
+{elianae_MK919553, D_elianae_7, }
+{elianae_MK919555, D_elianae_8, }
+{elianae_ON561787, D_elianae_5, }
+{elianae_ON561808, D_elianae_6, }
+{giesleri_GB, D_giesleri_3, }
+{jimi_MH206245, D_jimi_3, }
+{juliani_JF790053, D_juliani_A, }
+{juliani_JX187447, D_juliani_A_2, }
+{labialis_CG_GB, D_labialis_2, }
+{labialis_GB, D_labialis_1_M, }
+{leuco_Tab, D_leucophyllatus_2_Tab, }
+{luddeckei_GB, D_luddeckei_2, }
+{marmoratus_GB, D_marmoratus_3, }
+{meridensis_GB, D_meridensis, }
+{microcephalus_GB, D_microcephalus_2, }
+{minuta_GB_11, D_minutus_II, }
+{miyatai_GB, D_miyatai, }
+{nanus_GB, D_nanus_2, }
+{parviceps_GB, D_parviceps_2*, }
+{rhodopeplus_GB, D_rhodopeplus_2, }
+{rozenmani_JF790112, D_rozenmani_3, }
+{rozenmani_JF790113, D_rozenmani_4, }
+{rozenmani_JF790114, D_rozenmani_5, }
+{rozenmani_JF790115, D_rozenmani_6, }
+{rubicundulus_GB, D_elianae_3, }
+{rubicundulus_MK919557, D_rubicundulus_13, }
+{rubicundulus_ON561789, D_rubicundulus_3, }
+{rubicundulus_ON561791, D_rubicundulus_14, }
+{rubicundulus_ON561793, D_rubicundulus_17, }
+{rubicundulus_ON561794, D_rubicundulus_10, }
+{rubicundulus_ON561796, D_rubicundulus_11, }
+{rubicundulus_ON561799, D_rubicundulus_8, }
+{rubicundulus_ON561800, D_rubicundulus_4, }
+{rubicundulus_ON561801, D_rubicundulus_12, }
+{rubicundulus_ON561802, D_rubicundulus_9, }
+{rubicundulus_ON561803, D_rubicundulus_16, }
+{rubicundulus_ON561805, D_rubicundulus_15, }
+{rubicundulus_ON561806, D_rubicundulus_6, }
+{rubicundulus_ON561813, D_rubicundulus_7, }
+{rubicundulus_ON561817, D_rubicundulus_5, }
+{rubicundulus_ON561820, D_rubicundulus_18, }
+{salli_AY362976_1216S, D_salli_1, }
+{sanborni_GB, D_sanborni_2_M, }
+{sanborni_KU517290, D_sanborni_3, }
+{sanborni_KU517293, D_sanborni_4, }
+{sanborni_MT460220, D_sanborni_5, }
+{sarayacuensis_GB, D_sarayacuensis_2, }
+{sartori_GB, D_sartori_2, }
+{seniculus_GB, D_seniculus_3, }
+{triangulum_GB, D_triangulum_1_M, }
+{triangulum_Tab, D_triangulum_2_Tab, }
+{tritaeniatus_ON561792, D_cf_tritaeniatus_1, }
+{tritaeniatus_ON561809, D_cf_tritaeniatus_2, }
+{tritaeniatus_ON561810, D_cf_tritaeniatus_3, }
+{tritaeniatus_ON561812, D_cf_tritaeniatus_4, }
+{walfordi_GB, D_walfordi, }
+
+Ignored taxa
+    
+Characters
+    Non Additive
+    
+    Total 157
+                                                                                                                                                                             
+ File Source         Name                    Weight         Missing Symbol         Match Symbol         Gap Symbol         Ignore         Case Sentive         Set
+dendropsophus124.ss dendropsophus124.ss:0   1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:2   1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:5   1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:6   1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:7   1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:10  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:11  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:12  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:13  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:15  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:16  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:17  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:18  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:19  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:20  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:21  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:22  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:23  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:24  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:25  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:26  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:27  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:28  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:30  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:34  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:35  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:36  1.             ?                                           -                  false          true                 {0, 2, }
+dendropsophus124.ss dendropsophus124.ss:37  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:38  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:39  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:41  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:44  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:45  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:46  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:47  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:48  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:49  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:50  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:51  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:52  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:53  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:54  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:55  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:56  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:57  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:58  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:59  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:60  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:61  1.             ?                                           -                  false          true                 {1, }
+dendropsophus124.ss dendropsophus124.ss:62  1.             ?                                           -                  false          true                 {1, }
+dendropsophus124.ss dendropsophus124.ss:64  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:65  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:66  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:67  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:70  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:72  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:74  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:75  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:77  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:78  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:79  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:80  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:83  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:84  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:85  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:86  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:87  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:88  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:90  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:91  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:92  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:93  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:94  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:95  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:96  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:97  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:98  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:99  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:100 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:101 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:102 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:103 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:104 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:105 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:106 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:107 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:108 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:109 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:110 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:111 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:112 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:113 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:114 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:115 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:116 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:118 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:119 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:120 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:121 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:122 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:123 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:129 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:137 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:138 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:139 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:140 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:141 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:142 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:143 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:144 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:145 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:146 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:147 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:148 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:149 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:150 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:151 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:152 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:153 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:154 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:155 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:157 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:159 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:160 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:161 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:162 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:163 1.             ?                                           -                  false          true                 {1, 2, }
+dendropsophus124.ss dendropsophus124.ss:164 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:166 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:167 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:168 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:169 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:172 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:174 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:176 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:177 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:178 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:179 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:180 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:181 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:182 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:183 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:184 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:185 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:186 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:187 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:188 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:189 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:190 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:191 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:192 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:193 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:194 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:196 1.             ?                                           -                  false          true                 {0, }
+dendropsophus124.ss dendropsophus124.ss:198 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:199 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:200 1.             ?                                           -                  false          true                 {0, 1, }
+
+Additive
+    
+    Total 44
+                                                                                                                                                                                
+ File Source         Name                    Weight         Missing Symbol         Match Symbol         Gap Symbol         Ignore         Case Sentive         Range
+dendropsophus124.ss dendropsophus124.ss:1   1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:3   1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:4   1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:8   1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:9   1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:14  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:29  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:31  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:32  1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:33  1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:40  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:42  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:43  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:63  1.             ?                                           -                  false          true                 {1, 2, }
+dendropsophus124.ss dendropsophus124.ss:68  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:69  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:71  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:73  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:76  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:81  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:82  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:89  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:117 1.             ?                                           -                  false          true                 {0, 2, }
+dendropsophus124.ss dendropsophus124.ss:124 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:125 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:126 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:127 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:128 1.             ?                                           -                  false          true                 {0, 1, 2, 3, 4, }
+dendropsophus124.ss dendropsophus124.ss:130 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:131 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:132 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:133 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:134 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:135 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:136 1.             ?                                           -                  false          true                 {1, 2, }
+dendropsophus124.ss dendropsophus124.ss:156 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:158 1.             ?                                           -                  false          true                 {0, 2, }
+dendropsophus124.ss dendropsophus124.ss:165 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:170 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:171 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:173 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:175 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:195 1.             ?                                           -                  false          true                 {0, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:197 1.             ?                                           -                  false          true                 {0, 1, 2, }
+
+Sankoff
+    
+    Total 0
+
+
+
+Molecular
+    
+    Total 461
+                                                                                                                                                              
+ Name                                 Initial Assignment         Transformation Cost Matrix         Gap Opening         Weight         class          
+output_COI.2_preprocessed.fasta:0    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:1    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:2    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:3    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:4    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:5    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:6    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:7    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:8    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:9    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:10   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:11   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:12   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:13   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:14   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:15   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:16   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:17   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:18   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:19   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:20   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:21   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:22   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:23   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:24   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:25   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:26   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:27   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:28   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:29   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:30   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:31   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:32   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:33   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:34   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:35   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:36   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:37   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:38   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:39   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:40   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:41   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:42   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:43   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:44   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:45   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:46   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:47   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:48   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:49   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:50   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:51   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:52   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:53   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:54   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:55   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:56   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:57   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:58   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:59   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:60   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:61   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:62   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:63   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:64   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:65   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:66   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:67   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:68   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:69   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:70   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:71   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:72   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:73   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:74   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:75   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:76   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:77   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:78   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:79   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:80   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:81   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:82   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:83   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:84   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:85   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:86   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:87   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:88   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:89   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:90   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:91   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:92   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:93   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:94   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:95   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:96   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:97   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:98   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:99   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:100  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:101  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:102  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:103  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:104  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:105  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:106  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:107  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:108  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:109  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:110  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:111  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:112  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:113  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:114  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:115  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:116  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:117  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:118  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:119  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:120  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:121  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:122  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:123  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:124  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:125  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:126  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:127  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:128  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:129  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:130  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:131  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:132  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:133  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:134  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:135  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:136  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:137  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:138  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:139  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:140  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:141  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:142  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:143  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:144  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:145  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:146  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:147  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:148  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:149  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:150  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:151  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:152  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:153  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:154  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:155  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:156  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:157  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:158  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:159  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:160  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:161  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:162  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:163  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:164  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:165  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:166  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:167  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:168  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:169  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:170  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:171  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:172  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:173  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:174  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:175  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:176  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:177  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:178  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:179  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:180  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:181  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:182  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:183  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:184  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:185  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:186  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:187  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:188  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:189  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:190  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:191  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:192  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:193  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:194  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:195  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:196  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:197  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:198  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:199  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:200  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:201  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:202  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:203  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:204  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:205  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:0   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:1   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:2   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:3   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:4   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:5   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:6   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:7   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:8   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:9   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:10  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:11  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:12  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:13  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:14  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:15  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:16  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:17  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:18  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:19  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:20  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:21  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:22  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:23  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:24  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:25  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:26  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:27  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:28  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:29  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:30  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:31  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:32  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:33  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:34  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:35  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:36  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:37  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:38  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:39  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:40  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:41  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:42  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:43  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:44  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:45  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:46  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:47  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:48  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:49  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:50  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:51  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:52  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:53  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:54  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:55  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:56  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:57  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:58  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:59  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:60  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:61  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:62  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:63  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:64  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:65  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:66  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:67  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:68  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:69  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:70  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:71  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:72  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:73  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:74  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:75  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:76  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:77  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:78  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:79  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:80  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:81  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:82  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:83  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:84  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:85  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:86  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:87  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:88  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:89  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:90  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:91  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:92  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:93  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:94  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:95  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:96  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:97  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:98  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:99  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:100 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:101 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:102 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:103 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:104 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:105 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:106 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:107 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:108 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:109 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:110 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:111 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:112 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:113 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:114 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:115 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:116 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:117 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:118 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:119 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:120 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:121 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:122 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:123 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:124 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:125 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:126 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:127 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:128 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:129 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:130 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:131 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:132 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:133 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:134 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:135 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:136 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:137 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:138 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:139 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:140 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:141 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:142 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:143 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:144 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:145 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:146 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:147 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:148 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:149 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:150 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:151 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:152 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:153 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:154 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:155 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:156 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:157 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:158 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:159 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:160 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:161 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:162 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:163 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:164 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:165 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:166 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:167 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:168 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:169 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:170 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:171 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:172 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:173 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:174 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:175 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:176 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:177 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:178 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:179 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:180 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:181 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:182 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:183 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:184 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:185 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:186 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:187 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:188 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:189 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:190 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:191 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:192 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:193 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:194 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:195 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:196 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:197 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:198 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:199 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:200 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:201 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:202 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:203 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:204 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_H1.3_preprocessed.fasta:0     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_H1.3_preprocessed.fasta:1     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_H1.3_preprocessed.fasta:2     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_H1.3_preprocessed.fasta:3     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_H1.3_preprocessed.fasta:4     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_H1.3_preprocessed.fasta:5     Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_POMC.3_preprocessed.fasta:0   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_POMC.3_preprocessed.fasta:1   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_POMC.3_preprocessed.fasta:2   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_POMC.3_preprocessed.fasta:3   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_POMC.3_preprocessed.fasta:4   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_POMC.3_preprocessed.fasta:5   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_POMC.3_preprocessed.fasta:6   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:0    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:1    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:2    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:3    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:4    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:5    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:6    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:7    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:8    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:9    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:10   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:11   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:12   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:13   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rhod.3_preprocessed.fasta:0   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rhod.3_preprocessed.fasta:1   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rhod.3_preprocessed.fasta:2   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rhod.3_preprocessed.fasta:3   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rhod.3_preprocessed.fasta:4   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_SIA.2_preprocessed.fasta:0    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_SIA.2_preprocessed.fasta:1    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_SIA.2_preprocessed.fasta:2    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_SIA.2_preprocessed.fasta:3    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_SIA.2_preprocessed.fasta:4    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_SIA.2_preprocessed.fasta:5    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_SIA.2_preprocessed.fasta:6    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_SIA.2_preprocessed.fasta:7    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_SIA.2_preprocessed.fasta:8    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_TYR.1_preprocessed.fasta:0    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_TYR.1_preprocessed.fasta:1    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_TYR.1_preprocessed.fasta:2    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_TYR.1_preprocessed.fasta:3    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_TYR.1_preprocessed.fasta:4    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_TYR.1_preprocessed.fasta:5    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_TYR.1_preprocessed.fasta:6    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_TYR.1_preprocessed.fasta:7    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_TYR.1_preprocessed.fasta:8    Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+
+Likelihood
+    
+    Total 0
+
+
+
+
+Ignored characters
+    
+Files
+    
+
+
+File
+    
+
+File Name : output_TYR.1_preprocessed.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : output_SIA.2_preprocessed.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : output_Rhod.3_preprocessed.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : output_Rag.3_preprocessed.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : output_POMC.3_preprocessed.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : output_H1.3_preprocessed.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : output_Cytb.1_preprocessed.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : output_COI.2_preprocessed.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : dendropsophus124.ss
+
+File Contents 
+
+
+Characters
+
+File Contents 
+
+
+Trees
+
+
+
+
+
+
+
+File References:
+                                                                                                                                                                                                                                                                                                                                                                                     
+Terminal                      output_TYR.1_preprocessed.fasta        output_SIA.2_preprocessed.fasta        output_Rhod.3_preprocessed.fasta        output_Rag.3_preprocessed.fasta        output_POMC.3_preprocessed.fasta        output_H1.3_preprocessed.fasta        output_Cytb.1_preprocessed.fasta        output_COI.2_preprocessed.fasta        dendropsophus124.ss
+D_anataliasiasi_1             -                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_anataliasiasi_2             -                                      -                                      +                                       -                                      +                                       +                                     +                                       -                                      -
+D_anataliasiasi_3             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_anataliasiasi_4             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_anataliasiasi_5             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_anataliasiasi_6             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_anataliasiasi_7             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_araguaya_II_1               +                                      +                                      -                                       +                                      -                                       +                                     +                                       -                                      -
+D_araguaya_II_2               +                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_araguaya_II_3               -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_araguaya_I_1                +                                      -                                      +                                       -                                      +                                       +                                     +                                       +                                      -
+D_araguaya_I_2                -                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_bilobatus_1                 -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_bilobatus_2                 -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_bipunctatus_1_M             -                                      -                                      +                                       +                                      +                                       +                                     +                                       +                                      +
+D_branneri_1                  -                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_branneri_2_M                +                                      +                                      +                                       +                                      +                                       +                                     +                                       +                                      +
+D_cachimbo_1                  +                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_cachimbo_2                  -                                      -                                      +                                       -                                      +                                       +                                     +                                       +                                      -
+D_cerradensis_1               +                                      -                                      +                                       -                                      +                                       +                                     +                                       +                                      -
+D_cerradensis_2               +                                      -                                      +                                       -                                      +                                       +                                     +                                       +                                      -
+D_cf_tritaeniatus_1           -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_cf_tritaeniatus_2           -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_cf_tritaeniatus_3           -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_cf_tritaeniatus_4           -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_coffea                      -                                      -                                      -                                       +                                      -                                       +                                     +                                       -                                      -
+D_columbianus_1               -                                      +                                      +                                       +                                      +                                       +                                     +                                       -                                      -
+D_cruzi                       +                                      +                                      +                                       +                                      +                                       +                                     +                                       +                                      -
+D_decipiens_I_M               +                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      +
+D_elegans                     +                                      -                                      +                                       -                                      +                                       +                                     -                                       +                                      +
+D_elianae_3                   -                                      -                                      +                                       +                                      -                                       +                                     +                                       -                                      -
+D_elianae_4                   -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_elianae_5                   -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_elianae_6                   -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_elianae_7                   -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_elianae_8                   -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_elianeae_1                  +                                      +                                      -                                       +                                      -                                       +                                     +                                       -                                      -
+D_elianeae_2_M                +                                      +                                      -                                       +                                      -                                       +                                     +                                       +                                      +
+D_gaucheri_1                  -                                      +                                      -                                       -                                      -                                       +                                     +                                       +                                      -
+D_jimi_1                      -                                      +                                      -                                       +                                      -                                       +                                     +                                       +                                      -
+D_jimi_2                      -                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_jimi_3                      -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_jimi_M                      +                                      +                                      +                                       -                                      -                                       +                                     +                                       +                                      +
+D_joannae                     +                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_juliani_1                   -                                      +                                      -                                       +                                      -                                       +                                     +                                       -                                      -
+D_juliani_2                   -                                      +                                      -                                       +                                      -                                       +                                     +                                       -                                      -
+D_juliani_A                   -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_juliani_A_2                 -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_labialis_1_M                +                                      +                                      +                                       -                                      +                                       +                                     +                                       -                                      +
+D_leali_1                     -                                      +                                      -                                       -                                      -                                       +                                     +                                       +                                      -
+D_marmoratus_1_M              +                                      +                                      -                                       -                                      +                                       +                                     +                                       +                                      +
+D_mathiassoni_1               +                                      -                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_mathiassoni_2               +                                      +                                      +                                       +                                      +                                       +                                     +                                       +                                      -
+D_meridensis                  -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_microcephalus_1             -                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_minusculus_1                -                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_minusculus_2                -                                      -                                      +                                       -                                      +                                       +                                     +                                       +                                      -
+D_minusculus_3                +                                      -                                      -                                       -                                      -                                       +                                     -                                       +                                      -
+D_minutus_I_M                 -                                      +                                      -                                       +                                      +                                       +                                     -                                       -                                      +
+D_nanus_1                     -                                      +                                      +                                       +                                      +                                       +                                     +                                       +                                      +
+D_parviceps_1                 +                                      -                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_pseudomeridianus_1          -                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_reicheli_1                  -                                      -                                      -                                       -                                      -                                       -                                     +                                       -                                      -
+D_rhea_hDNA                   -                                      -                                      -                                       -                                      -                                       +                                     +                                       +                                      -
+D_rhodopeplus_1_M             +                                      -                                      -                                       -                                      -                                       +                                     +                                       +                                      +
+D_riveroi_M                   -                                      -                                      -                                       -                                      -                                       +                                     +                                       +                                      +
+D_robertmertensi              -                                      +                                      -                                       -                                      -                                       +                                     +                                       -                                      -
+D_rozenmani_1                 -                                      -                                      -                                       -                                      -                                       +                                     -                                       +                                      -
+D_rozenmani_2                 -                                      -                                      -                                       -                                      -                                       +                                     -                                       +                                      -
+D_rozenmani_3                 -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rozenmani_4                 -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rozenmani_5                 -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rozenmani_6                 -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_1              -                                      +                                      -                                       +                                      -                                       +                                     +                                       -                                      -
+D_rubicundulus_10             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_11             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_12             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_13             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_14             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_15             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_16             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_17             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_18             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_2              +                                      +                                      +                                       +                                      +                                       +                                     +                                       -                                      -
+D_rubicundulus_3              -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_4              -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_5              -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_6              -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_7              -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_8              -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_9              -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_ruschii_1_M                 +                                      +                                      -                                       +                                      -                                       +                                     +                                       -                                      +
+D_sanborni_1                  +                                      +                                      -                                       +                                      -                                       +                                     +                                       -                                      -
+D_sanborni_2_M                +                                      +                                      +                                       +                                      -                                       +                                     +                                       -                                      +
+D_sanborni_3                  -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_sanborni_4                  -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_sanborni_5                  -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_sartori_1                   -                                      +                                      -                                       +                                      -                                       +                                     +                                       -                                      -
+D_shiwiarum_1                 -                                      -                                      -                                       -                                      -                                       +                                     +                                       -                                      -
+D_studerae_1                  -                                      -                                      -                                       -                                      -                                       -                                     -                                       +                                      -
+D_triangulum_1_M              +                                      -                                      +                                       +                                      -                                       +                                     +                                       -                                      +
+D_tritaeniatus_hDNA           -                                      -                                      -                                       -                                      -                                       +                                     +                                       +                                      -
+D_walfordi                    -                                      -                                      +                                       -                                      -                                       +                                     +                                       -                                      -
+D_werneri_1                   -                                      +                                      -                                       +                                      -                                       +                                     +                                       -                                      -
+Itapotihyla_langsdorffi_1     +                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+Lysapus_laevis_1              -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+Phyllodytes_luteolous_M       +                                      +                                      +                                       +                                      +                                       +                                     +                                       +                                      +
+Pseudis_minutus_M             -                                      -                                      -                                       -                                      +                                       +                                     -                                       +                                      +
+Scarthyla_goinorum_1          -                                      -                                      -                                       -                                      +                                       +                                     +                                       -                                      -
+Scinax_berthae_M              -                                      +                                      +                                       -                                      -                                       +                                     +                                       -                                      +
+Scinax_perereca_M             -                                      +                                      +                                       +                                      +                                       +                                     +                                       +                                      +
+Sphaenorhynchus_lacteus_M     +                                      -                                      +                                       +                                      +                                       +                                     +                                       +                                      +
+Sphaenorhynchus_pauloalvini_M +                                      -                                      +                                       +                                      +                                       +                                     +                                       -                                      +
+Xenohyla_eugenioi_1           -                                      -                                      -                                       -                                      -                                       +                                     -                                       +                                      -
+Xenohyla_truncata_1_M         +                                      -                                      +                                       -                                      +                                       +                                     +                                       -                                      +
+

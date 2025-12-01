@@ -1,0 +1,33 @@
+--- Command used ---
+prepDyn(input_file='../test_data/simulations_v1/2_aligned', input_format='fasta', MSA=False, output_file='../test_data/simulations_v1/3.7_elPartition32/3.7', output_format='fasta', log=True, sequence_names=True, orphan_threshold=10, percentile=25, del_inv=False, internal_leaves='all', partitioning_method='equal', partitioning_round=32)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 20
+No. columns: 10000
+Total no. nucleotides (A/C/G/T only): 198677 bp
+Total no. gaps (-): 1323
+Total no. IUPAC N: 0
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 0
+Total '-' characters in fully missing partitions: 0
+Combined total: 0
+
+
+
+--- Step 4: Partitioning ---
+Method used: equal
+Columns with '#' inserted: [303, 607, 911, 1215, 1519, 1823, 2127, 2431, 2735, 3039, 3343, 3647, 3951, 4255, 4559, 4863, 5167, 5471, 5775, 6079, 6383, 6687, 6991, 7295, 7599, 7903, 8207, 8511, 8815, 9119, 9423, 9727]
+
+--- Summary after preprocessing ---
+No. sequences: 20
+No. columns: 10032
+No. pound sign columns (#): 32
+Total no. nucleotides (A/C/G/T): 198677 bp
+Total no. gaps (-): 1323
+Total no. IUPAC N: 0
+Total no. missing values (?): 0
+
+--- Run time ---
+Wall-clock time: 0.57954621 seconds
+CPU time: 0.55912500 seconds

@@ -1,0 +1,47 @@
+--- Command used ---
+prepDyn(input_file='../test_data/simulations_v1/2_aligned', input_format='fasta', MSA=False, output_file='../test_data/simulations_v1/3.6_elPartition16/3.6', output_format='fasta', log=True, sequence_names=True, orphan_threshold=10, percentile=25, del_inv=False, internal_leaves='all', partitioning_method='equal', partitioning_round=16)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 160
+No. columns: 100
+Total no. nucleotides (A/C/G/T only): 15700 bp
+Total no. gaps (-): 300
+Total no. IUPAC N: 0
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 0
+Total '-' characters in fully missing partitions: 75
+Combined total: 75
+
+L082: partition 5 (30–34, length 5) fully missing (all '-')
+L082: partition 6 (36–40, length 5) fully missing (all '-')
+L082: partition 7 (42–46, length 5) fully missing (all '-')
+L082: partition 13 (78–82, length 5) fully missing (all '-')
+L083: partition 5 (30–34, length 5) fully missing (all '-')
+L083: partition 6 (36–40, length 5) fully missing (all '-')
+L083: partition 7 (42–46, length 5) fully missing (all '-')
+L083: partition 13 (78–82, length 5) fully missing (all '-')
+L084: partition 5 (30–34, length 5) fully missing (all '-')
+L084: partition 6 (36–40, length 5) fully missing (all '-')
+L084: partition 7 (42–46, length 5) fully missing (all '-')
+L084: partition 13 (78–82, length 5) fully missing (all '-')
+L136: partition 10 (60–64, length 5) fully missing (all '-')
+L137: partition 10 (60–64, length 5) fully missing (all '-')
+L138: partition 10 (60–64, length 5) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: equal
+Columns with '#' inserted: [5, 11, 17, 23, 29, 35, 41, 47, 53, 59, 65, 71, 77, 83, 89, 95]
+
+--- Summary after preprocessing ---
+No. sequences: 160
+No. columns: 116
+No. pound sign columns (#): 16
+Total no. nucleotides (A/C/G/T): 15700 bp
+Total no. gaps (-): 300
+Total no. IUPAC N: 0
+Total no. missing values (?): 75
+
+--- Run time ---
+Wall-clock time: 0.04298019 seconds
+CPU time: 0.04263700 seconds

@@ -1,0 +1,193 @@
+
+Currently Loaded Modules:
+  1) phyg/1.3
+
+ 
+
+This job ran on 1 nodes.
+[0;92m[0;32m
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ Phylogenetic Graph (PhyG) Version 1.3 [3c1a1fa] (3128 commits) on 2025-05-09 @ 11:59:29 -03      │
+│                                                                                                  │
+│ © 2015 Ward Wheeler and The American Museum of Natural History                                   │
+│ The program 'phyg' comes with ABSOLUTELY NO WARRANTY;                                            │
+│ This is free software, and may be redistributed under the BSD 3-Clause License.                  │
+│                                                                                                  │
+│ Performs heuristic search of phylogenetic graph space via scoring abstract input data.           │
+│ For more information, see: https://github.com/AMNH/PhyG#readme                                   │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘[0;0m[0;97m
+[0;37m
+Command script file: 'v1.3_script.pg'
+[0;0m[0;97m[0;37mInitial random seed set to 1664460786
+[0;0m[0;96m
+[0;36m
+Checking command file syntax
+[0;0m[0;96m[0;36m	Commands appear to be properly specified--file availability and contents not checked.
+[0;0m[0;97m
+[0;37mReading POMC.3.fasta with no options
+[0;0m[0;97m[0;37mFile POMC.3.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse POMC.3.fasta as fasta
+[0;0m[0;97m[0;37mReading Rag.3.fasta with no options
+[0;0m[0;97m[0;37mFile Rag.3.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse Rag.3.fasta as fasta
+[0;0m[0;97m[0;37mReading H1.3.fasta with no options
+[0;0m[0;97m[0;37mFile H1.3.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse H1.3.fasta as fasta
+[0;0m[0;97m[0;37mReading TYR.1.fasta with no options
+[0;0m[0;97m[0;37mFile TYR.1.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse TYR.1.fasta as fasta
+[0;0m[0;97m[0;37mReading COI.2.fasta with no options
+[0;0m[0;97m[0;37mFile COI.2.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse COI.2.fasta as fasta
+[0;0m[0;97m[0;37mReading SIA.2.fasta with no options
+[0;0m[0;97m[0;37mFile SIA.2.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse SIA.2.fasta as fasta
+[0;0m[0;97m[0;37mReading Cytb.1.fasta with no options
+[0;0m[0;97m[0;37mFile Cytb.1.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse Cytb.1.fasta as fasta
+[0;0m[0;97m[0;37mReading Rhod.3.fasta with no options
+[0;0m[0;97m[0;37mFile Rhod.3.fasta is nucleotide data.
+[0;0m[0;97m[0;37m	Trying to parse Rhod.3.fasta as fasta
+[0;0m[0;97m[0;37mReading dendropsophus124.ss with no options
+[0;0m[0;97m[0;37m
+TNT file file dendropsophus124.ss message : No TNT title message with 22 taxa and 201 characters
+[0;0m[0;97m[0;37m	Trying to parse dendropsophus124.ss as TNT
+[0;0m[0;97m[0;37mReading v1.1_POY_Nakamura.trees.txt with no options
+[0;0m[0;97m[0;37mEntered 9 data file(s) and 1 input graphs
+[0;0m[0;97m[0;37mRandom Seed set to 73412305
+[0;0m[0;97m[0;37mOptimality criterion set to Parsimony
+[0;0m[0;97m[0;37mNo terminals to be renamed
+[0;0m[0;97m[0;37mData were input for 115 terminals
+[0;0m[0;97m[0;37mRecoding input block: Rhod.3.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: Cytb.1.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: COI.2.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: Rag.3.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: H1.3.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: SIA.2.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: POMC.3.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: TYR.1.fasta#0
+[0;0m[0;97m[0;37mRecoding input block: dendropsophus124.ss#0
+[0;0m[0;97m[0;37mAll taxa contain data
+[0;0m[0;97m[0;37mCharacter Blocks as input files
+[0;0m[0;97m[0;37mCharacter Blocks as input files
+[0;0m[0;97m[0;37mOutgroup set to Phyllodytes_luteolous_M
+[0;0m[0;97m[0;37mRandom Seed set to 73412305
+[0;0m[0;97m[0;37mOptimality criterion set to Parsimony
+[0;0m[0;97m[0;37mReport writing to "v1.3_PHYG_Nakamura_crossref.csv"
+[0;0m[0;97m[0;37mReport writing to "v1.3_PHYG_Nakamura.data"
+[0;0m[0;97m[0;37mRandomized search for 43260 seconds with 5 instances keeping at most 10 graphs
+[0;0m[0;97m[0;37m	Generating pairwise distances for 9 character blocks
+[0;0m[0;97m[0;37m	Building 1000 Wagner tree(s)
+[0;0m[0;97m[0;37m	Building Distance Tree
+[0;0m[0;96m
+[0;36m	Distance build yielded 10 trees at cost range (20428.0,20991.0)
+
+[0;0m[0;97m
+[0;37m	Returning 10 graphs at cost range (20428.0, 20991.0)
+[0;0m[0;97m[0;37mChanging multiTraverse to False:19537.0 -> 19552.0
+[0;0m[0;97m[0;37mChanging multiTraverse to False:19537.0 -> 19552.0
+[0;0m[0;97m[0;37mChanging multiTraverse to False:19537.0 -> 19552.0
+[0;0m[0;97m[0;37mChanging multiTraverse to False:19537.0 -> 19552.0
+[0;0m[0;97m[0;37mChanging multiTraverse to False:19537.0 -> 19552.0
+[0;0m[0;97m[0;37mTransforming data to staticApprox: 19537.0 -> 19537.0
+[0;0m[0;97m[0;37mSwapping 1 input graph(s) with 1 trajectories at minimum cost 19537.0 keeping maximum of 1 graphs per input graph
+[0;0m[0;97m[0;37mTransforming data to staticApprox: 19537.0 -> 19537.0
+[0;0m[0;97m[0;37mSimulated Annealing (Swapping) 1 rounds with 20 cooling steps 1 input graph(s) at minimum cost 19537.0 keeping maximum of 2 graphs
+[0;0m[0;97m[0;37m	MultiTraverse to False
+[0;0m[0;97m[0;37mTransforming data to staticApprox: 19537.0 -> 19537.0
+[0;0m[0;97m[0;37mSimulated Annealing (Swapping) 1 rounds with 5 cooling steps 1 input graph(s) at minimum cost 19552.0 keeping maximum of 1 graphs
+[0;0m[0;97m[0;37mTransforming data to staticApprox: 19537.0 -> 19537.0
+[0;0m[0;97m[0;37mFusing 10 input graph(s) with minimum cost 19537.0 
+[0;0m[0;97m[0;37m	Fusing 5 randomized graph pairs with TBR swapping at minimum cost 19537.0
+[0;0m[0;97m[0;37mTransforming data to staticApprox: 19537.0 -> 19537.0
+[0;0m[0;97m[0;37mFusing 10 input graph(s) with minimum cost 19552.0 
+[0;0m[0;97m[0;37m	Fusing 10 randomized graph pairs without swapping at minimum cost 19552.0
+[0;0m[0;97m[0;37m	-> 19614.0[0;0m[0;97m[0;37m	-> 19552.0[0;0m[0;97m[0;37m	-> 19552.0[0;0m[0;97m[0;37m	-> 19604.0[0;0m[0;97m[0;37m	-> 19552.0[0;0m[0;97m[0;37m	-> 19572.0[0;0m[0;96m
+[0;36m	After fusing: 1 resulting graphs with minimum cost 19552.0  after fuse rounds (total):  1 
+[0;0m[0;97m
+[0;37mChanging multiTraverse to True:19552.0 -> 19537.0
+[0;0m[0;97m[0;37mTransforming data to dynamic: 19552.0 -> 19552.0
+[0;0m[0;97m[0;37m[0;0m[0;97m[0;37m[0;0m[0;96m
+[0;36mThread   	3
+Alloted  	12h01min
+Ellapsed 	1h27min
+Remaining	10h33min
+
+
+[0;0m[0;97m
+[0;37mChanging multiTraverse to False:19537.0 -> 19552.0
+[0;0m[0;97m[0;37mTransforming data to staticApprox: 19537.0 -> 19537.0
+[0;0m[0;97m[0;37m	Generating pairwise distances for 9 character blocks
+[0;0m[0;97m[0;37m		Building 10 character Wagner replicates
+[0;0m[0;97m[0;37m	Building Wagner replicate 5
+[0;0m[0;97m[0;37m	Building Wagner replicate 7
+[0;0m[0;97m[0;37m	Building Wagner replicate 9
+[0;0m[0;97m[0;37m	Building Wagner replicate 0
+[0;0m[0;97m[0;37m	Building Wagner replicate 1
+[0;0m[0;97m[0;37m	Building Wagner replicate 6
+[0;0m[0;97m[0;37m	Building Wagner replicate 2
+[0;0m[0;97m[0;37m	Building Wagner replicate 8
+[0;0m[0;97m[0;37m	Building Wagner replicate 4
+[0;0m[0;97m[0;37m	Building Wagner replicate 3
+[0;0m[0;97m[0;37m	-> 19536.0[0;0m[0;97m[0;37m
+[0;0m[0;97m[0;37m	Fusing 5 randomized graph pairs with TBR swapping at minimum cost 19536.0
+[0;0m[0;97m[0;37m	-> 19535.0[0;0m[0;97m[0;37m
+[0;0m[0;97m[0;37m	Fusing 5 randomized graph pairs with TBR swapping at minimum cost 19535.0
+[0;0m[0;97m[0;37m	-> 19535.0[0;0m[0;96m
+[0;36m	Character build yielded 10 trees at cost range (53390.0,63990.0)
+
+[0;0m[0;97m
+[0;37m	Returning 10 graphs at cost range (53390.0, 63990.0)
+[0;0m[0;97m[0;37m	-> 19570.0[0;0m[0;97m[0;37mTransforming data to dynamic: 19537.0 -> 19537.0
+[0;0m[0;97m[0;37m[0;0m[0;97m[0;37m[0;0m[0;96m
+[0;36mThread   	3
+Alloted  	10h33min
+Ellapsed 	7h52min
+Remaining	2h40min
+
+
+[0;0m[0;97m
+[0;37mChanging multiTraverse to False:19537.0 -> 19552.0
+[0;0m[0;97m[0;37mTransforming data to staticApprox: 19537.0 -> 19537.0
+[0;0m[0;97m[0;37m	Generating pairwise distances for 9 character blocks
+[0;0m[0;97m[0;37m	Building 1000 Wagner tree(s)
+[0;0m[0;97m[0;37m	Building Distance Tree
+[0;0m[0;96m
+[0;36m	Distance build yielded 10 trees at cost range (20339.0,21095.0)
+
+[0;0m[0;97m
+[0;37m	Returning 10 graphs at cost range (20339.0, 21095.0)
+[0;0m[0;97m[0;37mSwapping 10 input graph(s) with 1 trajectories at minimum cost 20339.0 keeping maximum of 2 graphs per input graph
+[0;0m[0;97m[0;37m	MultiTraverse to False
+[0;0m[0;97m[0;37m	-> 20480.0[0;0m[0;97m[0;37m	-> 20669.0[0;0m[0;97m[0;37m	-> 20462.0[0;0m[0;97m[0;37m	-> 20487.0[0;0m[0;96m
+[0;36m	After fusing: 1 resulting graphs with minimum cost 19535.0  after fuse rounds (total):  3 
+[0;0m[0;97m
+[0;37m	-> 21115.0[0;0m[0;97m[0;37m	-> 20547.0[0;0m[0;97m[0;37mTransforming data to dynamic: 19535.0 -> 19535.0
+[0;0m[0;97m[0;37m[0;0m[0;97m[0;37m[0;0m[0;96m
+[0;36mThread   	2
+Alloted  	12h01min
+Ellapsed 	10h43min
+Remaining	1h17min
+
+
+[0;0m[0;97m
+[0;37mChanging multiTraverse to False:19535.0 -> 19552.0
+[0;0m[0;97m[0;37mTransforming data to staticApprox: 19535.0 -> 19535.0
+[0;0m[0;97m[0;37mFusing 10 input graph(s) with minimum cost 19535.0 
+[0;0m[0;97m[0;37m	Fusing 5 randomized graph pairs with TBR swapping at minimum cost 19535.0
+[0;0m[0;97m[0;37m	-> 21034.0[0;0m[0;97m[0;37mHit minimum cost 19535.0 in 1 of 5 iterations
+[0;0m[0;97m[0;37mReport writing to "v1.3_PHYG_Nakamura_stats.txt"
+[0;0m[0;97m[0;37mReporting 10 graph(s) at minimum cost 19535.0
+[0;0m[0;97m[0;37mReport writing to "v1.3_PHYG_Nakamura_searchTrees.txt"
+[0;0m[0;97m[0;37mSelecting unique graphs 
+[0;0m[0;97m[0;37mSelecting best graphs 
+[0;0m[0;97m[0;37mReporting 1 graph(s) at minimum cost 19535.0
+[0;0m[0;97m[0;37mReport writing to "v1.3_PHYG_Nakamura_bestUnique.nwk"
+[0;0m[0;97m[0;37mReport writing to "v1.3_PHYG_Nakamura_ia.tnt"
+[0;0m[0;97m[0;37mReport writing to "v1.3_PHYG_Nakamura_bestConsensus.nwk"
+[0;0m[0;97m[0;37mExecution returned 1 graph(s) at cost range (19535.0,19535.0) 
+[0;0m[0;97m[0;37m	Wall-Clock time  43765.887641048 second(s)
+	CPU time 1265867.824708574 second(s)
+	CPU usage 2892%
+[0;0mThis job took 43775 seconds to run.

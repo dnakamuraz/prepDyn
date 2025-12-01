@@ -1,0 +1,64 @@
+--- Command used ---
+prepDyn(input_file='../test_data/simulations_v1/2_aligned', input_format='fasta', MSA=False, output_file='../test_data/simulations_v1/3.6_elPartition16/3.6', output_format='fasta', log=True, sequence_names=True, orphan_threshold=10, percentile=25, del_inv=False, internal_leaves='all', partitioning_method='equal', partitioning_round=16)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 320
+No. columns: 100
+Total no. nucleotides (A/C/G/T only): 30864 bp
+Total no. gaps (-): 1136
+Total no. IUPAC N: 0
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 4
+Total '-' characters in fully missing partitions: 160
+Combined total: 164
+
+L105: partition 5 (30–34, length 5) fully missing (all '-')
+L105: partition 6 (36–40, length 5) fully missing (all '-')
+L105: partition 7 (42–46, length 5) fully missing (all '-')
+L105: partition 8 (48–52, length 5) fully missing (all '-')
+L105: partition 9 (54–58, length 5) fully missing (all '-')
+L106: partition 5 (30–34, length 5) fully missing (all '-')
+L106: partition 6 (36–40, length 5) fully missing (all '-')
+L106: partition 7 (42–46, length 5) fully missing (all '-')
+L106: partition 8 (48–52, length 5) fully missing (all '-')
+L106: partition 9 (54–58, length 5) fully missing (all '-')
+L128: partition 13 (78–82, length 5) fully missing (all '-')
+L129: partition 13 (78–82, length 5) fully missing (all '-')
+L130: partition 13 (78–82, length 5) fully missing (all '-')
+L131: partition 13 (78–82, length 5) fully missing (all '-')
+L132: partition 13 (78–82, length 5) fully missing (all '-')
+L133: partition 13 (78–82, length 5) fully missing (all '-')
+L134: partition 13 (78–82, length 5) fully missing (all '-')
+L135: partition 13 (78–82, length 5) fully missing (all '-')
+L136: partition 13 (78–82, length 5) fully missing (all '-')
+L137: partition 13 (78–82, length 5) fully missing (all '-')
+L146: partition 10 (60–64, length 5) fully missing (all '-')
+L147: partition 10 (60–64, length 5) fully missing (all '-')
+L148: partition 10 (60–64, length 5) fully missing (all '-')
+L189: partition 0 (0–4, length 5) fully missing (all '-')
+L189: partition 12 (72–76, length 5) fully missing (all '-')
+L189: partition 13 (78–82, length 5) fully missing (all '-')
+L213: partition 9 (54–58, length 5) fully missing (all '-')
+L257: partition 10 (60–64, length 5) fully missing (all '-')
+L257: partition 11 (66–70, length 5) fully missing (all '-')
+L257: partition 12 (72–76, length 5) fully missing (all '-')
+L257: partition 13 (78–82, length 5) fully missing (all '-')
+L257: partition 14 (84–88, length 5) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: equal
+Columns with '#' inserted: [5, 11, 17, 23, 29, 35, 41, 47, 53, 59, 65, 71, 77, 83, 89, 95]
+
+--- Summary after preprocessing ---
+No. sequences: 320
+No. columns: 116
+No. pound sign columns (#): 16
+Total no. nucleotides (A/C/G/T): 30864 bp
+Total no. gaps (-): 1132
+Total no. IUPAC N: 0
+Total no. missing values (?): 164
+
+--- Run time ---
+Wall-clock time: 0.08854198 seconds
+CPU time: 0.08645700 seconds

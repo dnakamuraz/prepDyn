@@ -1,0 +1,651 @@
+Data
+    
+
+
+Taxa
+    
+    Total 115
+                                                     
+ Name                          Code          
+D_anataliasiasi_1             23           {}
+D_anataliasiasi_2             52           {}
+D_anataliasiasi_3             70           {}
+D_anataliasiasi_4             71           {}
+D_anataliasiasi_5             72           {}
+D_anataliasiasi_6             74           {}
+D_anataliasiasi_7             73           {}
+D_araguaya_II_1               53           {}
+D_araguaya_II_2               24           {}
+D_araguaya_II_3               75           {}
+D_araguaya_I_1                25           {}
+D_araguaya_I_2                26           {}
+D_bilobatus_1                 76           {}
+D_bilobatus_2                 77           {}
+D_bipunctatus_1_M             9            {}
+D_branneri_1                  27           {}
+D_branneri_2_M                8            {}
+D_cachimbo_1                  28           {}
+D_cachimbo_2                  29           {}
+D_cerradensis_1               30           {}
+D_cerradensis_2               31           {}
+D_cf_tritaeniatus_1           78           {}
+D_cf_tritaeniatus_2           79           {}
+D_cf_tritaeniatus_3           80           {}
+D_cf_tritaeniatus_4           81           {}
+D_coffea                      54           {}
+D_columbianus_1               55           {}
+D_cruzi                       32           {}
+D_decipiens_I_M               10           {}
+D_elegans                     13           {}
+D_elianae_3                   56           {}
+D_elianae_4                   82           {}
+D_elianae_5                   83           {}
+D_elianae_6                   86           {}
+D_elianae_7                   84           {}
+D_elianae_8                   85           {}
+D_elianeae_1                  57           {}
+D_elianeae_2_M                4            {}
+D_gaucheri_1                  33           {}
+D_jimi_1                      34           {}
+D_jimi_2                      35           {}
+D_jimi_3                      87           {}
+D_jimi_M                      3            {}
+D_joannae                     36           {}
+D_juliani_1                   58           {}
+D_juliani_2                   59           {}
+D_juliani_A                   88           {}
+D_juliani_A_2                 89           {}
+D_labialis_1_M                14           {}
+D_leali_1                     37           {}
+D_marmoratus_1_M              1            {}
+D_mathiassoni_1               38           {}
+D_mathiassoni_2               39           {}
+D_meridensis                  90           {}
+D_microcephalus_1             40           {}
+D_minusculus_1                41           {}
+D_minusculus_2                42           {}
+D_minusculus_3                43           {}
+D_minutus_I_M                 11           {}
+D_nanus_1                     6            {}
+D_parviceps_1                 44           {}
+D_pseudomeridianus_1          45           {}
+D_reicheli_1                  60           {}
+D_rhea_hDNA                   46           {}
+D_rhodopeplus_1_M             7            {}
+D_riveroi_M                   15           {}
+D_robertmertensi              61           {}
+D_rozenmani_1                 47           {}
+D_rozenmani_2                 48           {}
+D_rozenmani_3                 91           {}
+D_rozenmani_4                 92           {}
+D_rozenmani_5                 93           {}
+D_rozenmani_6                 94           {}
+D_rubicundulus_1              62           {}
+D_rubicundulus_10             95           {}
+D_rubicundulus_11             96           {}
+D_rubicundulus_12             97           {}
+D_rubicundulus_13             98           {}
+D_rubicundulus_14             99           {}
+D_rubicundulus_15             100          {}
+D_rubicundulus_16             103          {}
+D_rubicundulus_17             101          {}
+D_rubicundulus_18             102          {}
+D_rubicundulus_2              63           {}
+D_rubicundulus_3              104          {}
+D_rubicundulus_4              105          {}
+D_rubicundulus_5              106          {}
+D_rubicundulus_6              110          {}
+D_rubicundulus_7              107          {}
+D_rubicundulus_8              108          {}
+D_rubicundulus_9              109          {}
+D_ruschii_1_M                 2            {}
+D_sanborni_1                  64           {}
+D_sanborni_2_M                5            {}
+D_sanborni_3                  111          {}
+D_sanborni_4                  112          {}
+D_sanborni_5                  113          {}
+D_sartori_1                   65           {}
+D_shiwiarum_1                 66           {}
+D_studerae_1                  49           {}
+D_triangulum_1_M              12           {}
+D_tritaeniatus_hDNA           50           {}
+D_walfordi                    67           {}
+D_werneri_1                   68           {}
+Itapotihyla_langsdorffi_1     114          {}
+Lysapus_laevis_1              115          {}
+Phyllodytes_luteolous_M       22           {}
+Pseudis_minutus_M             21           {}
+Scarthyla_goinorum_1          69           {}
+Scinax_berthae_M              20           {}
+Scinax_perereca_M             19           {}
+Sphaenorhynchus_lacteus_M     18           {}
+Sphaenorhynchus_pauloalvini_M 17           {}
+Xenohyla_eugenioi_1           51           {}
+Xenohyla_truncata_1_M         16           {}
+
+Synonyms
+    
+    Total 0
+
+
+
+Ignored taxa
+    
+Characters
+    Non Additive
+    
+    Total 157
+                                                                                                                                                                             
+ File Source         Name                    Weight         Missing Symbol         Match Symbol         Gap Symbol         Ignore         Case Sentive         Set
+dendropsophus124.ss dendropsophus124.ss:0   1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:2   1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:5   1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:6   1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:7   1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:10  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:11  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:12  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:13  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:15  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:16  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:17  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:18  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:19  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:20  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:21  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:22  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:23  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:24  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:25  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:26  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:27  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:28  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:30  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:34  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:35  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:36  1.             ?                                           -                  false          true                 {0, 2, }
+dendropsophus124.ss dendropsophus124.ss:37  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:38  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:39  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:41  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:44  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:45  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:46  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:47  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:48  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:49  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:50  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:51  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:52  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:53  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:54  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:55  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:56  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:57  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:58  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:59  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:60  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:61  1.             ?                                           -                  false          true                 {1, }
+dendropsophus124.ss dendropsophus124.ss:62  1.             ?                                           -                  false          true                 {1, }
+dendropsophus124.ss dendropsophus124.ss:64  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:65  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:66  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:67  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:70  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:72  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:74  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:75  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:77  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:78  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:79  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:80  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:83  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:84  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:85  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:86  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:87  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:88  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:90  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:91  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:92  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:93  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:94  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:95  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:96  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:97  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:98  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:99  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:100 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:101 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:102 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:103 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:104 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:105 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:106 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:107 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:108 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:109 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:110 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:111 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:112 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:113 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:114 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:115 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:116 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:118 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:119 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:120 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:121 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:122 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:123 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:129 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:137 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:138 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:139 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:140 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:141 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:142 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:143 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:144 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:145 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:146 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:147 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:148 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:149 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:150 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:151 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:152 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:153 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:154 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:155 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:157 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:159 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:160 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:161 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:162 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:163 1.             ?                                           -                  false          true                 {1, 2, }
+dendropsophus124.ss dendropsophus124.ss:164 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:166 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:167 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:168 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:169 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:172 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:174 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:176 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:177 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:178 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:179 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:180 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:181 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:182 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:183 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:184 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:185 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:186 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:187 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:188 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:189 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:190 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:191 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:192 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:193 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:194 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:196 1.             ?                                           -                  false          true                 {0, }
+dendropsophus124.ss dendropsophus124.ss:198 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:199 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:200 1.             ?                                           -                  false          true                 {0, 1, }
+
+Additive
+    
+    Total 44
+                                                                                                                                                                                
+ File Source         Name                    Weight         Missing Symbol         Match Symbol         Gap Symbol         Ignore         Case Sentive         Range
+dendropsophus124.ss dendropsophus124.ss:1   1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:3   1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:4   1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:8   1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:9   1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:14  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:29  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:31  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:32  1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:33  1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:40  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:42  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:43  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:63  1.             ?                                           -                  false          true                 {1, 2, }
+dendropsophus124.ss dendropsophus124.ss:68  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:69  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:71  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:73  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:76  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:81  1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:82  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:89  1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:117 1.             ?                                           -                  false          true                 {0, 2, }
+dendropsophus124.ss dendropsophus124.ss:124 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:125 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:126 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:127 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:128 1.             ?                                           -                  false          true                 {0, 1, 2, 3, 4, }
+dendropsophus124.ss dendropsophus124.ss:130 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:131 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:132 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:133 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:134 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:135 1.             ?                                           -                  false          true                 {0, 1, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:136 1.             ?                                           -                  false          true                 {1, 2, }
+dendropsophus124.ss dendropsophus124.ss:156 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:158 1.             ?                                           -                  false          true                 {0, 2, }
+dendropsophus124.ss dendropsophus124.ss:165 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:170 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:171 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:173 1.             ?                                           -                  false          true                 {0, 1, }
+dendropsophus124.ss dendropsophus124.ss:175 1.             ?                                           -                  false          true                 {0, 1, 2, }
+dendropsophus124.ss dendropsophus124.ss:195 1.             ?                                           -                  false          true                 {0, 2, 3, }
+dendropsophus124.ss dendropsophus124.ss:197 1.             ?                                           -                  false          true                 {0, 1, 2, }
+
+Sankoff
+    
+    Total 0
+
+
+
+Molecular
+    
+    Total 43
+                                                                                                                                                            
+ Name                               Initial Assignment         Transformation Cost Matrix         Gap Opening         Weight         class          
+output_COI.2_preprocessed.fasta:0  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:1  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:2  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:3  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_COI.2_preprocessed.fasta:4  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:0 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:1 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:2 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:3 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:4 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:5 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Cytb.1_preprocessed.fasta:6 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_H1.3_preprocessed.fasta:0   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_H1.3_preprocessed.fasta:1   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_H1.3_preprocessed.fasta:2   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_H1.3_preprocessed.fasta:3   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_H1.3_preprocessed.fasta:4   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_H1.3_preprocessed.fasta:5   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_H1.3_preprocessed.fasta:6   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_H1.3_preprocessed.fasta:7   Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_POMC.3_preprocessed.fasta:0 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:0  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:1  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:2  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:3  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:4  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:5  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:6  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:7  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:8  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:9  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:10 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:11 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rag.3_preprocessed.fasta:12 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_Rhod.3_preprocessed.fasta:0 Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_SIA.2_preprocessed.fasta:0  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_SIA.2_preprocessed.fasta:1  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_SIA.2_preprocessed.fasta:2  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_SIA.2_preprocessed.fasta:3  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_TYR.1_preprocessed.fasta:0  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_TYR.1_preprocessed.fasta:1  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_TYR.1_preprocessed.fasta:2  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+output_TYR.1_preprocessed.fasta:3  Direct Optimization        tcm:(1,1)                          0                   1.             sequence      {}
+
+Likelihood
+    
+    Total 0
+
+
+
+
+Ignored characters
+    
+Files
+    
+
+
+File
+    
+
+File Name : output_TYR.1_preprocessed.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : output_SIA.2_preprocessed.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : output_Rhod.3_preprocessed.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : output_Rag.3_preprocessed.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : output_POMC.3_preprocessed.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : output_H1.3_preprocessed.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : output_Cytb.1_preprocessed.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : output_COI.2_preprocessed.fasta
+
+File Contents 
+
+
+Characters
+
+
+
+File
+    
+
+File Name : dendropsophus124.ss
+
+File Contents 
+
+
+Characters
+
+File Contents 
+
+
+Trees
+
+
+
+
+
+
+
+File References:
+                                                                                                                                                                                                                                                                                                                                                                                     
+Terminal                      output_TYR.1_preprocessed.fasta        output_SIA.2_preprocessed.fasta        output_Rhod.3_preprocessed.fasta        output_Rag.3_preprocessed.fasta        output_POMC.3_preprocessed.fasta        output_H1.3_preprocessed.fasta        output_Cytb.1_preprocessed.fasta        output_COI.2_preprocessed.fasta        dendropsophus124.ss
+D_anataliasiasi_1             -                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_anataliasiasi_2             -                                      -                                      +                                       -                                      +                                       +                                     +                                       -                                      -
+D_anataliasiasi_3             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_anataliasiasi_4             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_anataliasiasi_5             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_anataliasiasi_6             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_anataliasiasi_7             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_araguaya_II_1               +                                      +                                      -                                       +                                      -                                       +                                     +                                       -                                      -
+D_araguaya_II_2               +                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_araguaya_II_3               -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_araguaya_I_1                +                                      -                                      +                                       -                                      +                                       +                                     +                                       +                                      -
+D_araguaya_I_2                -                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_bilobatus_1                 -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_bilobatus_2                 -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_bipunctatus_1_M             -                                      -                                      +                                       +                                      +                                       +                                     +                                       +                                      +
+D_branneri_1                  -                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_branneri_2_M                +                                      +                                      +                                       +                                      +                                       +                                     +                                       +                                      +
+D_cachimbo_1                  +                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_cachimbo_2                  -                                      -                                      +                                       -                                      +                                       +                                     +                                       +                                      -
+D_cerradensis_1               +                                      -                                      +                                       -                                      +                                       +                                     +                                       +                                      -
+D_cerradensis_2               +                                      -                                      +                                       -                                      +                                       +                                     +                                       +                                      -
+D_cf_tritaeniatus_1           -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_cf_tritaeniatus_2           -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_cf_tritaeniatus_3           -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_cf_tritaeniatus_4           -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_coffea                      -                                      -                                      -                                       +                                      -                                       +                                     +                                       -                                      -
+D_columbianus_1               -                                      +                                      +                                       +                                      +                                       +                                     +                                       -                                      -
+D_cruzi                       +                                      +                                      +                                       +                                      +                                       +                                     +                                       +                                      -
+D_decipiens_I_M               +                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      +
+D_elegans                     +                                      -                                      +                                       -                                      +                                       +                                     -                                       +                                      +
+D_elianae_3                   -                                      -                                      +                                       +                                      -                                       +                                     +                                       -                                      -
+D_elianae_4                   -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_elianae_5                   -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_elianae_6                   -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_elianae_7                   -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_elianae_8                   -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_elianeae_1                  +                                      +                                      -                                       +                                      -                                       +                                     +                                       -                                      -
+D_elianeae_2_M                +                                      +                                      -                                       +                                      -                                       +                                     +                                       +                                      +
+D_gaucheri_1                  -                                      +                                      -                                       -                                      -                                       +                                     +                                       +                                      -
+D_jimi_1                      -                                      +                                      -                                       +                                      -                                       +                                     +                                       +                                      -
+D_jimi_2                      -                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_jimi_3                      -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_jimi_M                      +                                      +                                      +                                       -                                      -                                       +                                     +                                       +                                      +
+D_joannae                     +                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_juliani_1                   -                                      +                                      -                                       +                                      -                                       +                                     +                                       -                                      -
+D_juliani_2                   -                                      +                                      -                                       +                                      -                                       +                                     +                                       -                                      -
+D_juliani_A                   -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_juliani_A_2                 -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_labialis_1_M                +                                      +                                      +                                       -                                      +                                       +                                     +                                       -                                      +
+D_leali_1                     -                                      +                                      -                                       -                                      -                                       +                                     +                                       +                                      -
+D_marmoratus_1_M              +                                      +                                      -                                       -                                      +                                       +                                     +                                       +                                      +
+D_mathiassoni_1               +                                      -                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_mathiassoni_2               +                                      +                                      +                                       +                                      +                                       +                                     +                                       +                                      -
+D_meridensis                  -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_microcephalus_1             -                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_minusculus_1                -                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_minusculus_2                -                                      -                                      +                                       -                                      +                                       +                                     +                                       +                                      -
+D_minusculus_3                +                                      -                                      -                                       -                                      -                                       +                                     -                                       +                                      -
+D_minutus_I_M                 -                                      +                                      -                                       +                                      +                                       +                                     -                                       -                                      +
+D_nanus_1                     -                                      +                                      +                                       +                                      +                                       +                                     +                                       +                                      +
+D_parviceps_1                 +                                      -                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_pseudomeridianus_1          -                                      +                                      +                                       +                                      -                                       +                                     +                                       +                                      -
+D_reicheli_1                  -                                      -                                      -                                       -                                      -                                       -                                     +                                       -                                      -
+D_rhea_hDNA                   -                                      -                                      -                                       -                                      -                                       +                                     +                                       +                                      -
+D_rhodopeplus_1_M             +                                      -                                      -                                       -                                      -                                       +                                     +                                       +                                      +
+D_riveroi_M                   -                                      -                                      -                                       -                                      -                                       +                                     +                                       +                                      +
+D_robertmertensi              -                                      +                                      -                                       -                                      -                                       +                                     +                                       -                                      -
+D_rozenmani_1                 -                                      -                                      -                                       -                                      -                                       +                                     -                                       +                                      -
+D_rozenmani_2                 -                                      -                                      -                                       -                                      -                                       +                                     -                                       +                                      -
+D_rozenmani_3                 -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rozenmani_4                 -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rozenmani_5                 -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rozenmani_6                 -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_1              -                                      +                                      -                                       +                                      -                                       +                                     +                                       -                                      -
+D_rubicundulus_10             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_11             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_12             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_13             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_14             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_15             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_16             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_17             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_18             -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_2              +                                      +                                      +                                       +                                      +                                       +                                     +                                       -                                      -
+D_rubicundulus_3              -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_4              -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_5              -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_6              -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_7              -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_8              -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_rubicundulus_9              -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_ruschii_1_M                 +                                      +                                      -                                       +                                      -                                       +                                     +                                       -                                      +
+D_sanborni_1                  +                                      +                                      -                                       +                                      -                                       +                                     +                                       -                                      -
+D_sanborni_2_M                +                                      +                                      +                                       +                                      -                                       +                                     +                                       -                                      +
+D_sanborni_3                  -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_sanborni_4                  -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_sanborni_5                  -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+D_sartori_1                   -                                      +                                      -                                       +                                      -                                       +                                     +                                       -                                      -
+D_shiwiarum_1                 -                                      -                                      -                                       -                                      -                                       +                                     +                                       -                                      -
+D_studerae_1                  -                                      -                                      -                                       -                                      -                                       -                                     -                                       +                                      -
+D_triangulum_1_M              +                                      -                                      +                                       +                                      -                                       +                                     +                                       -                                      +
+D_tritaeniatus_hDNA           -                                      -                                      -                                       -                                      -                                       +                                     +                                       +                                      -
+D_walfordi                    -                                      -                                      +                                       -                                      -                                       +                                     +                                       -                                      -
+D_werneri_1                   -                                      +                                      -                                       +                                      -                                       +                                     +                                       -                                      -
+Itapotihyla_langsdorffi_1     +                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+Lysapus_laevis_1              -                                      -                                      -                                       -                                      -                                       +                                     -                                       -                                      -
+Phyllodytes_luteolous_M       +                                      +                                      +                                       +                                      +                                       +                                     +                                       +                                      +
+Pseudis_minutus_M             -                                      -                                      -                                       -                                      +                                       +                                     -                                       +                                      +
+Scarthyla_goinorum_1          -                                      -                                      -                                       -                                      +                                       +                                     +                                       -                                      -
+Scinax_berthae_M              -                                      +                                      +                                       -                                      -                                       +                                     +                                       -                                      +
+Scinax_perereca_M             -                                      +                                      +                                       +                                      +                                       +                                     +                                       +                                      +
+Sphaenorhynchus_lacteus_M     +                                      -                                      +                                       +                                      +                                       +                                     +                                       +                                      +
+Sphaenorhynchus_pauloalvini_M +                                      -                                      +                                       +                                      +                                       +                                     +                                       -                                      +
+Xenohyla_eugenioi_1           -                                      -                                      -                                       -                                      -                                       +                                     -                                       +                                      -
+Xenohyla_truncata_1_M         +                                      -                                      +                                       -                                      +                                       +                                     +                                       -                                      +
+

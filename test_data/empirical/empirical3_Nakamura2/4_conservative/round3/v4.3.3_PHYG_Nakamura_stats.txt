@@ -1,0 +1,12 @@
+System Info, OS: linux, Chip Arch: x86_64, Compiler: ghc 9.12, Compile Date: May  9 2025 10:43:41
+CPU Info, Physical Processors: 4, Physical Cores: 32, Logical Cores: 64
+SearchData
+Random seed, 1628509445
+"Command","Arguments","Min cost in","Max cost in","Num graphs in","Min cost out","Max cost out","Num graphs out","CPU time (secs)","Comment"
+"Input and data processing",,"Infinity","Infinity","0","Infinity","Infinity","0","18.294636867","No Comment"
+"Input graph processing",,"Infinity","Infinity","0","13467.0","13467.0","3","185.478639632","No Comment"
+"Search","hours:12 thompson:2 instances:5 exponential:","13467.0","13467.0","3","13467.0","14440.0","10","906262.078"
+"Iteration","Search Type","Delta","Min Cost out","CPU time (secs)","Arguments"
+"0","fuse","0.0","13467.0","0"," 0.3333333333333333 "," 0.3333333333333333 "," 0.3333333333333333 "," "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 ","none: unique: atrandom: pairs:10 keep:20 noreciprocal: multitraverse:True maxparallel:false "
+,"Final Values",,"13467.0","904196","0.16666666666666669","0.4166666666666667","0.4166666666666667"," ","7.417582417582419e-2","7.417582417582419e-2","7.417582417582419e-2","7.417582417582419e-2","7.417582417582419e-2","7.417582417582419e-2","3.571428571428572e-2","7.417582417582419e-2","7.417582417582419e-2","7.417582417582419e-2","7.417582417582419e-2","7.417582417582419e-2","7.417582417582419e-2","7.417582417582419e-2",
+"Hit minimum cost 13467.0 in 5 of 5 iterations"
