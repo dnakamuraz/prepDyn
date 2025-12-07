@@ -1,0 +1,55 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round4/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=4)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12032 bp
+Total no. gaps (-): 1933
+Total no. IUPAC N: 35
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 2, 3, 4, 5, 6, 7, 8]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 243
+Total '-' characters in fully missing partitions: 1638
+Combined total: 1881
+
+I9_22142: partition 0 (0–6, length 7) fully missing (all '-')
+I9_22142: partition 6 (583–674, length 92) fully missing (all '-')
+I8_21744: partition 0 (0–6, length 7) fully missing (all '-')
+I8_21744: partition 1 (8–108, length 101) fully missing (all '-')
+I8_21744: partition 2 (110–196, length 87) fully missing (all '-')
+I8_21744: partition 5 (473–581, length 109) fully missing (all '-')
+I8_21744: partition 6 (583–674, length 92) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 0 (0–6, length 7) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 1 (8–108, length 101) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 4 (394–471, length 78) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 5 (473–581, length 109) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 6 (583–674, length 92) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 0 (0–6, length 7) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 1 (8–108, length 101) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 2 (110–196, length 87) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 3 (198–392, length 195) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 4 (394–471, length 78) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 5 (473–581, length 109) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 6 (583–674, length 92) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 7 (676–762, length 87) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=4)
+Columns with '#' inserted: [7, 109, 197, 393, 472, 582, 675, 763]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 999
+No. pound sign columns (#): 8
+Total no. nucleotides (A/C/G/T): 11942 bp
+Total no. gaps (-): 1654
+Total no. IUPAC N: 35
+Total no. missing values (?): 1881
+
+--- Run time ---
+Wall-clock time: 0.05689120 seconds
+CPU time: 0.05630200 seconds

@@ -1,0 +1,40 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round5/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=5)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12486 bp
+Total no. gaps (-): 1500
+Total no. IUPAC N: 14
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 990]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 604
+Total '-' characters in fully missing partitions: 636
+Combined total: 1240
+
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 0 (0–10, length 11) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 1 (12–86, length 75) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 2 (88–162, length 75) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 3 (164–258, length 95) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 4 (260–639, length 380) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=5)
+Columns with '#' inserted: [11, 87, 163, 259, 640]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 993
+No. pound sign columns (#): 5
+Total no. nucleotides (A/C/G/T): 12446 bp
+Total no. gaps (-): 768
+Total no. IUPAC N: 14
+Total no. missing values (?): 1240
+
+--- Run time ---
+Wall-clock time: 0.04887486 seconds
+CPU time: 0.04858400 seconds

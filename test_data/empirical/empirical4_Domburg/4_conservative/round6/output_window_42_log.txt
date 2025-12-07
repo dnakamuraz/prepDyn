@@ -1,0 +1,65 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12814 bp
+Total no. gaps (-): 1143
+Total no. IUPAC N: 43
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 994, 995, 996]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 413
+Total '-' characters in fully missing partitions: 661
+Combined total: 1074
+
+I3_Zeidae_Zenopsis_conchifera_13628: partition 0 (0–7, length 8) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 15 (462–541, length 80) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 16 (543–551, length 9) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 17 (553–588, length 36) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 18 (590–595, length 6) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 19 (597–603, length 7) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 20 (605–627, length 23) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 21 (629–672, length 44) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 22 (674–680, length 7) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 23 (682–688, length 7) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 24 (690–699, length 10) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 25 (701–724, length 24) fully missing (all '-')
+I9_22142: partition 2 (190–201, length 12) fully missing (all '-')
+I9_22142: partition 3 (203–287, length 85) fully missing (all '-')
+I9_22142: partition 4 (289–298, length 10) fully missing (all '-')
+I9_22142: partition 5 (300–324, length 25) fully missing (all '-')
+I9_22142: partition 6 (326–334, length 9) fully missing (all '-')
+I9_22142: partition 7 (336–355, length 20) fully missing (all '-')
+I8_21744: partition 27 (740–799, length 60) fully missing (all '-')
+I8_21744: partition 28 (801–818, length 18) fully missing (all '-')
+I8_21744: partition 29 (820–835, length 16) fully missing (all '-')
+I8_21744: partition 30 (837–894, length 58) fully missing (all '-')
+I8_21744: partition 31 (896–912, length 17) fully missing (all '-')
+I8_21744: partition 32 (914–921, length 8) fully missing (all '-')
+I8_21744: partition 33 (923–937, length 15) fully missing (all '-')
+I8_21744: partition 34 (939–944, length 6) fully missing (all '-')
+I8_21744: partition 35 (946–952, length 7) fully missing (all '-')
+I8_21744: partition 36 (954–964, length 11) fully missing (all '-')
+I8_21744: partition 37 (966–980, length 15) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 0 (0–7, length 8) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=6)
+Columns with '#' inserted: [8, 189, 202, 288, 299, 325, 335, 356, 376, 389, 401, 412, 424, 441, 461, 542, 552, 589, 596, 604, 628, 673, 681, 689, 700, 725, 739, 800, 819, 836, 895, 913, 922, 938, 945, 953, 965, 981, 997, 1022]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1032
+No. pound sign columns (#): 40
+Total no. nucleotides (A/C/G/T): 12748 bp
+Total no. gaps (-): 684
+Total no. IUPAC N: 43
+Total no. missing values (?): 1074
+
+--- Run time ---
+Wall-clock time: 0.05166006 seconds
+CPU time: 0.05105600 seconds

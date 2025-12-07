@@ -1,0 +1,88 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12763 bp
+Total no. gaps (-): 1224
+Total no. IUPAC N: 13
+
+--- Step 2: Trimming (invariant columns) ---
+[0]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 185
+Total '-' characters in fully missing partitions: 779
+Combined total: 964
+
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 6 (270–278, length 9) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 7 (280–289, length 10) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 8 (291–295, length 5) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 9 (297–322, length 26) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 10 (324–337, length 14) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 11 (339–350, length 12) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 12 (352–365, length 14) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 13 (367–388, length 22) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 14 (390–430, length 41) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 15 (432–440, length 9) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 16 (442–468, length 27) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 17 (470–476, length 7) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 18 (478–491, length 14) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 19 (493–498, length 6) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 20 (500–517, length 18) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 21 (519–530, length 12) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 22 (532–537, length 6) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 23 (539–559, length 21) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 24 (561–581, length 21) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 25 (583–596, length 14) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 26 (598–604, length 7) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 27 (606–612, length 7) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 28 (614–627, length 14) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 29 (629–634, length 6) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 30 (636–641, length 6) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 31 (643–652, length 10) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 32 (654–661, length 8) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 33 (663–668, length 6) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 34 (670–676, length 7) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 35 (678–688, length 11) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 36 (690–707, length 18) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 37 (709–718, length 10) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 38 (720–727, length 8) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 39 (729–744, length 16) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 40 (746–759, length 14) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 41 (761–784, length 24) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 42 (786–804, length 19) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 43 (806–832, length 27) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 44 (834–887, length 54) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 45 (889–903, length 15) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 46 (905–923, length 19) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 47 (925–935, length 11) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 48 (937–944, length 8) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 49 (946–957, length 12) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 50 (959–964, length 6) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 51 (966–976, length 11) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 52 (978–984, length 7) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 53 (986–1006, length 21) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 54 (1008–1041, length 34) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 55 (1043–1047, length 5) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 2 (89–103, length 15) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 3 (105–113, length 9) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 4 (115–140, length 26) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=6)
+Columns with '#' inserted: [6, 88, 104, 114, 141, 269, 279, 290, 296, 323, 338, 351, 366, 389, 431, 441, 469, 477, 492, 499, 518, 531, 538, 560, 582, 597, 605, 613, 628, 635, 642, 653, 662, 669, 677, 689, 708, 719, 728, 745, 760, 785, 805, 833, 888, 904, 924, 936, 945, 958, 965, 977, 985, 1007, 1042]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1048
+No. pound sign columns (#): 55
+Total no. nucleotides (A/C/G/T): 12749 bp
+Total no. gaps (-): 955
+Total no. IUPAC N: 13
+Total no. missing values (?): 964
+
+--- Run time ---
+Wall-clock time: 0.04799676 seconds
+CPU time: 0.04765300 seconds

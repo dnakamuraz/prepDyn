@@ -1,0 +1,29 @@
+set (log:"v5.2.2_POY_Domburg.log")
+version ()
+
+
+
+read ("*.fasta")
+
+
+
+set (root:"I3_Zeidae_Zenopsis_conchifera_13628")
+
+report ("v5.2.2_POY_Domburg.data",data, cross_references)
+
+search (max_time:0:12:0)
+
+report ("v5.2.2_POY_Domburg_SearchTrees.txt", trees:(total))
+
+transform (all,(static_approx)) (*POY5*)
+
+select ()
+
+report ("v5.2.2_POY_Domburg.pdf", graphtrees)
+report ("v5.2.2_POY_Domburg.cons.pdf", graphconsensus)
+report ("v5.2.2_POY_Domburg.stats.txt", searchstats)
+report ("v5.2.2_POY_Domburg.trees.txt", trees:(total))
+report ("v5.2.2_POY_Domburg.trees.nwk", trees:(branches:min,newick))
+report ("v5.2.2_POY_Domburg.ss", phastwinclad)
+
+quit()

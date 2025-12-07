@@ -1,0 +1,39 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round2/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=2)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13066 bp
+Total no. gaps (-): 902
+Total no. IUPAC N: 32
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 995, 996, 997, 998, 999]
+
+--- Step 2: Trimming (orphan nucleotides) ---
+I15_21753: Right block 982-1000 deleted ('TTGCACNAGACCCGANAT')
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 830
+Total '-' characters in fully missing partitions: 31
+Combined total: 861
+
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 4 (772–802, length 31) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=2)
+Columns with '#' inserted: [325, 548, 619, 771, 803]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 999
+No. pound sign columns (#): 5
+Total no. nucleotides (A/C/G/T): 12976 bp
+Total no. gaps (-): 80
+Total no. IUPAC N: 30
+Total no. missing values (?): 861
+
+--- Run time ---
+Wall-clock time: 0.06242490 seconds
+CPU time: 0.06120100 seconds

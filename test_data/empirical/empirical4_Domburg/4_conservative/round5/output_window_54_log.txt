@@ -1,0 +1,44 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round5/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=5)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13483 bp
+Total no. gaps (-): 459
+Total no. IUPAC N: 58
+
+--- Step 2: Trimming (invariant columns) ---
+[]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 170
+Total '-' characters in fully missing partitions: 121
+Combined total: 291
+
+I8_21744: partition 0 (0–3, length 4) fully missing (all '-')
+I8_21744: partition 1 (5–19, length 15) fully missing (all '-')
+I8_21744: partition 2 (21–32, length 12) fully missing (all '-')
+I8_21744: partition 36 (755–767, length 13) fully missing (all '-')
+I8_21744: partition 37 (769–777, length 9) fully missing (all '-')
+I8_21744: partition 38 (779–783, length 5) fully missing (all '-')
+I8_21744: partition 39 (785–815, length 31) fully missing (all '-')
+I8_21744: partition 40 (817–832, length 16) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 40 (817–832, length 16) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=5)
+Columns with '#' inserted: [4, 20, 33, 65, 77, 93, 154, 161, 174, 208, 219, 231, 256, 266, 285, 308, 329, 339, 346, 381, 390, 402, 417, 462, 504, 516, 548, 557, 572, 611, 636, 662, 674, 688, 715, 754, 768, 778, 784, 816, 833, 878, 904, 925, 943, 957, 968, 975, 988, 1007, 1019, 1036]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1040
+No. pound sign columns (#): 52
+Total no. nucleotides (A/C/G/T): 13483 bp
+Total no. gaps (-): 121
+Total no. IUPAC N: 58
+Total no. missing values (?): 291
+
+--- Run time ---
+Wall-clock time: 0.05383396 seconds
+CPU time: 0.05333100 seconds

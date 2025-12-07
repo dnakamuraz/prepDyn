@@ -1,0 +1,45 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round2/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=2)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12820 bp
+Total no. gaps (-): 1157
+Total no. IUPAC N: 23
+
+--- Step 2: Trimming (invariant columns) ---
+[993, 994, 995, 996, 997, 998, 999]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 204
+Total '-' characters in fully missing partitions: 896
+Combined total: 1100
+
+I9_22142: partition 1 (102–128, length 27) fully missing (all '-')
+I12_Anomalopidae_Anomalops_katoptron_13820: partition 0 (0–100, length 101) fully missing (all '-')
+I11_Monocentridae_Monocentrus_reidi_22123: partition 3 (734–827, length 94) fully missing (all '-')
+I11_Monocentridae_Monocentrus_reidi_22123: partition 4 (829–944, length 116) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 0 (0–100, length 101) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 0 (0–100, length 101) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 3 (734–827, length 94) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 3 (734–827, length 94) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 4 (829–944, length 116) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 5 (946–997, length 52) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=2)
+Columns with '#' inserted: [101, 129, 733, 828, 945]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 998
+No. pound sign columns (#): 5
+Total no. nucleotides (A/C/G/T): 12729 bp
+Total no. gaps (-): 946
+Total no. IUPAC N: 23
+Total no. missing values (?): 1100
+
+--- Run time ---
+Wall-clock time: 0.05736399 seconds
+CPU time: 0.05670100 seconds

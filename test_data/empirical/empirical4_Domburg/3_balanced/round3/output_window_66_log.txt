@@ -1,0 +1,43 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round3/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=3)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13838 bp
+Total no. gaps (-): 132
+Total no. IUPAC N: 30
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 2]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 0
+Total '-' characters in fully missing partitions: 114
+Combined total: 114
+
+I9_22142: partition 0 (0–0, length 1) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 0 (0–0, length 1) fully missing (all '-')
+I8_21744: partition 0 (0–0, length 1) fully missing (all '-')
+I15_21753: partition 2 (705–758, length 54) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 0 (0–0, length 1) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 0 (0–0, length 1) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 2 (705–758, length 54) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 0 (0–0, length 1) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=3)
+Columns with '#' inserted: [1, 704, 759]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1000
+No. pound sign columns (#): 3
+Total no. nucleotides (A/C/G/T): 13814 bp
+Total no. gaps (-): 114
+Total no. IUPAC N: 30
+Total no. missing values (?): 114
+
+--- Run time ---
+Wall-clock time: 0.04817414 seconds
+CPU time: 0.04733400 seconds

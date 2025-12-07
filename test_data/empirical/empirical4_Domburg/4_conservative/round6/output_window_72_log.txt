@@ -1,0 +1,43 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13305 bp
+Total no. gaps (-): 695
+Total no. IUPAC N: 0
+
+--- Step 2: Trimming (invariant columns) ---
+[985, 986, 987, 988, 989, 990]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 62
+Total '-' characters in fully missing partitions: 477
+Combined total: 539
+
+I1_Atherinopsidae_Menidia_menidia_17777: partition 5 (513–546, length 34) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 6 (548–573, length 26) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 7 (575–637, length 63) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 8 (639–881, length 243) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 9 (883–915, length 33) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 10 (917–927, length 11) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 11 (929–971, length 43) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 12 (973–996, length 24) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=6)
+Columns with '#' inserted: [7, 30, 97, 183, 512, 547, 574, 638, 882, 916, 928, 972]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 997
+No. pound sign columns (#): 12
+Total no. nucleotides (A/C/G/T): 13227 bp
+Total no. gaps (-): 501
+Total no. IUPAC N: 0
+Total no. missing values (?): 539
+
+--- Run time ---
+Wall-clock time: 0.04818797 seconds
+CPU time: 0.04745500 seconds

@@ -1,0 +1,42 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round4/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=4)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13483 bp
+Total no. gaps (-): 459
+Total no. IUPAC N: 58
+
+--- Step 2: Trimming (invariant columns) ---
+[]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 183
+Total '-' characters in fully missing partitions: 108
+Combined total: 291
+
+I8_21744: partition 0 (0–3, length 4) fully missing (all '-')
+I8_21744: partition 1 (5–19, length 15) fully missing (all '-')
+I8_21744: partition 2 (21–32, length 12) fully missing (all '-')
+I8_21744: partition 32 (764–772, length 9) fully missing (all '-')
+I8_21744: partition 33 (774–809, length 36) fully missing (all '-')
+I8_21744: partition 34 (811–826, length 16) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 34 (811–826, length 16) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=4)
+Columns with '#' inserted: [4, 20, 33, 65, 77, 93, 154, 161, 174, 208, 219, 231, 256, 266, 285, 308, 329, 339, 346, 381, 390, 416, 461, 503, 515, 555, 570, 658, 670, 684, 711, 763, 773, 810, 827, 897, 918, 949, 960, 967, 980, 999, 1027]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1031
+No. pound sign columns (#): 43
+Total no. nucleotides (A/C/G/T): 13483 bp
+Total no. gaps (-): 108
+Total no. IUPAC N: 58
+Total no. missing values (?): 291
+
+--- Run time ---
+Wall-clock time: 0.05543518 seconds
+CPU time: 0.05510800 seconds

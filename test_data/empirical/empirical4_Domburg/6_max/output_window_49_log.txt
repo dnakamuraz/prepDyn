@@ -1,0 +1,69 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing/', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/6_max/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='max', partitioning_round=0)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12420 bp
+Total no. gaps (-): 1552
+Total no. IUPAC N: 28
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 999]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 0
+Total '-' characters in fully missing partitions: 1455
+Combined total: 1455
+
+I3_Zeidae_Zenopsis_conchifera_13628: partition 3 (433–488, length 56) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 4 (490–503, length 14) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 5 (505–616, length 112) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 6 (618–667, length 50) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 7 (669–683, length 15) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 11 (982–986, length 5) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 12 (988–988, length 1) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 13 (990–1009, length 20) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 1 (229–389, length 161) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 2 (391–431, length 41) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 3 (433–488, length 56) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 4 (490–503, length 14) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 5 (505–616, length 112) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 13 (990–1009, length 20) fully missing (all '-')
+I9_22142: partition 2 (391–431, length 41) fully missing (all '-')
+I9_22142: partition 3 (433–488, length 56) fully missing (all '-')
+I9_22142: partition 4 (490–503, length 14) fully missing (all '-')
+I9_22142: partition 5 (505–616, length 112) fully missing (all '-')
+I9_22142: partition 6 (618–667, length 50) fully missing (all '-')
+I9_22142: partition 7 (669–683, length 15) fully missing (all '-')
+I9_22142: partition 8 (685–753, length 69) fully missing (all '-')
+I9_22142: partition 12 (988–988, length 1) fully missing (all '-')
+I9_22142: partition 13 (990–1009, length 20) fully missing (all '-')
+I15_21753: partition 3 (433–488, length 56) fully missing (all '-')
+I15_21753: partition 4 (490–503, length 14) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 3 (433–488, length 56) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 4 (490–503, length 14) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 5 (505–616, length 112) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 6 (618–667, length 50) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 10 (965–980, length 16) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 11 (982–986, length 5) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 12 (988–988, length 1) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 13 (990–1009, length 20) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 3 (433–488, length 56) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: max (inserted at '?' block boundaries)
+Columns with '#' inserted: [228, 390, 432, 489, 504, 617, 668, 684, 754, 964, 981, 987, 989]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1010
+No. pound sign columns (#): 13
+Total no. nucleotides (A/C/G/T): 12382 bp
+Total no. gaps (-): 1548
+Total no. IUPAC N: 28
+Total no. missing values (?): 1455
+
+--- Run time ---
+Wall-clock time: 0.05936170 seconds
+CPU time: 0.05842000 seconds

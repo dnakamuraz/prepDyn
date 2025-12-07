@@ -1,0 +1,45 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13115 bp
+Total no. gaps (-): 869
+Total no. IUPAC N: 16
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 2, 3, 981]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 139
+Total '-' characters in fully missing partitions: 252
+Combined total: 391
+
+I9_22142: partition 12 (635–654, length 20) fully missing (all '-')
+I9_22142: partition 13 (656–667, length 12) fully missing (all '-')
+I9_22142: partition 14 (669–675, length 7) fully missing (all '-')
+I9_22142: partition 15 (677–714, length 38) fully missing (all '-')
+I9_22142: partition 16 (716–760, length 45) fully missing (all '-')
+I9_22142: partition 17 (762–800, length 39) fully missing (all '-')
+I9_22142: partition 18 (802–826, length 25) fully missing (all '-')
+I9_22142: partition 19 (828–853, length 26) fully missing (all '-')
+I9_22142: partition 20 (855–860, length 6) fully missing (all '-')
+I8_21744: partition 0 (0–33, length 34) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=6)
+Columns with '#' inserted: [34, 143, 204, 218, 267, 333, 343, 350, 369, 377, 432, 634, 655, 668, 676, 715, 761, 801, 827, 854, 861, 886, 929, 951, 976, 983, 993]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1004
+No. pound sign columns (#): 27
+Total no. nucleotides (A/C/G/T): 13049 bp
+Total no. gaps (-): 474
+Total no. IUPAC N: 16
+Total no. missing values (?): 391
+
+--- Run time ---
+Wall-clock time: 0.05384302 seconds
+CPU time: 0.05334300 seconds

@@ -1,0 +1,43 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round3/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=3)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 11874 bp
+Total no. gaps (-): 2089
+Total no. IUPAC N: 37
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 2, 996]
+
+--- Step 2: Trimming (orphan nucleotides) ---
+I9_22142: Right block 979-997 deleted ('TCCATGCAGGAGCTGAGC')
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 1361
+Total '-' characters in fully missing partitions: 698
+Combined total: 2059
+
+I3_Zeidae_Zenopsis_conchifera_13628: partition 3 (346–863, length 518) fully missing (all '-')
+I9_22142: partition 5 (974–997, length 24) fully missing (all '-')
+I8_21744: partition 4 (865–972, length 108) fully missing (all '-')
+I8_21744: partition 5 (974–997, length 24) fully missing (all '-')
+I15_21753: partition 5 (974–997, length 24) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=3)
+Columns with '#' inserted: [34, 122, 345, 864, 973]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 998
+No. pound sign columns (#): 5
+Total no. nucleotides (A/C/G/T): 11803 bp
+Total no. gaps (-): 701
+Total no. IUPAC N: 37
+Total no. missing values (?): 2059
+
+--- Run time ---
+Wall-clock time: 0.05772495 seconds
+CPU time: 0.05694400 seconds

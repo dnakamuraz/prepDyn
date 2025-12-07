@@ -1,0 +1,55 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round4/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=4)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 11842 bp
+Total no. gaps (-): 2083
+Total no. IUPAC N: 75
+
+--- Step 2: Trimming (invariant columns) ---
+[]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 265
+Total '-' characters in fully missing partitions: 1687
+Combined total: 1952
+
+I3_Zeidae_Zenopsis_conchifera_13628: partition 1 (152–220, length 69) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 2 (222–309, length 88) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 3 (311–351, length 41) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 6 (649–712, length 64) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 7 (714–808, length 95) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 8 (810–925, length 116) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 6 (649–712, length 64) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 7 (714–808, length 95) fully missing (all '-')
+I15_21753: partition 1 (152–220, length 69) fully missing (all '-')
+I15_21753: partition 6 (649–712, length 64) fully missing (all '-')
+I15_21753: partition 7 (714–808, length 95) fully missing (all '-')
+I13_Trachichthyidae_Aulotrachichthys_sajademalensis_14534: partition 1 (152–220, length 69) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 1 (152–220, length 69) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 2 (222–309, length 88) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 5 (568–647, length 80) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 6 (649–712, length 64) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 7 (714–808, length 95) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 8 (810–925, length 116) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 0 (0–150, length 151) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 7 (714–808, length 95) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=4)
+Columns with '#' inserted: [151, 221, 310, 352, 567, 648, 713, 809, 926]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1009
+No. pound sign columns (#): 9
+Total no. nucleotides (A/C/G/T): 11842 bp
+Total no. gaps (-): 1818
+Total no. IUPAC N: 75
+Total no. missing values (?): 1952
+
+--- Run time ---
+Wall-clock time: 0.07079792 seconds
+CPU time: 0.06998100 seconds

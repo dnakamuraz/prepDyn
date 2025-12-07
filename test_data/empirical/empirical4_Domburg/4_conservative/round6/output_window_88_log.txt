@@ -1,0 +1,105 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12376 bp
+Total no. gaps (-): 1605
+Total no. IUPAC N: 19
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 999]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 211
+Total '-' characters in fully missing partitions: 1292
+Combined total: 1503
+
+I9_22142: partition 0 (0–55, length 56) fully missing (all '-')
+I9_22142: partition 1 (57–65, length 9) fully missing (all '-')
+I9_22142: partition 2 (67–78, length 12) fully missing (all '-')
+I9_22142: partition 3 (80–87, length 8) fully missing (all '-')
+I9_22142: partition 4 (89–104, length 16) fully missing (all '-')
+I9_22142: partition 5 (106–175, length 70) fully missing (all '-')
+I9_22142: partition 6 (177–193, length 17) fully missing (all '-')
+I9_22142: partition 7 (195–208, length 14) fully missing (all '-')
+I9_22142: partition 8 (210–237, length 28) fully missing (all '-')
+I9_22142: partition 9 (239–247, length 9) fully missing (all '-')
+I9_22142: partition 10 (249–254, length 6) fully missing (all '-')
+I9_22142: partition 11 (256–261, length 6) fully missing (all '-')
+I9_22142: partition 12 (263–283, length 21) fully missing (all '-')
+I9_22142: partition 13 (285–293, length 9) fully missing (all '-')
+I9_22142: partition 14 (295–306, length 12) fully missing (all '-')
+I9_22142: partition 15 (308–314, length 7) fully missing (all '-')
+I9_22142: partition 16 (316–323, length 8) fully missing (all '-')
+I9_22142: partition 17 (325–330, length 6) fully missing (all '-')
+I9_22142: partition 18 (332–343, length 12) fully missing (all '-')
+I9_22142: partition 19 (345–359, length 15) fully missing (all '-')
+I9_22142: partition 20 (361–369, length 9) fully missing (all '-')
+I9_22142: partition 21 (371–380, length 10) fully missing (all '-')
+I9_22142: partition 22 (382–390, length 9) fully missing (all '-')
+I9_22142: partition 23 (392–409, length 18) fully missing (all '-')
+I9_22142: partition 24 (411–421, length 11) fully missing (all '-')
+I9_22142: partition 25 (423–452, length 30) fully missing (all '-')
+I9_22142: partition 26 (454–460, length 7) fully missing (all '-')
+I9_22142: partition 27 (462–475, length 14) fully missing (all '-')
+I9_22142: partition 28 (477–485, length 9) fully missing (all '-')
+I9_22142: partition 29 (487–495, length 9) fully missing (all '-')
+I9_22142: partition 30 (497–505, length 9) fully missing (all '-')
+I9_22142: partition 31 (507–522, length 16) fully missing (all '-')
+I9_22142: partition 32 (524–541, length 18) fully missing (all '-')
+I9_22142: partition 33 (543–554, length 12) fully missing (all '-')
+I9_22142: partition 34 (556–660, length 105) fully missing (all '-')
+I9_22142: partition 35 (662–669, length 8) fully missing (all '-')
+I9_22142: partition 36 (671–691, length 21) fully missing (all '-')
+I9_22142: partition 37 (693–708, length 16) fully missing (all '-')
+I9_22142: partition 38 (710–716, length 7) fully missing (all '-')
+I9_22142: partition 39 (718–724, length 7) fully missing (all '-')
+I9_22142: partition 40 (726–752, length 27) fully missing (all '-')
+I9_22142: partition 41 (754–759, length 6) fully missing (all '-')
+I9_22142: partition 42 (761–772, length 12) fully missing (all '-')
+I9_22142: partition 43 (774–794, length 21) fully missing (all '-')
+I9_22142: partition 44 (796–804, length 9) fully missing (all '-')
+I9_22142: partition 45 (806–826, length 21) fully missing (all '-')
+I9_22142: partition 46 (828–836, length 9) fully missing (all '-')
+I9_22142: partition 47 (838–859, length 22) fully missing (all '-')
+I15_21753: partition 6 (177–193, length 17) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 33 (543–554, length 12) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 34 (556–660, length 105) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 35 (662–669, length 8) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 36 (671–691, length 21) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 37 (693–708, length 16) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 38 (710–716, length 7) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 39 (718–724, length 7) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 40 (726–752, length 27) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 41 (754–759, length 6) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 42 (761–772, length 12) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 43 (774–794, length 21) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 44 (796–804, length 9) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 45 (806–826, length 21) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 46 (828–836, length 9) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 47 (838–859, length 22) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 49 (888–910, length 23) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 50 (912–924, length 13) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 51 (926–960, length 35) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 52 (962–1002, length 41) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 53 (1004–1044, length 41) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 54 (1046–1051, length 6) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=6)
+Columns with '#' inserted: [56, 66, 79, 88, 105, 176, 194, 209, 238, 248, 255, 262, 284, 294, 307, 315, 324, 331, 344, 360, 370, 381, 391, 410, 422, 453, 461, 476, 486, 496, 506, 523, 542, 555, 661, 670, 692, 709, 717, 725, 753, 760, 773, 795, 805, 827, 837, 860, 887, 911, 925, 961, 1003, 1045]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1052
+No. pound sign columns (#): 54
+Total no. nucleotides (A/C/G/T): 12350 bp
+Total no. gaps (-): 1392
+Total no. IUPAC N: 19
+Total no. missing values (?): 1503
+
+--- Run time ---
+Wall-clock time: 0.05248380 seconds
+CPU time: 0.05182500 seconds

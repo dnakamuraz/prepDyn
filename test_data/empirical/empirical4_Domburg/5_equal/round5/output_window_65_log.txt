@@ -1,0 +1,39 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/5_equal/round5/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='equal', partitioning_round=5)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 11433 bp
+Total no. gaps (-): 2530
+Total no. IUPAC N: 37
+
+--- Step 2: Trimming (invariant columns) ---
+[0]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 802
+Total '-' characters in fully missing partitions: 676
+Combined total: 1478
+
+I9_22142: partition 5 (835–1003, length 169) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 5 (835–1003, length 169) fully missing (all '-')
+I8_21744: partition 5 (835–1003, length 169) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 5 (835–1003, length 169) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: equal
+Columns with '#' inserted: [166, 333, 500, 667, 834]
+
+--- Summary after preprocessing ---
+No. sequences: 13
+No. columns: 1004
+No. pound sign columns (#): 5
+Total no. nucleotides (A/C/G/T): 11420 bp
+Total no. gaps (-): 728
+Total no. IUPAC N: 37
+Total no. missing values (?): 1478
+
+--- Run time ---
+Wall-clock time: 0.05582738 seconds
+CPU time: 0.05374900 seconds

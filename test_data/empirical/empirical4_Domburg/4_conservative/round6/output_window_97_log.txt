@@ -1,0 +1,65 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12032 bp
+Total no. gaps (-): 1933
+Total no. IUPAC N: 35
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 2, 3, 4, 5, 6, 7, 8]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 642
+Total '-' characters in fully missing partitions: 1239
+Combined total: 1881
+
+I8_21744: partition 0 (0–12, length 13) fully missing (all '-')
+I8_21744: partition 1 (14–22, length 9) fully missing (all '-')
+I8_21744: partition 2 (24–91, length 68) fully missing (all '-')
+I8_21744: partition 3 (93–136, length 44) fully missing (all '-')
+I8_21744: partition 4 (138–157, length 20) fully missing (all '-')
+I8_21744: partition 11 (501–545, length 45) fully missing (all '-')
+I8_21744: partition 12 (547–561, length 15) fully missing (all '-')
+I8_21744: partition 13 (563–586, length 24) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 0 (0–12, length 13) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 1 (14–22, length 9) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 2 (24–91, length 68) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 10 (419–499, length 81) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 11 (501–545, length 45) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 12 (547–561, length 15) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 13 (563–586, length 24) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 0 (0–12, length 13) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 1 (14–22, length 9) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 2 (24–91, length 68) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 3 (93–136, length 44) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 4 (138–157, length 20) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 5 (159–209, length 51) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 6 (211–301, length 91) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 7 (303–375, length 73) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 8 (377–387, length 11) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 9 (389–417, length 29) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 10 (419–499, length 81) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 11 (501–545, length 45) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 12 (547–561, length 15) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 13 (563–586, length 24) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 14 (588–759, length 172) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=6)
+Columns with '#' inserted: [13, 23, 92, 137, 158, 210, 302, 376, 388, 418, 500, 546, 562, 587, 760, 807, 826, 888, 958, 971, 989, 1000]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1013
+No. pound sign columns (#): 22
+Total no. nucleotides (A/C/G/T): 11942 bp
+Total no. gaps (-): 1255
+Total no. IUPAC N: 35
+Total no. missing values (?): 1881
+
+--- Run time ---
+Wall-clock time: 0.05002689 seconds
+CPU time: 0.04906100 seconds

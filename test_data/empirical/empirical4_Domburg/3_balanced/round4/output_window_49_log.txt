@@ -1,0 +1,46 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round4/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=4)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12420 bp
+Total no. gaps (-): 1552
+Total no. IUPAC N: 28
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 999]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 383
+Total '-' characters in fully missing partitions: 1072
+Combined total: 1455
+
+I3_Zeidae_Zenopsis_conchifera_13628: partition 3 (503–614, length 112) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 4 (616–680, length 65) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 1 (229–389, length 161) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 2 (391–501, length 111) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 3 (503–614, length 112) fully missing (all '-')
+I9_22142: partition 2 (391–501, length 111) fully missing (all '-')
+I9_22142: partition 3 (503–614, length 112) fully missing (all '-')
+I9_22142: partition 4 (616–680, length 65) fully missing (all '-')
+I9_22142: partition 5 (682–750, length 69) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 3 (503–614, length 112) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 7 (962–1003, length 42) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=4)
+Columns with '#' inserted: [228, 390, 502, 615, 681, 751, 961]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1004
+No. pound sign columns (#): 7
+Total no. nucleotides (A/C/G/T): 12382 bp
+Total no. gaps (-): 1165
+Total no. IUPAC N: 28
+Total no. missing values (?): 1455
+
+--- Run time ---
+Wall-clock time: 0.06771207 seconds
+CPU time: 0.06591200 seconds

@@ -1,0 +1,67 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing/', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/6_max/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='max', partitioning_round=0)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12846 bp
+Total no. gaps (-): 1086
+Total no. IUPAC N: 68
+
+--- Step 2: Trimming (invariant columns) ---
+[995, 996, 997, 998, 999]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 0
+Total '-' characters in fully missing partitions: 727
+Combined total: 727
+
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 9 (811–831, length 21) fully missing (all '-')
+I9_22142: partition 11 (933–955, length 23) fully missing (all '-')
+I9_22142: partition 12 (957–960, length 4) fully missing (all '-')
+I9_22142: partition 13 (962–1007, length 46) fully missing (all '-')
+I8_21744: partition 1 (86–94, length 9) fully missing (all '-')
+I8_21744: partition 2 (96–100, length 5) fully missing (all '-')
+I8_21744: partition 3 (102–139, length 38) fully missing (all '-')
+I8_21744: partition 4 (141–178, length 38) fully missing (all '-')
+I8_21744: partition 5 (180–182, length 3) fully missing (all '-')
+I8_21744: partition 11 (933–955, length 23) fully missing (all '-')
+I8_21744: partition 12 (957–960, length 4) fully missing (all '-')
+I8_21744: partition 13 (962–1007, length 46) fully missing (all '-')
+I15_21753: partition 3 (102–139, length 38) fully missing (all '-')
+I15_21753: partition 4 (141–178, length 38) fully missing (all '-')
+I15_21753: partition 11 (933–955, length 23) fully missing (all '-')
+I15_21753: partition 12 (957–960, length 4) fully missing (all '-')
+I13_Trachichthyidae_Aulotrachichthys_sajademalensis_14534: partition 4 (141–178, length 38) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 2 (96–100, length 5) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 3 (102–139, length 38) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 4 (141–178, length 38) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 5 (180–182, length 3) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 6 (184–196, length 13) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 5 (180–182, length 3) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 6 (184–196, length 13) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 7 (198–241, length 44) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 11 (933–955, length 23) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 11 (933–955, length 23) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 12 (957–960, length 4) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 13 (962–1007, length 46) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 11 (933–955, length 23) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 12 (957–960, length 4) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 13 (962–1007, length 46) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: max (inserted at '?' block boundaries)
+Columns with '#' inserted: [85, 95, 101, 140, 179, 183, 197, 242, 810, 832, 932, 956, 961]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1008
+No. pound sign columns (#): 13
+Total no. nucleotides (A/C/G/T): 12796 bp
+Total no. gaps (-): 1066
+Total no. IUPAC N: 68
+Total no. missing values (?): 727
+
+--- Run time ---
+Wall-clock time: 0.05023313 seconds
+CPU time: 0.04929900 seconds

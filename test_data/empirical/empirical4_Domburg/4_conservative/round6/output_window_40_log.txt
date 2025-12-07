@@ -1,0 +1,39 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13555 bp
+Total no. gaps (-): 440
+Total no. IUPAC N: 5
+
+--- Step 2: Trimming (invariant columns) ---
+[999]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 68
+Total '-' characters in fully missing partitions: 51
+Combined total: 119
+
+I8_21744: partition 27 (736–746, length 11) fully missing (all '-')
+I8_21744: partition 28 (748–760, length 13) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 30 (786–800, length 15) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 31 (802–813, length 12) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=6)
+Columns with '#' inserted: [22, 53, 74, 84, 103, 110, 120, 133, 146, 189, 281, 339, 351, 359, 377, 390, 409, 429, 444, 457, 485, 501, 520, 533, 684, 693, 735, 747, 761, 785, 801, 814, 884, 907, 931, 959, 967, 989, 1004, 1014, 1030]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1040
+No. pound sign columns (#): 41
+Total no. nucleotides (A/C/G/T): 13541 bp
+Total no. gaps (-): 372
+Total no. IUPAC N: 5
+Total no. missing values (?): 119
+
+--- Run time ---
+Wall-clock time: 0.04859185 seconds
+CPU time: 0.04820800 seconds

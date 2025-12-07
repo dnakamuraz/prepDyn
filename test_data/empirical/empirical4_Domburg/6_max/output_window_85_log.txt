@@ -1,0 +1,46 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing/', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/6_max/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='max', partitioning_round=0)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13338 bp
+Total no. gaps (-): 632
+Total no. IUPAC N: 30
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 2, 999]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 0
+Total '-' characters in fully missing partitions: 544
+Combined total: 544
+
+I6_Holocentridae_Myripristis_jacobus_21825: partition 3 (486–656, length 171) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 4 (658–670, length 13) fully missing (all '-')
+I8_21744: partition 0 (0–63, length 64) fully missing (all '-')
+I8_21744: partition 4 (658–670, length 13) fully missing (all '-')
+I8_21744: partition 5 (672–719, length 48) fully missing (all '-')
+I8_21744: partition 6 (721–769, length 49) fully missing (all '-')
+I15_21753: partition 0 (0–63, length 64) fully missing (all '-')
+I15_21753: partition 1 (65–112, length 48) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 4 (658–670, length 13) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 5 (672–719, length 48) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 4 (658–670, length 13) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: max (inserted at '?' block boundaries)
+Columns with '#' inserted: [64, 113, 485, 657, 671, 720, 770]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1003
+No. pound sign columns (#): 7
+Total no. nucleotides (A/C/G/T): 13321 bp
+Total no. gaps (-): 593
+Total no. IUPAC N: 30
+Total no. missing values (?): 544
+
+--- Run time ---
+Wall-clock time: 0.05702901 seconds
+CPU time: 0.05599400 seconds

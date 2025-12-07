@@ -1,0 +1,45 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round5/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=5)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 11842 bp
+Total no. gaps (-): 2083
+Total no. IUPAC N: 75
+
+--- Step 2: Trimming (invariant columns) ---
+[]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 1244
+Total '-' characters in fully missing partitions: 708
+Combined total: 1952
+
+I3_Zeidae_Zenopsis_conchifera_13628: partition 5 (241–351, length 111) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 8 (622–789, length 168) fully missing (all '-')
+I15_21753: partition 7 (607–620, length 14) fully missing (all '-')
+I15_21753: partition 8 (622–789, length 168) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 7 (607–620, length 14) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 8 (622–789, length 168) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 0 (0–7, length 8) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 1 (9–30, length 22) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 2 (32–45, length 14) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 3 (47–67, length 21) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=5)
+Columns with '#' inserted: [8, 31, 46, 68, 240, 352, 606, 621, 790]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1009
+No. pound sign columns (#): 9
+Total no. nucleotides (A/C/G/T): 11842 bp
+Total no. gaps (-): 839
+Total no. IUPAC N: 75
+Total no. missing values (?): 1952
+
+--- Run time ---
+Wall-clock time: 0.05272985 seconds
+CPU time: 0.05190600 seconds

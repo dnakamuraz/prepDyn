@@ -1,0 +1,51 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing/', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/6_max/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='max', partitioning_round=0)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13206 bp
+Total no. gaps (-): 777
+Total no. IUPAC N: 17
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 999]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 0
+Total '-' characters in fully missing partitions: 716
+Combined total: 716
+
+I3_Zeidae_Zenopsis_conchifera_13628: partition 5 (383–452, length 70) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 1 (200–312, length 113) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 2 (314–332, length 19) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 3 (334–342, length 9) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 4 (344–381, length 38) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 5 (383–452, length 70) fully missing (all '-')
+I8_21744: partition 2 (314–332, length 19) fully missing (all '-')
+I8_21744: partition 3 (334–342, length 9) fully missing (all '-')
+I8_21744: partition 4 (344–381, length 38) fully missing (all '-')
+I8_21744: partition 5 (383–452, length 70) fully missing (all '-')
+I8_21744: partition 7 (969–1004, length 36) fully missing (all '-')
+I15_21753: partition 4 (344–381, length 38) fully missing (all '-')
+I15_21753: partition 5 (383–452, length 70) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 3 (334–342, length 9) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 4 (344–381, length 38) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 5 (383–452, length 70) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: max (inserted at '?' block boundaries)
+Columns with '#' inserted: [199, 313, 333, 343, 382, 453, 968]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1005
+No. pound sign columns (#): 7
+Total no. nucleotides (A/C/G/T): 13179 bp
+Total no. gaps (-): 776
+Total no. IUPAC N: 17
+Total no. missing values (?): 716
+
+--- Run time ---
+Wall-clock time: 0.05095506 seconds
+CPU time: 0.04996500 seconds

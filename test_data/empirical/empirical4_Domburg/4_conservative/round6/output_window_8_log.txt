@@ -1,0 +1,94 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 11298 bp
+Total no. gaps (-): 2695
+Total no. IUPAC N: 7
+
+--- Step 2: Trimming (invariant columns) ---
+[954]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 318
+Total '-' characters in fully missing partitions: 1598
+Combined total: 1916
+
+I3_Zeidae_Zenopsis_conchifera_13628: partition 1 (159–224, length 66) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 2 (226–240, length 15) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 3 (242–274, length 33) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 4 (276–284, length 9) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 5 (286–303, length 18) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 6 (305–382, length 78) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 7 (384–393, length 10) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 8 (395–447, length 53) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 9 (449–457, length 9) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 10 (459–468, length 10) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 11 (470–480, length 11) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 12 (482–488, length 7) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 13 (490–503, length 14) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 14 (505–528, length 24) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 15 (530–550, length 21) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 16 (552–610, length 59) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 9 (449–457, length 9) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 10 (459–468, length 10) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 11 (470–480, length 11) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 12 (482–488, length 7) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 13 (490–503, length 14) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 14 (505–528, length 24) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 15 (530–550, length 21) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 16 (552–610, length 59) fully missing (all '-')
+I8_21744: partition 10 (459–468, length 10) fully missing (all '-')
+I8_21744: partition 11 (470–480, length 11) fully missing (all '-')
+I8_21744: partition 12 (482–488, length 7) fully missing (all '-')
+I8_21744: partition 13 (490–503, length 14) fully missing (all '-')
+I8_21744: partition 14 (505–528, length 24) fully missing (all '-')
+I8_21744: partition 15 (530–550, length 21) fully missing (all '-')
+I8_21744: partition 16 (552–610, length 59) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 0 (0–157, length 158) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 1 (159–224, length 66) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 2 (226–240, length 15) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 3 (242–274, length 33) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 4 (276–284, length 9) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 5 (286–303, length 18) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 6 (305–382, length 78) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 7 (384–393, length 10) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 8 (395–447, length 53) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 9 (449–457, length 9) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 10 (459–468, length 10) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 11 (470–480, length 11) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 12 (482–488, length 7) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 13 (490–503, length 14) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 14 (505–528, length 24) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 15 (530–550, length 21) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 16 (552–610, length 59) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 17 (612–657, length 46) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 18 (659–673, length 15) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 19 (675–683, length 9) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 20 (685–696, length 12) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 21 (698–710, length 13) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 22 (712–722, length 11) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 23 (724–768, length 45) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 24 (770–823, length 54) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 25 (825–833, length 9) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 26 (835–864, length 30) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 27 (866–886, length 21) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=6)
+Columns with '#' inserted: [158, 225, 241, 275, 285, 304, 383, 394, 448, 458, 469, 481, 489, 504, 529, 551, 611, 658, 674, 684, 697, 711, 723, 769, 824, 834, 865, 887]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 982
+No. pound sign columns (#): 28
+Total no. nucleotides (A/C/G/T): 11284 bp
+Total no. gaps (-): 1747
+Total no. IUPAC N: 7
+Total no. missing values (?): 1916
+
+--- Run time ---
+Wall-clock time: 0.05635095 seconds
+CPU time: 0.05579200 seconds

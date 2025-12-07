@@ -1,0 +1,38 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round1/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=1)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12536 bp
+Total no. gaps (-): 1421
+Total no. IUPAC N: 43
+
+--- Step 2: Trimming (invariant columns) ---
+[]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 797
+Total '-' characters in fully missing partitions: 614
+Combined total: 1411
+
+I3_Zeidae_Zenopsis_conchifera_13628: partition 2 (579–746, length 168) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 2 (579–746, length 168) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 1 (300–577, length 278) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=1)
+Columns with '#' inserted: [299, 578, 747]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1003
+No. pound sign columns (#): 3
+Total no. nucleotides (A/C/G/T): 12536 bp
+Total no. gaps (-): 624
+Total no. IUPAC N: 43
+Total no. missing values (?): 1411
+
+--- Run time ---
+Wall-clock time: 0.05692577 seconds
+CPU time: 0.05639100 seconds

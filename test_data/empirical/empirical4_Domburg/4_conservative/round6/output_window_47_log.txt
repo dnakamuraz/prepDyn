@@ -1,0 +1,88 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12988 bp
+Total no. gaps (-): 987
+Total no. IUPAC N: 25
+
+--- Step 2: Trimming (invariant columns) ---
+[999]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 109
+Total '-' characters in fully missing partitions: 690
+Combined total: 799
+
+I3_Zeidae_Zenopsis_conchifera_13628: partition 27 (616–629, length 14) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 28 (631–636, length 6) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 29 (638–650, length 13) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 30 (652–682, length 31) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 31 (684–692, length 9) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 32 (694–718, length 25) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 33 (720–725, length 6) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 34 (727–733, length 7) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 35 (735–742, length 8) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 36 (744–765, length 22) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 37 (767–773, length 7) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 38 (775–780, length 6) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 39 (782–796, length 15) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 40 (798–806, length 9) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 41 (808–819, length 12) fully missing (all '-')
+I8_21744: partition 0 (0–10, length 11) fully missing (all '-')
+I8_21744: partition 1 (12–67, length 56) fully missing (all '-')
+I8_21744: partition 24 (554–561, length 8) fully missing (all '-')
+I8_21744: partition 25 (563–577, length 15) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 27 (616–629, length 14) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 28 (631–636, length 6) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 29 (638–650, length 13) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 30 (652–682, length 31) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 31 (684–692, length 9) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 32 (694–718, length 25) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 33 (720–725, length 6) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 34 (727–733, length 7) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 35 (735–742, length 8) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 36 (744–765, length 22) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 37 (767–773, length 7) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 38 (775–780, length 6) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 39 (782–796, length 15) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 40 (798–806, length 9) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 41 (808–819, length 12) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 42 (821–841, length 21) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 43 (843–853, length 11) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 44 (855–876, length 22) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 45 (878–883, length 6) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 46 (885–891, length 7) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 47 (893–900, length 8) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 48 (902–908, length 7) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 49 (910–916, length 7) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 50 (918–935, length 18) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 51 (937–971, length 35) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 52 (973–982, length 10) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 53 (984–998, length 15) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 54 (1000–1003, length 4) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 55 (1005–1010, length 6) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 56 (1012–1020, length 9) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 57 (1022–1029, length 8) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 58 (1031–1040, length 10) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 59 (1042–1052, length 11) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 60 (1054–1058, length 5) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=6)
+Columns with '#' inserted: [11, 68, 229, 237, 252, 280, 292, 303, 310, 322, 338, 345, 365, 375, 399, 406, 432, 445, 455, 487, 498, 509, 516, 553, 562, 578, 615, 630, 637, 651, 683, 693, 719, 726, 734, 743, 766, 774, 781, 797, 807, 820, 842, 854, 877, 884, 892, 901, 909, 917, 936, 972, 983, 999, 1004, 1011, 1021, 1030, 1041, 1053]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1059
+No. pound sign columns (#): 60
+Total no. nucleotides (A/C/G/T): 12975 bp
+Total no. gaps (-): 877
+Total no. IUPAC N: 25
+Total no. missing values (?): 799
+
+--- Run time ---
+Wall-clock time: 0.04834890 seconds
+CPU time: 0.04809800 seconds

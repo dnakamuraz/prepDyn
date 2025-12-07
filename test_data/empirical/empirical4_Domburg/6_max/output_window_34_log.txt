@@ -1,0 +1,70 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing/', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/6_max/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='max', partitioning_round=0)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 11634 bp
+Total no. gaps (-): 2331
+Total no. IUPAC N: 35
+
+--- Step 2: Trimming (invariant columns) ---
+[996]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 0
+Total '-' characters in fully missing partitions: 2247
+Combined total: 2247
+
+I3_Zeidae_Zenopsis_conchifera_13628: partition 6 (339–360, length 22) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 7 (362–589, length 228) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 8 (591–598, length 8) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 9 (600–646, length 47) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 10 (648–863, length 216) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 11 (865–876, length 12) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 12 (878–1007, length 130) fully missing (all '-')
+I8_21744: partition 4 (314–324, length 11) fully missing (all '-')
+I8_21744: partition 5 (326–337, length 12) fully missing (all '-')
+I15_21753: partition 5 (326–337, length 12) fully missing (all '-')
+I15_21753: partition 6 (339–360, length 22) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 6 (339–360, length 22) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 7 (362–589, length 228) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 12 (878–1007, length 130) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 1 (50–205, length 156) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 2 (207–304, length 98) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 3 (306–312, length 7) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 4 (314–324, length 11) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 5 (326–337, length 12) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 6 (339–360, length 22) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 7 (362–589, length 228) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 8 (591–598, length 8) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 9 (600–646, length 47) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 3 (306–312, length 7) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 4 (314–324, length 11) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 5 (326–337, length 12) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 6 (339–360, length 22) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 7 (362–589, length 228) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 8 (591–598, length 8) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 11 (865–876, length 12) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 12 (878–1007, length 130) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 2 (207–304, length 98) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 3 (306–312, length 7) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 4 (314–324, length 11) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 5 (326–337, length 12) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: max (inserted at '?' block boundaries)
+Columns with '#' inserted: [49, 206, 305, 313, 325, 338, 361, 590, 599, 647, 864, 877]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1008
+No. pound sign columns (#): 12
+Total no. nucleotides (A/C/G/T): 11623 bp
+Total no. gaps (-): 2286
+Total no. IUPAC N: 35
+Total no. missing values (?): 2247
+
+--- Run time ---
+Wall-clock time: 0.07073784 seconds
+CPU time: 0.06784700 seconds

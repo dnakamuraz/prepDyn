@@ -8,7 +8,7 @@
 
 **prepDyn** is a collection of Python scripts to facilitate the preprocessing of input sequences for dynamic homology. 
 
-In dynamic homology, data should be preprocessed to distinguish differences in sequence length resulting from missing data or insertion-deletion events to avoid grouping from artifacts. However, previous empirical studies using POY (Wheeler et al. 2015) and PhyG (Wheeler et al. 2024) manually preprocessed data with varying approaches (e.g. Grant et al. 2006; Nakamura et al. 2025). Here we present **prepDyn**, a collection of Python scripts to facilitate the preprocessing of input sequences to POY/PhyG. **prepDyn** comprises four steps: (1) data collection from GenBank, (2) trimming, (3) identification of missing data, and (4) partitioning.
+In dynamic homology, data should be preprocessed to distinguish differences in sequence length resulting from missing data or insertion-deletion events to avoid grouping from artifacts. However, previous empirical studies using POY (Wheeler et al. 2015) and PhyG (Wheeler et al. 2024) manually preprocessed data with varying approaches (e.g. Grant et al. 2006; Nakamura et al. 2025). Here we present **prepDyn**, a collection of Python scripts to facilitate the preprocessing of input sequences to POY/PhyG. The main script `prepDyn.py` comprises four steps: (1) data collection from GenBank, (2) trimming, (3) identification of missing data, and (4) partitioning.
 
 Copyright (C) Daniel Y. M. Nakamura 2025
 
@@ -50,12 +50,13 @@ git clone https://github.com/danimelsz/PrepDyn.git
 
 ## Usage
 
-**prepDyn** is organized in three Python files in the directory src:
-- prepDyn.py: main script integrating the pipeline.
-- GB2MSA.py: script to download sequences from GenBank and identify internal missing data.
-- addSeq.py: script to align one or a few sequence(s) to a previously preprocessed (profile) alignment.
+**prepDyn** is organized in four Python scripts in the directory src:
+- `prepDyn.py`: the main script integrating the pipeline.
+- `GB2MSA.py`: script to download sequences from GenBank and identify internal missing data.
+- `addSeq.py`: script to align one or a few sequence(s) to a previously preprocessed (profile) alignment.
+- `UP2AP.py`: script to align sequences containing pound signs.
 
-A summary of parameters used in prepDyn.py:
+A summary of parameters used in `prepDyn.py`:
 
 | **Parameter**            | **Type**              | **Default**  | **Description**                                                                   |
 | ------------------------ | --------------------- | ------------ | --------------------------------------------------------------------------------- |
@@ -86,13 +87,14 @@ Parameters can be either specified with long or short options. For more informat
 python src/prepDyn.py -h
 python src/GB2MSA.py -h
 python src/addSeq.py -h
+python src/UP2AP.py -h
 ```
 
 The following examples are designed for users with little experience on Unix. If you have questions, send a message using **GitHub issues**. Do not move the scripts from the directory *src*, otherwise the modular structure will break.
 
 ### Example 1: Simple example
 
-The basic use of **prepDyn** is running all four steps using a single command. Given an input CSV, whose first column is called *Terminals* and the other columns are the names of genes (each cell containing the correspondent GenBank accession number), the following command will download sequences, trim invariants and orphan nucleotides <10 bp in terminal positions, and identify missing data as *?* (all differences in sequence length in terminal positions are missing data). In the CSV file, if more than one GenBank accession number is specified in the same cell refering to non-overlapping fragments of the same gene (e.g. JX155817/JX155844), the space between them is automatically identified as internal missing data (?).
+The basic use of `prepDyn.py` is running all four steps using a single command. Given an input CSV, whose first column is called *Terminals* and the other columns are the names of genes (each cell containing the correspondent GenBank accession number), the following command will download sequences, trim invariants and orphan nucleotides <10 bp in terminal positions, and identify missing data as *?* (all differences in sequence length in terminal positions are missing data). In the CSV file, if more than one GenBank accession number is specified in the same cell refering to non-overlapping fragments of the same gene (e.g. JX155817/JX155844), the space between them is automatically identified as internal missing data (?).
 
 <img src="figures/example_csv.png" alt="" width="300">
 
@@ -107,7 +109,7 @@ python src/prepDyn.py \
     --log T 
 ```
 
-We specified *--paritioning_round 0*, which means that partitioning was not performed. As a heuristic, we recommend testing the impact of adding pound signs to the tree optimality scores using a successive partitioning strategy. For instance, if you specify *partitioning_method conservative* and *--partitioning_round 1*, the largest block(s) of contiguous invariants will be partitioned.
+We specified `paritioning_method None`, which means that partitioning was not performed. As a heuristic, we recommend testing the impact of adding pound signs to the tree optimality scores using a successive partitioning strategy. For instance, if you specify `partitioning_method conservative` and `partitioning_round 1`, the largest block(s) of contiguous invariants will be partitioned.
 
 ```
 python src/prepDyn.py \
@@ -118,11 +120,32 @@ python src/prepDyn.py \
     --log T
 ```
 
-This process can continue until tree costs reported by POY/PhyG remain stationary (e.g. *--partitioning_round 2* inserts pound signs in the 1- and 2-largest block(s) of contiguous invariants). Other methods of partitioning are also available and the user should explore whether they can reduce tree costs.
+This process can continue until tree costs reported by POY/PhyG remain stationary. For instance, `partitioning_round 2` inserts pound signs in the 1- and 2-largest block(s) of contiguous invariants. 
+
+```
+python src/prepDyn.py \
+    --input_file test_data/tutorial/ex1.2/ex1.2_input.fasta \
+    --output_file test_data/tutorial/ex1.3/ex1.3 \
+    --partitioning_method balanced \
+    --partitioning_round 2 \
+    --log T
+```
+After tree-alignment, if the tree cost from `partitioning_round 2` is higher than that from `partitioning_round 1`, the analysis can stop. Otherwise, the analysis can proceed with `partitioning_round 3` (and so on).
+
+```
+python src/prepDyn.py \
+    --input_file test_data/tutorial/ex1.2/ex1.2_input.fasta \
+    --output_file test_data/tutorial/ex1.4/ex1.4 \
+    --partitioning_method balanced \
+    --partitioning_round 3 \
+    --log T
+```
+
+Other methods of partitioning are also available (`conservative`, `equal`, `max`) and the user should explore whether they can reduce tree costs. Given the same parameters used for data collection, trimming, and identification of missing data, the different partitioning methods are comparable via tree costs.
 
 ### Example 2: Multiple alignments
 
-Suppose you have a phylogenomic dataset with hundreds of gene alignmens in the directory *./data/*. Phylogenomic datasets are usually unavailable in GenBank, but are available in repositories like Dryad and Zenodo. You can preprocess all unaligned gene alignments in FASTA format using a single command:
+Suppose you have a phylogenomic dataset with hundreds of gene alignmens in the directory *./data/*. Phylogenomic datasets are usually unavailable in GenBank, but are available in repositories like Dryad and Zenodo. You can preprocess all unaligned gene files in FASTA format using a single command:
 
 ```
 python src/prepDyn.py \
@@ -136,7 +159,7 @@ python src/prepDyn.py \
     --partitioning_method max
 ```
 
-If the input files are already aligned, just change the boolean parameter MSA to False:
+If the input files are already aligned, change the boolean parameter MSA to False to accelerate preprocessing:
 
 ```
 python src/prepDyn.py \
@@ -152,7 +175,7 @@ python src/prepDyn.py \
 
 ### Example 3: Appending new sequences to a profile alignment
 
- MAFFT is unable to align sequences if pound signs or question marks are present. This is a problem when we try to align new sequences to a prevously preprocessed alignment. To avoid manual alignment by eye, addSeq.py allows aligning new sequences to profile alignments. Gaps, missing data, and pound signs are not modified for the sequences present in the profile alignment--they are only inserted in the new sequences.
+ MAFFT is unable to align sequences if pound signs or question marks are present. This is a problem when we try to align new sequences to a prevously preprocessed alignment for dynamic homology. To avoid manual alignment by eye, addSeq.py allows aligning new sequences to profile alignments. Gaps, missing data, and pound signs are not modified for the sequences present in the profile alignment--they are only inserted in the new sequences.
 
 A simple example:
 
@@ -178,7 +201,9 @@ python src/addSeq.py \
     --log True
 ```
 
-Warning: The input *--new_seqs* cannot be longer than the input profile *--alignment*.
+Warning: The input `new_seqs` cannot be longer than the input profile `alignment`.
+
+When the input sequences in the parameter `alignment` of `addSeq.py` are not aligned and contain pound signs to delimit partitions, MAFFT and other aligners crash. In this case, use `UP2AP.py` to convert unaligned sequences containing pound signs (UP) into aligned sequences with pound signs (AP). Finally, use the output from `UP2AP.py` as input `alignment` of `addSeq.py`.
 
 ## Cite
 

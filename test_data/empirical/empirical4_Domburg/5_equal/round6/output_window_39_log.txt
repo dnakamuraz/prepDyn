@@ -1,0 +1,36 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/5_equal/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='equal', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13098 bp
+Total no. gaps (-): 880
+Total no. IUPAC N: 22
+
+--- Step 2: Trimming (invariant columns) ---
+[]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 589
+Total '-' characters in fully missing partitions: 142
+Combined total: 731
+
+I8_21744: partition 1 (143–284, length 142) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: equal
+Columns with '#' inserted: [142, 285, 428, 571, 714, 857]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1006
+No. pound sign columns (#): 6
+Total no. nucleotides (A/C/G/T): 13098 bp
+Total no. gaps (-): 291
+Total no. IUPAC N: 22
+Total no. missing values (?): 731
+
+--- Run time ---
+Wall-clock time: 0.06168103 seconds
+CPU time: 0.05930500 seconds

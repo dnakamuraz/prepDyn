@@ -1,0 +1,56 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round5/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=5)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12910 bp
+Total no. gaps (-): 1062
+Total no. IUPAC N: 28
+
+--- Step 2: Trimming (invariant columns) ---
+[]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 313
+Total '-' characters in fully missing partitions: 736
+Combined total: 1049
+
+I8_21744: partition 3 (70–78, length 9) fully missing (all '-')
+I8_21744: partition 4 (80–106, length 27) fully missing (all '-')
+I8_21744: partition 5 (108–146, length 39) fully missing (all '-')
+I15_21753: partition 24 (925–949, length 25) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 6 (148–195, length 48) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 7 (197–248, length 52) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 8 (250–284, length 35) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 9 (286–321, length 36) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 10 (323–403, length 81) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 11 (405–452, length 48) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 12 (454–483, length 30) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 13 (485–502, length 18) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 14 (504–518, length 15) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 15 (520–528, length 9) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 16 (530–610, length 81) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 17 (612–633, length 22) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 18 (635–666, length 32) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 19 (668–715, length 48) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 20 (717–722, length 6) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 21 (724–765, length 42) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 22 (767–799, length 33) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=5)
+Columns with '#' inserted: [7, 38, 69, 79, 107, 147, 196, 249, 285, 322, 404, 453, 484, 503, 519, 529, 611, 634, 667, 716, 723, 766, 800, 924, 950, 961, 972, 1015]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1028
+No. pound sign columns (#): 28
+Total no. nucleotides (A/C/G/T): 12910 bp
+Total no. gaps (-): 749
+Total no. IUPAC N: 28
+Total no. missing values (?): 1049
+
+--- Run time ---
+Wall-clock time: 0.04545593 seconds
+CPU time: 0.04513900 seconds

@@ -1,0 +1,44 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round2/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=2)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12032 bp
+Total no. gaps (-): 1933
+Total no. IUPAC N: 35
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 2, 3, 4, 5, 6, 7, 8]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 635
+Total '-' characters in fully missing partitions: 1246
+Combined total: 1881
+
+I8_21744: partition 0 (0–107, length 108) fully missing (all '-')
+I8_21744: partition 1 (109–195, length 87) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 0 (0–107, length 108) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 3 (393–579, length 187) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 0 (0–107, length 108) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 1 (109–195, length 87) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 2 (197–391, length 195) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 3 (393–579, length 187) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 4 (581–759, length 179) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=2)
+Columns with '#' inserted: [108, 196, 392, 580, 760]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 996
+No. pound sign columns (#): 5
+Total no. nucleotides (A/C/G/T): 11942 bp
+Total no. gaps (-): 1262
+Total no. IUPAC N: 35
+Total no. missing values (?): 1881
+
+--- Run time ---
+Wall-clock time: 0.05978584 seconds
+CPU time: 0.05936200 seconds

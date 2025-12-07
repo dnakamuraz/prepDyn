@@ -1,0 +1,61 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13058 bp
+Total no. gaps (-): 934
+Total no. IUPAC N: 8
+
+--- Step 2: Trimming (invariant columns) ---
+[]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 84
+Total '-' characters in fully missing partitions: 618
+Combined total: 702
+
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 7 (465–470, length 6) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 8 (472–481, length 10) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 9 (483–563, length 81) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 10 (565–593, length 29) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 11 (595–621, length 27) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 12 (623–643, length 21) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 13 (645–686, length 42) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 14 (688–693, length 6) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 15 (695–702, length 8) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 16 (704–713, length 10) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 17 (715–735, length 21) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 18 (737–745, length 9) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 19 (747–795, length 49) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 20 (797–867, length 71) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 21 (869–903, length 35) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 22 (905–913, length 9) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 23 (915–925, length 11) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 24 (927–961, length 35) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 25 (963–972, length 10) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 26 (974–988, length 15) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 27 (990–1026, length 37) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 25 (963–972, length 10) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 26 (974–988, length 15) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 27 (990–1026, length 37) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 14 (688–693, length 6) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 15 (695–702, length 8) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=6)
+Columns with '#' inserted: [82, 190, 197, 240, 280, 287, 464, 471, 482, 564, 594, 622, 644, 687, 694, 703, 714, 736, 746, 796, 868, 904, 914, 926, 962, 973, 989]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1027
+No. pound sign columns (#): 27
+Total no. nucleotides (A/C/G/T): 13058 bp
+Total no. gaps (-): 850
+Total no. IUPAC N: 8
+Total no. missing values (?): 702
+
+--- Run time ---
+Wall-clock time: 0.05058599 seconds
+CPU time: 0.05026600 seconds

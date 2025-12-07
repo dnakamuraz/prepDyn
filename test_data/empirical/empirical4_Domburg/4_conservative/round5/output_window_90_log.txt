@@ -1,0 +1,45 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round5/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=5)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13041 bp
+Total no. gaps (-): 942
+Total no. IUPAC N: 17
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 2, 3]
+
+--- Step 2: Trimming (orphan nucleotides) ---
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: Left block 0-6 deleted ('CGCAGC')
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 466
+Total '-' characters in fully missing partitions: 408
+Combined total: 874
+
+I8_21744: partition 3 (283–297, length 15) fully missing (all '-')
+I8_21744: partition 4 (299–547, length 249) fully missing (all '-')
+I8_21744: partition 12 (934–983, length 50) fully missing (all '-')
+I8_21744: partition 13 (985–1008, length 24) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 0 (0–13, length 14) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 1 (15–55, length 41) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 3 (283–297, length 15) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=5)
+Columns with '#' inserted: [14, 56, 282, 298, 548, 660, 688, 703, 740, 829, 860, 933, 984]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1009
+No. pound sign columns (#): 13
+Total no. nucleotides (A/C/G/T): 12983 bp
+Total no. gaps (-): 478
+Total no. IUPAC N: 17
+Total no. missing values (?): 874
+
+--- Run time ---
+Wall-clock time: 0.05741501 seconds
+CPU time: 0.05650900 seconds

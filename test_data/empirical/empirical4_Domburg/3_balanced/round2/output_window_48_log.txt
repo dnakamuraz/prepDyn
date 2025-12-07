@@ -1,0 +1,47 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round2/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=2)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 11842 bp
+Total no. gaps (-): 2083
+Total no. IUPAC N: 75
+
+--- Step 2: Trimming (invariant columns) ---
+[]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 615
+Total '-' characters in fully missing partitions: 1337
+Combined total: 1952
+
+I3_Zeidae_Zenopsis_conchifera_13628: partition 1 (152–277, length 126) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 2 (279–350, length 72) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 5 (712–806, length 95) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 6 (808–924, length 117) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 5 (712–806, length 95) fully missing (all '-')
+I15_21753: partition 1 (152–277, length 126) fully missing (all '-')
+I15_21753: partition 5 (712–806, length 95) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 1 (152–277, length 126) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 4 (567–710, length 144) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 5 (712–806, length 95) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 0 (0–150, length 151) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 5 (712–806, length 95) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=2)
+Columns with '#' inserted: [151, 278, 351, 566, 711, 807, 925]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1007
+No. pound sign columns (#): 7
+Total no. nucleotides (A/C/G/T): 11842 bp
+Total no. gaps (-): 1468
+Total no. IUPAC N: 75
+Total no. missing values (?): 1952
+
+--- Run time ---
+Wall-clock time: 0.07900000 seconds
+CPU time: 0.07729800 seconds

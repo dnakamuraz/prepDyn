@@ -1,0 +1,38 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round5/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=5)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13637 bp
+Total no. gaps (-): 338
+Total no. IUPAC N: 25
+
+--- Step 2: Trimming (invariant columns) ---
+[999]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 229
+Total '-' characters in fully missing partitions: 83
+Combined total: 312
+
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 10 (599–627, length 29) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 11 (629–665, length 37) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 12 (667–683, length 17) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=5)
+Columns with '#' inserted: [52, 112, 165, 224, 338, 369, 403, 424, 481, 598, 628, 666, 684, 757, 861, 887, 930]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1016
+No. pound sign columns (#): 17
+Total no. nucleotides (A/C/G/T): 13623 bp
+Total no. gaps (-): 109
+Total no. IUPAC N: 25
+Total no. missing values (?): 312
+
+--- Run time ---
+Wall-clock time: 0.04622602 seconds
+CPU time: 0.04517100 seconds

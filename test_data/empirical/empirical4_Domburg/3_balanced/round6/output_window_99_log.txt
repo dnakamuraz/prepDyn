@@ -1,0 +1,46 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12973 bp
+Total no. gaps (-): 996
+Total no. IUPAC N: 31
+
+--- Step 2: Trimming (invariant columns) ---
+[]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 41
+Total '-' characters in fully missing partitions: 599
+Combined total: 640
+
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 3 (158–210, length 53) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 7 (362–382, length 21) fully missing (all '-')
+I9_22142: partition 1 (62–85, length 24) fully missing (all '-')
+I9_22142: partition 4 (212–234, length 23) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 9 (828–1008, length 181) fully missing (all '-')
+I13_Trachichthyidae_Aulotrachichthys_sajademalensis_14534: partition 4 (212–234, length 23) fully missing (all '-')
+I13_Trachichthyidae_Aulotrachichthys_sajademalensis_14534: partition 5 (236–301, length 66) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 0 (0–60, length 61) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 1 (62–85, length 24) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 2 (87–156, length 70) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 3 (158–210, length 53) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=6)
+Columns with '#' inserted: [61, 86, 157, 211, 235, 302, 361, 383, 827]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1009
+No. pound sign columns (#): 9
+Total no. nucleotides (A/C/G/T): 12973 bp
+Total no. gaps (-): 955
+Total no. IUPAC N: 31
+Total no. missing values (?): 640
+
+--- Run time ---
+Wall-clock time: 0.05430031 seconds
+CPU time: 0.05359100 seconds

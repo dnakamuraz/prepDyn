@@ -1,0 +1,46 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round4/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=4)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13058 bp
+Total no. gaps (-): 934
+Total no. IUPAC N: 8
+
+--- Step 2: Trimming (invariant columns) ---
+[]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 124
+Total '-' characters in fully missing partitions: 578
+Combined total: 702
+
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 2 (476–556, length 81) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 3 (558–634, length 77) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 4 (636–691, length 56) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 5 (693–887, length 195) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 6 (889–897, length 9) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 7 (899–909, length 11) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 8 (911–955, length 45) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 9 (957–971, length 15) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 10 (973–1009, length 37) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 9 (957–971, length 15) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 10 (973–1009, length 37) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=4)
+Columns with '#' inserted: [82, 475, 557, 635, 692, 888, 898, 910, 956, 972]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1010
+No. pound sign columns (#): 10
+Total no. nucleotides (A/C/G/T): 13058 bp
+Total no. gaps (-): 810
+Total no. IUPAC N: 8
+Total no. missing values (?): 702
+
+--- Run time ---
+Wall-clock time: 0.04558492 seconds
+CPU time: 0.04505600 seconds

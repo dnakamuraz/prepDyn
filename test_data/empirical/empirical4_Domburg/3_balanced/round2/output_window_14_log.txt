@@ -1,0 +1,46 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round2/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=2)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 11367 bp
+Total no. gaps (-): 2614
+Total no. IUPAC N: 19
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 965, 966]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 75
+Total '-' characters in fully missing partitions: 1945
+Combined total: 2020
+
+I9_22142: partition 1 (599–688, length 90) fully missing (all '-')
+I9_22142: partition 2 (690–896, length 207) fully missing (all '-')
+I9_22142: partition 3 (898–966, length 69) fully missing (all '-')
+I8_21744: partition 1 (599–688, length 90) fully missing (all '-')
+I8_21744: partition 2 (690–896, length 207) fully missing (all '-')
+I15_21753: partition 1 (599–688, length 90) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 0 (0–597, length 598) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 1 (599–688, length 90) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 2 (690–896, length 207) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 1 (599–688, length 90) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 2 (690–896, length 207) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=2)
+Columns with '#' inserted: [598, 689, 897]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 967
+No. pound sign columns (#): 3
+Total no. nucleotides (A/C/G/T): 11328 bp
+Total no. gaps (-): 2074
+Total no. IUPAC N: 19
+Total no. missing values (?): 2020
+
+--- Run time ---
+Wall-clock time: 0.07030416 seconds
+CPU time: 0.06876000 seconds

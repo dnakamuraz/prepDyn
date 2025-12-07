@@ -1,0 +1,49 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round5/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=5)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12981 bp
+Total no. gaps (-): 973
+Total no. IUPAC N: 46
+
+--- Step 2: Trimming (invariant columns) ---
+[997, 998, 999]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 291
+Total '-' characters in fully missing partitions: 599
+Combined total: 890
+
+I3_Zeidae_Zenopsis_conchifera_13628: partition 0 (0–6, length 7) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 1 (8–28, length 21) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 2 (30–77, length 48) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 3 (79–138, length 60) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 4 (140–195, length 56) fully missing (all '-')
+I9_22142: partition 3 (79–138, length 60) fully missing (all '-')
+I9_22142: partition 4 (140–195, length 56) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 4 (140–195, length 56) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 6 (768–788, length 21) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 7 (790–803, length 14) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 8 (805–836, length 32) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 9 (838–873, length 36) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 10 (875–886, length 12) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 11 (888–1007, length 120) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=5)
+Columns with '#' inserted: [7, 29, 78, 139, 196, 767, 789, 804, 837, 874, 887]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1008
+No. pound sign columns (#): 11
+Total no. nucleotides (A/C/G/T): 12942 bp
+Total no. gaps (-): 679
+Total no. IUPAC N: 46
+Total no. missing values (?): 890
+
+--- Run time ---
+Wall-clock time: 0.05111098 seconds
+CPU time: 0.05056500 seconds

@@ -1,0 +1,63 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing/', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/6_max/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='max', partitioning_round=0)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12802 bp
+Total no. gaps (-): 1172
+Total no. IUPAC N: 26
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 2, 995, 996]
+
+--- Step 2: Trimming (orphan nucleotides) ---
+I8_21744: Left block 0-17 deleted ('TGGCGCTGGAGTCCGGC')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: Left block 0-17 deleted ('TGGAGCTGAAGTCCGGC')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: Left block 0-17 deleted ('TGGAGCTGAAGTCTGGC')
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 0
+Total '-' characters in fully missing partitions: 716
+Combined total: 716
+
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 5 (136–156, length 21) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 8 (484–504, length 21) fully missing (all '-')
+I8_21744: partition 0 (0–13, length 14) fully missing (all '-')
+I8_21744: partition 1 (15–39, length 25) fully missing (all '-')
+I8_21744: partition 12 (650–678, length 29) fully missing (all '-')
+I8_21744: partition 13 (680–763, length 84) fully missing (all '-')
+I15_21753: partition 10 (569–584, length 16) fully missing (all '-')
+I15_21753: partition 11 (586–648, length 63) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 0 (0–13, length 14) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 1 (15–39, length 25) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 2 (41–64, length 24) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 3 (66–97, length 32) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 0 (0–13, length 14) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 11 (586–648, length 63) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 12 (650–678, length 29) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 0 (0–13, length 14) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 1 (15–39, length 25) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 2 (41–64, length 24) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 7 (466–482, length 17) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 8 (484–504, length 21) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 9 (506–567, length 62) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 10 (569–584, length 16) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 11 (586–648, length 63) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: max (inserted at '?' block boundaries)
+Columns with '#' inserted: [14, 40, 65, 98, 135, 157, 465, 483, 505, 568, 585, 649, 679, 764]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1006
+No. pound sign columns (#): 14
+Total no. nucleotides (A/C/G/T): 12693 bp
+Total no. gaps (-): 1169
+Total no. IUPAC N: 26
+Total no. missing values (?): 716
+
+--- Run time ---
+Wall-clock time: 0.05549407 seconds
+CPU time: 0.05504000 seconds

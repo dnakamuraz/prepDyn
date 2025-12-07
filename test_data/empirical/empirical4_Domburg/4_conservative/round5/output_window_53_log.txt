@@ -1,0 +1,65 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round5/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=5)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13066 bp
+Total no. gaps (-): 902
+Total no. IUPAC N: 32
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 995, 996, 997, 998, 999]
+
+--- Step 2: Trimming (orphan nucleotides) ---
+I15_21753: Right block 982-1000 deleted ('TTGCACNAGACCCGANAT')
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 225
+Total '-' characters in fully missing partitions: 636
+Combined total: 861
+
+I8_21744: partition 31 (881–886, length 6) fully missing (all '-')
+I8_21744: partition 32 (888–902, length 15) fully missing (all '-')
+I8_21744: partition 33 (904–912, length 9) fully missing (all '-')
+I8_21744: partition 34 (914–938, length 25) fully missing (all '-')
+I8_21744: partition 35 (940–948, length 9) fully missing (all '-')
+I8_21744: partition 36 (950–1029, length 80) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 13 (380–434, length 55) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 26 (794–813, length 20) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 27 (815–825, length 11) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 28 (827–841, length 15) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 29 (843–869, length 27) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 30 (871–879, length 9) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 31 (881–886, length 6) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 32 (888–902, length 15) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 33 (904–912, length 9) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 34 (914–938, length 25) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 35 (940–948, length 9) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 2 (51–92, length 42) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 3 (94–195, length 102) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 4 (197–203, length 7) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 5 (205–230, length 26) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 6 (232–249, length 18) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 7 (251–271, length 21) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 8 (273–285, length 13) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 9 (287–333, length 47) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 10 (335–343, length 9) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 11 (345–350, length 6) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=5)
+Columns with '#' inserted: [43, 50, 93, 196, 204, 231, 250, 272, 286, 334, 344, 351, 379, 435, 504, 518, 531, 543, 556, 566, 591, 604, 639, 678, 688, 793, 814, 826, 842, 870, 880, 887, 903, 913, 939, 949]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1030
+No. pound sign columns (#): 36
+Total no. nucleotides (A/C/G/T): 12976 bp
+Total no. gaps (-): 685
+Total no. IUPAC N: 30
+Total no. missing values (?): 861
+
+--- Run time ---
+Wall-clock time: 0.05820608 seconds
+CPU time: 0.05768000 seconds

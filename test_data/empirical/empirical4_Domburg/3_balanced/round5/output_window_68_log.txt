@@ -1,0 +1,53 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round5/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=5)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12843 bp
+Total no. gaps (-): 1100
+Total no. IUPAC N: 57
+
+--- Step 2: Trimming (invariant columns) ---
+[0]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 125
+Total '-' characters in fully missing partitions: 899
+Combined total: 1024
+
+I9_22142: partition 4 (251–290, length 40) fully missing (all '-')
+I9_22142: partition 7 (720–725, length 6) fully missing (all '-')
+I9_22142: partition 8 (727–813, length 87) fully missing (all '-')
+I9_22142: partition 9 (815–846, length 32) fully missing (all '-')
+I8_21744: partition 9 (815–846, length 32) fully missing (all '-')
+I8_21744: partition 10 (848–912, length 65) fully missing (all '-')
+I15_21753: partition 2 (131–197, length 67) fully missing (all '-')
+I15_21753: partition 3 (199–249, length 51) fully missing (all '-')
+I15_21753: partition 8 (727–813, length 87) fully missing (all '-')
+I15_21753: partition 9 (815–846, length 32) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 3 (199–249, length 51) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 4 (251–290, length 40) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 5 (292–335, length 44) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 1 (52–129, length 78) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 2 (131–197, length 67) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 3 (199–249, length 51) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 10 (848–912, length 65) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 11 (914–917, length 4) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=5)
+Columns with '#' inserted: [51, 130, 198, 250, 291, 336, 719, 726, 814, 847, 913, 918]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1008
+No. pound sign columns (#): 12
+Total no. nucleotides (A/C/G/T): 12829 bp
+Total no. gaps (-): 933
+Total no. IUPAC N: 57
+Total no. missing values (?): 1024
+
+--- Run time ---
+Wall-clock time: 0.06142402 seconds
+CPU time: 0.06029600 seconds

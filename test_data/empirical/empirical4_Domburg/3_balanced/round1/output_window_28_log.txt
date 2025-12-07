@@ -1,0 +1,41 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round1/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=1)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12208 bp
+Total no. gaps (-): 1764
+Total no. IUPAC N: 28
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 2, 3, 4]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 698
+Total '-' characters in fully missing partitions: 950
+Combined total: 1648
+
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 2 (534–635, length 102) fully missing (all '-')
+I12_Anomalopidae_Anomalops_katoptron_13820: partition 4 (875–998, length 124) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 1 (272–532, length 261) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 2 (534–635, length 102) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 3 (637–873, length 237) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 4 (875–998, length 124) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=1)
+Columns with '#' inserted: [271, 533, 636, 874]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 999
+No. pound sign columns (#): 4
+Total no. nucleotides (A/C/G/T): 12138 bp
+Total no. gaps (-): 1066
+Total no. IUPAC N: 28
+Total no. missing values (?): 1648
+
+--- Run time ---
+Wall-clock time: 0.06730008 seconds
+CPU time: 0.06525300 seconds

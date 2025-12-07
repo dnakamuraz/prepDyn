@@ -1,0 +1,57 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing/', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/6_max/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='max', partitioning_round=0)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13193 bp
+Total no. gaps (-): 784
+Total no. IUPAC N: 23
+
+--- Step 2: Trimming (invariant columns) ---
+[994, 995, 996, 997, 998, 999]
+
+--- Step 2: Trimming (orphan nucleotides) ---
+I8_21744: Right block 987-1000 deleted ('CACCCATTACCAG')
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 0
+Total '-' characters in fully missing partitions: 745
+Combined total: 745
+
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 3 (174–175, length 2) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 4 (177–232, length 56) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 7 (883–892, length 10) fully missing (all '-')
+I9_22142: partition 4 (177–232, length 56) fully missing (all '-')
+I9_22142: partition 8 (894–937, length 44) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 3 (174–175, length 2) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 4 (177–232, length 56) fully missing (all '-')
+I8_21744: partition 1 (79–126, length 48) fully missing (all '-')
+I8_21744: partition 2 (128–172, length 45) fully missing (all '-')
+I8_21744: partition 3 (174–175, length 2) fully missing (all '-')
+I8_21744: partition 4 (177–232, length 56) fully missing (all '-')
+I8_21744: partition 7 (883–892, length 10) fully missing (all '-')
+I8_21744: partition 8 (894–937, length 44) fully missing (all '-')
+I8_21744: partition 9 (939–1002, length 64) fully missing (all '-')
+I15_21753: partition 2 (128–172, length 45) fully missing (all '-')
+I15_21753: partition 3 (174–175, length 2) fully missing (all '-')
+I15_21753: partition 4 (177–232, length 56) fully missing (all '-')
+I15_21753: partition 6 (745–881, length 137) fully missing (all '-')
+I15_21753: partition 7 (883–892, length 10) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: max (inserted at '?' block boundaries)
+Columns with '#' inserted: [78, 127, 173, 176, 233, 744, 882, 893, 938]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1003
+No. pound sign columns (#): 9
+Total no. nucleotides (A/C/G/T): 13102 bp
+Total no. gaps (-): 791
+Total no. IUPAC N: 23
+Total no. missing values (?): 745
+
+--- Run time ---
+Wall-clock time: 0.07045817 seconds
+CPU time: 0.06703900 seconds

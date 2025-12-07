@@ -1,0 +1,17 @@
+log v5.2.4_TNT.log
+mxram 2048;
+taxname +90;
+nstates nogaps;
+proc v5.2.3_PHYG_Domburg_ia.tnt;
+outgroup I3_Zeidae_Zenopsis_conchifera_13628;
+hold 10000;
+xmult= level 10 chklevel 5 consense 5;
+best;
+tsave *v5.2.4_TNT_bestTrees.out;
+taxname=;
+save;
+tsave /;
+export - v5.2.4_TNT_bestTreess.nwk
+nelsen; nelsen*; tchoose{strict}; export = v5.2.4_TNT_strictConsensus.nwk 
+log /;
+quit;

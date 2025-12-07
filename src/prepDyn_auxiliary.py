@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
 
-# auxiliary.py
+# prepDyn_auxiliary.py
 # prepDyn - Copyright (C) 2025
 # Daniel Y. M. Nakamura
 # GNU General Public Licence version 3.0
 # Contact: dani_ymn@outlook.com
 
 COPYRIGHT=""""
-auxialiary.py is part of prepDyn.
+prepDyn_auxialiary.py is part of prepDyn.
 
 prepDyn - Data preprocessing for dynamic homology
 Copyright (C) 2025 - Daniel Y. M. Nakamura
@@ -75,7 +75,9 @@ import numpy as np
 import os
 import pathlib
 import re
+import shutil
 import subprocess
+import sys
 import tempfile
 from termcolor import colored
 import time
@@ -1500,6 +1502,143 @@ def detect_fully_missing_partitions(alignment):
 # INTEGRATED FUNCTIONS #
 #######################
 
+import subprocess
+import tempfile
+import re
+import os
+import shutil
+from Bio import SeqIO
+from Bio.Seq import Seq
+from Bio.SeqRecord import SeqRecord
+
+def UP2AP(input_fasta, output_fasta):
+    """
+    1. Replaces '#' with 15 'w's.
+    2. Aligns using MAFFT.
+    3. Replaces aligned 'w' blocks (contiguous or gapped) back to '#'.
+    4. Rectifies alignment: pads partitions to ensure '#' are vertically aligned.
+    5. Cleans alignment: removes columns that contain ONLY gaps (-).
+    """
+    
+    # Configuration
+    PLACEHOLDER_CHAR = 'w'
+    REPEAT_COUNT = 15
+    PLACEHOLDER_SEQ = PLACEHOLDER_CHAR * REPEAT_COUNT
+    
+    # Check if MAFFT is installed
+    if shutil.which("mafft") is None:
+        raise EnvironmentError("MAFFT not found. Please install MAFFT and ensure it is in your PATH.")
+
+    # Temp files
+    temp_input = tempfile.NamedTemporaryFile(mode='w', delete=False, suffix=".fasta")
+    temp_input_name = temp_input.name
+    temp_output = tempfile.NamedTemporaryFile(mode='w', delete=False, suffix=".fasta")
+    temp_output_name = temp_output.name
+    temp_output.close()
+
+    try:
+        # --- STEP 1: Pre-processing (Replace # with www...) ---
+        original_records = list(SeqIO.parse(input_fasta, "fasta"))
+        if not original_records:
+            raise ValueError("Input file is empty or not a valid FASTA.")
+
+        modified_records = []
+        for record in original_records:
+            seq_str = str(record.seq)
+            if "#" in seq_str:
+                seq_str = seq_str.replace("#", PLACEHOLDER_SEQ)
+            
+            new_record = SeqRecord(
+                Seq(seq_str),
+                id=record.id,
+                description=record.description
+            )
+            modified_records.append(new_record)
+        
+        SeqIO.write(modified_records, temp_input, "fasta")
+        temp_input.close()
+
+        # --- STEP 2: Alignment (Run MAFFT) ---
+        cmd = ["mafft", "--auto", "--quiet", temp_input_name]
+        with open(temp_output_name, "w") as out_handle:
+            process = subprocess.run(cmd, stdout=out_handle, stderr=subprocess.PIPE, text=True)
+            
+        if process.returncode != 0:
+            raise RuntimeError(f"MAFFT failed: {process.stderr}")
+
+        # --- STEP 3: Restore '#' (Regex substitution) ---
+        # Matches 'w' followed by exactly 14 instances of (optional hyphens + 'w')
+        pattern = re.compile(f"{PLACEHOLDER_CHAR}(?:-*{PLACEHOLDER_CHAR}){{{REPEAT_COUNT - 1}}}", re.IGNORECASE)
+
+        aligned_records = list(SeqIO.parse(temp_output_name, "fasta"))
+        restored_seqs = []
+        
+        for record in aligned_records:
+            seq_str = str(record.seq)
+            new_seq_str = pattern.sub("#", seq_str)
+            restored_seqs.append(new_seq_str)
+
+        # --- STEP 4: Rectify Alignment (Force Perfect Columns for #) ---
+        split_seqs = [s.split('#') for s in restored_seqs]
+        
+        # Check consistency
+        num_partitions = len(split_seqs[0])
+        is_consistent = all(len(parts) == num_partitions for parts in split_seqs)
+
+        if not is_consistent:
+            print("Warning: Mismatch in '#' count. Skipping rectification step.")
+            rectified_seqs = restored_seqs
+        else:
+            # Transpose to iterate by partition group
+            columns = zip(*split_seqs)
+            normalized_columns = []
+            
+            for col_group in columns:
+                # Pad to max length in this partition
+                max_len = max(len(segment) for segment in col_group)
+                padded_group = [segment.ljust(max_len, '-') for segment in col_group]
+                normalized_columns.append(padded_group)
+            
+            # Transpose back and join
+            rectified_seqs = ["#".join(parts) for parts in zip(*normalized_columns)]
+
+        # --- STEP 5: Remove Invariant Gap Columns ---
+        # rectified_seqs is a list of strings of equal length.
+        # zip(*rectified_seqs) creates a tuple for every column in the alignment.
+        
+        if not rectified_seqs:
+            final_seq_strs = []
+        else:
+            # Keep the column ONLY IF it is not composed entirely of '-'
+            valid_columns = [col for col in zip(*rectified_seqs) if not all(c == '-' for c in col)]
+            
+            # zip(*valid_columns) transposes back to rows (sequences)
+            if valid_columns:
+                final_seq_strs = ["".join(row) for row in zip(*valid_columns)]
+            else:
+                # In the rare case that the entire alignment is gaps
+                final_seq_strs = [""] * len(rectified_seqs)
+
+        # --- STEP 6: Write Output ---
+        final_records = []
+        for i, record in enumerate(aligned_records):
+            final_record = SeqRecord(
+                Seq(final_seq_strs[i]),
+                id=record.id,
+                description=record.description
+            )
+            final_records.append(final_record)
+
+        SeqIO.write(final_records, output_fasta, "fasta")
+        print(f"Process complete. {len(final_records)} sequences processed.")
+        print(f"Output saved to: {output_fasta}")
+
+    finally:
+        if os.path.exists(temp_input_name):
+            os.remove(temp_input_name)
+        if os.path.exists(temp_output_name):
+            os.remove(temp_output_name)
+
 def GB2MSA(input_file, 
            output_prefix, 
            delimiter=',', 
@@ -1988,7 +2127,7 @@ def addSeq(
             os.remove(file)
         except Exception:
             pass
-    
+
 def prepDyn(input_file=None,
             GB_input=None,
             input_format="fasta",

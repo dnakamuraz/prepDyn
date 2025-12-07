@@ -1,0 +1,45 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round1/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=1)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 11869 bp
+Total no. gaps (-): 2108
+Total no. IUPAC N: 23
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 2, 3, 4, 5]
+
+--- Step 2: Trimming (orphan nucleotides) ---
+I7_Rondeletiidae_Rondoletia_loricata_13730: Right block 997-1000 deleted ('ATA')
+I1_Atherinopsidae_Menidia_menidia_17777: Right block 997-1000 deleted ('ATC')
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 387
+Total '-' characters in fully missing partitions: 1461
+Combined total: 1848
+
+I15_21753: partition 1 (194–471, length 278) fully missing (all '-')
+I15_21753: partition 3 (808–996, length 189) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 0 (0–192, length 193) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 1 (194–471, length 278) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 2 (473–806, length 334) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 3 (808–996, length 189) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=1)
+Columns with '#' inserted: [193, 472, 807]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 997
+No. pound sign columns (#): 3
+Total no. nucleotides (A/C/G/T): 11785 bp
+Total no. gaps (-): 1721
+Total no. IUPAC N: 23
+Total no. missing values (?): 1848
+
+--- Run time ---
+Wall-clock time: 0.06938601 seconds
+CPU time: 0.06871700 seconds

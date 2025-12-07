@@ -1,0 +1,50 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round5/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=5)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12879 bp
+Total no. gaps (-): 1092
+Total no. IUPAC N: 29
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 999]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 348
+Total '-' characters in fully missing partitions: 506
+Combined total: 854
+
+I9_22142: partition 5 (160–215, length 56) fully missing (all '-')
+I9_22142: partition 6 (217–245, length 29) fully missing (all '-')
+I9_22142: partition 7 (247–305, length 59) fully missing (all '-')
+I9_22142: partition 8 (307–322, length 16) fully missing (all '-')
+I9_22142: partition 9 (324–385, length 62) fully missing (all '-')
+I9_22142: partition 10 (387–419, length 33) fully missing (all '-')
+I9_22142: partition 11 (421–447, length 27) fully missing (all '-')
+I8_21744: partition 10 (387–419, length 33) fully missing (all '-')
+I8_21744: partition 11 (421–447, length 27) fully missing (all '-')
+I8_21744: partition 16 (953–1001, length 49) fully missing (all '-')
+I8_21744: partition 17 (1003–1013, length 11) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 16 (953–1001, length 49) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 17 (1003–1013, length 11) fully missing (all '-')
+I13_Trachichthyidae_Aulotrachichthys_sajademalensis_14534: partition 10 (387–419, length 33) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 17 (1003–1013, length 11) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=5)
+Columns with '#' inserted: [11, 42, 75, 142, 159, 216, 246, 306, 323, 386, 420, 448, 641, 688, 711, 952, 1002]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1014
+No. pound sign columns (#): 17
+Total no. nucleotides (A/C/G/T): 12840 bp
+Total no. gaps (-): 741
+Total no. IUPAC N: 29
+Total no. missing values (?): 854
+
+--- Run time ---
+Wall-clock time: 0.04426718 seconds
+CPU time: 0.04407200 seconds

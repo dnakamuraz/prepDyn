@@ -1,0 +1,54 @@
+#!/usr/bin/sh
+
+# ACE
+
+###########
+# PBS VAR #
+###########
+
+#PBS -V
+#PBS -N v3.6.4_TNT
+#PBS -e v3.6.4_TNT.e
+#PBS -o v3.6.4_TNT.o
+#PBS -r n
+#PBS -q workq
+##PBS -l <free|pack|scatter|vscatter>
+#PBS -l place=scatter
+##PBS -l select=<1-12>:ncpus=<1-64>:mpiprocs=<1-64>:mem=<gb>:host=<no1-no12>
+## REMEMBER TNT ONLY RUNS IN SERIAL ##
+#PBS -l select=1:ncpus=1
+#PBS -l walltime=100:00:00
+# FABRIC=<shm|sock|ssm|rdma|rdssm>
+FABRIC=rdma
+NODES=$[ `uniq ${PBS_NODEFILE} | wc -l` ]
+cd ${PBS_O_WORKDIR}
+
+###########
+# MODULES #
+###########
+
+module load tnt/1.5_Linux64bit_NoTax_Limit
+module list
+
+###########
+# MY LOGS #
+###########
+
+START_TIME=`date +%s`
+qstat -f ${PBS_JOBID} > ${PBS_JOBNAME}_${PBS_JOBID}.job
+printf "This job ran on ${NODES} nodes.\n"
+
+###########
+# COMMAND #
+###########
+
+tnt proc v3.6.4_script.tnt
+
+###########
+# THE END #
+###########
+
+END_TIME=`date +%s`
+ELAPSED_TIME=$(( ${END_TIME} - ${START_TIME} ))
+printf "This job took ${ELAPSED_TIME} seconds to run.\n"
+

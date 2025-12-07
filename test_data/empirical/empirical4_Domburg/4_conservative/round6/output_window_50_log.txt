@@ -1,0 +1,76 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 11114 bp
+Total no. gaps (-): 2826
+Total no. IUPAC N: 60
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 2, 3, 4, 5, 6, 998, 999]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 1162
+Total '-' characters in fully missing partitions: 1565
+Combined total: 2727
+
+I3_Zeidae_Zenopsis_conchifera_13628: partition 0 (0–43, length 44) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 1 (45–65, length 21) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 2 (67–80, length 14) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 3 (82–102, length 21) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 4 (104–118, length 15) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 5 (120–161, length 42) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 6 (163–177, length 15) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 0 (0–43, length 44) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 1 (45–65, length 21) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 2 (67–80, length 14) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 3 (82–102, length 21) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 4 (104–118, length 15) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 5 (120–161, length 42) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 6 (163–177, length 15) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 7 (179–310, length 132) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 11 (738–762, length 25) fully missing (all '-')
+I4_Percopsidae_Percopsis_omiscomycus_11163: partition 12 (764–788, length 25) fully missing (all '-')
+I9_22142: partition 0 (0–43, length 44) fully missing (all '-')
+I9_22142: partition 1 (45–65, length 21) fully missing (all '-')
+I9_22142: partition 2 (67–80, length 14) fully missing (all '-')
+I9_22142: partition 3 (82–102, length 21) fully missing (all '-')
+I9_22142: partition 4 (104–118, length 15) fully missing (all '-')
+I9_22142: partition 5 (120–161, length 42) fully missing (all '-')
+I9_22142: partition 6 (163–177, length 15) fully missing (all '-')
+I15_21753: partition 11 (738–762, length 25) fully missing (all '-')
+I15_21753: partition 12 (764–788, length 25) fully missing (all '-')
+I11_Monocentridae_Monocentrus_reidi_22123: partition 12 (764–788, length 25) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 0 (0–43, length 44) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 1 (45–65, length 21) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 2 (67–80, length 14) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 3 (82–102, length 21) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 4 (104–118, length 15) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 5 (120–161, length 42) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 6 (163–177, length 15) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 7 (179–310, length 132) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 8 (312–440, length 129) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 9 (442–561, length 120) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 10 (563–736, length 174) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 11 (738–762, length 25) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 12 (764–788, length 25) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 6 (163–177, length 15) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=6)
+Columns with '#' inserted: [44, 66, 81, 103, 119, 162, 178, 311, 441, 562, 737, 763, 789]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1004
+No. pound sign columns (#): 13
+Total no. nucleotides (A/C/G/T): 11018 bp
+Total no. gaps (-): 1634
+Total no. IUPAC N: 60
+Total no. missing values (?): 2727
+
+--- Run time ---
+Wall-clock time: 0.05152822 seconds
+CPU time: 0.05113100 seconds

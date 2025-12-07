@@ -1,0 +1,84 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round5/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=5)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12428 bp
+Total no. gaps (-): 1525
+Total no. IUPAC N: 47
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 2]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 505
+Total '-' characters in fully missing partitions: 864
+Combined total: 1369
+
+I9_22142: partition 18 (409–414, length 6) fully missing (all '-')
+I9_22142: partition 19 (416–457, length 42) fully missing (all '-')
+I9_22142: partition 20 (459–488, length 30) fully missing (all '-')
+I9_22142: partition 21 (490–499, length 10) fully missing (all '-')
+I9_22142: partition 22 (501–532, length 32) fully missing (all '-')
+I9_22142: partition 23 (534–554, length 21) fully missing (all '-')
+I9_22142: partition 24 (556–564, length 9) fully missing (all '-')
+I9_22142: partition 25 (566–604, length 39) fully missing (all '-')
+I9_22142: partition 26 (606–615, length 10) fully missing (all '-')
+I9_22142: partition 27 (617–624, length 8) fully missing (all '-')
+I12_Anomalopidae_Anomalops_katoptron_13820: partition 15 (295–303, length 9) fully missing (all '-')
+I12_Anomalopidae_Anomalops_katoptron_13820: partition 16 (305–316, length 12) fully missing (all '-')
+I11_Monocentridae_Monocentrus_reidi_22123: partition 13 (251–277, length 27) fully missing (all '-')
+I11_Monocentridae_Monocentrus_reidi_22123: partition 14 (279–293, length 15) fully missing (all '-')
+I11_Monocentridae_Monocentrus_reidi_22123: partition 15 (295–303, length 9) fully missing (all '-')
+I11_Monocentridae_Monocentrus_reidi_22123: partition 16 (305–316, length 12) fully missing (all '-')
+I13_Trachichthyidae_Aulotrachichthys_sajademalensis_14534: partition 13 (251–277, length 27) fully missing (all '-')
+I13_Trachichthyidae_Aulotrachichthys_sajademalensis_14534: partition 14 (279–293, length 15) fully missing (all '-')
+I13_Trachichthyidae_Aulotrachichthys_sajademalensis_14534: partition 15 (295–303, length 9) fully missing (all '-')
+I13_Trachichthyidae_Aulotrachichthys_sajademalensis_14534: partition 16 (305–316, length 12) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 18 (409–414, length 6) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 19 (416–457, length 42) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 20 (459–488, length 30) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 21 (490–499, length 10) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 22 (501–532, length 32) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 40 (963–973, length 11) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 41 (975–1001, length 27) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 42 (1003–1008, length 6) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 43 (1010–1017, length 8) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 44 (1019–1034, length 16) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 15 (295–303, length 9) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 16 (305–316, length 12) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 0 (0–6, length 7) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 1 (8–43, length 36) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 2 (45–56, length 12) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 3 (58–69, length 12) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 4 (71–76, length 6) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 5 (78–83, length 6) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 6 (85–93, length 9) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 7 (95–118, length 24) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 8 (120–140, length 21) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 9 (142–150, length 9) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 10 (152–172, length 21) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 11 (174–185, length 12) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 12 (187–249, length 63) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 13 (251–277, length 27) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 14 (279–293, length 15) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 15 (295–303, length 9) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 16 (305–316, length 12) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=5)
+Columns with '#' inserted: [7, 44, 57, 70, 77, 84, 94, 119, 141, 151, 173, 186, 250, 278, 294, 304, 317, 408, 415, 458, 489, 500, 533, 555, 565, 605, 616, 625, 668, 678, 709, 717, 732, 742, 752, 859, 913, 920, 939, 962, 974, 1002, 1009, 1018]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1035
+No. pound sign columns (#): 44
+Total no. nucleotides (A/C/G/T): 12389 bp
+Total no. gaps (-): 933
+Total no. IUPAC N: 47
+Total no. missing values (?): 1369
+
+--- Run time ---
+Wall-clock time: 0.05381703 seconds
+CPU time: 0.05276800 seconds

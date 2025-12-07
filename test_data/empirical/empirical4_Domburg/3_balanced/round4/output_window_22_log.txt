@@ -1,0 +1,50 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round4/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=4)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12426 bp
+Total no. gaps (-): 1556
+Total no. IUPAC N: 18
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 978]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 22
+Total '-' characters in fully missing partitions: 1161
+Combined total: 1183
+
+I9_22142: partition 0 (0–39, length 40) fully missing (all '-')
+I9_22142: partition 1 (41–45, length 5) fully missing (all '-')
+I9_22142: partition 2 (47–566, length 520) fully missing (all '-')
+I9_22142: partition 3 (568–591, length 24) fully missing (all '-')
+I9_22142: partition 4 (593–859, length 267) fully missing (all '-')
+I8_21744: partition 0 (0–39, length 40) fully missing (all '-')
+I8_21744: partition 3 (568–591, length 24) fully missing (all '-')
+I8_21744: partition 5 (861–896, length 36) fully missing (all '-')
+I8_21744: partition 6 (898–901, length 4) fully missing (all '-')
+I8_21744: partition 7 (903–982, length 80) fully missing (all '-')
+I15_21753: partition 0 (0–39, length 40) fully missing (all '-')
+I15_21753: partition 1 (41–45, length 5) fully missing (all '-')
+I15_21753: partition 5 (861–896, length 36) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 5 (861–896, length 36) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 6 (898–901, length 4) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=4)
+Columns with '#' inserted: [40, 46, 567, 592, 860, 897, 902]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 983
+No. pound sign columns (#): 7
+Total no. nucleotides (A/C/G/T): 12391 bp
+Total no. gaps (-): 1233
+Total no. IUPAC N: 18
+Total no. missing values (?): 1183
+
+--- Run time ---
+Wall-clock time: 0.07356429 seconds
+CPU time: 0.07281200 seconds

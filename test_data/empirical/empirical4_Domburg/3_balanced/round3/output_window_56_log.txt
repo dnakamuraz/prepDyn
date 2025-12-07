@@ -1,0 +1,42 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round3/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=3)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12994 bp
+Total no. gaps (-): 904
+Total no. IUPAC N: 102
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 998, 999]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 251
+Total '-' characters in fully missing partitions: 490
+Combined total: 741
+
+I3_Zeidae_Zenopsis_conchifera_13628: partition 5 (478–598, length 121) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 6 (600–605, length 6) fully missing (all '-')
+I3_Zeidae_Zenopsis_conchifera_13628: partition 7 (607–726, length 120) fully missing (all '-')
+I9_22142: partition 0 (0–46, length 47) fully missing (all '-')
+I9_22142: partition 4 (308–476, length 169) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 2 (174–194, length 21) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 6 (600–605, length 6) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=3)
+Columns with '#' inserted: [47, 173, 195, 307, 477, 599, 606, 727]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1005
+No. pound sign columns (#): 8
+Total no. nucleotides (A/C/G/T): 12953 bp
+Total no. gaps (-): 652
+Total no. IUPAC N: 102
+Total no. missing values (?): 741
+
+--- Run time ---
+Wall-clock time: 0.07779408 seconds
+CPU time: 0.07423100 seconds

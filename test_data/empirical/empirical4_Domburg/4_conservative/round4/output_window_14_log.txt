@@ -1,0 +1,41 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round4/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=4)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 11367 bp
+Total no. gaps (-): 2614
+Total no. IUPAC N: 19
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 965, 966]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 1473
+Total '-' characters in fully missing partitions: 547
+Combined total: 2020
+
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 0 (0–127, length 128) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 1 (129–170, length 42) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 2 (172–224, length 53) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 3 (226–249, length 24) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 4 (251–469, length 219) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 5 (471–551, length 81) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=4)
+Columns with '#' inserted: [128, 171, 225, 250, 470, 552]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 970
+No. pound sign columns (#): 6
+Total no. nucleotides (A/C/G/T): 11328 bp
+Total no. gaps (-): 676
+Total no. IUPAC N: 19
+Total no. missing values (?): 2020
+
+--- Run time ---
+Wall-clock time: 0.06633902 seconds
+CPU time: 0.06519200 seconds

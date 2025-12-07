@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
 
-# auxiliary.py
+# GB2MSA.py
 # prepDyn - Copyright (C) 2025
 # Daniel Y. M. Nakamura
 # GNU General Public Licence version 3.0

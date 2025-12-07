@@ -1,0 +1,29 @@
+set (seed:73412305)
+
+
+--LOAD DATA
+read ("*.fasta")
+
+-- REPORT LOADED DATA
+report ("v6.3_PHYG_Domburg_crossref.csv", crossrefs, overwrite)
+report ("v6.3_PHYG_Domburg.data", data, overwrite)
+
+--LOAD INITIAL TREES
+read ("v6.1_POY_Domburg.trees.txt")
+
+--SEARCH SETTINGS
+set (partitioncharacter:#)
+set (criterion:parsimony)
+set (graphtype:tree)
+set (outgroup: I3_Zeidae_Zenopsis_conchifera_13628)
+search (hours:12, thompson:2, instances:5, exponential)
+
+--REPORT RESULTS
+report ("v6.3_PHYG_Domburg_stats.txt", search)
+report ("v6.3_PHYG_Domburg_searchTrees.txt", graphs, newick, nohtulabels)
+
+select (unique)
+select (best)
+report ("v6.3_PHYG_Domburg_bestUnique.nwk", graphs, newick, nohtulabels)
+report ("v6.3_PHYG_Domburg_ia.tnt", tnt, concatenate, overwrite)
+report ("v6.3_PHYG_Domburg_bestConsensus.nwk", newick, reconcile, method:strict)

@@ -1,0 +1,73 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13066 bp
+Total no. gaps (-): 902
+Total no. IUPAC N: 32
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 995, 996, 997, 998, 999]
+
+--- Step 2: Trimming (orphan nucleotides) ---
+I15_21753: Right block 982-1000 deleted ('TTGCACNAGACCCGANAT')
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 156
+Total '-' characters in fully missing partitions: 705
+Combined total: 861
+
+I8_21744: partition 37 (887–892, length 6) fully missing (all '-')
+I8_21744: partition 38 (894–908, length 15) fully missing (all '-')
+I8_21744: partition 39 (910–918, length 9) fully missing (all '-')
+I8_21744: partition 40 (920–944, length 25) fully missing (all '-')
+I8_21744: partition 41 (946–954, length 9) fully missing (all '-')
+I8_21744: partition 42 (956–1002, length 47) fully missing (all '-')
+I8_21744: partition 43 (1004–1036, length 33) fully missing (all '-')
+I15_21753: partition 43 (1004–1036, length 33) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 17 (384–425, length 42) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 18 (427–439, length 13) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 31 (763–798, length 36) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 32 (800–819, length 20) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 33 (821–831, length 11) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 34 (833–847, length 15) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 35 (849–875, length 27) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 36 (877–885, length 9) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 37 (887–892, length 6) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 38 (894–908, length 15) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 39 (910–918, length 9) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 40 (920–944, length 25) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 41 (946–954, length 9) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 2 (51–92, length 42) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 3 (94–117, length 24) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 4 (119–139, length 21) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 5 (141–197, length 57) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 6 (199–205, length 7) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 7 (207–232, length 26) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 8 (234–242, length 9) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 9 (244–252, length 9) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 10 (254–274, length 21) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 11 (276–288, length 13) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 12 (290–305, length 16) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 13 (307–337, length 31) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 14 (339–347, length 9) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 15 (349–354, length 6) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=6)
+Columns with '#' inserted: [43, 50, 93, 118, 140, 198, 206, 233, 243, 253, 275, 289, 306, 338, 348, 355, 383, 426, 440, 509, 523, 536, 548, 561, 571, 596, 609, 644, 683, 693, 762, 799, 820, 832, 848, 876, 886, 893, 909, 919, 945, 955, 1003]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1037
+No. pound sign columns (#): 43
+Total no. nucleotides (A/C/G/T): 12976 bp
+Total no. gaps (-): 754
+Total no. IUPAC N: 30
+Total no. missing values (?): 861
+
+--- Run time ---
+Wall-clock time: 0.05616999 seconds
+CPU time: 0.05582800 seconds

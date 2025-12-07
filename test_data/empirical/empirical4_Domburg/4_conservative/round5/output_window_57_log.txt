@@ -1,0 +1,37 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round5/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=5)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13704 bp
+Total no. gaps (-): 272
+Total no. IUPAC N: 24
+
+--- Step 2: Trimming (invariant columns) ---
+[]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 175
+Total '-' characters in fully missing partitions: 69
+Combined total: 244
+
+I1_Atherinopsidae_Menidia_menidia_17777: partition 4 (269–310, length 42) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 31 (1004–1030, length 27) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=5)
+Columns with '#' inserted: [115, 134, 235, 268, 311, 327, 370, 383, 417, 430, 443, 503, 514, 527, 544, 565, 578, 591, 598, 608, 623, 639, 683, 693, 700, 725, 762, 772, 833, 900, 1003]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1031
+No. pound sign columns (#): 31
+Total no. nucleotides (A/C/G/T): 13704 bp
+Total no. gaps (-): 97
+Total no. IUPAC N: 24
+Total no. missing values (?): 244
+
+--- Run time ---
+Wall-clock time: 0.04714894 seconds
+CPU time: 0.04689500 seconds

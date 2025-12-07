@@ -1,0 +1,98 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12760 bp
+Total no. gaps (-): 1223
+Total no. IUPAC N: 17
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1, 993, 994, 995, 996]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 229
+Total '-' characters in fully missing partitions: 871
+Combined total: 1100
+
+I6_Holocentridae_Myripristis_jacobus_21825: partition 18 (370–380, length 11) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 19 (382–390, length 9) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 20 (392–404, length 13) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 21 (406–414, length 9) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 22 (416–425, length 10) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 23 (427–449, length 23) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 24 (451–459, length 9) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 25 (461–466, length 6) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 26 (468–486, length 19) fully missing (all '-')
+I8_21744: partition 18 (370–380, length 11) fully missing (all '-')
+I8_21744: partition 19 (382–390, length 9) fully missing (all '-')
+I8_21744: partition 20 (392–404, length 13) fully missing (all '-')
+I8_21744: partition 21 (406–414, length 9) fully missing (all '-')
+I8_21744: partition 22 (416–425, length 10) fully missing (all '-')
+I8_21744: partition 23 (427–449, length 23) fully missing (all '-')
+I8_21744: partition 24 (451–459, length 9) fully missing (all '-')
+I8_21744: partition 25 (461–466, length 6) fully missing (all '-')
+I8_21744: partition 26 (468–486, length 19) fully missing (all '-')
+I15_21753: partition 18 (370–380, length 11) fully missing (all '-')
+I15_21753: partition 19 (382–390, length 9) fully missing (all '-')
+I15_21753: partition 20 (392–404, length 13) fully missing (all '-')
+I15_21753: partition 21 (406–414, length 9) fully missing (all '-')
+I15_21753: partition 22 (416–425, length 10) fully missing (all '-')
+I15_21753: partition 23 (427–449, length 23) fully missing (all '-')
+I15_21753: partition 24 (451–459, length 9) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 9 (133–141, length 9) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 10 (143–178, length 36) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 11 (180–201, length 22) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 12 (203–228, length 26) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 13 (230–246, length 17) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 14 (248–272, length 25) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 15 (274–318, length 45) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 16 (320–340, length 21) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 17 (342–368, length 27) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 18 (370–380, length 11) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 19 (382–390, length 9) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 20 (392–404, length 13) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 21 (406–414, length 9) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 22 (416–425, length 10) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 23 (427–449, length 23) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 24 (451–459, length 9) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 25 (461–466, length 6) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 26 (468–486, length 19) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 18 (370–380, length 11) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 19 (382–390, length 9) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 20 (392–404, length 13) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 21 (406–414, length 9) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 22 (416–425, length 10) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 23 (427–449, length 23) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 24 (451–459, length 9) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 25 (461–466, length 6) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 26 (468–486, length 19) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 18 (370–380, length 11) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 19 (382–390, length 9) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 20 (392–404, length 13) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 18 (370–380, length 11) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 19 (382–390, length 9) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 20 (392–404, length 13) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 21 (406–414, length 9) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 22 (416–425, length 10) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 23 (427–449, length 23) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 24 (451–459, length 9) fully missing (all '-')
+I5_Bovichtidae_Bovichtus_diacanthus_3477: partition 25 (461–466, length 6) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=6)
+Columns with '#' inserted: [16, 23, 30, 37, 62, 85, 94, 101, 132, 142, 179, 202, 229, 247, 273, 319, 341, 369, 381, 391, 405, 415, 426, 450, 460, 467, 487, 586, 597, 606, 626, 638, 645, 658, 671, 684, 697, 767, 792, 808, 822, 832, 845, 854, 865, 874, 884, 891, 898, 911, 940, 971, 1010]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1044
+No. pound sign columns (#): 53
+Total no. nucleotides (A/C/G/T): 12676 bp
+Total no. gaps (-): 952
+Total no. IUPAC N: 17
+Total no. missing values (?): 1100
+
+--- Run time ---
+Wall-clock time: 0.04844999 seconds
+CPU time: 0.04805900 seconds

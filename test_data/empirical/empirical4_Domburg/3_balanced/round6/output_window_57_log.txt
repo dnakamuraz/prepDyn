@@ -1,0 +1,43 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13704 bp
+Total no. gaps (-): 272
+Total no. IUPAC N: 24
+
+--- Step 2: Trimming (invariant columns) ---
+[]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 0
+Total '-' characters in fully missing partitions: 244
+Combined total: 244
+
+I3_Zeidae_Zenopsis_conchifera_13628: partition 3 (232–255, length 24) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 2 (220–230, length 11) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 3 (232–255, length 24) fully missing (all '-')
+I8_21744: partition 1 (178–218, length 41) fully missing (all '-')
+I8_21744: partition 2 (220–230, length 11) fully missing (all '-')
+I8_21744: partition 3 (232–255, length 24) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 4 (257–318, length 62) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 6 (959–1005, length 47) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=6)
+Columns with '#' inserted: [177, 219, 231, 256, 319, 958]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1006
+No. pound sign columns (#): 6
+Total no. nucleotides (A/C/G/T): 13704 bp
+Total no. gaps (-): 272
+Total no. IUPAC N: 24
+Total no. missing values (?): 244
+
+--- Run time ---
+Wall-clock time: 0.06373906 seconds
+CPU time: 0.06096500 seconds

@@ -1,0 +1,48 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round4/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=4)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12018 bp
+Total no. gaps (-): 1963
+Total no. IUPAC N: 19
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 992, 993]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 381
+Total '-' characters in fully missing partitions: 1475
+Combined total: 1856
+
+I9_22142: partition 4 (336–530, length 195) fully missing (all '-')
+I9_22142: partition 5 (532–708, length 177) fully missing (all '-')
+I9_22142: partition 6 (710–723, length 14) fully missing (all '-')
+I9_22142: partition 7 (725–746, length 22) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 4 (336–530, length 195) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 5 (532–708, length 177) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 6 (710–723, length 14) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 7 (725–746, length 22) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 8 (748–998, length 251) fully missing (all '-')
+I8_21744: partition 4 (336–530, length 195) fully missing (all '-')
+I8_21744: partition 5 (532–708, length 177) fully missing (all '-')
+I8_21744: partition 6 (710–723, length 14) fully missing (all '-')
+I8_21744: partition 7 (725–746, length 22) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=4)
+Columns with '#' inserted: [193, 281, 315, 335, 531, 709, 724, 747]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 999
+No. pound sign columns (#): 8
+Total no. nucleotides (A/C/G/T): 11978 bp
+Total no. gaps (-): 1496
+Total no. IUPAC N: 19
+Total no. missing values (?): 1856
+
+--- Run time ---
+Wall-clock time: 0.04691815 seconds
+CPU time: 0.04624000 seconds

@@ -1,0 +1,52 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12973 bp
+Total no. gaps (-): 996
+Total no. IUPAC N: 31
+
+--- Step 2: Trimming (invariant columns) ---
+[]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 253
+Total '-' characters in fully missing partitions: 387
+Combined total: 640
+
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 36 (880–890, length 11) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 37 (892–913, length 22) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 38 (915–935, length 21) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 39 (937–953, length 17) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 40 (955–1023, length 69) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 41 (1025–1040, length 16) fully missing (all '-')
+I13_Trachichthyidae_Aulotrachichthys_sajademalensis_14534: partition 10 (256–286, length 31) fully missing (all '-')
+I13_Trachichthyidae_Aulotrachichthys_sajademalensis_14534: partition 11 (288–301, length 14) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 0 (0–3, length 4) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 1 (5–12, length 8) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 2 (14–22, length 9) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 3 (24–39, length 16) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 4 (41–49, length 9) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 5 (51–95, length 45) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 6 (97–110, length 14) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 7 (112–125, length 14) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 8 (127–193, length 67) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=6)
+Columns with '#' inserted: [4, 13, 23, 40, 50, 96, 111, 126, 194, 255, 287, 302, 319, 332, 342, 360, 367, 401, 413, 422, 438, 451, 457, 578, 598, 617, 623, 642, 655, 691, 715, 767, 774, 807, 839, 879, 891, 914, 936, 954, 1024]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1041
+No. pound sign columns (#): 41
+Total no. nucleotides (A/C/G/T): 12973 bp
+Total no. gaps (-): 743
+Total no. IUPAC N: 31
+Total no. missing values (?): 640
+
+--- Run time ---
+Wall-clock time: 0.05639100 seconds
+CPU time: 0.05575300 seconds

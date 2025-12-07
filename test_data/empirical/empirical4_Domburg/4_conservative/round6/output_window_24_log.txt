@@ -1,0 +1,68 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/4_conservative/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='conservative', partitioning_round=6)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 12548 bp
+Total no. gaps (-): 1421
+Total no. IUPAC N: 31
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 1]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 166
+Total '-' characters in fully missing partitions: 978
+Combined total: 1144
+
+I9_22142: partition 6 (122–141, length 20) fully missing (all '-')
+I9_22142: partition 7 (143–161, length 19) fully missing (all '-')
+I9_22142: partition 8 (163–168, length 6) fully missing (all '-')
+I9_22142: partition 9 (170–177, length 8) fully missing (all '-')
+I9_22142: partition 10 (179–206, length 28) fully missing (all '-')
+I9_22142: partition 11 (208–222, length 15) fully missing (all '-')
+I9_22142: partition 12 (224–229, length 6) fully missing (all '-')
+I9_22142: partition 13 (231–260, length 30) fully missing (all '-')
+I9_22142: partition 14 (262–271, length 10) fully missing (all '-')
+I9_22142: partition 15 (273–412, length 140) fully missing (all '-')
+I9_22142: partition 16 (414–419, length 6) fully missing (all '-')
+I9_22142: partition 17 (421–447, length 27) fully missing (all '-')
+I9_22142: partition 18 (449–493, length 45) fully missing (all '-')
+I8_21744: partition 16 (414–419, length 6) fully missing (all '-')
+I15_21753: partition 18 (449–493, length 45) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 18 (449–493, length 45) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 19 (495–579, length 85) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 20 (581–608, length 28) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 21 (610–618, length 9) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 22 (620–635, length 16) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 23 (637–642, length 6) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 24 (644–664, length 21) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 25 (666–697, length 32) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 26 (699–751, length 53) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 27 (753–773, length 21) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 28 (775–802, length 28) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 29 (804–813, length 10) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 30 (815–823, length 9) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 31 (825–837, length 13) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 32 (839–861, length 23) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 33 (863–886, length 24) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 34 (888–965, length 78) fully missing (all '-')
+I1_Atherinopsidae_Menidia_menidia_17777: partition 35 (967–1032, length 66) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: conservative (partitioning_round=6)
+Columns with '#' inserted: [8, 31, 43, 84, 93, 121, 142, 162, 169, 178, 207, 223, 230, 261, 272, 413, 420, 448, 494, 580, 609, 619, 636, 643, 665, 698, 752, 774, 803, 814, 824, 838, 862, 887, 966]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1033
+No. pound sign columns (#): 35
+Total no. nucleotides (A/C/G/T): 12520 bp
+Total no. gaps (-): 1255
+Total no. IUPAC N: 31
+Total no. missing values (?): 1144
+
+--- Run time ---
+Wall-clock time: 0.04894209 seconds
+CPU time: 0.04849700 seconds

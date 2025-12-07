@@ -1,0 +1,45 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round5/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=5)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13597 bp
+Total no. gaps (-): 385
+Total no. IUPAC N: 18
+
+--- Step 2: Trimming (invariant columns) ---
+[999]
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 16
+Total '-' characters in fully missing partitions: 367
+Combined total: 383
+
+I6_Holocentridae_Myripristis_jacobus_21825: partition 2 (293–313, length 21) fully missing (all '-')
+I6_Holocentridae_Myripristis_jacobus_21825: partition 3 (315–341, length 27) fully missing (all '-')
+I8_21744: partition 3 (315–341, length 27) fully missing (all '-')
+I8_21744: partition 4 (343–356, length 14) fully missing (all '-')
+I15_21753: partition 2 (293–313, length 21) fully missing (all '-')
+I15_21753: partition 3 (315–341, length 27) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 1 (272–291, length 20) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 2 (293–313, length 21) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 3 (315–341, length 27) fully missing (all '-')
+I7_Rondeletiidae_Rondoletia_loricata_13730: partition 6 (843–1004, length 162) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=5)
+Columns with '#' inserted: [271, 292, 314, 342, 357, 842]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1005
+No. pound sign columns (#): 6
+Total no. nucleotides (A/C/G/T): 13584 bp
+Total no. gaps (-): 368
+Total no. IUPAC N: 18
+Total no. missing values (?): 383
+
+--- Run time ---
+Wall-clock time: 0.14021087 seconds
+CPU time: 0.07466600 seconds

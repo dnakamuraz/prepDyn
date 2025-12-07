@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
 
-# auxiliary.py
+# addSeq.py
 # prepDyn - Copyright (C) 2025
 # Daniel Y. M. Nakamura
 # GNU General Public Licence version 3.0
@@ -110,7 +110,7 @@ def str2bool(v):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Preprocess sequences for dynamic homology in PhyG. The four steps are (1) data collection from GB, (2) trimming, (3) identification of missing data, and (4) successive partitioning.",
+        description="Align sequences to a profile alignment of dynamic characters during preprocessing.",
         formatter_class=argparse.RawTextHelpFormatter,
         epilog="""\
 Examples: python addSeq.py --alignment aln.fas --new_seqs 12s_sp_new.fas --output aln_updated.fas --write_names

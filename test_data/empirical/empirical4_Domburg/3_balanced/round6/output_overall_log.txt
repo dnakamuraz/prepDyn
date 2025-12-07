@@ -1,0 +1,8 @@
+--- Overall prepDyn Execution Summary ---
+Command used:
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round6/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=6)
+
+Total Wall-clock time: 6.63929582 seconds
+Total CPU time: 6.44939900 seconds
+
+Note: Individual gene/alignment logs provide detailed information.

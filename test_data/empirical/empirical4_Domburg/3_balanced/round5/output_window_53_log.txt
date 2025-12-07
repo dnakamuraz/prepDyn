@@ -1,0 +1,45 @@
+--- Command used ---
+prepDyn(input_file='../test_data/empirical/empirical4_Domburg/1_noPreprocessing', input_format='fasta', MSA=False, output_file='../test_data/empirical/empirical4_Domburg/3_balanced/round5/output', output_format='fasta', log=True, sequence_names=True, orphan_method='integer', orphan_threshold=20, percentile=25, del_inv=True, internal_method='semi', internal_leaves='all', internal_threshold=20, partitioning_method='balanced', partitioning_round=5)
+
+--- Step 1: Summary before preprocessing ---
+No. sequences: 14
+No. columns: 1000
+Total no. nucleotides (A/C/G/T only): 13066 bp
+Total no. gaps (-): 902
+Total no. IUPAC N: 32
+
+--- Step 2: Trimming (invariant columns) ---
+[0, 995, 996, 997, 998, 999]
+
+--- Step 2: Trimming (orphan nucleotides) ---
+I15_21753: Right block 982-1000 deleted ('TTGCACNAGACCCGANAT')
+
+--- Step 3: Missing data identification (gaps replaced with '?') ---
+Total '?' characters: 14
+Total '-' characters in fully missing partitions: 847
+Combined total: 861
+
+I8_21744: partition 5 (853–945, length 93) fully missing (all '-')
+I8_21744: partition 6 (947–999, length 53) fully missing (all '-')
+I15_21753: partition 6 (947–999, length 53) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 2 (363–474, length 112) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 4 (721–851, length 131) fully missing (all '-')
+I14_Anoplogasteridae_Anoplogaster_cornuta_14555: partition 5 (853–945, length 93) fully missing (all '-')
+I10_Berycidae_Breyx_decadactylus_13625: partition 1 (50–361, length 312) fully missing (all '-')
+
+--- Step 4: Partitioning ---
+Method used: balanced (partitioning_round=5)
+Columns with '#' inserted: [49, 362, 475, 720, 852, 946]
+
+--- Summary after preprocessing ---
+No. sequences: 14
+No. columns: 1000
+No. pound sign columns (#): 6
+Total no. nucleotides (A/C/G/T): 12976 bp
+Total no. gaps (-): 896
+Total no. IUPAC N: 30
+Total no. missing values (?): 861
+
+--- Run time ---
+Wall-clock time: 0.07240224 seconds
+CPU time: 0.07032700 seconds
