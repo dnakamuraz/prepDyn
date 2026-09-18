@@ -1257,6 +1257,13 @@ def GB2MSA_2(alignment_file):
 
     # Step 3: Remove columns with only '?' or '-' in all rows
     sequences = [list(str(record.seq)) for record in updated_records]
+    
+    if not sequences:
+        cleaned_file = alignment_file.replace(".fasta", "_GB2MSA.fasta")
+        with open(cleaned_file, "w") as out_handle:
+            pass
+        return cleaned_file
+
     if len(set(len(seq) for seq in sequences)) > 1:
         raise ValueError("Sequences are not of the same length!")
 
