@@ -188,6 +188,19 @@ Without using markers:
 </details>
 
 <details>
+<summary>Which partitioning strategies are available?</summary>
+
+Balanced: Inserts pound signs (`#`) around the *n* largest blocks of missing data and then merge two adjacent blocks when smaller than the n-largest block. The value of *n* is defined using the `-pr` (`partitioning_round`) parameter.
+
+Conservative: Given blocks of contiguous invariants sorted by length, partitions the *n*-largest block(s). The value of *n* is defined using the `-pr` (`partitioning_round`) parameter. Pound signs can be inserted in the middle or flanking the blocks.
+
+Equal-length: Inserts pound signs (`#`) to divide the alignment into equal-length partitions. The size is defined using `-ps` (`partitioning_size`) or the round using `-pr` (`partitioning_round`).
+
+Maximum: Inserts pound signs (`#`) columns around all blocks of contiguous missing data (i.e., before and after every instance of `?` opening/closure).
+
+</details>
+
+<details>
 <summary>What is the best partitioning strategy?</summary>
 
 The best partitioning strategy is dataset-dependent and the user must test it empirically. Empirical analyses indicate that conservative, equal-length, and maximum partitioning perform better.
