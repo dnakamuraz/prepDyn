@@ -2072,7 +2072,7 @@ def classify_and_insert_hashtags(alignment,
             end_idx = start_idx + block['length'] - 1
 
             if partitioning_conservative == "midpoint":
-                hashtag_positions.append((start_idx + end_idx) // 2)
+                hashtag_positions.append(start_idx + block['length'] // 2)
             else:
                 hashtag_positions.extend([start_idx, end_idx + 1])
 

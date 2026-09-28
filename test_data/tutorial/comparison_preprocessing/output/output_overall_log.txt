@@ -1,11 +1,11 @@
 --- Overall prepDyn Batch Execution Summary ---
 Command used:
-prepDyn(input_file='test_data/tutorial/comparison_preprocessing/seqs.fas', input_format='fasta', MSA=True, aligner='mafft', output_file='output', output_format='fasta', log=True, sequence_names=True, orphan_threshold=10, orphan_action='trim', percentile=25.0, del_inv=False, multi_amplicon_min_overlap=10, multi_amplicon_mismatch_rate=0.05, multi_amplicon_action='trim', internal_column_ranges='all', internal_leaves='all', partitioning_method='all', partitioning_round='0-3', partitioning_conservative='midpoint')
+prepDyn(input_file='test_data/tutorial/comparison_preprocessing/seqs.fas', input_format='fasta', MSA=True, aligner='mafft', output_file='test_data/tutorial/comparison_preprocessing/output', output_format='fasta', log=True, sequence_names=True, orphan_threshold=10, orphan_action='trim', percentile=25.0, del_inv=False, multi_amplicon_min_overlap=10, multi_amplicon_mismatch_rate=0.05, multi_amplicon_action='trim', internal_column_ranges='all', internal_leaves='all', partitioning_method='all', partitioning_round='0-3', partitioning_conservative='flank')
 
 Partitioning methods: ['conservative', 'balanced', 'max', 'equal']
 Partitioning rounds: [0, 1, 2, 3]
 
-Total Wall-clock time: 4.88717103 seconds
-Total CPU time: 0.11997000 seconds
+Total Wall-clock time: 4.72157693 seconds
+Total CPU time: 0.11939100 seconds
 
 Note: Individual run logs provide detailed information.
