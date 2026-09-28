@@ -3472,9 +3472,11 @@ def _build_batch_output_prefix(output_file, method_name, round_value, method_bat
     run_directory = root_output
     if method_batch_active:
         run_directory = os.path.join(run_directory, str(method_name))
-        run_directory = os.path.join(run_directory, f"round_{round_value}")
+        if method_name != "max":
+            run_directory = os.path.join(run_directory, f"round_{round_value}")
     elif round_batch_active:
-        run_directory = os.path.join(run_directory, f"round_{round_value}")
+        if method_name != "max":
+            run_directory = os.path.join(run_directory, f"round_{round_value}")
 
     return os.path.join(run_directory, prefix_base)
 
@@ -3695,7 +3697,8 @@ def prepDyn(input_file=None,
                 batch_msa = False
 
             for method_name in expanded_methods:
-                for round_value in expanded_rounds:
+                current_rounds = [expanded_rounds[0]] if method_name == "max" else expanded_rounds
+                for round_value in current_rounds:
                     batch_output_prefix = _build_batch_output_prefix(
                         output_file,
                         method_name,

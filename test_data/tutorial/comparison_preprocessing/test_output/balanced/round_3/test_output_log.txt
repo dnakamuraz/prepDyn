@@ -1,5 +1,5 @@
 --- Command used ---
-prepDyn(input_file='seqs.fas', input_format='fasta', MSA=True, aligner='mafft', output_file='output/max/round_1/output', output_format='fasta', log=True, sequence_names=True, orphan_threshold=10, orphan_action='trim', percentile=25.0, del_inv=False, multi_amplicon_min_overlap=10, multi_amplicon_mismatch_rate=0.05, multi_amplicon_action='trim', internal_column_ranges='all', internal_leaves='all', partitioning_method='max', partitioning_round=1, partitioning_conservative='midpoint')
+prepDyn(input_file='seqs.fas', input_format='fasta', MSA=True, aligner='mafft', output_file='test_output/balanced/round_3/test_output', output_format='fasta', log=True, sequence_names=True, orphan_threshold=10, orphan_action='trim', percentile=25.0, del_inv=False, multi_amplicon_min_overlap=10, multi_amplicon_mismatch_rate=0.05, multi_amplicon_action='trim', internal_column_ranges='all', internal_leaves='all', partitioning_method='balanced', partitioning_round=3, partitioning_conservative='midpoint')
 
 --- Step 1: Summary before preprocessing ---
 No. sequences: 5
@@ -19,7 +19,8 @@ sp5: partition 1 (18–19, length 2) fully missing (all '-')
 sp5: partition 2 (21–22, length 2) fully missing (all '-')
 
 --- Step 4: Partitioning ---
-Method used: max (inserted at '?' block boundaries)
+Method used: balanced (partitioning_round=3)
+Size of the 3 largest block of missing data used as reference: 2
 Position of pound sign columns '#' in final output alignment: [18, 21]
 
 --- Summary after preprocessing ---
@@ -32,5 +33,5 @@ Total no. IUPAC N: 0
 Total no. missing values (?): 6
 
 --- Run time ---
-Wall-clock time: 0.56229997 seconds
-CPU time: 0.00654900 seconds
+Wall-clock time: 0.39338875 seconds
+CPU time: 0.00844200 seconds
