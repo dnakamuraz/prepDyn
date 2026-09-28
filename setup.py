@@ -8,7 +8,7 @@ README = Path(__file__).with_name("README.md").read_text(encoding="utf-8")
 
 setup(
     name="prepdyn",
-    version="0.6.0",
+    version="0.7.0",
     description="Preprocessing toolkit for dynamic homology.",
     long_description=README,
     long_description_content_type="text/markdown",
