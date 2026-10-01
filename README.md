@@ -190,7 +190,7 @@ Without using markers:
 <details>
 <summary>Which partitioning strategies are available?</summary>
 
-Balanced: Inserts pound signs (`#`) around the *n* largest blocks of missing data and then merge two adjacent blocks when smaller than the n-largest block. The value of *n* is defined using the `-pr` (`partitioning_round`) parameter.
+Balanced: Inserts pound signs (`#`) around all blocks of missing data (similar to maximum partitioning) and then merge two adjacent blocks when smaller than the n-largest block. The value of *n* is defined using the `-pr` (`partitioning_round`) parameter.
 
 Conservative: Given blocks of contiguous invariants sorted by length, partitions the *n*-largest block(s). The value of *n* is defined using the `-pr` (`partitioning_round`) parameter. Pound signs can be inserted in the middle or flanking the blocks.
 
