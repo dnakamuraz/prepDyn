@@ -115,9 +115,8 @@ A summary of parameters available in `prepDyn.py` is [here](tables/parameters.md
 
 If you use **prepDyn** in your research, cite the following publication:
 
-```
-Nakamura DYM, Grant T, Wheeler WC (2026) Preprocessing missing data and partitions for phylogenetic analysis under dynamic homology, with application to museomics and phylogenomics. Cladistics, In press, 1-18.
-```
+
+* Nakamura DYM, Grant T, Wheeler WC (2026) Preprocessing missing data and partitions for phylogenetic analysis under dynamic homology, with application to museomics and phylogenomics. Cladistics, In press, 1-18.
 
 ## Tutorial
 
