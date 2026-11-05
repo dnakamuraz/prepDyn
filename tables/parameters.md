@@ -32,7 +32,7 @@ List of parameters in prepDyn scripts. Parameters can be either specified with l
 | `partitioning_conservative` or `pc` | `str`                 | `"midpoint"`     | Placement mode for conservative partitioning: `midpoint` inserts one `#` in the middle of each selected invariant block, and `flank` inserts `#` columns around each selected invariant block. |
 | `partitioning_max_size` or `pms`    | `int`                 | `None`           | Initial maximum partition size. If set, the alignment is first split into equal-length partitions of this size, and the selected partitioning method is then applied independently within each partition. |
 | `partitioning_size` or `ps`         | `int`                 | `None`           | Size of equal-length partitions when `partitioning_method='equal'`. |
-| `keep_partitions` or `pk`           | `bool`                | `False`          | If `True`, keep existing `#` partition columns found in the input alignment and proceed with preprocessing. If `False` (default), delete any previous `#` columns before preprocessing. |
+| `keep_partitions` or `pk`           | `bool`                | `False`          | If `True`, keep existing `#` partition columns found in the input alignment and proceed with preprocessing. If `False` (default), delete any previous `#` columns before preprocessing, replacing gaps (`-`) in zero-length partitions with `?`. |
 
 ## `GB2MSA.py`
 

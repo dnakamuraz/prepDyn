@@ -2219,6 +2219,37 @@ def remove_adjacent_pound_columns(alignment):
 
     return cleaned_alignment
 
+def replace_zero_length_partitions_with_question_marks(alignment):
+    """
+    In an alignment containing '#' partition columns, identify zero-length partitions
+    (partitions for a sequence that contain only gaps '-' or '?' and no nucleotides)
+    and replace their '-' characters with '?'.
+
+    Args:
+        alignment (dict): DNA alignment {sequence_id: sequence_string}
+
+    Returns:
+        dict: Alignment with '-' replaced by '?' in zero-length partitions.
+    """
+    if not alignment:
+        return alignment
+
+    if not any('#' in seq for seq in alignment.values()):
+        return alignment
+
+    updated_alignment = {}
+    for seq_id, seq in alignment.items():
+        parts = seq.split('#')
+        new_parts = []
+        for part in parts:
+            if part and all(c in '-?' for c in part):
+                new_parts.append(part.replace('-', '?'))
+            else:
+                new_parts.append(part)
+        updated_alignment[seq_id] = '#'.join(new_parts)
+
+    return updated_alignment
+
 def remove_all_pound_columns(alignment):
     """
     Remove all '#' partition columns from the alignment.
@@ -3606,7 +3637,8 @@ def prepDyn(input_file=None,
                                          missing data.
         partitioning_size (int): Size of equal-length partitions if partitioning_method = 'equal'.
         keep_partitions (bool): If True, keep existing '#' partition columns in the input alignment.
-                                If False (default), delete any previous '#' columns before preprocessing.
+                                If False (default), delete any previous '#' columns before preprocessing,
+                                converting zero-length partitions (containing only gaps) to '?'.
 
     Returns:
         dict: The preprocessed unaligned sequences.
@@ -4041,8 +4073,10 @@ def prepDyn(input_file=None,
 
         alignment = normalize_pound_columns(alignment)
 
-        # Remove existing '#' partition columns if keep_partitions is False
+        # Remove existing '#' partition columns if keep_partitions is False;
+        # zero-length partitions (only '-' or '?' and no nucleotides) are converted to '?'
         if not keep_partitions:
+            alignment = replace_zero_length_partitions_with_question_marks(alignment)
             alignment = remove_all_pound_columns(alignment)
 
 

@@ -219,10 +219,26 @@ Yes. `partitioning_method` accepts `all`, which runs `conservative`, `balanced`,
 
 By default, **prepDyn** removes all existing `#` partition columns from the input alignment before preprocessing (`--keep_partitions False` or `-pk False`). This ensures a clean slate so that the current partitioning method and round determine the final partition placement.
 
+When `#` columns are deleted (`-pk False`), any **zero-length partitions** (partitions delimited by `#` that contain only gaps `-` or `?` and no nucleotides in a sequence) represent missing data and have their `-` characters replaced with `?` before the hashtags are removed. For example, if the input data contains:
+```
+>sp1
+atc#---#atc
+>sp2
+atc#atc#atc
+```
+After deleting the hashtags with `-pk False`, the zero-length partition in `sp1` is replaced with `?`, yielding:
+```
+>sp1
+atc???atc
+>sp2
+atcatcatc
+```
+This preserves the missing data coding instead of treating the absent partition as an internal gap/indel.
+
 If you want to **preserve** the existing `#` columns and apply preprocessing on top of them, use `--keep_partitions True` (or `-pk True`). The pre-existing partitions will be kept and carried through all preprocessing steps, and the selected partitioning method will add new `#` columns as usual.
 
 ```bash
-# Default: remove previous '#' columns before preprocessing
+# Default: remove previous '#' columns (converting zero-length partitions to '?') before preprocessing
 python prepDyn.py -i aln.fasta -o output
 
 # Keep previous '#' columns and proceed with preprocessing
