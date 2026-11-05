@@ -215,6 +215,23 @@ Yes. `partitioning_method` accepts `all`, which runs `conservative`, `balanced`,
 </details>
 
 <details>
+<summary>My input alignment already contains pound signs from a previous prepDyn run. How are they handled?</summary>
+
+By default, **prepDyn** removes all existing `#` partition columns from the input alignment before preprocessing (`--keep_partitions False` or `-pk False`). This ensures a clean slate so that the current partitioning method and round determine the final partition placement.
+
+If you want to **preserve** the existing `#` columns and apply preprocessing on top of them, use `--keep_partitions True` (or `-pk True`). The pre-existing partitions will be kept and carried through all preprocessing steps, and the selected partitioning method will add new `#` columns as usual.
+
+```bash
+# Default: remove previous '#' columns before preprocessing
+python prepDyn.py -i aln.fasta -o output
+
+# Keep previous '#' columns and proceed with preprocessing
+python prepDyn.py -i aln.fasta -o output -pk True
+```
+
+</details>
+
+<details>
 <summary>What are orphan nucleotides and which strategy is better to handle them?</summary>
 
 Orphan nucleotides, defined as short stretches of nucleotides that appear separated from the main sequence block by long runs of gaps. These nucleotides can be artifacts from sequencing errors or alignment errors. As such ,orphan nucleotides should be either trimmed (`orphan_action trim`) or realigned (`orphan_action push`). 

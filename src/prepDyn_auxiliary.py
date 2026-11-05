@@ -2219,6 +2219,24 @@ def remove_adjacent_pound_columns(alignment):
 
     return cleaned_alignment
 
+def remove_all_pound_columns(alignment):
+    """
+    Remove all '#' partition columns from the alignment.
+
+    Args:
+        alignment (dict): DNA alignment {sequence_id: sequence_string}
+
+    Returns:
+        dict: Alignment with all '#' columns removed.
+    """
+    if not alignment:
+        return alignment
+
+    columns = list(zip(*alignment.values()))
+    keep_indices = [i for i, col in enumerate(columns) if not all(c == '#' for c in col)]
+
+    return {seq_id: ''.join(alignment[seq_id][i] for i in keep_indices) for seq_id in alignment}
+
 def normalize_pound_columns(alignment):
     """
     Ensure that any alignment column containing at least one '#' becomes a full
@@ -3510,7 +3528,8 @@ def prepDyn(input_file=None,
             partitioning_method="conservative",
             partitioning_conservative="midpoint",
             partitioning_max_size=None,
-            partitioning_size=None
+            partitioning_size=None,
+            keep_partitions=False
             ):
     """
     Preprocess missing data for dynamic homology in PhyG. First, columns containing
@@ -3586,6 +3605,8 @@ def prepDyn(input_file=None,
                                          If "max" is specified, pound signs are inserted arund all blocks of
                                          missing data.
         partitioning_size (int): Size of equal-length partitions if partitioning_method = 'equal'.
+        keep_partitions (bool): If True, keep existing '#' partition columns in the input alignment.
+                                If False (default), delete any previous '#' columns before preprocessing.
 
     Returns:
         dict: The preprocessed unaligned sequences.
@@ -3632,6 +3653,7 @@ def prepDyn(input_file=None,
         "partitioning_conservative": partitioning_conservative,
         "partitioning_max_size": partitioning_max_size,
         "partitioning_size": partitioning_size,
+        "keep_partitions": keep_partitions,
     }
 
     param_strs = []
@@ -3733,7 +3755,8 @@ def prepDyn(input_file=None,
                         partitioning_method=method_name,
                         partitioning_conservative=partitioning_conservative,
                         partitioning_max_size=partitioning_max_size,
-                        partitioning_size=partitioning_size
+                        partitioning_size=partitioning_size,
+                        keep_partitions=keep_partitions
                     )
         finally:
             if cache_root and os.path.isdir(cache_root):
@@ -3786,7 +3809,8 @@ def prepDyn(input_file=None,
                            partitioning_method,
                            partitioning_conservative,
                            partitioning_max_size,
-                           partitioning_size
+                           partitioning_size,
+                           keep_partitions
                            ):
 
         # Start timers if logging is enabled (only for current processing, not recursive overall)
@@ -3853,6 +3877,7 @@ def prepDyn(input_file=None,
                                 orphan_method=orphan_method, orphan_threshold=orphan_threshold, orphan_action=orphan_action, percentile=percentile, del_inv=del_inv, multi_amplicon_min_overlap=multi_amplicon_min_overlap, multi_amplicon_mismatch_rate=multi_amplicon_mismatch_rate, multi_amplicon_action=multi_amplicon_action,
                                 internal_method=internal_method, internal_column_ranges=internal_column_ranges, internal_leaves=internal_leaves, internal_threshold=internal_threshold,
                                 n2question=n2question, partitioning_method=partitioning_method, partitioning_round=partitioning_round, partitioning_conservative=partitioning_conservative, partitioning_max_size=partitioning_max_size, partitioning_size=partitioning_size,
+                                keep_partitions=keep_partitions,
                                 output_format=output_format, log=log, sequence_names=False,
                                 _all_sequence_ids=_all_sequence_ids, _is_top_level_call=False, _original_cmd_line=_original_cmd_line,
                                 _gb_gene_log_metadata=gb1_logs.get(gene_name, {}),
@@ -3936,6 +3961,7 @@ def prepDyn(input_file=None,
                                 orphan_method=orphan_method, orphan_threshold=orphan_threshold, orphan_action=orphan_action, percentile=percentile, del_inv=del_inv, multi_amplicon_min_overlap=multi_amplicon_min_overlap, multi_amplicon_mismatch_rate=multi_amplicon_mismatch_rate, multi_amplicon_action=multi_amplicon_action,
                                 internal_method=internal_method, internal_column_ranges=internal_column_ranges, internal_leaves=internal_leaves, internal_threshold=internal_threshold,
                                 n2question=n2question, partitioning_method=partitioning_method, partitioning_round=partitioning_round, partitioning_conservative=partitioning_conservative, partitioning_max_size=partitioning_max_size, partitioning_size=partitioning_size,
+                                keep_partitions=keep_partitions,
                                 output_format=output_format, log=log, sequence_names=False,
                                 _all_sequence_ids=_all_sequence_ids, _is_top_level_call=False, _original_cmd_line=_original_cmd_line,
                                 _gb_gene_log_metadata=None,
@@ -4014,6 +4040,10 @@ def prepDyn(input_file=None,
             raise ValueError(f"Invalid input_val type: {type(input_val).__name__}.")
 
         alignment = normalize_pound_columns(alignment)
+
+        # Remove existing '#' partition columns if keep_partitions is False
+        if not keep_partitions:
+            alignment = remove_all_pound_columns(alignment)
 
 
         ### FIX: PART 1 - Capture "before" statistics right after loading ###
@@ -4352,7 +4382,8 @@ def prepDyn(input_file=None,
                                                    partitioning_method=partitioning_method,
                                                    partitioning_conservative=partitioning_conservative,
                                                    partitioning_max_size=partitioning_max_size,
-                                                   partitioning_size=partitioning_size)
+                                                   partitioning_size=partitioning_size,
+                                                   keep_partitions=keep_partitions)
 
     # --- Final sequence_names.txt and overall log writing (Unchanged) ---
     if sequence_names:
