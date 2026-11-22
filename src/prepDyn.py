@@ -238,12 +238,13 @@ Examples:
         if args.output_file:
             parser.error(
                 "When multiple input files are provided, --output_file (-o) must not be specified. "
-                "Output names are derived automatically as '<stem>_preprocessed'."
-            )
+                "Output names are derived automatically as '<stem>_preprocessed'."            )
         for path in input_files:
             stem = os.path.splitext(os.path.basename(path))[0]
             out_dir = os.path.dirname(path) or "."
-            output_prefix = os.path.join(out_dir, f"{stem}_preprocessed")
+            # prepDyn_auxiliary already appends '_preprocessed' to the prefix it receives,
+            # so pass just the bare stem as the output prefix.
+            output_prefix = os.path.join(out_dir, stem)
             prepDyn(input_file=path,
                     CSV_input=args.CSV_input,
                     input_format=args.input_format,
@@ -289,8 +290,9 @@ Examples:
         if input_file and os.path.isfile(input_file):
             stem = os.path.splitext(os.path.basename(input_file))[0]
             out_dir = os.path.dirname(input_file) or "."
-            output_file = os.path.join(out_dir, f"{stem}_preprocessed")
-            print(f"output_file was not provided; using '{output_file}' as the output prefix.")
+            # prepDyn_auxiliary already appends '_preprocessed'; pass the bare stem.
+            output_file = os.path.join(out_dir, stem)
+            print(f"output_file was not provided; using '{output_file}_preprocessed' as the output prefix.")
         else:
             print("output_file was not provided.")
             return
