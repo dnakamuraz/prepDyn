@@ -4,7 +4,7 @@ List of parameters in prepDyn scripts. Parameters can be either specified with l
 
 | **Parameter**                       | **Type**              | **Default**      | **Description** |
 | ----------------------------------- | --------------------- | ---------------- | --------------- |
-| `input_file` or `i`                 | `str`                 | –                | Path to an input alignment file or a directory containing multiple files. Required unless `CSV_input` is provided. |
+| `input_file` or `i`                 | `str` or `list`       | –                | Path to one or more input alignment files, or a directory containing multiple files. Shell globs (e.g. `*.fas`) are accepted. When multiple files are given and `output_file` is omitted, each output is named `<stem>_preprocessed.<ext>` in the same directory as the input. Required unless `CSV_input` is provided. |
 | `CSV_input` or `csv`                | `str`                 | –                | Path to a CSV/TSV dataframe with GenBank accession numbers and/or local sequence-file paths. Required unless `input_file` is provided. Cells may contain GenBank multi-amplicons delimited by `/` or `\|`. Optionally, use `(O)` to force overlapping treatment (e.g., `MF624199(O)MF624174`) or `(N)` for non-overlapping treatment (e.g., `MF624199(N)MF624174`). |
 | `input_format` or `if`              | `str`                 | `"fasta"`        | Input format, such as `fasta`, `clustal`, `phylip`, or any format accepted by Biopython. |
 | `output_file` or `o`                | `str`                 | –                | Path or prefix for output file(s). |

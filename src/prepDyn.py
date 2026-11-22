@@ -169,6 +169,9 @@ Examples:
   # Given a FASTA alignment, identify terminal missing data and delete orphan nucleotides of length < 10.
   python prepDyn.py -i aln.fasta -o output -om integer -ot 10 -oa trim
 
+  # Given multiple FASTA alignments (via shell glob), preprocess each one; output names are auto-derived (stem + _preprocessed)
+  python prepDyn.py -i *.fasta -pm max -pk True
+
   # Given a FASTA alignment with hDNA sequences in sp1 and sp4, replace IUPAC N with ?
   python prepDyn.py -i aln.fasta -o output -n2q sp1,sp4
 
@@ -179,7 +182,7 @@ Examples:
   python prepDyn.py -i aln.fasta -o output -pm all -pr 0-2
 """)
     # Parsing
-    parser.add_argument("-i", "--input_file", help="Path to input alignment file or directory containing multiple files. Ignored if CSV_input is provided.", default=None)
+    parser.add_argument("-i", "--input_file", nargs="+", help="Path to one or more input alignment files (or a directory containing multiple files). Shell globs are supported (e.g. *.fas). Ignored if CSV_input is provided. When multiple files are given and -o is omitted, each output is named after the input file with '_preprocessed' appended to its stem.", default=None)
     parser.add_argument("-gb", "-csv", "--CSV_input", dest="CSV_input", help="Path to a CSV/TSV dataframe containing GenBank accession numbers and/or local sequence-file paths. If provided, sequences will be loaded, aligned with the selected aligner, and then preprocessed. Cells may contain one accession, multiple slash- or pipe-delimited GenBank accessions, one local file path, or multiple pipe-delimited local file paths for the same locus. Ignored if input_file is provided.", default=None)
     parser.add_argument("-if", "--input_format", help="Input file format. Options: 'fasta' (default), 'clustal', 'phylip', or any format accepted by Biopython.", default="fasta")
     parser.add_argument("-o", "--output_file", help="Path (including prefix) for output file(s)", default=None)
@@ -226,17 +229,81 @@ Examples:
     # Error messages
     if not args.input_file and not args.CSV_input:
         parser.error("You must provide either --input_file or --CSV_input.")
-    if not args.output_file:
-        print("output_file was not provided.")
+
+    # Normalise input_file: always work with a list (or None)
+    input_files = args.input_file  # list[str] | None (nargs="+")
+
+    # --- Multi-file mode: multiple paths were given via shell glob or explicit list ---
+    if input_files and len(input_files) > 1:
+        if args.output_file:
+            parser.error(
+                "When multiple input files are provided, --output_file (-o) must not be specified. "
+                "Output names are derived automatically as '<stem>_preprocessed'."
+            )
+        for path in input_files:
+            stem = os.path.splitext(os.path.basename(path))[0]
+            out_dir = os.path.dirname(path) or "."
+            output_prefix = os.path.join(out_dir, f"{stem}_preprocessed")
+            prepDyn(input_file=path,
+                    CSV_input=args.CSV_input,
+                    input_format=args.input_format,
+                    MSA=args.MSA,
+                    aligner=args.aligner,
+                    output_file=output_prefix,
+                    output_format=args.output_format,
+                    log=args.log,
+                    sequence_names=args.sequence_names,
+                    # Trimming parameters
+                    orphan_method=args.orphan_method,
+                    orphan_threshold=args.orphan_threshold,
+                    orphan_limit=args.orphan_limit,
+                    orphan_action=args.orphan_action,
+                    percentile=args.percentile,
+                    del_inv=args.del_inv,
+                    multi_amplicon_min_overlap=args.multi_amplicon_min_overlap,
+                    multi_amplicon_mismatch_rate=args.multi_amplicon_mismatch_rate,
+                    multi_amplicon_action=args.multi_amplicon_action,
+                    # Missing data parameters
+                    n2question=args.n2question,
+                    internal_method=args.internal_method,
+                    internal_column_ranges=args.internal_column_ranges,
+                    internal_leaves=args.internal_leaves,
+                    internal_threshold=args.internal_threshold,
+                    # Partitioning parameters
+                    partitioning_method=args.partitioning_method,
+                    partitioning_round=args.partitioning_round,
+                    partitioning_conservative=args.partitioning_conservative,
+                    partitioning_max_size=args.partitioning_max_size,
+                    partitioning_size=args.partitioning_size,
+                    keep_partitions=args.keep_partitions)
         return
 
+    # --- Single-file (or directory / CSV) mode ---
+    # Unwrap the list produced by nargs="+" so the rest of the code receives a plain string or None
+    input_file = input_files[0] if input_files else None
+
+    if not input_file and not args.CSV_input:
+        parser.error("You must provide either --input_file or --CSV_input.")
+    if not args.output_file:
+        # Auto-derive output prefix when a single file is given without -o
+        if input_file and os.path.isfile(input_file):
+            stem = os.path.splitext(os.path.basename(input_file))[0]
+            out_dir = os.path.dirname(input_file) or "."
+            output_file = os.path.join(out_dir, f"{stem}_preprocessed")
+            print(f"output_file was not provided; using '{output_file}' as the output prefix.")
+        else:
+            print("output_file was not provided.")
+            return
+    else:
+        output_file = args.output_file
+
     # prepDyn
-    prepDyn(input_file=args.input_file,
+    prepDyn(input_file=input_file,
             CSV_input=args.CSV_input,
             input_format=args.input_format,
             MSA=args.MSA,
             aligner=args.aligner,
-            output_file=args.output_file,
+            output_file=output_file,
             output_format=args.output_format,
             log=args.log,
             sequence_names=args.sequence_names,
