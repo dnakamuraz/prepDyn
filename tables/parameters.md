@@ -33,6 +33,7 @@ List of parameters in prepDyn scripts. Parameters can be either specified with l
 | `partitioning_max_size` or `pms`    | `int`                 | `None`           | Initial maximum partition size. If set, the alignment is first split into equal-length partitions of this size, and the selected partitioning method is then applied independently within each partition. |
 | `partitioning_size` or `ps`         | `int`                 | `None`           | Size of equal-length partitions when `partitioning_method='equal'`. |
 | `keep_partitions` or `pk`           | `bool`                | `False`          | If `True`, keep existing `#` partition columns found in the input alignment and proceed with preprocessing. If `False` (default), delete any previous `#` columns before preprocessing, replacing gaps (`-`) in zero-length partitions with `?`. |
+| `overwrite` or `ow`                 | `bool`                | `False`          | If `True`, overwrite the input file(s) with the preprocessed result (the output file will have the same name and path as the input file). Cannot be combined with `output_file`. |
 
 ## `GB2MSA.py`
 

@@ -217,6 +217,7 @@ Examples:
     parser.add_argument("-pms", "--partitioning_max_size", type=int, default=None, help="Initial maximum partition size. If specified, the alignment is first split into equal-length partitions of this size, and the selected partitioning method is then applied independently within each partition.")
     parser.add_argument("-ps", "--partitioning_size", type=int, default=None, help="Size of equal-length partitions if partitioning_method = 'equal'.")
     parser.add_argument("-pk", "--keep_partitions", default=False, type=str2bool, help="If True, keep existing '#' partition columns in the input alignment and proceed with preprocessing. If False (default), delete any previous '#' columns before preprocessing, converting zero-length partitions (containing only gaps) to '?'.")
+    parser.add_argument("-ow", "--overwrite", default=False, type=str2bool, help="If True, overwrite the input file(s) with the preprocessed output (the output file will have the same name as the input file). Cannot be combined with --output_file (-o). Default is False.")
 
     # Default
     parser.set_defaults(log=True)
@@ -224,6 +225,7 @@ Examples:
     parser.set_defaults(msa=False)
     parser.set_defaults(sequence_names=True)
     parser.set_defaults(keep_partitions=False)
+    parser.set_defaults(overwrite=False)
 
     args = parser.parse_args()
     # Error messages
