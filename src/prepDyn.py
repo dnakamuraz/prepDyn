@@ -231,9 +231,52 @@ Examples:
     # Error messages
     if not args.input_file and not args.CSV_input:
         parser.error("You must provide either --input_file or --CSV_input.")
+    if args.overwrite and args.output_file:
+        parser.error("--overwrite (-ow) and --output_file (-o) cannot be used together.")
+    if args.overwrite and not args.input_file:
+        parser.error("--overwrite (-ow) requires --input_file (-i).")
 
     # Normalise input_file: always work with a list (or None)
     input_files = args.input_file  # list[str] | None (nargs="+")
+
+    def run_prepdyn_for_path(path, out_prefix):
+        prepDyn(input_file=path,
+                CSV_input=args.CSV_input,
+                input_format=args.input_format,
+                MSA=args.MSA,
+                aligner=args.aligner,
+                output_file=out_prefix,
+                output_format=args.output_format,
+                log=args.log,
+                sequence_names=args.sequence_names,
+                # Trimming parameters
+                orphan_method=args.orphan_method,
+                orphan_threshold=args.orphan_threshold,
+                orphan_limit=args.orphan_limit,
+                orphan_action=args.orphan_action,
+                percentile=args.percentile,
+                del_inv=args.del_inv,
+                multi_amplicon_min_overlap=args.multi_amplicon_min_overlap,
+                multi_amplicon_mismatch_rate=args.multi_amplicon_mismatch_rate,
+                multi_amplicon_action=args.multi_amplicon_action,
+                # Missing data parameters
+                n2question=args.n2question,
+                internal_method=args.internal_method,
+                internal_column_ranges=args.internal_column_ranges,
+                internal_leaves=args.internal_leaves,
+                internal_threshold=args.internal_threshold,
+                # Partitioning parameters
+                partitioning_method=args.partitioning_method,
+                partitioning_round=args.partitioning_round,
+                partitioning_conservative=args.partitioning_conservative,
+                partitioning_max_size=args.partitioning_max_size,
+                partitioning_size=args.partitioning_size,
+                keep_partitions=args.keep_partitions)
+        if args.overwrite:
+            produced = f"{out_prefix}_preprocessed.{args.output_format}"
+            if os.path.exists(produced):
+                os.replace(produced, path)
+                print(f"Overwritten: {path}")
 
     # --- Multi-file mode: multiple paths were given via shell glob or explicit list ---
     if input_files and len(input_files) > 1:
@@ -247,38 +290,7 @@ Examples:
             # prepDyn_auxiliary already appends '_preprocessed' to the prefix it receives,
             # so pass just the bare stem as the output prefix.
             output_prefix = os.path.join(out_dir, stem)
-            prepDyn(input_file=path,
-                    CSV_input=args.CSV_input,
-                    input_format=args.input_format,
-                    MSA=args.MSA,
-                    aligner=args.aligner,
-                    output_file=output_prefix,
-                    output_format=args.output_format,
-                    log=args.log,
-                    sequence_names=args.sequence_names,
-                    # Trimming parameters
-                    orphan_method=args.orphan_method,
-                    orphan_threshold=args.orphan_threshold,
-                    orphan_limit=args.orphan_limit,
-                    orphan_action=args.orphan_action,
-                    percentile=args.percentile,
-                    del_inv=args.del_inv,
-                    multi_amplicon_min_overlap=args.multi_amplicon_min_overlap,
-                    multi_amplicon_mismatch_rate=args.multi_amplicon_mismatch_rate,
-                    multi_amplicon_action=args.multi_amplicon_action,
-                    # Missing data parameters
-                    n2question=args.n2question,
-                    internal_method=args.internal_method,
-                    internal_column_ranges=args.internal_column_ranges,
-                    internal_leaves=args.internal_leaves,
-                    internal_threshold=args.internal_threshold,
-                    # Partitioning parameters
-                    partitioning_method=args.partitioning_method,
-                    partitioning_round=args.partitioning_round,
-                    partitioning_conservative=args.partitioning_conservative,
-                    partitioning_max_size=args.partitioning_max_size,
-                    partitioning_size=args.partitioning_size,
-                    keep_partitions=args.keep_partitions)
+            run_prepdyn_for_path(path, output_prefix)
         return
 
     # --- Single-file (or directory / CSV) mode ---
@@ -287,6 +299,16 @@ Examples:
 
     if not input_file and not args.CSV_input:
         parser.error("You must provide either --input_file or --CSV_input.")
+
+    if args.overwrite:
+        if not input_file or not os.path.isfile(input_file):
+            parser.error("--overwrite requires a valid input file path via --input_file (-i).")
+        stem = os.path.splitext(os.path.basename(input_file))[0]
+        out_dir = os.path.dirname(input_file) or "."
+        output_prefix = os.path.join(out_dir, stem)
+        run_prepdyn_for_path(input_file, output_prefix)
+        return
+
     if not args.output_file:
         # Auto-derive output prefix when a single file is given without -o
         if input_file and os.path.isfile(input_file):
@@ -302,38 +324,7 @@ Examples:
         output_file = args.output_file
 
     # prepDyn
-    prepDyn(input_file=input_file,
-            CSV_input=args.CSV_input,
-            input_format=args.input_format,
-            MSA=args.MSA,
-            aligner=args.aligner,
-            output_file=output_file,
-            output_format=args.output_format,
-            log=args.log,
-            sequence_names=args.sequence_names,
-            # Trimming parameters
-            orphan_method=args.orphan_method,
-            orphan_threshold=args.orphan_threshold,
-            orphan_limit=args.orphan_limit,
-            orphan_action=args.orphan_action,
-            percentile=args.percentile,
-            del_inv=args.del_inv,
-            multi_amplicon_min_overlap=args.multi_amplicon_min_overlap,
-            multi_amplicon_mismatch_rate=args.multi_amplicon_mismatch_rate,
-            multi_amplicon_action=args.multi_amplicon_action,
-            # Missing data parameters
-            n2question=args.n2question,
-            internal_method=args.internal_method,
-            internal_column_ranges=args.internal_column_ranges,
-            internal_leaves=args.internal_leaves,
-            internal_threshold=args.internal_threshold,
-            # Partitioning parameters
-            partitioning_method=args.partitioning_method,
-            partitioning_round=args.partitioning_round,
-            partitioning_conservative=args.partitioning_conservative,
-            partitioning_max_size=args.partitioning_max_size,
-            partitioning_size=args.partitioning_size,
-            keep_partitions=args.keep_partitions)
+    run_prepdyn_for_path(input_file, output_file)
 
 if __name__ == "__main__":
     main()
